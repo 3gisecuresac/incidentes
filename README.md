@@ -1,16 +1,10 @@
-# Incidentes de Seguridad – Perú & Mundo (GitHub Pages, v2)
-- Un **archivo JSON por incidente** en `data/incidents/`.
-- La app carga `data/manifest.json` para saber qué archivos leer.
+# Incidentes – v3 con paginación
+- Paginación con selector de tamaño de página (5/10/20/50) y botones Anterior/Siguiente + numeración.
+- Un archivo por incidente en `data/incidents/`, listado por `data/manifest.json`.
 
-## Agregar un incidente nuevo
-1. Crea `data/incidents/004.json` con los campos requeridos.
-2. Edita `data/manifest.json` y agrega `"incidents/004.json"` al arreglo `files`.
-3. Sube los cambios.
+## Uso
+1. Para agregar un incidente, crea `data/incidents/NNN.json` y añádelo a `data/manifest.json`.
+2. Sube todo a la raíz del repo que usa GitHub Pages.
 
-## Campos del JSON por incidente
-{id, title, date, country, region, type, actor, impact, source, summary, color (opcional), logo (opcional URL)}
-
-## Personaliza
-- Color de marca: `styles.css` → variable `--brand`.
-- Logo del header: `assets/logo.svg`.
-- El header enlaza a https://3gisecure.com.pe
+## Campos por incidente
+{id, title, date, country, region, type, actor, impact, source, summary, color?, logo?}

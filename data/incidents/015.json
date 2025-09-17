@@ -1,0 +1,14 @@
+{
+  "id": 15,
+  "title": "Incidente de ejemplo #15",
+  "date": "2024-04-16",
+  "country": "España",
+  "region": "N. América",
+  "type": "Ransomware",
+  "actor": "APT28",
+  "impact": "Resumen del impacto",
+  "source": "https://example.com/fuente",
+  "summary": "Descripción breve del incidente.",
+  "color": "#ef4444",
+  "logo": ""
+}

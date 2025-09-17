@@ -1,14 +1,14 @@
 {
-  "id": 4,
-  "title": "Incidente de ejemplo #4",
-  "date": "2024-05-05",
-  "country": "EE.UU.",
-  "region": "LatAm",
+  "id": 8,
+  "title": "Incidente de ejemplo #8",
+  "date": "2024-09-09",
+  "country": "Reino Unido",
+  "region": "Perú",
   "type": "Data Breach",
-  "actor": "Desconocido",
+  "actor": "APT28",
   "impact": "Resumen del impacto",
   "source": "https://example.com/fuente",
   "summary": "Descripción breve del incidente.",
-  "color": "#10b981",
+  "color": "#ef4444",
   "logo": ""
 }

@@ -1,14 +1,14 @@
 {
-  "id": 1,
-  "title": "Incidente de ejemplo #1",
-  "date": "2024-02-02",
-  "country": "Perú",
+  "id": 12,
+  "title": "Incidente de ejemplo #12",
+  "date": "2024-01-13",
+  "country": "España",
   "region": "Perú",
-  "type": "DDoS",
-  "actor": "APT28",
+  "type": "Phishing",
+  "actor": "Conti",
   "impact": "Resumen del impacto",
   "source": "https://example.com/fuente",
   "summary": "Descripción breve del incidente.",
-  "color": "#a78bfa",
+  "color": "#0ea5e9",
   "logo": ""
 }

@@ -1,4 +1,4 @@
-const state={region:'Todos',view:'table',q:'',data:[]};
+const state={region:'Todos',view:'table',q:'',data:[],page:1,pageSize:10};
 
 async function loadData(){
   try{
@@ -29,9 +29,11 @@ function normalize(items){
     impact:i.impact||'',source:i.source||'#',summary:i.summary||'',color:i.color||null,logo:i.logo||null
   })).sort((a,b)=>a.date<b.date?1:-1);
 }
-function setRegion(r){ state.region=r; document.querySelectorAll('.seg-btn').forEach(b=>b.classList.toggle('active',b.textContent===r)); render(); }
+function setRegion(r){ state.region=r; state.page=1; document.querySelectorAll('.seg-btn').forEach(b=>b.classList.toggle('active',b.textContent===r)); render(); }
 function setView(view){ state.view=view; document.getElementById('btnTable').classList.toggle('active',view==='table'); document.getElementById('btnCards').classList.toggle('active',view==='cards'); render(); }
-function setQuery(q){ state.q=q; render(); }
+function setQuery(q){ state.q=q; state.page=1; render(); }
+function setPage(p){ state.page=p; render(); }
+function setPageSize(sz){ state.pageSize=Number(sz)||10; state.page=1; render(); }
 function formatDate(iso){ try{ const d=new Date(iso+'T00:00:00'); return d.toLocaleDateString('es-PE',{year:'numeric',month:'short',day:'2-digit'});}catch{ return iso; } }
 function filtered(){
   return state.data
@@ -42,13 +44,21 @@ function computeStats(items){ const total=items.length, byType={}, byRegion={}; 
 function applyBadgeColor(el,color){ if(!color) return; el.style.background=color+'1A'; el.style.borderColor=color; el.style.color='#0f172a'; }
 
 function render(){
-  const items=filtered(), stats=computeStats(items);
+  const all=filtered();
+  const stats=computeStats(all);
+  const totalPages=Math.max(1, Math.ceil(all.length / state.pageSize));
+  if(state.page>totalPages) state.page=totalPages;
+  const start=(state.page-1)*state.pageSize;
+  const items=all.slice(start, start+state.pageSize);
+
+  // Stats
   document.getElementById('statTotal').textContent=stats.total;
   const byType=document.getElementById('statByType'); byType.innerHTML=''; Object.entries(stats.byType).forEach(([k,v])=>{ const span=document.createElement('span'); span.className='chip'; span.textContent=`${k}: ${v}`; byType.appendChild(span); });
   if(Object.keys(stats.byType).length===0){ const s=document.createElement('span'); s.className='chip'; s.textContent='Sin datos'; byType.appendChild(s); }
   const byRegion=document.getElementById('statByRegion'); byRegion.innerHTML=''; Object.entries(stats.byRegion).forEach(([k,v])=>{ const span=document.createElement('span'); span.className='chip'; span.textContent=`${k}: ${v}`; byRegion.appendChild(span); });
   if(Object.keys(stats.byRegion).length===0){ const s=document.createElement('span'); s.className='chip'; s.textContent='Sin datos'; byRegion.appendChild(s); }
 
+  // Content
   const container=document.getElementById('listContainer'); container.innerHTML='';
   if(state.view==='table'){
     const wrap=document.createElement('div'); wrap.className='table-wrap';
@@ -93,13 +103,43 @@ function render(){
     container.appendChild(grid);
     container.querySelectorAll('.badge[data-color]').forEach(el=>applyBadgeColor(el,el.getAttribute('data-color')));
   }
+
+  // Pager
+  const pager = document.getElementById('pagerContainer');
+  pager.innerHTML='';
+  const wrap=document.createElement('div'); wrap.className='pager';
+  // left: page size
+  const left=document.createElement('div'); left.className='pager-left';
+  const label=document.createElement('label'); label.textContent='Por página:';
+  const select=document.createElement('select'); select.className='page-size';
+  [5,10,20,50].forEach(n=>{ const opt=document.createElement('option'); opt.value=n; opt.textContent=n; if(n===state.pageSize) opt.selected=true; select.appendChild(opt); });
+  select.addEventListener('change', e=> setPageSize(e.target.value));
+  left.appendChild(label); left.appendChild(select);
+  // right: controls
+  const right=document.createElement('div'); right.className='pager-right';
+  const prev=document.createElement('button'); prev.className='page-btn'; prev.textContent='‹ Anterior'; prev.disabled=state.page<=1; prev.addEventListener('click',()=> setPage(state.page-1));
+  right.appendChild(prev);
+  const windowSize=5;
+  let startPage=Math.max(1, state.page - Math.floor(windowSize/2));
+  let endPage=Math.min(totalPages, startPage + windowSize - 1);
+  if(endPage - startPage + 1 < windowSize){ startPage=Math.max(1, endPage - windowSize + 1); }
+  for(let p=startPage; p<=endPage; p++){
+    const b=document.createElement('button'); b.className='page-btn'+(p===state.page?' active':''); b.textContent=p; b.addEventListener('click',()=> setPage(p)); right.appendChild(b);
+  }
+  const next=document.createElement('button'); next.className='page-btn'; next.textContent='Siguiente ›'; next.disabled=state.page>=totalPages; next.addEventListener('click',()=> setPage(state.page+1));
+  right.appendChild(next);
+
+  wrap.appendChild(left); wrap.appendChild(right);
+  pager.appendChild(wrap);
 }
+
 function buildRegionButtons(){
   const parent=document.getElementById('regionButtons'); parent.innerHTML='';
   const regions=Array.from(new Set(state.data.map(i=>i.region))).sort();
   const all=['Todos',...regions];
   all.forEach(r=>{ const btn=document.createElement('button'); btn.className='seg-btn'+(r===state.region?' active':''); btn.textContent=r; btn.addEventListener('click',()=>setRegion(r)); parent.appendChild(btn); });
 }
+
 document.addEventListener('DOMContentLoaded',()=>{
   document.getElementById('btnTable').addEventListener('click',()=>setView('table'));
   document.getElementById('btnCards').addEventListener('click',()=>setView('cards'));

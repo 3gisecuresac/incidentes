@@ -1,14 +1,14 @@
 {
-  "id": 2,
-  "title": "Incidente de ejemplo #2",
-  "date": "2024-03-03",
+  "id": 9,
+  "title": "Incidente de ejemplo #9",
+  "date": "2024-10-10",
   "country": "Perú",
-  "region": "LatAm",
-  "type": "Malware",
-  "actor": "Lapsus$",
+  "region": "Asia",
+  "type": "Data Breach",
+  "actor": "Conti",
   "impact": "Resumen del impacto",
   "source": "https://example.com/fuente",
   "summary": "Descripción breve del incidente.",
-  "color": "#ef4444",
+  "color": "#0ea5e9",
   "logo": ""
 }

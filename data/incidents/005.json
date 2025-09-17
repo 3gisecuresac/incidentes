@@ -1,14 +1,14 @@
 {
-  "id": 2,
-  "title": "Incidente de ejemplo #2",
-  "date": "2024-03-03",
-  "country": "Perú",
+  "id": 5,
+  "title": "Incidente de ejemplo #5",
+  "date": "2024-06-06",
+  "country": "España",
   "region": "LatAm",
-  "type": "Malware",
+  "type": "DDoS",
   "actor": "Lapsus$",
   "impact": "Resumen del impacto",
   "source": "https://example.com/fuente",
   "summary": "Descripción breve del incidente.",
-  "color": "#ef4444",
+  "color": "#a78bfa",
   "logo": ""
 }

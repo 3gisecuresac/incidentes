@@ -1,14 +1,14 @@
 {
-  "id": 3,
-  "title": "Incidente de ejemplo #3",
-  "date": "2024-04-04",
-  "country": "Alemania",
-  "region": "África",
-  "type": "Ransomware",
+  "id": 13,
+  "title": "Incidente de ejemplo #13",
+  "date": "2024-02-14",
+  "country": "Reino Unido",
+  "region": "Perú",
+  "type": "Phishing",
   "actor": "ShinyHunters",
   "impact": "Resumen del impacto",
   "source": "https://example.com/fuente",
   "summary": "Descripción breve del incidente.",
-  "color": "#0ea5e9",
+  "color": "#ef4444",
   "logo": ""
 }
