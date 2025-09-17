@@ -1,0 +1,14 @@
+{
+  "id": 4,
+  "title": "Nuevo incidente",
+  "date": "2025-02-01",
+  "country": "Perú",
+  "region": "Perú",
+  "type": "Phishing",
+  "actor": "Actor X",
+  "impact": "Cuentas comprometidas",
+  "source": "https://enlace-verificable",
+  "summary": "Breve resumen del caso",
+  "color": "#10b981",
+  "logo": "https://ruta/opcional/logo.png"
+}
