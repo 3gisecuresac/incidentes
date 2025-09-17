@@ -5,18 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Incidentes de Seguridad – Perú & Mundo</title>
   <meta name="description" content="Listado público y filtrable de incidentes de seguridad en el Perú y en el mundo." />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
   <header class="site-header">
     <div class="container header-inner">
-      <div class="brand">
-        <div class="logo">IS</div>
+      <a href="https://3gisecure.com.pe" target="_blank" rel="noreferrer" class="brand" title="Ir a 3Gi Secure">
+        <img src="./assets/logo.svg" alt="3Gi Secure" class="logo" />
         <h1>Incidentes de Seguridad – Perú &amp; Mundo</h1>
-      </div>
+      </a>
       <nav class="view-switch">
         <button id="btnTable" class="btn btn-ghost active">Vista Tabla</button>
         <button id="btnCards" class="btn btn-ghost">Vista Tarjetas</button>
@@ -25,46 +22,38 @@
   </header>
 
   <main class="container">
-    <!-- Filtros -->
     <section class="filters">
-      <div class="segmented">
-        <button data-tab="all" class="seg-btn active">Todos</button>
-        <button data-tab="peru" class="seg-btn">Perú</button>
-        <button data-tab="global" class="seg-btn">Mundo</button>
-      </div>
+      <div class="segmented" id="regionButtons"></div>
       <div class="search">
-        <input id="searchInput" type="search" placeholder="Buscar por título, tipo, país..." aria-label="Buscar" />
+        <input id="searchInput" type="search" placeholder="Buscar por título, tipo, país, actor..." aria-label="Buscar" />
       </div>
     </section>
 
-    <!-- Stats -->
     <section class="stats">
       <div class="card stat">
         <div class="stat-label">Total incidentes</div>
         <div id="statTotal" class="stat-value">0</div>
       </div>
-      <div class="card stat stat-wide">
+      <div class="card stat">
         <div class="stat-label">Por tipo</div>
         <div id="statByType" class="chips"></div>
       </div>
+      <div class="card stat">
+        <div class="stat-label">Por región</div>
+        <div id="statByRegion" class="chips"></div>
+      </div>
     </section>
 
-    <!-- Contenido -->
-    <section id="listContainer" class="list-container">
-      <!-- Rellenado por app.js -->
-    </section>
+    <section id="listContainer" class="list-container"></section>
 
     <section class="note">
-      <p>
-        * Reemplaza el archivo <code>data/incidents.json</code> con tus fuentes (CSIRT Perú, CSIS, CISS, prensa técnica, etc.).
-        Incluye enlaces verificables en cada registro.
-      </p>
+      <p>* Añade nuevos incidentes creando archivos JSON individuales en <code>data/incidents/</code> y agregándolos a <code>data/manifest.json</code>.</p>
     </section>
   </main>
 
   <footer class="site-footer">
     <div class="container">
-      <p>Hecho con ❤️ para la comunidad. Código listo para GitHub Pages.</p>
+      <p>Hecho con ❤️ por <a href="https://3gisecure.com.pe" target="_blank" rel="noreferrer">3Gi Secure</a>. Código listo para GitHub Pages.</p>
     </div>
   </footer>
 

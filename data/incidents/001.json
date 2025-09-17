@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "title": "Ransomware a entidad de salud",
+  "date": "2024-05-18",
+  "country": "Perú",
+  "region": "Perú",
+  "type": "Ransomware",
+  "actor": "Conti/Wizard Spider (sospecha)",
+  "impact": "Interrupción de servicios, datos cifrados",
+  "source": "https://ejemplo.gob.pe/csirt/alerta",
+  "summary": "Ataque con cifrado de servidores. Restauración desde respaldos y endurecimiento de MFA.",
+  "color": "#ef4444",
+  "logo": ""
+}
