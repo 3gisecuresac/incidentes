@@ -6,6 +6,17 @@
   <title>Incidentes de Ciberseguridad – Perú & Mundo</title>
   <meta name="description" content="Listado público y filtrable de incidentes de seguridad en el Perú y en el mundo." />
   <link rel="stylesheet" href="./styles.css" />
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RPD0FZG0C5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RPD0FZG0C5');
+</script>
+
 </head>
 <body>
   <header class="site-header">
@@ -58,5 +69,23 @@
   </footer>
 
   <script src="./app.js"></script>
+
+
+  <div id="cookie-banner" style="position: fixed; bottom: 0; left: 0; right: 0; background: #111827; color: white; padding: 15px; text-align: center; font-size: 14px; z-index: 1000;">
+  Este sitio utiliza cookies para mejorar la experiencia y analizar el tráfico. 
+  <a href="privacidad.html" style="color: #38bdf8; text-decoration: underline;">Política de Privacidad</a>.
+  <button onclick="acceptCookies()" style="margin-left: 10px; padding: 6px 12px; background: #38bdf8; color: #111; border: none; border-radius: 6px; cursor: pointer;">Aceptar</button>
+</div>
+
+<script>
+  function acceptCookies() {
+    document.getElementById('cookie-banner').style.display = 'none';
+    localStorage.setItem('cookiesAccepted', 'true');
+  }
+  if (localStorage.getItem('cookiesAccepted')) {
+    document.getElementById('cookie-banner').style.display = 'none';
+  }
+</script>
+
 </body>
 </html>
