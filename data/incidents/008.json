@@ -1,14 +1,14 @@
 {
   "id": 8,
-  "title": "Incidente de ejemplo #8",
-  "date": "2024-09-09",
-  "country": "Reino Unido",
+  "title": "Municipalidad de Miraflores – Leak Perú 2025",
+  "date": "2025-08-19",
+  "country": "Perú",
   "region": "Perú",
-  "type": "Data Breach",
-  "actor": "APT28",
-  "impact": "Resumen del impacto",
-  "source": "https://example.com/fuente",
-  "summary": "Descripción breve del incidente.",
-  "color": "#ef4444",
-  "logo": ""
+  "type": "Leak",
+  "actor": "SadClow",
+  "impact": "Filtración de más de 103,000 registros con información ciudadana y empresarial.",
+  "source": "https://www.linkedin.com/posts/3g-isecure_munimiraflores-ciberseguridad-protecciaejndedatos-activity-7363603679402160128-wJsp/",
+  "summary": "Se publico  foro clandestino de más de 103,000 registros pertenecientes a la Municipalidad de Miraflores, el leak incluye documentos, correos electrónicos, números de teléfono, datos empresariales y registros completos de usuarios.",
+  "color": "#a78bfa",
+  "logo": null
 }

@@ -1,14 +1,14 @@
 {
   "id": 9,
-  "title": "Incidente de ejemplo #9",
-  "date": "2024-10-10",
-  "country": "Perú",
-  "region": "Asia",
-  "type": "Data Breach",
-  "actor": "Conti",
-  "impact": "Resumen del impacto",
-  "source": "https://example.com/fuente",
-  "summary": "Descripción breve del incidente.",
-  "color": "#0ea5e9",
-  "logo": ""
+  "title": "Justicia Penal Militar y Policial – Ransomware Colombia 2025",
+  "date": "2025-08-21",
+  "country": "Colombia",
+  "region": "Colombia",
+  "type": "Leak",
+  "actor": "Gunra Ransomware",
+  "impact": "Exfiltración de más de 45TB de información crítica del sistema judicial militar y policial colombiano.",
+  "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-ransomware-databreach-activity-7364350133846581249-4nMd/",
+  "summary": "El grupo Gunra Ransomware perpetró un ataque contra la Justicia Penal Militar y Policial de Colombia, logrando exfiltrar más de 45TB de información altamente sensible. Entre los datos comprometidos se encuentran documentos internos, audiencias, contratos y correos institucionales.",
+  "color": "#a78bfa",
+  "logo": null
 }

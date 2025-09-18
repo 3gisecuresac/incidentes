@@ -1,14 +1,14 @@
 {
   "id": 12,
-  "title": "Incidente de ejemplo #12",
-  "date": "2024-01-13",
-  "country": "España",
+  "title": "Agencia Peruana de Noticias (Andina) – Defacement Perú 2025",
+  "date": "2025-09-03",
+  "country": "Perú",
   "region": "Perú",
-  "type": "Phishing",
-  "actor": "Conti",
-  "impact": "Resumen del impacto",
-  "source": "https://example.com/fuente",
-  "summary": "Descripción breve del incidente.",
-  "color": "#0ea5e9",
-  "logo": ""
+  "type": "Defacement",
+  "actor": "DefacePeru",
+  "impact": "Alteración de la portada del subdominio portal.andina.pe con mensajes e imágenes burlonas.",
+  "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-peraeq-defacement-activity-7368278866164862977-NytF/",
+  "summary": "Se reportó un ataque de defacement contra el subdominio portal.andina.pe, perteneciente a la Agencia Peruana de Noticias (Andina). Aunque el dominio principal (andina.pe) se mantiene operativo, el subdominio comprometido fue modificado con mensajes e imágenes burlescas por el grupo DefacePeru.",
+  "color": "#a78bfa",
+  "logo": null
 }

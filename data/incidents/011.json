@@ -1,14 +1,14 @@
 {
   "id": 11,
-  "title": "Incidente de ejemplo #11",
-  "date": "2024-12-12",
-  "country": "Reino Unido",
-  "region": "Asia",
-  "type": "Malware",
-  "actor": "Desconocido",
-  "impact": "Resumen del impacto",
-  "source": "https://example.com/fuente",
-  "summary": "Descripción breve del incidente.",
-  "color": "#ef4444",
-  "logo": ""
+  "title": "Ministerio de Salud Pública – Leak Ecuador 2025",
+  "date": "2025-08-26",
+  "country": "Colombia",
+  "region": "Colombia",
+  "type": "Leak",
+  "actor": "Gatito_FBI_Nz",
+  "impact": "Supuesta filtración de 18,5 millones de registros con información personal, médica y fotografías.",
+  "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-databreach-ecuador-activity-7366487731243335680-0apG/",
+  "summary": "En foro clandestino se anuncio filtración de una base de datos del Ministerio de Salud Pública de Ecuador. El actor asegura poseer hasta 18,5 millones de registros, aunque solo presentó una muestra como prueba. La información comprometida incluiría identificación personal, datos médicos y civiles, además de fotografías asociadas.",
+  "color": "#a78bfa",
+  "logo": null
 }

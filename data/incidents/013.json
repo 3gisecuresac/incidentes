@@ -1,14 +1,14 @@
 {
   "id": 13,
-  "title": "Incidente de ejemplo #13",
-  "date": "2024-02-14",
-  "country": "Reino Unido",
-  "region": "Perú",
-  "type": "Phishing",
-  "actor": "ShinyHunters",
-  "impact": "Resumen del impacto",
-  "source": "https://example.com/fuente",
-  "summary": "Descripción breve del incidente.",
-  "color": "#ef4444",
-  "logo": ""
+  "title": "Burger King – Posible Leak Brasil 2024–2025",
+  "date": "2025-09-03",
+  "country": "Brasil",
+  "region": "Brasil",
+  "type": "Alerta",
+  "actor": "Lapsus$",
+  "impact": "Supuesta filtración de màs  5TB realizada por el grupo cibercriminal Lapsus$ que vende supuesta información corporativa, financiera y de clientes.",
+  "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-databreach-brasil-activity-7369090906249007105-nnYs/",
+  "summary": "En un grupo ruso de Telegram se difundió un archivo de 5TB atribuido a Burger King Brasil. Según la publicación, el material contendría cuentas corporativas, métodos de pago, registros de pedidos, montos, comisiones y correos electrónicos de usuarios.",
+  "color": "#a78bfa",
+  "logo": null
 }

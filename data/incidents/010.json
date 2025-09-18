@@ -1,14 +1,14 @@
 {
   "id": 10,
-  "title": "Incidente de ejemplo #10",
-  "date": "2024-11-11",
-  "country": "España",
-  "region": "Perú",
-  "type": "Malware",
-  "actor": "Lapsus$",
-  "impact": "Resumen del impacto",
-  "source": "https://example.com/fuente",
-  "summary": "Descripción breve del incidente.",
-  "color": "#f59e0b",
-  "logo": ""
+  "title": "Apple – Vulnerabilidad CVE-2025-43300",
+  "date": "2025-08-25",
+  "country": "Global",
+  "region": "Global",
+  "type": "Vulnerabilidad",
+  "actor": "Apple",
+  "impact": "Compromiso de dispositivos iPhone, iPad y Mac al procesar imágenes maliciosas.",
+  "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-3gisecure-iphone-activity-7365829794401312768-qROl",
+  "summary": "Apple lanzó actualizaciones críticas para iOS, iPadOS y macOS con el objetivo de mitigar la vulnerabilidad CVE-2025-43300, actualmente explotada en ataques dirigidos. La falla permite a un atacante comprometer el dispositivo con solo procesar una imagen maliciosa, afectando a usuarios de iPhone, iPad y Mac.",
+  "color": "#a78bfa",
+  "logo": null
 }

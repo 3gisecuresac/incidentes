@@ -1,14 +1,14 @@
 {
   "id": 4,
-  "title": "Incidente de ejemplo #4",
-  "date": "2024-05-05",
-  "country": "EE.UU.",
-  "region": "LatAm",
-  "type": "Data Breach",
-  "actor": "Desconocido",
-  "impact": "Resumen del impacto",
-  "source": "https://example.com/fuente",
-  "summary": "Descripción breve del incidente.",
-  "color": "#10b981",
-  "logo": ""
+  "title": "UNAC – Perú Alerta credenciales administrativas del sistema en venta",
+  "date": "2025-08-11",
+  "country": "Perú",
+  "region": "Perú",
+  "type": "Alerta",
+  "actor": "NarodArmiya",
+  "impact": "Credenciales administrativas de UNAC ofrecidas a la venta en foro clandestino.",
+  "source": "https://www.linkedin.com/posts/3g-isecure_unac-peraeq-databreach-activity-7360713193528205312-ef_g/",
+  "summary": "La Universidad Nacional del Callao (UNAC) sufrió una fuga de credenciales administrativas de su sistema universitario. Lo que expone a riesgos de intrusión, manipulación de información académica y compromiso de datos de estudiantes y personal.",
+  "color": "#a78bfa",
+  "logo": null
 }

@@ -1,14 +1,14 @@
-{
-  "id": 20,
-  "title": "Incidente de ejemplo #20",
-  "date": "2024-09-21",
-  "country": "México",
-  "region": "Asia",
-  "type": "Data Breach",
-  "actor": "APT28",
-  "impact": "Resumen del impacto",
-  "source": "https://example.com/fuente",
-  "summary": "Descripción breve del incidente.",
-  "color": "#10b981",
-  "logo": ""
-}
+  {
+    "id": 20,
+    "title": "DataLeak – Hospital Nacional Cayetano Heredia – 2025",
+    "date": "2025-09-15",
+    "country": "Perú",
+    "region": "Perú",
+    "type": "Leak",
+    "actor": null,
+    "impact": null,
+    "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-peru-databreach-activity-7373507557396553728-Vdnj",
+    "summary": null,
+    "color": "#a78bfa",
+    "logo": null
+  }

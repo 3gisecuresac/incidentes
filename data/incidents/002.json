@@ -1,14 +1,14 @@
 {
-  "id": 2,
-  "title": "Incidente de ejemplo #2",
-  "date": "2024-03-03",
-  "country": "Perú",
-  "region": "LatAm",
-  "type": "Malware",
-  "actor": "Lapsus$",
-  "impact": "Resumen del impacto",
-  "source": "https://example.com/fuente",
-  "summary": "Descripción breve del incidente.",
-  "color": "#ef4444",
-  "logo": ""
-}
+    "id": 2,
+    "title": "SCC - Perú Leak clients - 2025",
+    "date": "2025-08-07",
+    "country": "Perú",
+    "region": "Perú",
+    "type": "Leak",
+    "actor": "ABZeroCool",
+    "impact": "Fuga superior a 20 mil registros de documentos de clientes,con exposición de datos sensibles.",
+    "source": "https://www.linkedin.com/posts/3g-isecure_dataleak-peraeq-databreach-activity-7359293188513140737-hkxN/",
+    "summary": "Servicios Call Center (SCC)  sufre un Data Leak, exponiendo los siguientes datos:  nombre completo, DNI, correos, teléfonos, direcciones, nombres de padres, geolocalización, historial de ventas, operadores móviles",
+    "color": "#a78bfa",
+    "logo": null
+  }

@@ -1,14 +1,14 @@
 {
   "id": 7,
-  "title": "Incidente de ejemplo #7",
-  "date": "2024-08-08",
+  "title": "ICPNA – Leak Perú 2025",
+  "date": "2025-08-18",
   "country": "Perú",
   "region": "Perú",
-  "type": "Data Breach",
-  "actor": "Lapsus$",
-  "impact": "Resumen del impacto",
-  "source": "https://example.com/fuente",
-  "summary": "Descripción breve del incidente.",
-  "color": "#0ea5e9",
-  "logo": ""
+  "type": "Leak",
+  "actor": "SadClow",
+  "impact": "Filtración de base de datos con más de 100,000 registros de estudiantes del ICPNA.",
+  "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-databreach-protecciaejndedatos-activity-7363234872330444800-QadA/",
+  "summary": "Base de datos perteneciente al ICPNA (Instituto Cultural Peruano Norteamericano) que contiene información de más de 100,000 estudiantes entre las más delicadas correos, documentos nombre completo y contraseña en texto plano  evidenciando que no existe un cifrado de la información entre el servidor y usuario y hoy fue publicada en foro clandestino.",
+  "color": "#a78bfa",
+  "logo": null
 }
