@@ -1,14 +1,13 @@
-{
-  "id": 6,
-  "title": "Ministerio de Trabajo y Promoción del Empleo (MTPE) – Leak Perú 2025",
-  "date": "2025-08-11",
-  "country": "Perú",
-  "region": "Perú",
-  "type": "Leak",
-  "actor": "Gatito_FBI_Nz",
-  "impact": "Publicación masiva de más de 450,000 registros con datos personales de trabajadores peruanos.",
-  "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-databreach-protecciaejndedatos-activity-7361773933378826242-3wYc/",
-  "summary": "Lo que inicialmente era un acceso privado en un grupo de Telegram, se ha convertido en una filtración pública en un foro clandestino, el actor publicó registros que contienen DNI, nombres, apellidos, fotografías, firmas y otra información sensible de trabajadores peruanos.",
-  "color": "#a78bfa",
-  "logo": null
-}
+ {
+    "id": 6,
+    "title": "Ministerio de Trabajo y Promoción del Empleo (MTPE) – Leak Perú 2025",
+    "date": "2025-08-11",
+    "country": "Perú",
+    "region": "Perú",
+    "type": "Leak",
+    "actor": "Gatito_FBI_Nz",
+    "impact": "Supuesta publicación masiva de más de 450,000 registros con datos personales de trabajadores peruanos.",
+    "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-databreach-protecciaejndedatos-activity-7361773933378826242-3wYc/",
+    "summary": "Lo que inicialmente fue un acceso privado en un grupo de Telegram se convirtió en una presunta filtración pública en un foro clandestino, donde se difundieron registros con DNI, nombres, apellidos, fotografías, firmas y otra información sensible de trabajadores peruanos.",
+    "color": "#a78bfa"
+  }

@@ -1,14 +1,13 @@
-{
-  "id": 3,
-  "title": "Sistema judicial - Leak Colombia  – 2025",
-  "date": "2025-08-07",
-  "country": "Colombia",
-  "region": "Colombia",
-  "type": "Leak",
-  "actor": "Gatito_FBI_Nz",
-  "impact": "Fuga de documentos internos del Sistema Judicial colombiano con datos privados y sensibles expuestos.",
-  "source": "https://www.linkedin.com/posts/3g-isecure_dataleak-colombia-dataleak-activity-7359609092002172928-AxJS/",
-  "summary": "SJ Colombiano sufre un Data leak exponiendo  audios, fotografías, videos y documentos relacionados con litigios judiciales internos y datos sensibles en un foro clandestino.",
-  "color": "#a78bfa",
-  "logo": null
-}
+ {
+    "id": 3,
+    "title": "Sistema judicial - Leak Colombia  – 2025",
+    "date": "2025-08-07",
+    "country": "Colombia",
+    "region": "Colombia",
+    "type": "Leak",
+    "actor": "Gatito_FBI_Nz",
+    "impact": "Presunta fuga de documentos internos del Sistema Judicial colombiano, con supuesta exposición de datos privados y sensibles.",
+    "source": "https://www.linkedin.com/posts/3g-isecure_dataleak-colombia-dataleak-activity-7359609092002172928-AxJS/",
+    "summary": "El Sistema Judicial colombiano habría sufrido un Data Leak que expone audios, fotografías, videos y documentos relacionados con litigios judiciales internos y datos sensibles en un foro clandestino.",
+    "color": "#a78bfa"
+  }

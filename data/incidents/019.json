@@ -1,4 +1,4 @@
-  {
+{
     "id": 19,
     "title": "DataLeak – Salud Federal Salta (SAFESA) – 2025",
     "date": "2025-09-12",
@@ -6,9 +6,8 @@
     "region": "Perú",
     "type": "Leak",
     "actor": "Z1k3n",
-    "impact": "En un foro clandestino se difundió una base de datos atribuida a SAFESA (Salud Federal Salta) con más de 1,3 millones de registros.",
+    "impact": "Presunta difusión de una base de datos atribuida a SAFESA (Salud Federal Salta) con más de 1,3 millones de registros.",
     "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-peraeq-ransomware-activity-7372312535280308224-lNLr",
-    "summary": "El incidente expone masivamente datos sensibles —nombres, DNI, fechas de nacimiento, domicilios, teléfonos, claves internas y estado del beneficiario— generando riesgos de fraude, suplantación y pérdida de confianza en las instituciones de salud.",
-    "color": "#a78bfa",
-    "logo": null
+    "summary": "Se reporta un presunto incidente que expone masivamente datos sensibles  nombres, DNI, fechas de nacimiento, domicilios, teléfonos, claves internas y estado del beneficiario generando riesgos de fraude y suplantación.",
+    "color": "#a78bfa"
   }

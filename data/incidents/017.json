@@ -1,14 +1,13 @@
 {
-  "id": 17,
-  "title": " DataLeak en JN Aceros (Perú) – 2025",
-  "date": "2025-09-10",
-  "country": "Perú",
-  "region": "Perú",
-  "type": "Leak",
-  "actor": "Gentlemen (grupo de ransomware)",
-  "impact": "Exposición de información empresarial y sensible de clientes y colaboradores.",
-  "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-peraeq-ransomware-activity-7372312535280308224-lNLr/",
-  "summary": "El grupo de ransomware The Gentleman incluyó a JN Aceros, empresa dedicada a la comercialización de acero en Perú, en su lista de víctimas publicada en la dark web.",
-  "color": "#a78bfa",
-  "logo": null
-}
+    "id": 17,
+    "title": " DataLeak en JN Aceros (Perú) – 2025",
+    "date": "2025-09-10",
+    "country": "Perú",
+    "region": "Perú",
+    "type": "Leak",
+    "actor": "Gentlemen (grupo de ransomware)",
+    "impact": "Presunta exposición de información empresarial y sensible de clientes y colaboradores.",
+    "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-peraeq-ransomware-activity-7372312535280308224-lNLr/",
+    "summary": "El grupo de ransomware The Gentleman habría comprometido a JN Aceros (Perú), exponiendo cotizaciones, documentos de pagos e información de clientes y colaboradores.",
+    "color": "#a78bfa"
+  }

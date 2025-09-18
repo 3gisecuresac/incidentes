@@ -1,14 +1,13 @@
 {
-  "id": 16,
-  "title": "SuizaLab (Perú) – Ransomware KillSec 2025",
-  "date": "2025-09-04",
-  "country": "Perú",
-  "region": "Perú",
-  "type": "Alerta",
-  "actor": "KillSec (grupo de ransomware)",
-  "impact": "Exfiltración de datos médicos, órdenes de atención, resultados clínicos y datos personales de pacientes.",
-  "source": "https://www.linkedin.com/posts/3g-isecure_3gisecure-ransomware-peraeq-activity-7370861511705272320-Lh85/",
-  "summary": "El grupo de ransomware KillSec publicó en su foro oficial un anuncio dirigido a SuizaLab, reconocida red de laboratorios clínicos y de diagnóstico en Perú. Los atacantes exigen un pago de rescate en un plazo de 5 días, y como prueba difundieron archivos PDF con resultados médicos, órdenes de atención y datos personales de pacientes.",
-  "color": "#a78bfa",
-  "logo": null
-}
+    "id": 16,
+    "title": "SuizaLab (Perú) – Ransomware KillSec 2025",
+    "date": "2025-09-04",
+    "country": "Perú",
+    "region": "Perú",
+    "type": "Alerta",
+    "actor": "KillSec (grupo de ransomware)",
+    "impact": "Presunta exfiltración de datos médicos, órdenes de atención, resultados clínicos y datos personales de pacientes.",
+    "source": "https://www.linkedin.com/posts/3g-isecure_3gisecure-ransomware-peraeq-activity-7370861511705272320-Lh85/",
+    "summary": "El grupo de ransomware KillSec incluyó a SuizaLab en su lista de víctimas, difundiendo supuestos archivos PDF con resultados médicos, órdenes de atención y datos personales de pacientes.",
+    "color": "#a78bfa"
+  }

@@ -1,14 +1,13 @@
 {
-  "id": 5,
-  "title": "Ministerio de Trabajo y Promoción del Empleo - Perú Alerta acceso sin  restricciones al portal del (MTPE)",
-  "date": "2025-08-11",
-  "country": "Perú",
-  "region": "Perú",
-  "type": "Alerta",
-  "actor": "Team Subversivo",
-  "impact": "Mala configuración del portal web del MTPE expone información sensible.",
-  "source": "https://www.linkedin.com/posts/3g-isecure_cibervigilancia-ciberseguridad-databreach-activity-7361456266000441346-V7N_/",
-  "summary": "Portal del Ministerio de Trabajo y Promoción del Empleo (MTPE) presenta un acceso sin restricciones a su directorio, lo que permite la exposición de información que incluye DNI, nombres y apellidos, fotografías, firmas entre otros datos.",
-  "color": "#a78bfa",
-  "logo": null
-}
+    "id": 5,
+    "title": "Ministerio de Trabajo y Promoción del Empleo - Perú Alerta acceso sin  restricciones al portal del (MTPE)",
+    "date": "2025-08-11",
+    "country": "Perú",
+    "region": "Perú",
+    "type": "Alerta",
+    "actor": "Team Subversivo",
+    "impact": "Presunta mala configuración del portal web del MTPE, con posible exposición de información sensible.",
+    "source": "https://www.linkedin.com/posts/3g-isecure_cibervigilancia-ciberseguridad-databreach-activity-7361456266000441346-V7N_/",
+    "summary": "El portal del Ministerio de Trabajo y Promoción del Empleo (MTPE) presenta una supuesta mala configuración que habría permitido la exposición de información sensible como DNI, nombres, fotografías y firmas.",
+    "color": "#a78bfa"
+  }

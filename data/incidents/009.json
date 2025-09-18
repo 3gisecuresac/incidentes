@@ -1,14 +1,13 @@
-{
-  "id": 9,
-  "title": "Justicia Penal Militar y Policial – Ransomware Colombia 2025",
-  "date": "2025-08-21",
-  "country": "Colombia",
-  "region": "Colombia",
-  "type": "Leak",
-  "actor": "Gunra Ransomware",
-  "impact": "Exfiltración de más de 45TB de información crítica del sistema judicial militar y policial colombiano.",
-  "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-ransomware-databreach-activity-7364350133846581249-4nMd/",
-  "summary": "El grupo Gunra Ransomware perpetró un ataque contra la Justicia Penal Militar y Policial de Colombia, logrando exfiltrar más de 45TB de información altamente sensible. Entre los datos comprometidos se encuentran documentos internos, audiencias, contratos y correos institucionales.",
-  "color": "#a78bfa",
-  "logo": null
-}
+  {
+    "id": 9,
+    "title": "Justicia Penal Militar y Policial – Ransomware Colombia 2025",
+    "date": "2025-08-21",
+    "country": "Colombia",
+    "region": "Colombia",
+    "type": "Leak",
+    "actor": "Gunra Ransomware",
+    "impact": "Presunta exfiltración de más de 45TB de información crítica del sistema judicial militar y policial colombiano.",
+    "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-ransomware-databreach-activity-7364350133846581249-4nMd/",
+    "summary": "El grupo Gunra Ransomware afirma haber perpetrado un ataque contra la Justicia Penal Militar y Policial de Colombia, logrando la presunta exfiltración de más de 45TB de información sensible.",
+    "color": "#a78bfa"
+  }

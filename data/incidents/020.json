@@ -1,14 +1,13 @@
-  {
+{
     "id": 20,
     "title": "DataLeak – Hospital Nacional Cayetano Heredia – 2025",
     "date": "2025-09-15",
     "country": "Perú",
     "region": "Perú",
     "type": "Leak",
-    "actor": null,
-    "impact": null,
+    "actor": "Ghidra",
+    "impact": "Aparentemente en un foro clandestino se difundió una supuesta filtración de datos sensibles de pacientes y personal.",
     "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-peru-databreach-activity-7373507557396553728-Vdnj",
-    "summary": null,
-    "color": "#a78bfa",
-    "logo": null
+    "summary": "En un foro clandestino se reportó la supuesta filtración de información del Hospital Nacional Cayetano Heredia (Perú). Los datos atribuidos incluirían nombres, correos, teléfonos, DNI, direcciones y visitas médicas.",
+    "color": "#a78bfa"
   }

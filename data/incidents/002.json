@@ -6,9 +6,8 @@
     "region": "Perú",
     "type": "Leak",
     "actor": "ABZeroCool",
-    "impact": "Fuga superior a 20 mil registros de documentos de clientes,con exposición de datos sensibles.",
+    "impact": "Presunta fuga superior a 20 mil registros de documentos de clientes, con posible exposición de datos sensibles.",
     "source": "https://www.linkedin.com/posts/3g-isecure_dataleak-peraeq-databreach-activity-7359293188513140737-hkxN/",
-    "summary": "Servicios Call Center (SCC)  sufre un Data Leak, exponiendo los siguientes datos:  nombre completo, DNI, correos, teléfonos, direcciones, nombres de padres, geolocalización, historial de ventas, operadores móviles",
-    "color": "#a78bfa",
-    "logo": null
+    "summary": "Servicios Call Center (SCC) enfrenta una supuesta filtración que habría expuesto: nombre completo, DNI, correos, teléfonos, direcciones, nombres de padres, geolocalización, historial de ventas y operadores móviles.",
+    "color": "#a78bfa"
   }
