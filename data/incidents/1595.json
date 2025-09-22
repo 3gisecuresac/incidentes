@@ -1,0 +1,13 @@
+{
+  "id": 1595,
+  "title": "Sistema de Salud de la Universidad de Virginia (uvahealth.com) - Data leak - Undetermined",
+  "date": "2018-02-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Salud de la Universidad de Virginia notifica a casi 2",
+  "source": "https://www.scmagazine.com/2000-uva-health-system-patients-information-compromised/article/745936/",
+  "summary": "El Sistema de Salud de la Universidad de Virginia notifica a casi 2.000 pacientes que sus registros médicos pueden haber sido expuestos cuando un tercero no autorizado implantó malware en la computadora de un miembro del personal activo entre mayo de 2015 y diciembre de 2016.",
+  "color": "#ef4444"
+}

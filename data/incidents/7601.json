@@ -1,0 +1,13 @@
+{
+  "id": 7601,
+  "title": "CarePartners - Data leak - Undetermined",
+  "date": "2018-06-18",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en CarePartners sufre una vulneración",
+  "source": "nan",
+  "summary": "El sistema informático de CarePartners sufre una vulneración y, como resultado, se accede de forma inapropiada a información de pacientes y empleados, incluida información personal de salud y financiera.",
+  "color": "#a78bfa"
+}

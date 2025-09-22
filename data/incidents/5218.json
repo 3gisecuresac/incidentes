@@ -1,0 +1,13 @@
+{
+  "id": 5218,
+  "title": "Valores de América - Data leak - Undetermined",
+  "date": "2022-12-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en McCord LLC",
+  "source": "nan",
+  "summary": "Securities America (SAI) presenta un aviso que describe una violación de datos en McCord LLC, una empresa no afiliada que registra a sus profesionales financieros con SAI.",
+  "color": "#ef4444"
+}

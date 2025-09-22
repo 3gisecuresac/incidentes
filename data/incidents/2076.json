@@ -1,0 +1,13 @@
+{
+  "id": 2076,
+  "title": "Distrito Escolar Unificado de Carmel - Phishing - Undetermined",
+  "date": "2019-03-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Phishing",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Carmel notifica a los empleados",
+  "source": "https://www.databreaches.net/carmel-unified-school-district-notifies-employees-of-phishing-incident/",
+  "summary": "El Distrito Escolar Unificado de Carmel notifica a los empleados que un ataque de phishing exitoso obtuvo acceso a la cuenta de correo electrónico de un empleado que contenía documentos confidenciales.",
+  "color": "#ef4444"
+}

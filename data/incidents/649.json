@@ -1,0 +1,13 @@
+{
+  "id": 649,
+  "title": "http://forums.phpfreaks.com - Data leak - mr.nsaany",
+  "date": "2015-10-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "mr.nsaany",
+  "impact": "Filtración de datos en @mr",
+  "source": "http://www.databreaches.net/php-freaks-forum-database-hacked/",
+  "summary": "Un hacker llamado mr.nsaany, también conocido como @mr.nsaany, piratea forums.phpfreaks.com y filtra la base de datos completa (supuestamente 173.000 usuarios).",
+  "color": "#ef4444"
+}

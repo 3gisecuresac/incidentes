@@ -1,0 +1,13 @@
+{
+  "id": 8012,
+  "title": "Unimed Belém - Ransomware - RansomEXX",
+  "date": "2022-10-21",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "RansomEXX",
+  "impact": "Incidente de seguridad en Unimed Belem",
+  "source": "nan",
+  "summary": "RansomExx afirma haber robado 5,8 GB de archivos de Unimed Belem.",
+  "color": "#a78bfa"
+}

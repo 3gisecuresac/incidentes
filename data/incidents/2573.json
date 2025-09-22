@@ -1,0 +1,13 @@
+{
+  "id": 2573,
+  "title": "El Centro de Servicios de Atención Médica (CHSC) - Ciberataque - Undetermined",
+  "date": "2019-12-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Servicios de Atención Médica",
+  "source": "https://www.bleepingcomputer.com/news/security/criminals-pull-hard-before-xmas-attack-us-health-industry/",
+  "summary": "El Centro de Servicios de Atención Médica (CHSC) de San Antonio cierra los sistemas informáticos de todas sus clínicas en respuesta a un ciberataque de gran escala.",
+  "color": "#a78bfa"
+}

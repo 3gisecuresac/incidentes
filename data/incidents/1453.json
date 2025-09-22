@@ -1,0 +1,13 @@
+{
+  "id": 1453,
+  "title": "Corporación Hyatt Hotels. - Infección Dispositivos - Undetermined",
+  "date": "2017-10-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Hyatt Hotels Corp",
+  "source": "https://www.reuters.com/article/us-hyatt-hotels-cyber/hyatt-hotels-discovers-card-data-breach-at-41-properties-idUSKBN1CH2WP",
+  "summary": "Hyatt Hotels Corp revela haber descubierto acceso no autorizado a información de tarjetas de pago en ciertas ubicaciones administradas por Hyatt en todo el mundo entre el 18 de marzo de 2017 y el 2 de julio de 2017.",
+  "color": "#a78bfa"
+}

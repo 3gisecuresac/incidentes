@@ -1,0 +1,13 @@
+{
+  "id": 3266,
+  "title": "Sistemas de Wind River - Data leak - Undetermined",
+  "date": "2020-09-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Wind River Systems",
+  "source": "https://www.databreaches.net/wind-river-security-incident-affects-ssns-passport-numbers/",
+  "summary": "El proveedor de software de sistemas integrados Wind River Systems informa a sus empleados sobre una violación de datos que provocó que un tercero robara su información personal.",
+  "color": "#ef4444"
+}

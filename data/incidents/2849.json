@@ -1,0 +1,13 @@
+{
+  "id": 2849,
+  "title": "Colegio Comunitario del Valle de Illinois - Ransomware - Mespinoza",
+  "date": "2020-04-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Mespinoza",
+  "impact": "Cifrado por ransomware en Pysa",
+  "source": "https://www.databreaches.net/email-class-registration-payroll-down-from-computer-hack-at-illinois-valley-community-college/",
+  "summary": "El Illinois Valley Community College sufrió un ataque de ransomware. En septiembre, los atacantes de Pysa que llevaron a cabo el ataque publicaron información confidencial del IVCC por no pagar el rescate.",
+  "color": "#ef4444"
+}

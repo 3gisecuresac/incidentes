@@ -1,0 +1,13 @@
+{
+  "id": 4949,
+  "title": "Proveedor no identificado - Ransomware - Undetermined",
+  "date": "2022-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Delta Dental of Washington",
+  "source": "nan",
+  "summary": "Delta Dental of Washington anuncia que la información médica protegida de 6,361 miembros de sus planes de beneficios dentales se ha visto potencialmente comprometida en un ciberataque a su proveedor de correo e impresión, Kaye-Smith.",
+  "color": "#3b82f6"
+}

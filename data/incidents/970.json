@@ -1,0 +1,13 @@
+{
+  "id": 970,
+  "title": "lookbook.nu - Data leak - Undetermined",
+  "date": "2016-06-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Lookbook están disponibles",
+  "source": "https://www.hackread.com/hacker-selling-million-lookbook-accounts/",
+  "summary": "Los datos de inicio de sesión de los 1,1 millones de usuarios de Lookbook están disponibles para la venta en la darknet.",
+  "color": "#ef4444"
+}

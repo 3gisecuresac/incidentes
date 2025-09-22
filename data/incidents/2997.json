@@ -1,0 +1,13 @@
+{
+  "id": 2997,
+  "title": "Deportes de árbitro - Ransomware - Undetermined",
+  "date": "2020-07-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en ArbiterSports el",
+  "source": "https://www.zdnet.com/article/details-of-540000-sports-referees-taken-in-failed-ransomware-attack/",
+  "summary": "ArbiterSports, el proveedor oficial de software de la NCAA y muchas otras ligas, afirma que los datos de 540.000 árbitros fueron robados en un fallido ataque de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4318,
+  "title": "Grupo Cuántico - Data leak - Undetermined",
+  "date": "2022-02-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Highmark Inc. una",
+  "source": "nan",
+  "summary": "Highmark Inc., una empresa de atención médica sin fines de lucro y red de distribución integrada, anuncia que algunos datos protegidos por HIPAA se han expuesto en una violación de datos en el proveedor de impresión y correo, Quantum Group.",
+  "color": "#ef4444"
+}

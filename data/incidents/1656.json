@@ -1,0 +1,13 @@
+{
+  "id": 1656,
+  "title": "Radiología e imágenes diagnósticas - Data leak - Undetermined",
+  "date": "2018-04-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Radiolog a Diagn",
+  "source": "https://www.databreaches.net/nc-diagnostic-radiology-imaging-notifies-800-patients-of-phishing-incident-in-2017/",
+  "summary": "Radiología Diagnóstica e Imágenes notifica a 800 pacientes sobre incidente de phishing ocurrido en noviembre de 2017.",
+  "color": "#ef4444"
+}

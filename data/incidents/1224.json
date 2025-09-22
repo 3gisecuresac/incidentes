@@ -1,0 +1,13 @@
+{
+  "id": 1224,
+  "title": "Arby's - Infección Dispositivos - Undetermined",
+  "date": "2017-02-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Arby",
+  "source": "https://krebsonsecurity.com/2017/02/fast-food-chain-arbys-acknowledges-breach/",
+  "summary": "La cadena de restaurantes de comida rápida Arby's ha sufrido una vulneración de seguridad que afecta a los sistemas de tarjetas de pago en hasta 1.100 de sus establecimientos.",
+  "color": "#a78bfa"
+}

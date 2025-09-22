@@ -1,0 +1,13 @@
+{
+  "id": 1345,
+  "title": "Sistemas electorales en 21 estados de EE. UU. - Data leak - Undetermined",
+  "date": "2017-06-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Departamento de Seguridad Nacional",
+  "source": "http://www.bbc.co.uk/news/world-us-canada-40357357",
+  "summary": "Jeanette Manfra, del Departamento de Seguridad Nacional (DHS), durante su testimonio ante un panel del Senado, revela que piratas informáticos rusos atacaron los sistemas electorales en 21 estados de EE. UU. durante la campaña del año pasado.",
+  "color": "#a78bfa"
+}

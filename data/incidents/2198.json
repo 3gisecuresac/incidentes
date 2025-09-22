@@ -1,0 +1,13 @@
+{
+  "id": 2198,
+  "title": "Personas Inc. - Data leak - Undetermined",
+  "date": "2019-05-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Nueva York",
+  "source": "https://www.zdnet.com/article/one-of-new-yorks-largest-nonprofits-suffers-data-breach/",
+  "summary": "People Inc., una agencia sin fines de lucro de Nueva York, revela que ocurrió una violación de datos el 19 de febrero de 2019 cuando se vieron comprometidas dos cuentas de correo electrónico.",
+  "color": "#ef4444"
+}

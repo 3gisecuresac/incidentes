@@ -1,0 +1,13 @@
+{
+  "id": 3834,
+  "title": "Lightfoot, Franklin & Wright, LLC - Ransomware - Undetermined",
+  "date": "2021-04-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Birmingham",
+  "source": "nan",
+  "summary": "Un bufete de abogados con sede en Birmingham, Alabama, es víctima de un ataque de ransomware y el bufete notifica a sus clientes que la información personal robada en el ataque supuestamente ha sido eliminada.",
+  "color": "#ef4444"
+}

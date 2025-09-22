@@ -1,0 +1,13 @@
+{
+  "id": 3089,
+  "title": "Universidad de Harvard - Data leak - Undetermined",
+  "date": "2020-08-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Harvard podría haberse visto comprometida",
+  "source": "https://www.thecrimson.com/article/2020/8/13/blackbaud-data-breach/",
+  "summary": "Incluso la Universidad de Harvard podría haberse visto comprometida por la violación de datos de Blackbaud.",
+  "color": "#ef4444"
+}

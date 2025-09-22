@@ -1,0 +1,13 @@
+{
+  "id": 5989,
+  "title": "Visión familiar de Anderson - Ransomware - Undetermined",
+  "date": "2023-07-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Family Vision of Anderson",
+  "source": "nan",
+  "summary": "Family Vision of Anderson presenta un aviso de violación de datos después de que un ataque de ransomware expusiera información confidencial de pacientes a acceso no autorizado.",
+  "color": "#ef4444"
+}

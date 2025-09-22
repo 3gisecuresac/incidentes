@@ -1,0 +1,13 @@
+{
+  "id": 5102,
+  "title": "Condado de Tehama - Ciberataque - Undetermined",
+  "date": "2022-11-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Tehama anuncia",
+  "source": "nan",
+  "summary": "El condado de Tehama anuncia que ha abordado un incidente de seguridad de datos que resultó en acceso no autorizado a archivos en sus sistemas.",
+  "color": "#ef4444"
+}

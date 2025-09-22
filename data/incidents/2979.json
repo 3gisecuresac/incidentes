@@ -1,0 +1,13 @@
+{
+  "id": 2979,
+  "title": "Metro Trinidad - Ransomware - NetWalker",
+  "date": "2020-07-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "NetWalker",
+  "impact": "Incidente de seguridad en NetWalker publican evidencia en línea de un ataque a Trinity Metro",
+  "source": "https://www.scmagazine.com/home/security-news/ransomware/netwalker-ransomware-group-claims-attack-on-fort-worth-transportation-agency/",
+  "summary": "Los cibercriminales detrás de NetWalker publican evidencia en línea de un ataque a Trinity Metro, una agencia de tránsito que opera servicios de transporte de autobús y tren de cercanías en Fort Worth y sus suburbios cercanos del condado de Tarrant.",
+  "color": "#a78bfa"
+}

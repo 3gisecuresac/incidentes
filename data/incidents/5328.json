@@ -1,0 +1,13 @@
+{
+  "id": 5328,
+  "title": "Colegio Paul Smith - Data leak - Undetermined",
+  "date": "2023-02-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El Paul Smith",
+  "source": "nan",
+  "summary": "El Paul Smith's College presenta un aviso de violación de datos después de enterarse de que una parte no autorizada obtuvo acceso a sus sistemas informáticos donde pudo acceder a información confidencial perteneciente a ciertos estudiantes y empleados.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 518,
+  "title": "Hospital San Francisco - Infección Dispositivos - Undetermined",
+  "date": "2015-06-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Tulsa",
+  "source": "http://www.prnewswire.com/news-releases/saint-francis-hospital-gift-shop-acts-to-block-payment-card-security-incident-300095082.html",
+  "summary": "El Hospital St. Francis de Tulsa, Oklahoma, revela que el sistema que procesa los pagos con tarjeta de su tienda de regalos fue comprometido por un breve período, capturando datos financieros de los clientes.",
+  "color": "#ef4444"
+}

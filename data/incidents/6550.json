@@ -1,0 +1,13 @@
+{
+  "id": 6550,
+  "title": "Me gusta el móvil - Data leak - Undetermined",
+  "date": "2023-12-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en SIM",
+  "source": "nan",
+  "summary": "El operador de red móvil virtual Mint Mobile revela una nueva violación de datos que expuso la información personal de sus clientes, incluidos datos que pueden usarse para realizar ataques de intercambio de SIM.",
+  "color": "#ef4444"
+}

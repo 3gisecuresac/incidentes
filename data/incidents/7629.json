@@ -1,0 +1,13 @@
+{
+  "id": 7629,
+  "title": "Distrito Escolar No. 5 Sureste de Kootenay - Data leak - Undetermined",
+  "date": "2019-06-22",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Kootenay revela un incidente ocurrido el 23 de enero en el",
+  "source": "nan",
+  "summary": "El Distrito Escolar No. 5 Sureste de Kootenay revela un incidente ocurrido el 23 de enero en el que las computadoras de la Oficina de la Junta Escolar y del Centro de Aprendizaje Fernie se infectaron con el virus Emotet.",
+  "color": "#a78bfa"
+}

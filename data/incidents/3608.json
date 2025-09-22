@@ -1,0 +1,13 @@
+{
+  "id": 3608,
+  "title": "Ciudad de Titusville - Data leak - Undetermined",
+  "date": "2021-02-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Florida sufre un ataque de phishing",
+  "source": "nan",
+  "summary": "La ciudad de Florida sufre un ataque de phishing que compromete las cuentas de correo electrónico de los empleados y la información personal contenida en ellas.",
+  "color": "#ef4444"
+}

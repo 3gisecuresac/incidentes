@@ -1,0 +1,13 @@
+{
+  "id": 7559,
+  "title": "Partido Liberal de Quebec (PLQ) - Infección Dispositivos - Undetermined",
+  "date": "2016-06-19",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Quebec",
+  "source": "nan",
+  "summary": "El Partido Liberal de Quebec (PLQ) soluciona un problema de seguridad en su software de videoconferencia que permitió a un hacker desconocido espiar sus reuniones e incluso acceder a la cámara de vídeo.",
+  "color": "#3b82f6"
+}

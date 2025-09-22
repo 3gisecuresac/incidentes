@@ -1,0 +1,13 @@
+{
+  "id": 1010,
+  "title": "Steemit - Data leak - Undetermined",
+  "date": "2016-07-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Steemit",
+  "source": "https://news.bitcoin.com/steemit-hacked-weak-security/",
+  "summary": "La red social Steemit cierra temporalmente tras un importante ataque informático. Los atacantes comprometen 260 cuentas y se llevan $85,000 en criptomonedas.",
+  "color": "#3b82f6"
+}

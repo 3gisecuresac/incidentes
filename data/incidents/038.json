@@ -1,0 +1,13 @@
+{
+  "id": 38,
+  "title": "Orix - Data leak - Guacamaya",
+  "date": "2022-08-03",
+  "country": "Venezuela",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Guacamaya",
+  "impact": "Incidente de seguridad en Venezuela",
+  "source": "https://www.cyberscoop.com/environmentalist-hacktivist-collective-mining-company/",
+  "summary": "Oryx, una compañía petrolera de Venezuela, también está entre las víctimas del derrame de Guacamaya.",
+  "color": "#a78bfa"
+}

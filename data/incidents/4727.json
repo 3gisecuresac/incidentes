@@ -1,0 +1,13 @@
+{
+  "id": 4727,
+  "title": "Audio - Data leak - Undetermined",
+  "date": "2022-07-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en AUDIO por un",
+  "source": "nan",
+  "summary": "La plataforma de música descentralizada Audius ha sido hackeada y actores de amenazas roban más de 18 millones de tokens AUDIO por un valor aproximado de 6 millones de dólares.",
+  "color": "#3b82f6"
+}

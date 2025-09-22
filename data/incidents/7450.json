@@ -1,0 +1,13 @@
+{
+  "id": 7450,
+  "title": "Cooperativa Antonio Vega Granados R.L. - Ransomware - LockBit 3.0",
+  "date": "2022-11-04",
+  "country": "Costa Rica",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Costa Rica se agrega al sitio de ransomware de Lockbit",
+  "source": "nan",
+  "summary": "Cooperativa Antonio Vega Granados R.L. en Costa Rica se agrega al sitio de ransomware de Lockbit.",
+  "color": "#ef4444"
+}

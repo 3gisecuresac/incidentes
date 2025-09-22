@@ -1,0 +1,13 @@
+{
+  "id": 2323,
+  "title": "Salón Nacional de la Fama del Béisbol - Data leak - Undetermined",
+  "date": "2019-08-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Salón de la Fama del Béisbol Nacional fue hackeado e incluyó un script de MageCart",
+  "source": "https://www.bleepingcomputer.com/news/security/national-baseball-hall-of-fame-hit-by-payment-card-stealing-attack/",
+  "summary": "El sitio web del Salón de la Fama del Béisbol Nacional fue hackeado e incluyó un script de MageCart que robó la información de pago de los clientes que compraron artículos en el sitio. La infección ocurrió entre el 15 de noviembre de 2018 y el 14 de mayo de 2019.",
+  "color": "#3b82f6"
+}

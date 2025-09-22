@@ -1,0 +1,13 @@
+{
+  "id": 7828,
+  "title": "Policía de Tránsito de Metro Vancouver - Ransomware - cl0p",
+  "date": "2023-06-21",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Incidente de seguridad en Tránsito de Metro Vancouver confirma haber sufrido un ciberataque",
+  "source": "nan",
+  "summary": "La Policía de Tránsito de Metro Vancouver confirma haber sufrido un ciberataque que explota la vulnerabilidad CVE-2023-34362 de MOVEit.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3057,
+  "title": "Red de atención médica Einstein - Data leak - Undetermined",
+  "date": "2020-08-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Einstein Healthcare Network",
+  "source": "https://www.databreaches.net/pa-einstein-healthcare-network-notifies-patients-august-email-hack/",
+  "summary": "Einstein Healthcare Network ha notificado a los pacientes que un tercero no autorizado accedió a las cuentas de correo electrónico de varios empleados.",
+  "color": "#a78bfa"
+}

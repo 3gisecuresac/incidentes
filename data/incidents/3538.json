@@ -1,0 +1,13 @@
+{
+  "id": 3538,
+  "title": "Asociados de Retina de Colorado - Data leak - Undetermined",
+  "date": "2021-01-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Colorado Retina Associates",
+  "source": "nan",
+  "summary": "Colorado Retina Associates notifica a 26,609 pacientes que una parte no autorizada obtuvo acceso a las cuentas de correo electrónico del trabajo de los empleados.",
+  "color": "#a78bfa"
+}

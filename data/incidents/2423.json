@@ -1,0 +1,13 @@
+{
+  "id": 2423,
+  "title": "Zendesk - Data leak - Undetermined",
+  "date": "2019-10-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Zendesk Support",
+  "source": "https://www.bleepingcomputer.com/news/security/zendesk-security-breach-may-impact-orgs-like-uber-slack-and-fcc/",
+  "summary": "La empresa de software de atención al cliente Zendesk notifica un incidente de seguridad, ocurrido en 2016, que podría haber afectado a aproximadamente 10.000 cuentas de Zendesk Support y Chat activadas antes del 1 de noviembre de 2016.",
+  "color": "#a78bfa"
+}

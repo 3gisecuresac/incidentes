@@ -1,0 +1,13 @@
+{
+  "id": 2801,
+  "title": "Pediatría Magnolia - Data leak - Undetermined",
+  "date": "2020-03-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Magnolia Pediatrics",
+  "source": "https://www.databreaches.net/magnolia-pediatrics-notifies-patients-of-a-security-incident-after-ocr-tells-them-its-reportable/",
+  "summary": "Magnolia Pediatrics ha revelado una violación de datos en marzo.",
+  "color": "#ef4444"
+}

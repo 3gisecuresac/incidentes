@@ -1,0 +1,13 @@
+{
+  "id": 2787,
+  "title": "Entretenimiento Blizzard - DoS - Undetermined",
+  "date": "2020-03-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Blizzard",
+  "source": "https://www.hackread.com/blizzard-ddos-attack-ea-sports-lagging-issue/",
+  "summary": "Blizzard sufre un ataque DDoS.",
+  "color": "#f59e0b"
+}

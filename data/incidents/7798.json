@@ -1,0 +1,13 @@
+{
+  "id": 7798,
+  "title": "Hospital para niños enfermos (SickKids) - Ransomware - LockBit 3.0",
+  "date": "2022-12-18",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en SickKids",
+  "source": "nan",
+  "summary": "SickKids sufrió un ataque de ransomware que afectó los sistemas internos y corporativos, las líneas telefónicas del hospital y el sitio web.",
+  "color": "#ef4444"
+}

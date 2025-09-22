@@ -1,0 +1,13 @@
+{
+  "id": 2358,
+  "title": "Departamento Judicial de Oregón - Data leak - Undetermined",
+  "date": "2019-08-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Departamento Judicial de Oregón",
+  "source": "https://www.databreaches.net/phishing-scheme-gains-entry-to-oregon-judicial-department-emails/",
+  "summary": "Un esquema de phishing logra ingresar a las cuentas de correo electrónico de cinco empleados del Departamento Judicial de Oregón, exponiendo información personal de más de 6.000 personas.",
+  "color": "#ef4444"
+}

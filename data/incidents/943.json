@@ -1,0 +1,13 @@
+{
+  "id": 943,
+  "title": "Servicios de Información Nacional de Fidelity (FIS Global) - Data leak - 1x0123",
+  "date": "2016-06-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "1x0123",
+  "impact": "Sistema o cuenta comprometida en Fidelity National Information Services",
+  "source": "http://www.dailydot.com/layer8/fis-global-hack-1x0123-pornhub/",
+  "summary": "1x0123, el mismo hacker que anteriormente afirmó haber pirateado PornHub, afirma haber pirateado el portal de clientes de Fidelity National Information Services.",
+  "color": "#3b82f6"
+}

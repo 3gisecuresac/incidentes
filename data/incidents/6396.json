@@ -1,0 +1,13 @@
+{
+  "id": 6396,
+  "title": "Colegio Comunitario de Glendale - Ransomware - Undetermined",
+  "date": "2023-11-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Glendale Community College",
+  "source": "nan",
+  "summary": "Glendale Community College confirma que fue atacado con ransomware.",
+  "color": "#ef4444"
+}

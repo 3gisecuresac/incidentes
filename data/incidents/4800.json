@@ -1,0 +1,13 @@
+{
+  "id": 4800,
+  "title": "Corporación eCapital. - Ciberataque - Undetermined",
+  "date": "2022-08-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Corp.",
+  "source": "nan",
+  "summary": "eCapital Corp. informa sobre una violación de datos después de que la empresa detectara un acceso no autorizado dentro de su red informática.",
+  "color": "#ef4444"
+}

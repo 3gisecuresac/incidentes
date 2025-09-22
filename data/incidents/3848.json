@@ -1,0 +1,13 @@
+{
+  "id": 3848,
+  "title": "Distrito Escolar Centennial - Ransomware - Undetermined",
+  "date": "2021-04-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Distrito Escolar Centennial",
+  "source": "nan",
+  "summary": "El Distrito Escolar Centennial es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

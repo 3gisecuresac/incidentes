@@ -1,0 +1,13 @@
+{
+  "id": 1745,
+  "title": "Cuenta de GitHub de la distribución Gentoo Linux - Ransomware - Undetermined",
+  "date": "2018-06-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en GitHub de la organización Gentoo Linux e inserta código malicioso en las distribuciones del sistema operativo",
+  "source": "https://www.bleepingcomputer.com/news/linux/file-wiping-malware-placed-inside-gentoo-linux-code-after-github-account-hack/",
+  "summary": "Un hacker desconocido toma control temporal de la cuenta de GitHub de la organización Gentoo Linux e inserta código malicioso en las distribuciones del sistema operativo que eliminaría los archivos de los usuarios. El código malicioso no se activa correctamente y los usuarios permanecen a salvo.",
+  "color": "#3b82f6"
+}

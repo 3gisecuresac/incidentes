@@ -1,0 +1,13 @@
+{
+  "id": 903,
+  "title": "ncgov.com - DoS - Anonymous",
+  "date": "2016-05-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Anonymous",
+  "impact": "Incidente de seguridad en Carolina del Norte",
+  "source": "https://www.hackread.com/anonymous-ddos-north-carolina-anti-lgbt-law/",
+  "summary": "En nombre de #OpLGBT, Anonymous elimina varios sitios web gubernamentales en Carolina del Norte.",
+  "color": "#a78bfa"
+}

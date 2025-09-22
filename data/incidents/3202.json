@@ -1,0 +1,13 @@
+{
+  "id": 3202,
+  "title": "Distrito Escolar del Condado Oeste - Data leak - Undetermined",
+  "date": "2020-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Condado de West anunció el viernes",
+  "source": "https://www.databreaches.net/west-county-provides-notice-of-data-breach-last-year-no-identity-theft-reported-so-far/",
+  "summary": "El Distrito Escolar del Condado de West anunció el viernes que, aunque había experimentado una posible violación de datos entre el 6 de octubre y el 20 de noviembre del año pasado, hasta la fecha no ha tenido informes de nadie afectado por ese acceso no autorizado a la información en un servidor de computadora utilizado para la escuela de verano.",
+  "color": "#ef4444"
+}

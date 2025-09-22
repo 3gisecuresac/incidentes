@@ -1,0 +1,13 @@
+{
+  "id": 7892,
+  "title": "División Escolar de Pembina Trails - Ransomware - Rhysida",
+  "date": "2024-12-02",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Rhysida",
+  "impact": "Filtración de datos en Rhysida el 2 de",
+  "source": "nan",
+  "summary": "División escolar canadiense comprometida por el ransomware Rhysida el 2 de diciembre de 2024. El ataque interrumpió miles de dispositivos y expuso más de 35 000 registros de estudiantes y datos financieros y de nómina del personal. El grupo intentó cobrar un rescate de 1,7 millones de dólares antes de filtrar los datos robados en la dark web.",
+  "color": "#ef4444"
+}

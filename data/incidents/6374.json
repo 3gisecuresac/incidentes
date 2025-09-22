@@ -1,0 +1,13 @@
+{
+  "id": 6374,
+  "title": "Centro Harris para la Salud Mental y los IDD - Ciberataque - Undetermined",
+  "date": "2023-11-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El Centro Harris para la Salud Mental y los IDD",
+  "source": "nan",
+  "summary": "El Centro Harris para la Salud Mental y los IDD presenta un aviso de violación de datos después de descubrir que una parte no autorizada pudo acceder a partes de la red informática de la organización.",
+  "color": "#ef4444"
+}

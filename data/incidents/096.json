@@ -1,0 +1,13 @@
+{
+  "id": 96,
+  "title": "Colegio Técnico Estatal de Texas - Data leak - Undetermined",
+  "date": "2014-02-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en tstc.edu",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/hackers-breach-texas-college-server-thousands-compromised/",
+  "summary": "Texas State Technical College (tstc.edu) Waco notifica a casi 3.000 ex alumnos y menos de 2.000 empleados que información personal puede haber sido comprometida después de que una parte no autorizada obtuvo acceso remoto a un servidor que contenía los datos.",
+  "color": "#ef4444"
+}

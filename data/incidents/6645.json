@@ -1,0 +1,13 @@
+{
+  "id": 6645,
+  "title": "Atención médica Optum/Change - Ransomware - ALPHVM",
+  "date": "2024-02-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Cifrado por ransomware en Change Healthcare. El",
+  "source": "nan",
+  "summary": "El gigante sanitario UnitedHealth Group confirma que su filial Optum se vio obligada a cerrar sus sistemas informáticos y diversos servicios tras un ciberataque perpetrado por hackers de un estado nacional contra la plataforma Change Healthcare. El grupo de ransomware ALPHV/BlackCat se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

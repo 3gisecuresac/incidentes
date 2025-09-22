@@ -1,0 +1,13 @@
+{
+  "id": 6500,
+  "title": "La Compañía Hershey - Data leak - Undetermined",
+  "date": "2023-12-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Hershey Company el",
+  "source": "nan",
+  "summary": "Hershey Company, el fabricante estadounidense de dulces populares como Kit Kat y Reese's Peanut Butter Cups, dijo a los reguladores que más de 2.200 personas fueron potencialmente afectadas por una violación de datos después de que los piratas informáticos obtuvieron acceso a algunas de las cuentas de correo electrónico de la compañía.",
+  "color": "#ef4444"
+}

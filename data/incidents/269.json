@@ -1,0 +1,13 @@
+{
+  "id": 269,
+  "title": "Ponemos fin a la violencia - Data leak - Undetermined",
+  "date": "2014-09-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en California",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/we-end-violence-announces-breach-california-university-impacted/",
+  "summary": "We End Violence, organización educativa para la prevención de la violencia con sede en California, descubre una posible intrusión en su servidor de aplicaciones Agent of Change que podría haber expuesto información personal y, hasta el momento, 79.000 estudiantes de la Universidad Estatal de California se han visto afectados.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4781,
+  "title": "Orlando Health - Data leak - Undetermined",
+  "date": "2022-08-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Orlando",
+  "source": "nan",
+  "summary": "Un usuario no autorizado accedió a una cuenta de correo electrónico de un empleado de Orlando (Florida) Health, lo que puede haber comprometido la información de 3.662 pacientes.",
+  "color": "#3b82f6"
+}

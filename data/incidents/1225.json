@@ -1,0 +1,13 @@
+{
+  "id": 1225,
+  "title": "Departamento de Transporte de Texas - Data leak - Undetermined",
+  "date": "2017-02-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Transporte de Texas dice",
+  "source": "https://www.databreaches.net/txdot-computer-system-in-security-incident/",
+  "summary": "El Departamento de Transporte de Texas dice que cierta información personal de los empleados se vio comprometida la semana pasada debido a un incidente de seguridad.",
+  "color": "#3b82f6"
+}

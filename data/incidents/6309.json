@@ -1,0 +1,13 @@
+{
+  "id": 6309,
+  "title": "Salud MUSC - Data leak - cl0p",
+  "date": "2023-10-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Sistema o cuenta comprometida en MOVEit",
+  "source": "nan",
+  "summary": "MUSC Health dice que la información de salud protegida de los pacientes puede haberse visto comprometida cuando su proveedor de servicios y apoyo a la investigación, Westat, fue atrapado en el ataque masivo a MOVEit.",
+  "color": "#3b82f6"
+}

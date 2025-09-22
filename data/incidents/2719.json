@@ -1,0 +1,13 @@
+{
+  "id": 2719,
+  "title": "Condado de Rabun - Ransomware - Undetermined",
+  "date": "2020-02-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Rabun se ve afectado",
+  "source": "https://www.databreaches.net/rabun-county-in-georgia-thwarts-apparent-computer-hacking-attempt/",
+  "summary": "El condado de Rabun se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

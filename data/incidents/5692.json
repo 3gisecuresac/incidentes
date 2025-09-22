@@ -1,0 +1,13 @@
+{
+  "id": 5692,
+  "title": "Recursos de salud conductual del sur de Jersey - Data leak - Undetermined",
+  "date": "2023-05-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en South Jersey Behavioral Health Resources",
+  "source": "nan",
+  "summary": "South Jersey Behavioral Health Resources revela haber sufrido un ataque de phishing.",
+  "color": "#ef4444"
+}

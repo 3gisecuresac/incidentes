@@ -1,0 +1,13 @@
+{
+  "id": 2565,
+  "title": "Toque del Maestro, LLC - Data leak - Undetermined",
+  "date": "2019-12-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Monroe revela",
+  "source": "https://www.govtech.com/security/Monroe-County-Ind-Suffers-Property-Tax-Portal-Breach.html",
+  "summary": "El condado de Monroe revela que fue alertado el 1 de noviembre de que Master's Touch, LLC, que proporciona el portal web en línea, fue víctima de un ataque de malware el 23 de octubre.",
+  "color": "#a78bfa"
+}

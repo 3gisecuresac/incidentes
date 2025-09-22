@@ -1,0 +1,13 @@
+{
+  "id": 2024,
+  "title": "Tracto - Data leak - Undetermined",
+  "date": "2019-02-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Trakt",
+  "source": "https://www.scmagazine.com/home/security-news/movie-and-tv-tracking-service-trakt-belatedly-discovers-2014-breach/",
+  "summary": "El servicio de seguimiento de películas y programas de televisión Trakt informa a sus suscriptores de una vulneración de seguridad ocurrida en 2014 y llevada a cabo mediante un exploit PHP.",
+  "color": "#a78bfa"
+}

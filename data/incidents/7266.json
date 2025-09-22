@@ -1,0 +1,13 @@
+{
+  "id": 7266,
+  "title": "Luz verde - Ransomware - Vice Society",
+  "date": "2022-12-06",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Vice Society",
+  "impact": "Filtración de datos en Feu Vert en su sitio web oscuro",
+  "source": "nan",
+  "summary": "Vice Society encriptó y filtró datos robados de Feu Vert en su sitio web oscuro",
+  "color": "#ef4444"
+}

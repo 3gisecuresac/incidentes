@@ -1,0 +1,13 @@
+{
+  "id": 1551,
+  "title": "Comunidades de retiro presbiterianas Westminster Ingleside King Farm - Data leak - Undetermined",
+  "date": "2018-01-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Westminster Ingleside King Farm Presbyterian Retirement Communities",
+  "source": "https://www.databreaches.net/westminster-ingleside-king-farm-presbyterian-retirement-communities-notifies-5228-residents-of-data-security-incident/",
+  "summary": "Westminster Ingleside King Farm Presbyterian Retirement Communities notifica a 5,228 residentes sobre un ataque de malware que ocurrió el 21 de noviembre de 2017.",
+  "color": "#a78bfa"
+}

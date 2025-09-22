@@ -1,0 +1,13 @@
+{
+  "id": 1675,
+  "title": "Sitio web del condado de Knox - DoS - Undetermined",
+  "date": "2018-05-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Tennessee es caído",
+  "source": "https://techcrunch.com/2018/05/04/tennessee-election-ddos-knox-county-voting/",
+  "summary": "El sitio web del condado de Tennessee es caído por un ataque DDoS durante la noche de las elecciones.",
+  "color": "#f59e0b"
+}

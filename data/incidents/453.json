@@ -1,0 +1,13 @@
+{
+  "id": 453,
+  "title": "Noche Ize - Data leak - Undetermined",
+  "date": "2015-04-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Nite Ize",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/nite-ize-website-attack-impacts-credit-cards-possibly-customer-database/",
+  "summary": "Nite Ize notifica a sus clientes que su tienda en línea sufrió un ciberataque que provocó que las transacciones con tarjetas de crédito se vieran comprometidas y se pudiera obtener acceso no autorizado a una base de datos general de clientes.",
+  "color": "#ef4444"
+}

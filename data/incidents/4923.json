@@ -1,0 +1,13 @@
+{
+  "id": 4923,
+  "title": "M.C. Dean - Data leak - Undetermined",
+  "date": "2022-09-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en M.C. Dean",
+  "source": "nan",
+  "summary": "M.C. Dean confirma que la empresa sufrió una violación de datos después de que un tercero no autorizado obtuviera acceso a datos confidenciales de consumidores contenidos en su red.",
+  "color": "#ef4444"
+}

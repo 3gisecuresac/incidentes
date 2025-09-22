@@ -1,0 +1,13 @@
+{
+  "id": 1026,
+  "title": "Unidad de Salud del Condado de Brant - Data leak - Undetermined",
+  "date": "2016-08-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Salud del Condado de Brant revela",
+  "source": "http://kitchener.ctvnews.ca/brant-county-health-unit-says-494-personal-records-breached-1.3021845",
+  "summary": "La Unidad de Salud del Condado de Brant revela que una persona no autorizada obtuvo acceso a los registros de vacunación de casi 500 personas entre julio de 2015 y octubre de 2015.",
+  "color": "#a78bfa"
+}

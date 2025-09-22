@@ -1,0 +1,13 @@
+{
+  "id": 1007,
+  "title": "Empresa de software sanitario sin nombre - Data leak - The Dark Overlord",
+  "date": "2016-07-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "The Dark Overlord",
+  "impact": "Filtración de datos en The Dark Overlord",
+  "source": "https://www.databreaches.net/hl7-vendor-hack-compromised-clients-ehr-records-the-dark-overlord/",
+  "summary": "The Dark Overlord ofrece el código fuente, las claves de firma de software y la base de datos de licencias de clientes para una empresa que desarrolla y comercializa software de atención médica.",
+  "color": "#ef4444"
+}

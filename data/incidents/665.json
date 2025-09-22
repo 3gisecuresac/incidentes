@@ -1,0 +1,13 @@
+{
+  "id": 665,
+  "title": "Ku Klux Klan - Data leak - Anonymous",
+  "date": "2015-11-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Anonymous",
+  "impact": "Sistema o cuenta comprometida en KKK",
+  "source": "http://www.zdnet.com/article/anonymous-exposes-identities-of-1000-kkk-members/",
+  "summary": "El colectivo de hackers Anonymous ha publicado en internet las identidades de 1.000 miembros del KKK.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4067,
+  "title": "Servicios legales de Carolina del Sur - Data leak - REvil",
+  "date": "2021-09-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "REvil",
+  "impact": "Filtración de datos en South Carolina Legal Services",
+  "source": "nan",
+  "summary": "REvil filtra datos robados de South Carolina Legal Services, incluida información personal confidencial.",
+  "color": "#ef4444"
+}

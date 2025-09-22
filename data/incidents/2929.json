@@ -1,0 +1,13 @@
+{
+  "id": 2929,
+  "title": "Obras verdes - Data leak - Undetermined",
+  "date": "2020-06-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en RapidSpike descubren",
+  "source": "https://www.bleepingcomputer.com/news/security/self-destructing-skimmer-steals-credit-cards-of-greenworks-customers/",
+  "summary": "Los investigadores de RapidSpike descubren que los datos de las tarjetas de pago de los clientes del sitio web de herramientas de hardware Greenworks están siendo robados por piratas informáticos a través de un script malicioso con capacidades de auto-ocultamiento y protección anti-manipulación.",
+  "color": "#ef4444"
+}

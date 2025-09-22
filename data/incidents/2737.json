@@ -1,0 +1,13 @@
+{
+  "id": 2737,
+  "title": "Seguros especializados del Pacífico - Data leak - Undetermined",
+  "date": "2020-02-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Pacific Specialty Insurance",
+  "source": "https://www.databreaches.net/pacific-specialty-insurance-company-notifies-plan-members-of-breach-that-occurred-in-march-2019/",
+  "summary": "Pacific Specialty Insurance notifica a los miembros del plan sobre un ataque de phishing que ocurrió en marzo de 2019",
+  "color": "#ef4444"
+}

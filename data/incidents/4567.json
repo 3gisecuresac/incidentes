@@ -1,0 +1,13 @@
+{
+  "id": 4567,
+  "title": "Grupo de atención médica Shields - Data leak - Undetermined",
+  "date": "2022-05-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Shields Health Care Group",
+  "source": "nan",
+  "summary": "La información confidencial de dos millones de personas es accedida durante un ciberataque a Shields Health Care Group, una organización de atención médica con sede en Massachusetts que brinda servicios a docenas de hospitales y otras instalaciones médicas.",
+  "color": "#a78bfa"
+}

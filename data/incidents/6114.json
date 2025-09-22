@@ -1,0 +1,13 @@
+{
+  "id": 6114,
+  "title": "Paramount Global - Data leak - Undetermined",
+  "date": "2023-08-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Paramount Global",
+  "source": "nan",
+  "summary": "El gigante estadounidense del entretenimiento Paramount Global revela una violación de datos después de que sus sistemas fueron pirateados y los atacantes obtuvieron acceso a información de identificación personal (PII).",
+  "color": "#ef4444"
+}

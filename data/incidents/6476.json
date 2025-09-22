@@ -1,0 +1,13 @@
+{
+  "id": 6476,
+  "title": "Elston-Nationwide - Ransomware - Play",
+  "date": "2023-11-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Play",
+  "impact": "Filtración de datos en Elston-Nationwide a su",
+  "source": "nan",
+  "summary": "La banda de ransomware Play agrega Elston-Nationwide a su sitio de filtraciones.",
+  "color": "#ef4444"
+}

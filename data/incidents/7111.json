@@ -1,0 +1,13 @@
+{
+  "id": 7111,
+  "title": "Centro de Salud Comunitario (CHC) - Data leak - Undetermined",
+  "date": "2025-01-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Salud Comunitario",
+  "source": "nan",
+  "summary": "El Centro de Salud Comunitario (CHC), un proveedor de atención médica líder de Connecticut, notifica a más de 1 millón de pacientes sobre una violación de datos que afectó sus datos personales y de salud.",
+  "color": "#ef4444"
+}

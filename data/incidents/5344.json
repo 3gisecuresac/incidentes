@@ -1,0 +1,13 @@
+{
+  "id": 5344,
+  "title": "Licencia - Ransomware - Hive",
+  "date": "2023-02-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Filtración de datos en Alvaria",
+  "source": "nan",
+  "summary": "Alvaria presenta un aviso de violación de datos después de confirmar que un evento reciente de ciberseguridad fue un ataque de ransomware Hive que resultó en la filtración de información confidencial de los empleados.",
+  "color": "#ef4444"
+}

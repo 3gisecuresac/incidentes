@@ -1,0 +1,13 @@
+{
+  "id": 5563,
+  "title": "Escuelas de Pineland - Ransomware - LockBit 3.0",
+  "date": "2023-04-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en Pineland Schools",
+  "source": "nan",
+  "summary": "Pineland Schools se ha añadido al sitio web del ransomware LockBit con algunos archivos como prueba de la supuesta vulnerabilidad. Los atacantes afirman tener 64 GB de datos.",
+  "color": "#ef4444"
+}

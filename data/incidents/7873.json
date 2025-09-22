@@ -1,0 +1,13 @@
+{
+  "id": 7873,
+  "title": "PandaBuy - Data leak - Sanggiero and IntelBoker",
+  "date": "2024-03-31",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Sanggiero and IntelBoker",
+  "impact": "Filtración de datos en PandaBuy",
+  "source": "nan",
+  "summary": "Se filtran datos pertenecientes a más de 1,3 millones de clientes de la plataforma de compras en línea PandaBuy, supuestamente después de que dos actores de amenazas explotaran múltiples vulnerabilidades para vulnerar los sistemas.",
+  "color": "#ef4444"
+}

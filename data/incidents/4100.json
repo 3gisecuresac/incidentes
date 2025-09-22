@@ -1,0 +1,13 @@
+{
+  "id": 4100,
+  "title": "Puerto de Houston - Ciberataque - Undetermined",
+  "date": "2021-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Puerto de Houston",
+  "source": "nan",
+  "summary": "Un presunto grupo de piratas informáticos patrocinado por el Estado intenta sin éxito violar la red del Puerto de Houston.",
+  "color": "#a78bfa"
+}

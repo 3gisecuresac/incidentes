@@ -1,0 +1,13 @@
+{
+  "id": 7805,
+  "title": "TELUS - Data leak - Seize",
+  "date": "2023-02-17",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Seize",
+  "impact": "Filtración de datos en Canadá",
+  "source": "nan",
+  "summary": "TELUS, la segunda empresa de telecomunicaciones más grande de Canadá, investiga una posible filtración de datos después de que un atacante compartiera en línea muestras de lo que parecen ser datos de empleados. Posteriormente, el atacante publicó capturas de pantalla que aparentemente muestran repositorios privados de código fuente y registros de nóminas de la empresa.",
+  "color": "#ef4444"
+}

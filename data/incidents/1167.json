@@ -1,0 +1,13 @@
+{
+  "id": 1167,
+  "title": "Departamento de Administración de Arizona - Data leak - Undetermined",
+  "date": "2017-01-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Arizona investigan cómo",
+  "source": "https://www.scmagazine.com/malware-found-on-some-arizona-government-computers/article/631045/",
+  "summary": "Funcionarios de Arizona investigan cómo y cuándo varias computadoras utilizadas por legisladores estatales y sus equipos se infectaron con malware.",
+  "color": "#a78bfa"
+}

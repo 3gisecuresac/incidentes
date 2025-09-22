@@ -1,0 +1,13 @@
+{
+  "id": 5111,
+  "title": "FanDuel - Data leak - Undetermined",
+  "date": "2022-11-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en DraftKings",
+  "source": "nan",
+  "summary": "DraftKings estimó que se realizaron retiros no autorizados por menos de $300,000 de lo que la casa de apuestas describió como un pequeño número de cuentas comprometidas en el ataque. Sin embargo, el equipo de atención al cliente de la compañía parece haberse visto desbordado por la magnitud del problema, ya que muchos apostadores afectados afirmaron no haber recibido el reembolso y que no habían tenido éxito en comunicarse con DraftKings más de una semana después de verse comprometidos.",
+  "color": "#3b82f6"
+}

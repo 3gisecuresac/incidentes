@@ -1,0 +1,13 @@
+{
+  "id": 1287,
+  "title": "Cifrar - Data leak - Undetermined",
+  "date": "2017-04-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Internet",
+  "source": "https://www.vice.com/en/article/bme5w3/customer-data-from-encrypted-phone-company-ciphr-has-been-dumped-online#:~:text=Customer%20data%20from%20one%20company,the%20work%20of%20a%20competitor.&text=%22All%20Ciphr%20emails%2Fservers%20have%20been%20compromised.",
+  "summary": "Los datos de clientes de la compañía telefónica cifrada Ciphr se publican en Internet.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1577,
+  "title": "Corporación de servicios empresariales Newtek, - DoS - Undetermined",
+  "date": "2018-02-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Newtek Business Services Corp. un",
+  "source": "https://krebsonsecurity.com/2018/02/domain-theft-strands-thousands-of-web-sites/",
+  "summary": "Newtek Business Services Corp., un conglomerado de servicios web que opera más de 100.000 sitios web comerciales y alrededor de 40.000 cuentas de tecnología administradas, sufrió el robo de varios de sus nombres de dominio principales durante el fin de semana.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3991,
+  "title": "Estrella de la nube - Ransomware - Undetermined",
+  "date": "2021-07-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en CloudStar un",
+  "source": "nan",
+  "summary": "CloudStar, un servicio de alojamiento en la nube, sufre un ataque de ransomware que interrumpe sus operaciones durante varios días.",
+  "color": "#ef4444"
+}

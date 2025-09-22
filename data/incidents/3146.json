@@ -1,0 +1,13 @@
+{
+  "id": 3146,
+  "title": "Escuelas de la ciudad de Mansfield - Ransomware - Undetermined",
+  "date": "2020-09-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Mansfield en Ohio aparentemente fueron atacadas",
+  "source": "https://www.databreaches.net/oh-mansfield-city-schools-no-personal-data-compromised-during-cyber-attack/",
+  "summary": "Las escuelas de la ciudad de Mansfield en Ohio aparentemente fueron atacadas por ransomware, pero los datos personales no fueron expuestos.",
+  "color": "#ef4444"
+}

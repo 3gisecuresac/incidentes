@@ -1,0 +1,13 @@
+{
+  "id": 1310,
+  "title": "Contratista militar anónimo - Data leak - Ministry of Intelligence and Security (MOIS) (APT 34 OilRig)",
+  "date": "2017-05-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Ministry of Intelligence and Security (MOIS) (APT 34 OilRig)",
+  "impact": "Incidente de seguridad en TrapX",
+  "source": "https://www.nytimes.com/2017/05/15/technology/web-defenders-detect-russian-hand-in-iranians-hacking-attempt.html?_r=0",
+  "summary": "TrapX revela haber repelido un ataque contra un contratista militar anónimo llevado a cabo por piratas informáticos iraníes que utilizaban un conjunto de herramientas ruso.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7149,
+  "title": "Sistemas CM/ECF y PACER del poder judicial federal de EE. UU. - Data leak - Undetermined",
+  "date": "2025-07-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en EE",
+  "source": "nan",
+  "summary": "Los sistemas electrónicos de archivo de casos del poder judicial federal de EE. UU. (CM/ECF y PACER) sufrieron una vulneración de seguridad alrededor del 4 de julio de 2025. Se accedió a datos confidenciales y sellados, incluyendo acusaciones formales, órdenes de arresto e identidades de informantes confidenciales, en varios tribunales de distrito. Los informes sugieren un posible robo del código fuente del sistema y la manipulación de unos 12 expedientes. Se desconoce el volumen exacto de datos robados, pero las autoridades confirmaron que se expuso un número significativo de expedientes sellados.",
+  "color": "#ef4444"
+}

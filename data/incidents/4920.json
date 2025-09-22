@@ -1,0 +1,13 @@
+{
+  "id": 4920,
+  "title": "Mobiliario urbano - Data leak - Undetermined",
+  "date": "2022-09-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en City Furniture",
+  "source": "nan",
+  "summary": "City Furniture confirma que la empresa sufrió una violación de datos luego de que datos confidenciales de consumidores contenidos en su red se vieran comprometidos.",
+  "color": "#ef4444"
+}

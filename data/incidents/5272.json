@@ -1,0 +1,13 @@
+{
+  "id": 5272,
+  "title": "Fondo de Energía del Dólar - Ciberataque - Undetermined",
+  "date": "2023-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Dollar Energy Fund DEF",
+  "source": "nan",
+  "summary": "Dollar Energy Fund (DEF) presenta un aviso de violación de datos después de descubrir que una parte no autorizada accedió a su red.",
+  "color": "#ef4444"
+}

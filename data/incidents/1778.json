@@ -1,0 +1,13 @@
+{
+  "id": 1778,
+  "title": "Acreditación, Auditoría y Gestión de Riesgos de Seguridad, LLC - Data leak - Undetermined",
+  "date": "2018-07-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Correcciones de Pensilvania",
+  "source": "https://www.databreaches.net/pa-state-dept-of-corrections-notifies-employees-inmates-of-online-security-incident-with-third-party-vendor/",
+  "summary": "Un incidente de seguridad ocurrido el 3 de abril en un proveedor externo (Accreditation, Audit & Risk Management Security, LLC) puede haber comprometido la información personal de empleados, reclusos y otras personas involucradas con el Departamento de Correcciones de Pensilvania.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1280,
+  "title": "KCG Holdings - Data leak - Zhengquan Zhang",
+  "date": "2017-04-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Zhengquan Zhang",
+  "impact": "Incidente de seguridad en Zhengquan Zhang",
+  "source": "https://www.bleepingcomputer.com/news/security/wall-street-it-engineer-hacks-employer-to-see-if-he-will-be-let-go/",
+  "summary": "El FBI arresta a Zhengquan Zhang, un ingeniero informático de 31 años, acusado de instalar malware en los servidores de su empleador para robar código fuente propietario.",
+  "color": "#a78bfa"
+}

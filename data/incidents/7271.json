@@ -1,0 +1,13 @@
+{
+  "id": 7271,
+  "title": "Montibello - Ransomware - LockBit 3.0",
+  "date": "2023-02-14",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en LockBit3.0 a su",
+  "source": "nan",
+  "summary": "La empresa de productos para la piel y el cabello Montibello ha sido agregada por la banda de ransomware LockBit3.0 a su página de filtraciones.",
+  "color": "#ef4444"
+}

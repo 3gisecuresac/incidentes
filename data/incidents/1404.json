@@ -1,0 +1,13 @@
+{
+  "id": 1404,
+  "title": "OSHA (Administración de Seguridad y Salud Ocupacional) - Data leak - Undetermined",
+  "date": "2017-08-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Aplicación de Seguimiento de Lesiones",
+  "source": "https://www.databreaches.net/osha-suspends-ita-due-to-security-breach/",
+  "summary": "OSHA suspende el acceso de los usuarios a la Aplicación de Seguimiento de Lesiones (ITA) después de que el Departamento de Seguridad Nacional notificara al Departamento de Trabajo sobre una posible vulneración de la información del usuario.",
+  "color": "#a78bfa"
+}

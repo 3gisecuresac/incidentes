@@ -1,0 +1,13 @@
+{
+  "id": 3919,
+  "title": "El sol naciente - Ransomware - REvil",
+  "date": "2021-06-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Cifrado por ransomware en Departamento de Defensa",
+  "source": "nan",
+  "summary": "Sol Oriens, un subcontratista del Departamento de Defensa y el Departamento de Energía que trabaja en tecnologías de armas nucleares, es atacado por un ransomware REvil.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2451,
+  "title": "TorGuard - Data leak - Undetermined",
+  "date": "2019-10-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en TorGuard",
+  "source": "https://www.bleepingcomputer.com/news/security/hacker-breached-servers-belonging-to-multiple-vpn-providers/",
+  "summary": "TorGuard también confirma haber sufrido una violación en septiembre de 2017.",
+  "color": "#a78bfa"
+}

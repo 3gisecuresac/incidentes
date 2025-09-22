@@ -1,0 +1,13 @@
+{
+  "id": 5363,
+  "title": "Servicio de Alguaciles de los Estados Unidos (USMS) - Ransomware - Undetermined",
+  "date": "2023-02-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Alguaciles de Estados Unidos",
+  "source": "nan",
+  "summary": "El Servicio de Alguaciles de Estados Unidos (USMS) está investigando el robo de información confidencial de las fuerzas del orden tras un ataque de ransomware que afectó lo que describe como un sistema USMS independiente.",
+  "color": "#ef4444"
+}

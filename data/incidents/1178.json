@@ -1,0 +1,13 @@
+{
+  "id": 1178,
+  "title": "Escuelas públicas de Dracut - Data leak - Undetermined",
+  "date": "2017-01-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing",
+  "source": "https://www.databreaches.net/ma-dracut-schools-employee-data-hacked-after-employee-falls-for-phishing-attempt/",
+  "summary": "Un pirata informático adquiere información personal de empleados actuales y anteriores, incluido el número de seguro social, luego de que un empleado cae en lo que el distrito describe como un sofisticado plan de phishing.",
+  "color": "#ef4444"
+}

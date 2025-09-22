@@ -1,0 +1,13 @@
+{
+  "id": 2459,
+  "title": "Perspectivas digitales - Data leak - Undetermined",
+  "date": "2019-10-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Digital Insight",
+  "source": "https://krebsonsecurity.com/2019/11/ncr-barred-mint-quickbooks-from-banking-platform-during-account-takeover-storm/",
+  "summary": "NCR Corp. bloquea temporalmente el acceso de los agregadores de datos financieros de terceros Mint y QuickBooks Online a Digital Insight, una plataforma de banca en línea, en respuesta a una serie de apropiaciones de cuentas bancarias.",
+  "color": "#ef4444"
+}

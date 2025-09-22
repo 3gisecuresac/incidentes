@@ -1,0 +1,13 @@
+{
+  "id": 7064,
+  "title": "Delta - Data leak - Nam3L3ss",
+  "date": "2024-05-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Nam3L3ss",
+  "impact": "Filtración de datos en MOVEit de",
+  "source": "nan",
+  "summary": "Delta confirma una violación de datos que involucra información de empleados luego de que datos supuestamente robados durante los ataques MOVEit de mayo de 2023 se filtraran en un foro.",
+  "color": "#ef4444"
+}

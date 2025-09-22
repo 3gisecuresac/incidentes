@@ -1,0 +1,13 @@
+{
+  "id": 4065,
+  "title": "GoDaddy - Data leak - Undetermined",
+  "date": "2021-09-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en WordPress de GoDaddy",
+  "source": "nan",
+  "summary": "Al utilizar una contraseña comprometida, un pirata informático obtiene acceso al entorno de alojamiento de WordPress de GoDaddy y a los datos de hasta 1,2 millones de clientes.",
+  "color": "#ef4444"
+}

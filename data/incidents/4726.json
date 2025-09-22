@@ -1,0 +1,13 @@
+{
+  "id": 4726,
+  "title": "Compañía hipotecaria Hometrust - Ransomware - ALPHVM",
+  "date": "2022-07-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en ALPHVM",
+  "source": "nan",
+  "summary": "ALPHVM filtra datos sobre su sitio de descarga de ransomware en la dark web.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3404,
+  "title": "Salud AllyAlign - Ransomware - Undetermined",
+  "date": "2020-11-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Medicare Advantage",
+  "source": "https://www.databreaches.net/allyalign-notifies-76348-members-and-providers-of-ransomware-attack/",
+  "summary": "AllyAlign Health (AAH), un administrador de planes de necesidades especiales de Medicare Advantage, notificó recientemente a 76,348 miembros y proveedores sobre un intento de ataque de ransomware.",
+  "color": "#ef4444"
+}

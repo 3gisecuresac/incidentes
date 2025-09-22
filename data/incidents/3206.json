@@ -1,0 +1,13 @@
+{
+  "id": 3206,
+  "title": "Allina Salud - Ransomware - Undetermined",
+  "date": "2020-09-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Allina Health",
+  "source": "https://www.securityweek.com/health-care-patient-donor-data-may-have-been-breached",
+  "summary": "Allina Health revela haber sido afectada por el ataque de ransomware Blackbaud.",
+  "color": "#ef4444"
+}

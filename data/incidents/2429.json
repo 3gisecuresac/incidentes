@@ -1,0 +1,13 @@
+{
+  "id": 2429,
+  "title": "Volusión - Data leak - Undetermined",
+  "date": "2019-10-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Volusion",
+  "source": "https://www.zdnet.com/article/hackers-breach-volusion-and-start-collecting-card-details-from-thousands-of-sites/",
+  "summary": "Los hackers vulneraron la infraestructura de Volusion, proveedor de tiendas online alojadas en la nube, y distribuyeron código malicioso que registra y roba los datos de las tarjetas de pago introducidos por los usuarios en formularios online. Más de 6500 tiendas se vieron afectadas.",
+  "color": "#ef4444"
+}

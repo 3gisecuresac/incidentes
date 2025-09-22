@@ -1,0 +1,13 @@
+{
+  "id": 1702,
+  "title": "De marea - Data leak - Undetermined",
+  "date": "2018-05-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Jay-Z anuncia haber contratado a una firma de ciberseguridad independiente",
+  "source": "https://variety.com/2018/digital/news/tidal-investigating-potential-data-breach-after-reports-of-inflated-subscriber-and-streaming-numbers-1202815447/",
+  "summary": "La plataforma de streaming Tidal de Jay-Z anuncia haber contratado a una firma de ciberseguridad independiente para investigar una posible violación de datos, luego de informes sobre números inflados de suscriptores y de streaming.",
+  "color": "#ef4444"
+}

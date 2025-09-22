@@ -1,0 +1,13 @@
+{
+  "id": 1151,
+  "title": "Centro de visas rusas en EE. UU. (ils-us.com) - Data leak - Kapustkiy",
+  "date": "2016-12-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Kapustkiy",
+  "impact": "Sistema o cuenta comprometida en Visas de Rusia en EE",
+  "source": "http://securityaffairs.co/wordpress/54709/hacking/russian-visa-center-hacked.html",
+  "summary": "Kapustkiy hackea el Centro de Visas de Rusia en EE.UU. y accede a la información de unas 3.000 personas.",
+  "color": "#3b82f6"
+}

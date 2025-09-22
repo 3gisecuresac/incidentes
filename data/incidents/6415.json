@@ -1,0 +1,13 @@
+{
+  "id": 6415,
+  "title": "Banco y fideicomiso Adams - Ciberataque - Undetermined",
+  "date": "2023-11-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Adams Bank Trust ABT",
+  "source": "nan",
+  "summary": "Adams Bank & Trust (ABT) presenta un aviso de violación de datos después de confirmar que una parte no autorizada accedió al sistema informático del banco.",
+  "color": "#ef4444"
+}

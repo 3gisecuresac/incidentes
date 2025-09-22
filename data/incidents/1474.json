@@ -1,0 +1,13 @@
+{
+  "id": 1474,
+  "title": "McAfee ClickProtect - Data leak - Undetermined",
+  "date": "2017-11-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en McAfee ClickProtect",
+  "source": "http://www.zdnet.com/article/mcafees-own-anti-hacking-service-exposed-users-to-banking-malware/",
+  "summary": "La empresa de seguridad McAfee bloquea el acceso al sitio web de su servicio McAfee ClickProtect después de que publicaciones sugirieran que el sitio se usaba para distribuir el malware Emotet.",
+  "color": "#a78bfa"
+}

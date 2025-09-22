@@ -1,0 +1,13 @@
+{
+  "id": 2883,
+  "title": "Oficina de Administración de Tribunales de Texas (OCA) - Ransomware - Undetermined",
+  "date": "2020-05-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Administración de Tribunales de Texas",
+  "source": "https://www.bleepingcomputer.com/news/security/texas-courts-hit-by-ransomware-network-disabled-to-limit-spread/",
+  "summary": "La Oficina de Administración de Tribunales de Texas (OCA) es atacada por ransomware.",
+  "color": "#ef4444"
+}

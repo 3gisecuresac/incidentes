@@ -1,0 +1,13 @@
+{
+  "id": 3838,
+  "title": "Hospital Infantil de las Hijas del Rey - Data leak - Undetermined",
+  "date": "2021-04-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Virginia revela acceso no autorizado a cuentas de correo electrónico de empleados",
+  "source": "nan",
+  "summary": "El Hospital Infantil de Virginia revela acceso no autorizado a cuentas de correo electrónico de empleados que contenían información de pacientes.",
+  "color": "#a78bfa"
+}

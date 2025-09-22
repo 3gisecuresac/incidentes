@@ -1,0 +1,13 @@
+{
+  "id": 5990,
+  "title": "Canal Hallmark - Ransomware - cl0p",
+  "date": "2023-07-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Cifrado por ransomware en Hallmark Channel",
+  "source": "nan",
+  "summary": "Hallmark Channel se suma a la lista de víctimas que el grupo de ransomware ruso Clop afirma haber comprometido a través de la vulnerabilidad MOVEit.",
+  "color": "#ef4444"
+}

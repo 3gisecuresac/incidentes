@@ -1,0 +1,13 @@
+{
+  "id": 8045,
+  "title": "correos.gob.bo (Agencia postal boliviana) - Data leak - Undetermined",
+  "date": "2022-08-26",
+  "country": "Bolivia",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en correos.gob.bo",
+  "source": "nan",
+  "summary": "Un vendedor publica datos de correos.gob.bo, la agencia postal boliviana. Afirma tener 3 archivos sql, con un total de 1,47 GB de datos. La filtración parece ser de 2022.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 999,
+  "title": "Foros de Mac - Data leak - uid0",
+  "date": "2016-07-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "uid0",
+  "impact": "Filtración de datos en Web Hosting Talk Mac Forums y HotScripts y",
+  "source": "https://www.vice.com/en_us/article/78kwwe/hackers-allegedly-steal-14m-passwords-from-mac-forums-web-hosting-talk",
+  "summary": "Alguien que se hace llamar uid0 supuestamente roba más de 1,4 millones de contraseñas, direcciones de correo electrónico y otros datos de las bases de datos de foros populares, incluidos Web Hosting Talk, Mac Forums y HotScripts, y ofrece vender las bases de datos en la web oscura.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7435,
+  "title": "Dominican Republic's Instituto Agrario Dominicano - Ransomware - Quantum",
+  "date": "2022-08-24",
+  "country": "Republica Dominicana",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Quantum",
+  "impact": "Cifrado por ransomware en República Dominicana es afectado",
+  "source": "nan",
+  "summary": "El Instituto Agrario Dominicano de República Dominicana es afectado por un ataque de ransomware cuántico.",
+  "color": "#ef4444"
+}

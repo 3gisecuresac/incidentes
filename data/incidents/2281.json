@@ -1,0 +1,13 @@
+{
+  "id": 2281,
+  "title": "Universidad de Hawái - Data leak - Undetermined",
+  "date": "2019-07-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Hawaii",
+  "source": "https://www.databreaches.net/personal-information-for-70000-hawaii-students-potentially-compromised/",
+  "summary": "La información personal de hasta 70.000 estudiantes de escuelas públicas podría haberse visto comprometida después de que Graduation Alliance, un proveedor de la Universidad de Hawaii, detectara un acceso no autorizado sospechoso a uno de sus servidores.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3636,
+  "title": "Grupo médico de imágenes de Sutter Buttes - Data leak - Undetermined",
+  "date": "2021-02-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en TI de su proveedor en 2019",
+  "source": "nan",
+  "summary": "Sutter Buttes Imaging Medical Group notifica a los pacientes que su información médica protegida puede haber sido accedida por personas no autorizadas que piratearon la infraestructura de TI de su proveedor en 2019.",
+  "color": "#a78bfa"
+}

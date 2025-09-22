@@ -1,0 +1,13 @@
+{
+  "id": 5370,
+  "title": "Condado de Chippewa - Data leak - Undetermined",
+  "date": "2023-03-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Recursos Humanos del Condado de Chippewa notifica",
+  "source": "nan",
+  "summary": "La División de Recursos Humanos del Condado de Chippewa notifica que la computadora portátil de un empleado se vio comprometida y se robaron entre 25 y 35 MB de datos del dispositivo, incluida información protegida por HIPAA.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 372,
+  "title": "Big Blue Interactive - Data leak - Zyklon",
+  "date": "2015-02-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Zyklon",
+  "impact": "Filtración de datos en bigblueinteractive.com",
+  "source": "https://www.databreaches.net/and-then-i-stumbled-across-these-hacks-by-zyklon/",
+  "summary": "Zyklon hackea bigblueinteractive.com y filtra 3.997 nombres de usuario y contraseñas.",
+  "color": "#ef4444"
+}

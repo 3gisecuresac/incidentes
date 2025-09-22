@@ -1,0 +1,13 @@
+{
+  "id": 6362,
+  "title": "Red de médicos de BHS - Data leak - Undetermined",
+  "date": "2023-11-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Microsoft Office 365",
+  "source": "nan",
+  "summary": "BHS Physicians Network confirma una violación de una cuenta de correo electrónico comercial alojada en Microsoft Office 365 que era utilizada por un asistente médico.",
+  "color": "#a78bfa"
+}

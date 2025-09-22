@@ -1,0 +1,13 @@
+{
+  "id": 300,
+  "title": "Hewlett Packard - Data leak - Undetermined",
+  "date": "2014-10-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en PC de un",
+  "source": "http://arstechnica.com/security/2014/10/hp-accidentally-signed-malware-will-revoke-certificate/",
+  "summary": "Hewlett-Packard advierte a algunos clientes que revocará un certificado digital utilizado para firmar una gran cantidad de software, incluidos controladores de hardware y otro software, ya que había sido utilizado para firmar digitalmente malware que había infectado la PC de un desarrollador.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2105,
+  "title": "Donald Trump - Malware Attack - Undetermined",
+  "date": "2019-03-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Palm Beach con una memoria USB infectada con malware",
+  "source": "https://www.miamiherald.com/news/politics-government/article228783369.html",
+  "summary": "Las autoridades federales investigan una posible operación de inteligencia china dirigida contra el presidente Donald Trump, luego de que una mujer china fuera arrestada cuando intentaba ingresar al club Mar-a-Lago de Palm Beach con una memoria USB infectada con malware.",
+  "color": "#a78bfa"
+}

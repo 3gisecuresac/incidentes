@@ -1,0 +1,13 @@
+{
+  "id": 962,
+  "title": "Sitio web oficial del representante Richard Neal - DoS - Undetermined",
+  "date": "2016-06-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Representantes fueron desactivados",
+  "source": "http://www.politico.com/story/2016/06/hackers-house-democrats-websites-224904",
+  "summary": "Más de una docena de sitios web oficiales de los demócratas de la Cámara de Representantes fueron desactivados, después de que los demócratas finalizaran una sentada nocturna para presionar por una votación sobre la legislación de control de armas. La interrupción afecta los sitios web del Congreso de los representantes Earl Blumenauer, John Carney, Rosa DeLauro, Lloyd Doggett, Tammy Duckworth, Donna Edwards, Sam Farr, Tulsi Gabbard, Alan Grayson, Marcy Kaptur, William Keating, John Larson, Jim McDermott, Richard Neal, Ed Perlmutter, Jackie Speier y Filemon Vela.",
+  "color": "#a78bfa"
+}

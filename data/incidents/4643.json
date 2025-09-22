@@ -1,0 +1,13 @@
+{
+  "id": 4643,
+  "title": "Uppco - Ransomware - Lorenz",
+  "date": "2022-06-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Lorenz",
+  "impact": "Filtración de datos en Lorenz",
+  "source": "nan",
+  "summary": "Lorenz realizó la exfiltración de datos y ransomware en la red objetivo. Datos presentados en el sitio de filtración de la dark web.",
+  "color": "#ef4444"
+}

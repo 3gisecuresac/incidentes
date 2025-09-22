@@ -1,0 +1,13 @@
+{
+  "id": 7261,
+  "title": "Empresa de transportes urbanos de Sevilla (Tussam) - Ransomware - Undetermined",
+  "date": "2022-11-06",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Transportes Urbanos de Sevilla",
+  "source": "nan",
+  "summary": "La Empresa de Transportes Urbanos de Sevilla (Tussam) denuncia haber sido objeto de un ciberataque y que como consecuencia de ello tanto la aplicación móvil como los paneles informativos de las paradas de autobús quedaron inutilizados.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7730,
+  "title": "Universidad Simon Fraser - Data leak - Undetermined",
+  "date": "2021-02-16",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en La Universidad Simon Fraser",
+  "source": "nan",
+  "summary": "La Universidad Simon Fraser advierte a su comunidad escolar sobre un ciberataque que violó un servidor que almacenaba información sobre números de identificación de estudiantes y empleados y otros datos, incluidas admisiones o nivel académico.",
+  "color": "#ef4444"
+}

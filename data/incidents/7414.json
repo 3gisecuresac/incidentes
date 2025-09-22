@@ -1,0 +1,13 @@
+{
+  "id": 7414,
+  "title": "El Savador National Police - Data leak - FocaLeaks",
+  "date": "2021-09-20",
+  "country": "El Salvador",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "FocaLeaks",
+  "impact": "Filtración de datos en El Salvador",
+  "source": "nan",
+  "summary": "Grupo hacktivista exfiltra datos de 37.000 agentes de la policía de El Salvador.",
+  "color": "#ef4444"
+}

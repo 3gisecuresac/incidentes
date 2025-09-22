@@ -1,0 +1,13 @@
+{
+  "id": 6903,
+  "title": "Clínica Comunitaria de Maui - Ransomware - LockBit",
+  "date": "2024-04-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit",
+  "impact": "Cifrado por ransomware en Maui",
+  "source": "nan",
+  "summary": "La Clínica Comunitaria de Maui (Mālama) advierte a más de 123.000 personas que actores de amenazas accedieron a su información durante un ataque de ransomware LockBit en mayo.",
+  "color": "#ef4444"
+}

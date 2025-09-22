@@ -1,0 +1,13 @@
+{
+  "id": 7380,
+  "title": "El Instituto Nacional de Medicina Genomica - Data leak - CoomingProject",
+  "date": "2021-09-27",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "CoomingProject",
+  "impact": "Filtración de datos en COVID sufre una violación de datos",
+  "source": "nan",
+  "summary": "Agencia de salud del gobierno mexicano involucrada en pruebas e investigación de COVID sufre una violación de datos.",
+  "color": "#ef4444"
+}

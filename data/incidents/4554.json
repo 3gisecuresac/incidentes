@@ -1,0 +1,13 @@
+{
+  "id": 4554,
+  "title": "Comstar LLC - Data leak - Undetermined",
+  "date": "2022-05-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Comstar LLC",
+  "source": "nan",
+  "summary": "El servicio de facturación de ambulancias Comstar LLC notifica a un número aún no revelado de personas luego de una violación de seguridad de datos de sus sistemas que se detectó el 26 de marzo de 2022.",
+  "color": "#ef4444"
+}

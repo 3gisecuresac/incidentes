@@ -1,0 +1,13 @@
+{
+  "id": 5164,
+  "title": "Grupo de radiología y resonancia magnética de Cheyenne - Ransomware - Undetermined",
+  "date": "2022-12-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Cheyenne Radiology Group MRI",
+  "source": "nan",
+  "summary": "Cheyenne Radiology Group & MRI emite notificaciones a sus pacientes sobre un ataque de ransomware que se descubrió y se detuvo el 12 de diciembre de 2022.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2806,
+  "title": "Empresa de envasado de dispositivos médicos sin nombre - Ransomware - Christopher Dobbines",
+  "date": "2020-03-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Christopher Dobbines",
+  "impact": "Incidente de seguridad en Christopher Dobbins",
+  "source": "https://www.databreaches.net/insider-threat-former-employee-of-medical-packaging-company-sentenced-to-federal-prison-for-disrupting-ppe-shipments/",
+  "summary": "Christopher Dobbins ha sido sentenciado a prisión federal por piratear los registros electrónicos de envío de su antiguo empleador, causando daños por más de 200.000 dólares y retrasando el envío de equipo de protección personal.",
+  "color": "#a78bfa"
+}

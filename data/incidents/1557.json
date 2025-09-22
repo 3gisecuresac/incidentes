@@ -1,0 +1,13 @@
+{
+  "id": 1557,
+  "title": "Biblioteca pública de Spartanburg - Ransomware - Undetermined",
+  "date": "2018-01-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Spartanburg se cierra",
+  "source": "https://www.scmagazine.com/spartanburg-sc-library-system-hit-with-ransomware-attack/article/740721/",
+  "summary": "El sistema de la Biblioteca Pública de Spartanburg se cierra luego de sufrir un ataque de ransomware.",
+  "color": "#ef4444"
+}

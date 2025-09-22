@@ -1,0 +1,13 @@
+{
+  "id": 715,
+  "title": "Más seguro - Data leak - ROR[RG]",
+  "date": "2016-01-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ROR[RG]",
+  "impact": "Sistema o cuenta comprometida en LMG Holdings",
+  "source": "https://www.vice.com/en_us/article/aekgwj/car-breathalyzer-company-gets-hacked-internal-docs-dumped-on-dark-web",
+  "summary": "Un hacker llamado ROR[RG], que actúa como moderador del recientemente reiniciado foro de hacking Hell, publica supuestos documentos internos de LMG Holdings, y más específicamente, al menos una de las empresas que posee, LifeSafer.",
+  "color": "#3b82f6"
+}

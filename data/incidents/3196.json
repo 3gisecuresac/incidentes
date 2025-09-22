@@ -1,0 +1,13 @@
+{
+  "id": 3196,
+  "title": "Fertilidad en EE. UU. - Ransomware - Undetermined",
+  "date": "2020-09-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Estados Unidos",
+  "source": "https://www.bleepingcomputer.com/news/security/ransomware-hits-largest-us-fertility-network-patient-data-stolen/",
+  "summary": "US Fertility, el mayor operador de clínicas de fertilidad de Estados Unidos, fue atacado con ransomware y sus datos fueron robados.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6457,
+  "title": "UT Health del Este de Texas - Ciberataque - Undetermined",
+  "date": "2023-11-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en UT Health East Texas",
+  "source": "nan",
+  "summary": "UT Health East Texas no puede aceptar ambulancias en salas de emergencia debido a un posible incidente de ciberseguridad.",
+  "color": "#a78bfa"
+}

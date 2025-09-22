@@ -1,0 +1,13 @@
+{
+  "id": 932,
+  "title": "La cuenta de Twitter de Mark Zuckerberg - Manipulación de mensajes - OurMine",
+  "date": "2016-06-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "OurMine",
+  "impact": "Sistema o cuenta comprometida en Twitter",
+  "source": "http://arstechnica.com/security/2016/06/mark-zuckerberg-twitter-pinterest-hacked/",
+  "summary": "Un hacker o grupo de hackers llamado OurMine Team toma brevemente el control de las cuentas de Twitter y Pinterest del jefe de Facebook, Mark Zuckerberg, aparentemente usando información de una importante violación de seguridad de LinkedIn que ocurrió en 2012.",
+  "color": "#3b82f6"
+}

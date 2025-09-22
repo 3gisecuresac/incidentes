@@ -1,0 +1,13 @@
+{
+  "id": 3296,
+  "title": "NextLight - DoS - Undetermined",
+  "date": "2020-10-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en NextLight",
+  "source": "https://www.databreaches.net/some-longmont-nextlight-customers-service-affected-by-friday-cyberattack/",
+  "summary": "Un ciberataque ocurrido el viernes por la tarde en NextLight, el servicio de internet de banda ancha de fibra óptica de alta velocidad de Longmont, afectó a varios clientes, pero ya se resolvió. El portavoz de Longmont Power and Communications, Scott Rochat, escribió en un correo electrónico que la interrupción se debió a un ataque DDoS.",
+  "color": "#f59e0b"
+}

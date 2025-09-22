@@ -1,0 +1,13 @@
+{
+  "id": 5190,
+  "title": "PayPal - Data leak - Undetermined",
+  "date": "2022-12-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en PayPal",
+  "source": "nan",
+  "summary": "PayPal envía notificaciones de violación de datos a aproximadamente 35.000 usuarios cuyas cuentas fueron accedidas a través de ataques de robo de credenciales que expusieron algunos datos personales.",
+  "color": "#ef4444"
+}

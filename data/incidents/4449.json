@@ -1,0 +1,13 @@
+{
+  "id": 4449,
+  "title": "Suites InTown - Ransomware - Snatch",
+  "date": "2022-04-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Snatch",
+  "impact": "Filtración de datos en SNATCH",
+  "source": "nan",
+  "summary": "SNATCH ejecutó la exfiltración de datos y ransomware en la red objetivo. Los datos se presentaron en el sitio de filtración de la dark web.",
+  "color": "#ef4444"
+}

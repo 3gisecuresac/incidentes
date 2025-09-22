@@ -1,0 +1,13 @@
+{
+  "id": 1992,
+  "title": "Centro de Rehabilitación del Sagrado Corazón - Data leak - Undetermined",
+  "date": "2019-01-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Rehabilitación Sagrado Corazón notifica a los pacientes sobre un incidente de phishing ocurrido a principios de abril",
+  "source": "https://www.databreaches.net/mi-sacred-heart-rehabilitation-center-notifies-patients-of-phishing-incident/",
+  "summary": "El Centro de Rehabilitación Sagrado Corazón notifica a los pacientes sobre un incidente de phishing ocurrido a principios de abril.",
+  "color": "#ef4444"
+}

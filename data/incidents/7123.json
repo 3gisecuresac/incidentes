@@ -1,0 +1,13 @@
+{
+  "id": 7123,
+  "title": "Colectivo AuthoraCare - Data leak - Undetermined",
+  "date": "2024-08-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en AuthoraCare Collective",
+  "source": "nan",
+  "summary": "Entre el 18 y el 22 de agosto de 2024, un agente no autorizado accedió a la red de AuthoraCare Collective, comprometiendo la información médica protegida de aproximadamente 58,019 personas. La revisión concluyó el 21 de octubre de 2024 y se enviaron cartas de notificación el 2 de enero de 2025. AuthoraCare ofreció servicios de monitoreo de crédito a los afectados.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4655,
+  "title": "Corporación del Sistema de Salud Christus Spohn - Ransomware - Avos Locker",
+  "date": "2022-07-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Avos Locker",
+  "impact": "Filtración de datos en Christus Spohn Health System Corporation",
+  "source": "nan",
+  "summary": "Christus Spohn Health System Corporation presenta un aviso oficial de una violación de datos luego de lo que parece ser un ataque de ransomware a gran escala.",
+  "color": "#ef4444"
+}

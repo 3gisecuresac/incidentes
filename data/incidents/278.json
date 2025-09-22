@@ -1,0 +1,13 @@
+{
+  "id": 278,
+  "title": "Escuela secundaria Grady - Data leak - Undetermined",
+  "date": "2014-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Atlanta investigan un incidente de piratería informática en la Escuela Secundaria Grady",
+  "source": "https://www.databreaches.net/ga-atlanta-public-schools-investigating-hack-at-grady-high-school/",
+  "summary": "Las autoridades de las Escuelas Públicas de Atlanta investigan un incidente de piratería informática en la Escuela Secundaria Grady. Según un portavoz del distrito, casi 200 computadoras se vieron afectadas.",
+  "color": "#a78bfa"
+}

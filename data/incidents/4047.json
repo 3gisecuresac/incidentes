@@ -1,0 +1,13 @@
+{
+  "id": 4047,
+  "title": "Familia de agencias Seneca - Data leak - Undetermined",
+  "date": "2021-08-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en California sufre un acceso no autorizado a la red",
+  "source": "nan",
+  "summary": "Proveedor de servicios sociales y de salud de California sufre un acceso no autorizado a la red que compromete la información sanitaria protegida de casi 20.000 personas.",
+  "color": "#3b82f6"
+}

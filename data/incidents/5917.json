@@ -1,0 +1,13 @@
+{
+  "id": 5917,
+  "title": "Ciudad de Cornelius - Ransomware - Undetermined",
+  "date": "2023-07-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Cornelius",
+  "source": "nan",
+  "summary": "La ciudad de Cornelius, Carolina del Norte, está lidiando con servicios retrasados ​​o no disponibles después de un ataque de ransomware.",
+  "color": "#ef4444"
+}

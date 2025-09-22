@@ -1,0 +1,13 @@
+{
+  "id": 1800,
+  "title": "PGA de América - Ransomware - Undetermined",
+  "date": "2018-08-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en PGA of America están bloqueadas",
+  "source": "https://golfweek.com/2018/08/08/hackers-target-pga-servers-seek-bitcoin-ransom/",
+  "summary": "Las computadoras de PGA of America están bloqueadas por un ransomware.",
+  "color": "#ef4444"
+}

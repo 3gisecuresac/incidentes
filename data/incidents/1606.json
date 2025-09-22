@@ -1,0 +1,13 @@
+{
+  "id": 1606,
+  "title": "GitHub - DoS - Undetermined",
+  "date": "2018-02-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en GitHub",
+  "source": "https://www.wired.com/story/github-ddos-memcached/",
+  "summary": "GitHub sobrevive al mayor ataque DDoS registrado (hasta ahora), alcanzando unos impresionantes 1,35 terabits/seg. aprovechando servidores memcached.",
+  "color": "#f59e0b"
+}

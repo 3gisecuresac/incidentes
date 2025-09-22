@@ -1,0 +1,13 @@
+{
+  "id": 7541,
+  "title": "Gobierno canadiense - Data leak - Anonymous",
+  "date": "2015-07-25",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Anonymous",
+  "impact": "Sistema o cuenta comprometida en Canadá",
+  "source": "nan",
+  "summary": "Hackers del colectivo Anonymous afirman haber violado computadoras supuestamente seguras del gobierno canadiense y haber accedido a documentos clasificados de seguridad nacional de alto nivel como represalia por el tiroteo fatal de la semana pasada a manos de la Real Policía Montada de Canadá (RCMP) contra un manifestante en Columbia Británica. Para respaldar su afirmación, publican un documento que parece ser notas legítimas de la Junta del Tesoro de Canadá sobre la financiación del gabinete federal para corregir fallas en las estaciones extranjeras del Servicio Canadiense de Inteligencia de Seguridad (CSIS).",
+  "color": "#3b82f6"
+}

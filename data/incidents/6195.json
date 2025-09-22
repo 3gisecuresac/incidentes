@@ -1,0 +1,13 @@
+{
+  "id": 6195,
+  "title": "Red de médicos visitantes - Ransomware - ThreeAM (aka 3AM)",
+  "date": "2023-09-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ThreeAM (aka 3AM)",
+  "impact": "Cifrado por ransomware en Visiting Physician",
+  "source": "nan",
+  "summary": "Visiting Physician's Network (VPN) se agrega a la lista del grupo de ransomware ThreeAM.",
+  "color": "#ef4444"
+}

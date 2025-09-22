@@ -1,0 +1,13 @@
+{
+  "id": 3350,
+  "title": "Jugadores del juego para Android 'Among Us' - DoS - Eris Loris",
+  "date": "2020-10-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Eris Loris",
+  "impact": "Incidente de seguridad en Eris Loris",
+  "source": "https://threatpost.com/among-us-mobile-game-attackers/160555/",
+  "summary": "Los jugadores de 'Among Us' reciben spam con anuncios de un jugador llamado Eris Loris, lo que hace que el juego sea inútil.",
+  "color": "#a78bfa"
+}

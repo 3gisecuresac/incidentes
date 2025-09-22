@@ -1,0 +1,13 @@
+{
+  "id": 366,
+  "title": "Complejo turístico French Lick - Infección Dispositivos - Undetermined",
+  "date": "2015-01-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en French Lick Resort",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/malware-infects-payment-card-system-at-french-lick-resort/",
+  "summary": "French Lick Resort anuncia que un malware ha infectado su sistema de tarjetas de pago y que cualquier huésped que haya utilizado su tarjeta de crédito y débito entre el 23 de abril de 2014 y el 21 de enero podría haber visto comprometida su información personal.",
+  "color": "#3b82f6"
+}

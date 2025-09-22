@@ -1,0 +1,13 @@
+{
+  "id": 1171,
+  "title": "http://forumserver.twoplustwo.com - Data leak - Undetermined",
+  "date": "2017-01-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TwoPlusTwo",
+  "source": "https://www.databreaches.net/twoplustwo-poker-forum-hacked-personal-data-stolen-and-offered-for-sale/",
+  "summary": "Los operadores del foro de discusión de póker en línea más grande del mundo, TwoPlusTwo, confirman que el foro fue hackeado en algún momento a finales de 2016 y que los datos personales luego fueron puestos a la venta.",
+  "color": "#ef4444"
+}

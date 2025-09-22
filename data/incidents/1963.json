@@ -1,0 +1,13 @@
+{
+  "id": 1963,
+  "title": "Centro Espacial Goddard de la NASA - Ciberespionaje - Ministry of State Security's (MSS) Tianjin State Security Department (APT10)",
+  "date": "2018-12-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberespionaje",
+  "actor": "Ministry of State Security's (MSS) Tianjin State Security Department (APT10)",
+  "impact": "Sistema o cuenta comprometida en Seguridad del Estado de Tianjin",
+  "source": "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+  "summary": "Los actores de la amenaza APT 10, en colaboración con la Oficina de Seguridad del Estado de Tianjin, comprometieron a ocho proveedores de servicios tecnológicos, entre ellos Hewlett Packard Enterprise e IBM (sus servicios en la nube fueron el objetivo principal), para robar secretos comerciales de más de cuarenta y cinco empresas tecnológicas clientes. Entre las víctimas se encuentran el gigante sueco de telecomunicaciones Ericsson, el astillero naval estadounidense Huntington Ingalls Industries y el sistema de reservas de viajes Sabre.",
+  "color": "#3b82f6"
+}

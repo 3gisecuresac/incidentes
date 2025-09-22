@@ -1,0 +1,13 @@
+{
+  "id": 1390,
+  "title": "Mandiant - Manipulación de mensajes - 31337",
+  "date": "2017-07-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "31337",
+  "impact": "Filtración de datos en Mandiant es víctima de la Operación #LeakTheAnalyst",
+  "source": "https://thenextweb.com/insider/2017/07/31/hackers-kick-off-leaktheanalyst-campaign-by-dumping-data-of-1bn-security-firm/",
+  "summary": "Un analista de inteligencia de amenazas de Mandiant es víctima de la Operación #LeakTheAnalyst. Atacantes se infiltraron en su computadora durante más de un año y filtraron información interna.",
+  "color": "#ef4444"
+}

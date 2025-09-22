@@ -1,0 +1,13 @@
+{
+  "id": 1807,
+  "title": "Salud de la Universidad de Augusta - Data leak - Undetermined",
+  "date": "2018-08-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Augusta University Health",
+  "source": "https://www.ajc.com/news/state--regional/university-breach-risks-health-personal-information-417-000/nPuUSV8qqvQXTQjY0ML8wN/",
+  "summary": "Augusta University Health revela una violación de seguridad que afecta a 417.000 pacientes como consecuencia de dos ataques de phishing ocurridos el 11 de septiembre de 2017 y el 31 de julio de 2018.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7459,
+  "title": "Bolsa de valores de Colombia - DoS - Killnet",
+  "date": "2022-06-30",
+  "country": "Colombia",
+  "region": "Latinoamerica",
+  "type": "DoS",
+  "actor": "Killnet",
+  "impact": "Interrupción por DDoS en Valores de Colombia",
+  "source": "nan",
+  "summary": "Killnet afirma haber llevado a cabo un ataque DDoS contra el sitio web de la Bolsa de Valores de Colombia. Un día antes del ataque, KillNet publicó un artículo que informaba que el gobierno colombiano había decidido enviar oficialmente ingenieros militares para apoyar al ejército ucraniano. Killnet publicó el artículo con la frase ¿Por qué hacen esto, Colombia?.",
+  "color": "#f59e0b"
+}

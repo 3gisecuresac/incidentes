@@ -1,0 +1,13 @@
+{
+  "id": 6659,
+  "title": "Procesador comercial de American Express - Ciberataque - Undetermined",
+  "date": "2024-03-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en American Express",
+  "source": "nan",
+  "summary": "American Express advierte a sus clientes que las tarjetas de crédito quedaron expuestas en una violación de datos de terceros luego de que un procesador comercial fuera pirateado.",
+  "color": "#ef4444"
+}

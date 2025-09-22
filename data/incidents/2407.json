@@ -1,0 +1,13 @@
+{
+  "id": 2407,
+  "title": "Salud de Goshen - Data leak - Undetermined",
+  "date": "2019-09-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Goshen Health",
+  "source": "https://www.databreaches.net/in-goshen-health-notifies-patients-potentially-impacted-by-2018-data-security-breach/",
+  "summary": "Goshen Health revela un incidente de seguridad que afectó la información personal de algunos de sus pacientes. Un tercero no autorizado podría haber accedido a las cuentas de correo electrónico de dos empleados entre el 2 y el 13 de agosto de 2018, aproximadamente.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5365,
+  "title": "Banco Hatch - Data leak - Undetermined",
+  "date": "2023-02-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en GoAnywhere de Fortra en el software de transferencia de archivos interno de la empresa",
+  "source": "nan",
+  "summary": "Hatch Bank, un banco digital que brinda infraestructura para empresas de tecnología financiera que ofrecen tarjetas de crédito de su propia marca, confirma que los atacantes explotaron la vulnerabilidad de día cero CVE-2023-0669 de GoAnywhere de Fortra en el software de transferencia de archivos interno de la empresa que permitió el acceso a miles de números de Seguro Social de clientes.",
+  "color": "#a78bfa"
+}

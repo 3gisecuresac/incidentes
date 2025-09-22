@@ -1,0 +1,13 @@
+{
+  "id": 224,
+  "title": "Policía de Ferguson - Data leak - Anonymous",
+  "date": "2014-08-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Anonymous",
+  "impact": "Incidente de seguridad en Twitter",
+  "source": "http://www.cnet.com/news/anonymous-hacks-into-ferguson-police-site-for-dispatch-tapes/",
+  "summary": "El colectivo Anonymous publica horas de supuestas cintas de despacho policial en Twitter y YouTube del día en que el adolescente desarmado Michael Brown fue asesinado a tiros por la policía en un suburbio de St. Louis.",
+  "color": "#a78bfa"
+}

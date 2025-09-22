@@ -1,0 +1,13 @@
+{
+  "id": 6538,
+  "title": "Hospital San Antonio - Ransomware - LockBit 3.0",
+  "date": "2023-12-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en El Hospital Saint Anthony",
+  "source": "nan",
+  "summary": "El Hospital Saint Anthony presenta una notificación de filtración de datos tras descubrir que un tercero no autorizado logró acceder a la red informática de la organización. El grupo de ransomware LockBit se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

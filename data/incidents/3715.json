@@ -1,0 +1,13 @@
+{
+  "id": 3715,
+  "title": "Spirit Airlines - Ransomware - Water Roc",
+  "date": "2021-03-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Water Roc",
+  "impact": "Cifrado por ransomware en Spirit Airlines",
+  "source": "nan",
+  "summary": "Spirit Airlines es atacado por los actores de amenazas del ransomware Nefilim.",
+  "color": "#ef4444"
+}

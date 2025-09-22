@@ -1,0 +1,13 @@
+{
+  "id": 7518,
+  "title": "Well.ca - Data leak - Undetermined",
+  "date": "2014-02-18",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Well.ca un",
+  "source": "nan",
+  "summary": "Well.ca, un minorista canadiense en línea de productos de salud y belleza, declara haber sufrido una violación de datos que comprometió la información de las tarjetas de crédito de unos pocos miles de sus clientes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3823,
+  "title": "Oficina del Fiscal General de Illinois, Kwame Raoul - Ransomware - DoppelPaymer",
+  "date": "2021-04-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "DoppelPaymer",
+  "impact": "Cifrado por ransomware en Fiscal General de Illinois es víctima de un ataque de ransomware DoppelPaymer",
+  "source": "nan",
+  "summary": "La Oficina del Fiscal General de Illinois es víctima de un ataque de ransomware DoppelPaymer que expone información personal de los residentes.",
+  "color": "#ef4444"
+}

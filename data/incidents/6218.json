@@ -1,0 +1,13 @@
+{
+  "id": 6218,
+  "title": "Octa - Ciberataque - Undetermined",
+  "date": "2023-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Rightway Healthcare un",
+  "source": "nan",
+  "summary": "Okta advierte a casi 5.000 empleados actuales y anteriores que su información personal quedó expuesta después de que Rightway Healthcare, un proveedor externo, sufriera una violación de seguridad.",
+  "color": "#ef4444"
+}

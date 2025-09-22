@@ -1,0 +1,13 @@
+{
+  "id": 940,
+  "title": "GitHub - Data leak - Undetermined",
+  "date": "2016-06-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en GitHub",
+  "source": "https://github.com/blog/2190-github-security-update-reused-password-attack",
+  "summary": "Alguien que utiliza lo que parece haber sido una lista de direcciones de correo electrónico y contraseñas obtenidas de la violación de otros servicios en línea realiza una cantidad masiva de intentos de inicio de sesión en el servicio de repositorio de GitHub.",
+  "color": "#a78bfa"
+}

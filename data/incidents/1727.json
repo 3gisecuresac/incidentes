@@ -1,0 +1,13 @@
+{
+  "id": 1727,
+  "title": "Terros Salud - Data leak - Undetermined",
+  "date": "2018-06-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Terros Health",
+  "source": "https://www.abc15.com/news/region-phoenix-metro/central-phoenix/terros-health-data-breach-1600-patients-potentially-impacted",
+  "summary": "Terros Health advierte que 1600 historiales de pacientes quedaron expuestos en una filtración de datos a principios de esta primavera. La filtración, causada por un ataque de phishing, se descubrió el 12 de abril y tuvo lugar el 16 de noviembre de 2017.",
+  "color": "#ef4444"
+}

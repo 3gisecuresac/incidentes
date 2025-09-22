@@ -1,0 +1,13 @@
+{
+  "id": 1536,
+  "title": "Centro de Ciencias de la Salud de la Universidad Estatal de Oklahoma (OSUCHS) - Data leak - Undetermined",
+  "date": "2018-01-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Ciencias de la Salud de la Universidad Estatal de Oklahoma notifica a un número no revelado de pacientes afectados",
+  "source": "https://www.databreaches.net/oklahoma-state-university-center-for-health-sciences-notice-to-medicaid-patients-of-a-data-security-incident/",
+  "summary": "El Centro de Ciencias de la Salud de la Universidad Estatal de Oklahoma notifica a un número no revelado de pacientes afectados por un incidente de un tercero no autorizado ocurrido en noviembre de 2017.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1283,
+  "title": "Northrop Grumman - Data leak - Undetermined",
+  "date": "2017-04-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Northrop Grumman",
+  "source": "https://www.theregister.co.uk/2017/04/24/northrop_grumman_breach_worker_w2s/",
+  "summary": "Northrop Grumman admite que uno de sus portales internos fue violado, exponiendo los registros tributarios confidenciales de sus empleados a estafas W-2.",
+  "color": "#a78bfa"
+}

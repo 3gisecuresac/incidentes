@@ -1,0 +1,13 @@
+{
+  "id": 990,
+  "title": "Trillian - Data leak - Undetermined",
+  "date": "2016-07-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Cerulean Studios",
+  "source": "https://www.trillian.im/help/trillian-blog-and-forums-security-incident/",
+  "summary": "Cerulean Studios revela haber descubierto una brecha de seguridad que afecta a su blog y foros. La brecha afecta potencialmente a 3 millones de registros y podría datar de diciembre de 2015.",
+  "color": "#a78bfa"
+}

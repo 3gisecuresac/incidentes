@@ -1,0 +1,13 @@
+{
+  "id": 890,
+  "title": "Equifax - Data leak - Undetermined",
+  "date": "2016-05-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Equifax",
+  "source": "http://krebsonsecurity.com/2016/05/crooks-grab-w-2s-from-credit-bureau-equifax/",
+  "summary": "Personas desconocidas acceden al sitio web W2Express de Equifax y roban datos fiscales y salariales.",
+  "color": "#ef4444"
+}

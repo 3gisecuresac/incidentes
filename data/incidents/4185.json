@@ -1,0 +1,13 @@
+{
+  "id": 4185,
+  "title": "Salud Jefferson - Data leak - Undetermined",
+  "date": "2021-11-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Jefferson Health está comprometida",
+  "source": "nan",
+  "summary": "La información personal de más de 9.000 pacientes de Jefferson Health está comprometida por el acceso no autorizado a su portal de seguros en línea.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4345,
+  "title": "Alta Gestión Médica - Ransomware - Undetermined",
+  "date": "2022-03-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en PVOC estuviera sujeta a acceso no autorizado",
+  "source": "nan",
+  "summary": "Pioneer Valley Ophthalmic Consultants (PVOC) presenta un aviso de violación de datos después de enterarse de que un ataque de ransomware a un proveedor externo, Alta Medical Management, resultó en que la información confidencial de los pacientes de PVOC estuviera sujeta a acceso no autorizado.",
+  "color": "#ef4444"
+}

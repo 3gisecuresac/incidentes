@@ -1,0 +1,13 @@
+{
+  "id": 4219,
+  "title": "La Posada - Ransomware - Undetermined",
+  "date": "2021-12-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Arizona sufre ataque de ransomware",
+  "source": "nan",
+  "summary": "Centro de salud de Arizona sufre ataque de ransomware que compromete datos de pacientes.",
+  "color": "#ef4444"
+}

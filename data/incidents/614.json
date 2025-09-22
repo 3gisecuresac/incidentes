@@ -1,0 +1,13 @@
+{
+  "id": 614,
+  "title": "agenterealtor.com - malvertising - Undetermined",
+  "date": "2015-09-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "malvertising",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en realtor.com",
+  "source": "https://blog.malwarebytes.org/malvertising-2/2015/09/malvertising-attack-hits-realtor-com-visitors/",
+  "summary": "Otro sitio web de alto perfil víctima de una campaña de publicidad maliciosa. En esta ocasión, el objetivo es realtor.com, un popular sitio web inmobiliario que ocupa el tercer puesto en su categoría, con un estimado de 28 millones de visitas mensuales.",
+  "color": "#a78bfa"
+}

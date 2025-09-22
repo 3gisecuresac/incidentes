@@ -1,0 +1,13 @@
+{
+  "id": 8040,
+  "title": "BMW Múnich Motors - Ransomware - Knight",
+  "date": "2023-10-15",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Knight",
+  "impact": "Cifrado por ransomware en BMW Munique Motors",
+  "source": "nan",
+  "summary": "El grupo de ransomware Knight se atribuye la responsabilidad de un ciberataque a BMW Munique Motors, un concesionario autorizado de BMW en Brasil.",
+  "color": "#ef4444"
+}

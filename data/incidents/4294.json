@@ -1,0 +1,13 @@
+{
+  "id": 4294,
+  "title": "Departamento de Licencias de Washington - Data leak - Undetermined",
+  "date": "2022-01-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Licencias de Washington sufre una violación de datos en su portal en línea",
+  "source": "nan",
+  "summary": "El Departamento de Licencias de Washington sufre una violación de datos en su portal en línea, comprometiendo la información personal de cientos de miles de profesionales autorizados.",
+  "color": "#ef4444"
+}

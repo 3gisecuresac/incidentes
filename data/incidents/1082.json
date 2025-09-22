@@ -1,0 +1,13 @@
+{
+  "id": 1082,
+  "title": "Condado de Potter - Data leak - Undetermined",
+  "date": "2016-10-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Potter aseguran a los usuarios",
+  "source": "https://www.scmagazine.com/home/security-news/potter-county-texas-voter-website-hacked/",
+  "summary": "Los funcionarios del condado de Potter aseguran a los usuarios que su sitio web de información para votantes es seguro después de enterarse de que los piratas informáticos obtuvieron acceso a él.",
+  "color": "#a78bfa"
+}

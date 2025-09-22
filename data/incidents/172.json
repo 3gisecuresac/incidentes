@@ -1,0 +1,13 @@
+{
+  "id": 172,
+  "title": "Empresas Rowan - Data leak - Undetermined",
+  "date": "2014-06-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Rowan Companies",
+  "source": "http://www.databreaches.net/rowan-companies-notifies-employees-vendors-and-contractors-of-system-intrusion/",
+  "summary": "Rowan Companies notifica a los empleados, proveedores y contratistas sobre una intrusión en el sistema.",
+  "color": "#3b82f6"
+}

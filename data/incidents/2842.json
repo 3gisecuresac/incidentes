@@ -1,0 +1,13 @@
+{
+  "id": 2842,
+  "title": "Ciudad de Torrance - Ransomware - INDRIK SPIDER",
+  "date": "2020-04-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Cifrado por ransomware en Torrance del área metropolitana de Los Ángeles se ve afectada",
+  "source": "https://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-hits-los-angeles-county-city-leaks-files/",
+  "summary": "La ciudad de Torrance del área metropolitana de Los Ángeles se ve afectada por el ransomware DoppelPaymer.",
+  "color": "#ef4444"
+}

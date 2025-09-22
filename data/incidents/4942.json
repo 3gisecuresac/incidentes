@@ -1,0 +1,13 @@
+{
+  "id": 4942,
+  "title": "Compañía petrolera GATE - Ciberataque - Undetermined",
+  "date": "2022-09-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en GATE Petroleum Company",
+  "source": "nan",
+  "summary": "GATE Petroleum Company informa sobre una violación de datos después de que la empresa se enteró de que una parte no autorizada había obtenido acceso a información confidencial almacenada en su red informática.",
+  "color": "#ef4444"
+}

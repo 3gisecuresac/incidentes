@@ -1,0 +1,13 @@
+{
+  "id": 3411,
+  "title": "Sistemas bancarios estadounidenses - Ransomware - Avaddon",
+  "date": "2020-11-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Avaddon",
+  "impact": "Filtración de datos en American Bank Systems",
+  "source": "https://www.databreaches.net/american-bank-systems-hit-by-ransomware-attack-full-53-gb-data-dump-leaked/",
+  "summary": "American Bank Systems fue víctima de un ataque de ransomware y le robaron 53 GB de datos.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4592,
+  "title": "Atrium Health - Data leak - Undetermined",
+  "date": "2022-06-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Atrium Health",
+  "source": "nan",
+  "summary": "Atrium Health informa a 6.695 personas sobre un ataque de phishing ocurrido entre el 7 y el 8 de abril. Un tercero no autorizado utilizó una estafa de phishing para obtener acceso a la cuenta de correo electrónico y mensajería empresarial de un empleado.",
+  "color": "#ef4444"
+}

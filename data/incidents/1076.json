@@ -1,0 +1,13 @@
+{
+  "id": 1076,
+  "title": "La Fundación Clinton - Data leak - GRU Main Special Center for Special Technologies (Unit 74455) (SANDWORM)",
+  "date": "2016-10-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "GRU Main Special Center for Special Technologies (Unit 74455) (SANDWORM)",
+  "impact": "Sistema o cuenta comprometida en Guccifer 2.0",
+  "source": "http://www.politico.com/story/2016/10/guccifer-hacker-clinton-foundation-files-229113",
+  "summary": "Guccifer 2.0 publica lo que el hacker afirma que son archivos robados de la Fundación Clinton, pero la fundación dice que las afirmaciones no son ciertas.",
+  "color": "#3b82f6"
+}

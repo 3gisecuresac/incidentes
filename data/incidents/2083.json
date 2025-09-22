@@ -1,0 +1,13 @@
+{
+  "id": 2083,
+  "title": "Escuelas Orchard View - Data leak - Undetermined",
+  "date": "2019-03-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Michigan piratearon el sistema informático del distrito escolar",
+  "source": "https://www.bleepingcomputer.com/news/security/students-hack-school-system-to-change-grades-and-attendance/",
+  "summary": "Los funcionarios de las escuelas Orchard View revelan que los estudiantes de Michigan piratearon el sistema informático del distrito escolar y cambiaron las calificaciones y los registros de asistencia.",
+  "color": "#a78bfa"
+}

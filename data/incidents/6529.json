@@ -1,0 +1,13 @@
+{
+  "id": 6529,
+  "title": "Universidad de Tulane - Ransomware - Meow",
+  "date": "2023-12-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Meow",
+  "impact": "Cifrado por ransomware en Tulane sufre un ciberataque",
+  "source": "nan",
+  "summary": "La Universidad de Tulane sufre un ciberataque. La banda del ransomware Meow se atribuye la responsabilidad.",
+  "color": "#ef4444"
+}

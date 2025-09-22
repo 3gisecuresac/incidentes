@@ -1,0 +1,13 @@
+{
+  "id": 4848,
+  "title": "Soluciones técnicas Bell (BTS) - Ransomware - Hive",
+  "date": "2022-08-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Cifrado por ransomware en Bell Technical Solutions",
+  "source": "nan",
+  "summary": "La banda de ransomware Hive se atribuye la responsabilidad de un ataque que afectó a los sistemas de Bell Technical Solutions (BTS), subsidiaria de Bell Canada.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5427,
+  "title": "Anillo - Ransomware - ALPHVM",
+  "date": "2023-03-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Cifrado por ransomware en BlackCat a",
+  "source": "nan",
+  "summary": "La empresa de timbres inteligentes y cámaras de seguridad Ring supuestamente fue víctima de un ataque de ransomware BlackCat, a pesar de que la empresa negó haber sido atacada.",
+  "color": "#ef4444"
+}

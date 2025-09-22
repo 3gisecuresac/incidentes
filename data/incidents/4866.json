@@ -1,0 +1,13 @@
+{
+  "id": 4866,
+  "title": "CorrectHealth - Data leak - Undetermined",
+  "date": "2022-08-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en CorrectHealth",
+  "source": "nan",
+  "summary": "CorrectHealth revela una violación de datos que sufrió en noviembre de 2021 después de que intrusos externos accedieran a las cuentas de correo electrónico de algunos empleados.",
+  "color": "#ef4444"
+}

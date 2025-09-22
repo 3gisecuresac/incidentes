@@ -1,0 +1,13 @@
+{
+  "id": 2859,
+  "title": "Centro de Cirugía Plástica de la Dra. Kristin Tarbet - Ransomware - MAZE",
+  "date": "2020-05-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "MAZE",
+  "impact": "Cifrado por ransomware en Cirugía Plástica de la Dra",
+  "source": "https://www.databreaches.net/so-much-for-their-moratorium-on-attacking-healthcare-entities-maze-team-attacks-a-plastic-surgeon/",
+  "summary": "El Centro de Cirugía Plástica de la Dra. Kristin Tarbet se ve afectado por un ataque de ransomware Maze.",
+  "color": "#ef4444"
+}

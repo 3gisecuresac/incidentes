@@ -1,0 +1,13 @@
+{
+  "id": 7850,
+  "title": "Hospital Michael Garron - Ransomware - Akira",
+  "date": "2023-10-26",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Akira",
+  "impact": "Cifrado por ransomware en El Hospital Michael Garron",
+  "source": "nan",
+  "summary": "El Hospital Michael Garron es atacado por un ransomware Akira.",
+  "color": "#ef4444"
+}

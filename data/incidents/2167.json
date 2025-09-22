@@ -1,0 +1,13 @@
+{
+  "id": 2167,
+  "title": "Sistema operativo Inc. - Data leak - Undetermined",
+  "date": "2019-05-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Tahoe Forest Health District Sparta Community Hospital Sauk Prairie Healthcare Idaho Department of Health",
+  "source": "https://www.databreaches.net/numbers-from-the-os-inc-breach-dribble-in/",
+  "summary": "Spectrum Health Lakeland notifica una violación del proveedor de facturación, OS Inc. Otras víctimas incluyen: Tahoe Forest Health District, Sparta Community Hospital, Sauk Prairie Healthcare, Idaho Department of Health and Welfare, Fort Healthcare, Midwest MC.",
+  "color": "#a78bfa"
+}

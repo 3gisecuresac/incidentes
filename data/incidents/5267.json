@@ -1,0 +1,13 @@
+{
+  "id": 5267,
+  "title": "Hospital General del Atlántico - Ransomware - Undetermined",
+  "date": "2023-01-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Atlántico es víctima de un ataque de ransomware",
+  "source": "nan",
+  "summary": "El Hospital General del Atlántico es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

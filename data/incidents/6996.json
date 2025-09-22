@@ -1,0 +1,13 @@
+{
+  "id": 6996,
+  "title": "Distrito escolar del condado de Boone - Data leak - Undetermined",
+  "date": "2024-12-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Distrito Escolar del Condado de Boone están comprometidos en un esquema de phishing",
+  "source": "nan",
+  "summary": "Los datos personales de estudiantes actuales y anteriores del Distrito Escolar del Condado de Boone están comprometidos en un esquema de phishing.",
+  "color": "#ef4444"
+}

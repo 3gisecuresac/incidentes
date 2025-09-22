@@ -1,0 +1,13 @@
+{
+  "id": 7027,
+  "title": "Ciudad de Hoboken - Ransomware - ThreeAM (aka 3AM)",
+  "date": "2024-11-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ThreeAM (aka 3AM)",
+  "impact": "Cifrado por ransomware en Hoboken cierra sus oficinas gubernamentales",
+  "source": "nan",
+  "summary": "La ciudad de Hoboken cierra sus oficinas gubernamentales luego de que un ataque de ransomware a primera hora de la mañana causara problemas generalizados.",
+  "color": "#ef4444"
+}

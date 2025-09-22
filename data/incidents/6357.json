@@ -1,0 +1,13 @@
+{
+  "id": 6357,
+  "title": "Señor Cooper - Ransomware - Undetermined",
+  "date": "2023-11-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Mr. Cooper",
+  "source": "nan",
+  "summary": "El gigante estadounidense de préstamos hipotecarios, Mr. Cooper, sufre un ciberataque que provoca que la empresa cierre sus sistemas informáticos, incluido el acceso a su portal de pagos en línea.",
+  "color": "#a78bfa"
+}

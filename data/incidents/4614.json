@@ -1,0 +1,13 @@
+{
+  "id": 4614,
+  "title": "Distrito Hospitalario del Sureste de Colorado (SECHD) - Data leak - Undetermined",
+  "date": "2022-06-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Sureste de Colorado",
+  "source": "nan",
+  "summary": "El Distrito Hospitalario del Sureste de Colorado (SECHD) presenta un aviso de violación de datos después de enterarse de que la cuenta de correo electrónico de un empleado que contenía información confidencial del paciente se vio comprometida.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4939,
+  "title": "Círculos de cuidado - Ciberataque - Undetermined",
+  "date": "2022-09-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Circles of Care",
+  "source": "nan",
+  "summary": "Circles of Care presenta un aviso de violación de datos después de confirmar que una parte no autorizada pudo acceder y posiblemente robar información confidencial de pacientes de la red informática de la organización.",
+  "color": "#ef4444"
+}

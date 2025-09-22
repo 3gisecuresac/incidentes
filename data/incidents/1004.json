@@ -1,0 +1,13 @@
+{
+  "id": 1004,
+  "title": "Shadi.com - Data leak - Undetermined",
+  "date": "2016-07-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en shadi.com",
+  "source": "https://www.hackread.com/matrimonial-matching-site-shadi-com-hacked/",
+  "summary": "Otro sitio web de citas musulmanas ha sido hackeado. Esta vez le toca el turno a shadi.com, que ha visto 2 millones de cuentas robadas en línea, incluyendo contraseñas en texto plano.",
+  "color": "#3b82f6"
+}

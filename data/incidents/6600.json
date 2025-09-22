@@ -1,0 +1,13 @@
+{
+  "id": 6600,
+  "title": "Primera seguridad financiera - Ransomware - Undetermined",
+  "date": "2024-01-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en First Financial Security FFS",
+  "source": "nan",
+  "summary": "First Financial Security (FFS) presenta un aviso de violación de datos después de descubrir que la empresa fue recientemente blanco de un ataque de ransomware.",
+  "color": "#ef4444"
+}

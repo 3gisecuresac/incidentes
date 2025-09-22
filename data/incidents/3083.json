@@ -1,0 +1,13 @@
+{
+  "id": 3083,
+  "title": "Atrium Health - Ransomware - Undetermined",
+  "date": "2020-08-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Atrium Health",
+  "source": "https://www.govtech.com/security/North-Carolina-Health-System-Notifies-Patients-of-Data-Breach.html",
+  "summary": "Atrium Health se suma a la lista de víctimas del ataque del ransomware Blackbaud.",
+  "color": "#ef4444"
+}

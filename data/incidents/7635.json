@@ -1,0 +1,13 @@
+{
+  "id": 7635,
+  "title": "Hospital Listowel - Ransomware - Undetermined",
+  "date": "2019-09-27",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Hospital Listowel",
+  "source": "nan",
+  "summary": "El Hospital Listowel es afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

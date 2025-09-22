@@ -1,0 +1,13 @@
+{
+  "id": 3997,
+  "title": "Centros de cáncer de Austin - Ransomware - Undetermined",
+  "date": "2021-07-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Austin Cancer Centers",
+  "source": "nan",
+  "summary": "Austin Cancer Centers sufre un ataque de ransomware.",
+  "color": "#ef4444"
+}

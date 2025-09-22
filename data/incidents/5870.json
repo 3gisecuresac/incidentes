@@ -1,0 +1,13 @@
+{
+  "id": 5870,
+  "title": "Servicios de salud del norte de Mississippi - Data leak - Undetermined",
+  "date": "2023-07-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en North Mississippi Health Services",
+  "source": "nan",
+  "summary": "North Mississippi Health Services revela que descubrió un acceso no autorizado a través de la cuenta de correo electrónico de un empleado después de que se abrió accidentalmente un correo electrónico de phishing.",
+  "color": "#ef4444"
+}

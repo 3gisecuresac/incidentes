@@ -1,0 +1,13 @@
+{
+  "id": 1582,
+  "title": "Hotel Staybridge Suites Lexington - Infección Dispositivos - Undetermined",
+  "date": "2018-02-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Staybridge Suites Lexington",
+  "source": "https://www.scmagazine.com/staybridge-suites-lexington-hotel-hit-with-data-breach/article/744956/",
+  "summary": "El hotel Staybridge Suites Lexington se vio afectado por lo que parece ser una violación de datos de puntos de venta que ocurrió cuando varios dispositivos del hotel fueron atacados con malware.",
+  "color": "#ef4444"
+}

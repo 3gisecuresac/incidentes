@@ -1,0 +1,13 @@
+{
+  "id": 927,
+  "title": "BitGo - DoS - Undetermined",
+  "date": "2016-06-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en BitGo",
+  "source": "http://news.softpedia.com/news/ddos-attack-on-bitgo-bitcoin-wallet-sends-shockwaves-through-the-industry-504887.shtml",
+  "summary": "Un ataque DDoS masivo golpea a BitGo, un servicio que se describe a sí mismo como la solución de billetera Bitcoin más segura disponible en la actualidad.",
+  "color": "#f59e0b"
+}

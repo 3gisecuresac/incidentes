@@ -1,0 +1,13 @@
+{
+  "id": 1693,
+  "title": "Distrito escolar de Bemus Point - Data leak - Undetermined",
+  "date": "2018-05-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Bemus Point revela",
+  "source": "https://www.databreaches.net/officials-student-info-breached-in-bemus-point/",
+  "summary": "El superintendente del distrito escolar de Bemus Point revela que algunos estudiantes del distrito podrían haber sido comprometidos en medio de la violación de Maia Learning por parte de un competidor.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3510,
+  "title": "Pico TPA - Ransomware - Undetermined",
+  "date": "2020-12-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en PeakTPA un",
+  "source": "nan",
+  "summary": "PeakTPA, un proveedor de servicios de gestión sanitaria, ha sufrido un ataque de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 488,
+  "title": "Starbucks - Data leak - Undetermined",
+  "date": "2015-05-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Starbucks",
+  "source": "https://www.usatoday.com/story/tech/2015/05/15/starbucks-gift-card-hack/27370491/",
+  "summary": "Starbucks es víctima de un ingenioso hackeo, que permite a los piratas informáticos de tarjetas de crédito robar dinero de la aplicación móvil de tarjetas de regalo de los consumidores.",
+  "color": "#3b82f6"
+}

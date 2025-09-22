@@ -1,0 +1,13 @@
+{
+  "id": 6363,
+  "title": "Compañía operativa del grupo Hilb - Data leak - Undetermined",
+  "date": "2023-11-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Hilb Group Operating Company Hilb",
+  "source": "nan",
+  "summary": "Hilb Group Operating Company (Hilb) presenta un aviso de violación de datos después de enterarse de que una parte no autorizada pudo acceder a ciertas cuentas de correo electrónico de empleados.",
+  "color": "#ef4444"
+}

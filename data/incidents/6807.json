@@ -1,0 +1,13 @@
+{
+  "id": 6807,
+  "title": "Cara abrazada - Data leak - Undetermined",
+  "date": "2024-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Hugging Face",
+  "source": "nan",
+  "summary": "La plataforma de inteligencia artificial Hugging Face dice que su plataforma Spaces fue violada, lo que permitió a los actores de amenazas acceder a los secretos de autenticación de sus miembros.",
+  "color": "#a78bfa"
+}

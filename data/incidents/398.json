@@ -1,0 +1,13 @@
+{
+  "id": 398,
+  "title": "Los Archivos Nacionales - Data leak - Undetermined",
+  "date": "2015-02-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Archivos Nacionales",
+  "source": "http://thehill.com/policy/cybersecurity/233825-national-archives-hit-with-data-breach",
+  "summary": "Las autoridades policiales están investigando una posible violación de datos en los Archivos Nacionales, luego de que un grupo de piratas informáticos publicara un video que supuestamente muestra un allanamiento al sitio web de la agencia.",
+  "color": "#ef4444"
+}

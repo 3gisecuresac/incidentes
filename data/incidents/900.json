@@ -1,0 +1,13 @@
+{
+  "id": 900,
+  "title": "Tumblr - Data leak - Peace",
+  "date": "2016-05-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Peace",
+  "impact": "Incidente de seguridad en Tumblr están a la venta clandestinamente",
+  "source": "https://www.vice.com/en_us/article/8q88k5/hackers-stole-68-million-passwords-from-tumblr-new-analysis-reveals",
+  "summary": "65 millones de contraseñas de Tumblr están a la venta clandestinamente. La compañía admitió haber sufrido una vulneración de seguridad el 12 de mayo.",
+  "color": "#a78bfa"
+}

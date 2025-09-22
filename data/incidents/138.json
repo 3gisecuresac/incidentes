@@ -1,0 +1,13 @@
+{
+  "id": 138,
+  "title": "Universidad de Virginia - Data leak - NullCrew",
+  "date": "2014-04-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "NullCrew",
+  "impact": "Filtración de datos en Virginia",
+  "source": "https://www.zdnet.com/article/hackers-attack-spokeo-un-civil-aviation-org-in-nine-site-crime-spree/",
+  "summary": "Universidad de Virginia (1 millón de archivos filtrados).",
+  "color": "#ef4444"
+}

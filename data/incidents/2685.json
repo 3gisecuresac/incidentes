@@ -1,0 +1,13 @@
+{
+  "id": 2685,
+  "title": "Centro de Servicios Legales de Mississippi y Servicios Legales Rurales del Norte de Mississippi - Ransomware - Undetermined",
+  "date": "2020-02-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Servicios Legales de Mississippi",
+  "source": "https://www.databreaches.net/mississippi-center-for-legal-services-and-north-mississippi-rural-legal-services-hit-by-ryuk-ransomware-on-christmas-eve/",
+  "summary": "El Centro de Servicios Legales de Mississippi y los Servicios Legales Rurales del Norte de Mississippi advierten que fueron víctimas de un ataque de ransomware Ryuk en Nochebuena.",
+  "color": "#ef4444"
+}

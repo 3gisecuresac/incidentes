@@ -1,0 +1,13 @@
+{
+  "id": 1556,
+  "title": "Distrito Escolar del Condado de Chester - Ransomware - Undetermined",
+  "date": "2018-01-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Condado de Chester publica en su página de Facebook",
+  "source": "http://www.heraldonline.com/news/local/education/article198608754.html",
+  "summary": "El Distrito Escolar del Condado de Chester publica en su página de Facebook que un ransomware afectó los servidores del distrito durante el fin de semana.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 159,
+  "title": "Universidad de Nebraska Omaha - Data leak - Undetermined",
+  "date": "2014-05-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en unomaha.edu",
+  "source": "http://www.fox42kptm.com/story/25537836/uno-investigating-security-breach-involving-personal-information",
+  "summary": "Funcionarios escolares de la Universidad de Nebraska Omaha (unomaha.edu) anuncian que investigarán un acceso no autorizado a un servidor administrativo dentro de la seguridad del campus.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1948,
+  "title": "Atención médica de la compañía Barnes-Jewish - Data leak - Undetermined",
+  "date": "2018-12-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Barnes-Jewish Company HealthCare",
+  "source": "https://www.databreaches.net/mo-use-bjcs-patient-portal-to-pay-your-bills-company-announces-possible-malware-breach/",
+  "summary": "Al menos 5.850 personas fueron alertadas sobre una posible filtración de información de tarjetas de crédito a través del portal de pagos en línea de Barnes-Jewish Company HealthCare. La filtración se descubrió el 19 de noviembre e implicó la inyección de código malicioso en su sitio web.",
+  "color": "#ef4444"
+}

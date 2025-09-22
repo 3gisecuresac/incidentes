@@ -1,0 +1,13 @@
+{
+  "id": 2458,
+  "title": "Centros de Salud Popular Betty Jean Kerr - Ransomware - Undetermined",
+  "date": "2019-10-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Salud Popular Betty Jean Kerr fue afectado en septiembre pasado",
+  "source": "https://www.scmagazine.com/home/security-news/ransomware/st-louis-health-center-stymied-by-september-ransomware-attack/",
+  "summary": "El Centro de Salud Popular Betty Jean Kerr fue afectado en septiembre pasado por un ataque de ransomware que continúa impidiendo el acceso a los datos recopilados de pacientes, proveedores de atención médica y empleados.",
+  "color": "#ef4444"
+}

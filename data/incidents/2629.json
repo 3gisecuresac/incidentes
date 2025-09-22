@@ -1,0 +1,13 @@
+{
+  "id": 2629,
+  "title": "Jeff Bezos - Data leak - Saudi Arabia",
+  "date": "2020-01-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Saudi Arabia",
+  "impact": "Filtración de datos en Jeff Bezos exfiltró una cantidad masiva de información personal después de recibir un archivo de video adjunto a WhatsApp enviado",
+  "source": "https://arstechnica.com/information-technology/2020/01/report-bezos-phone-uploaded-gbs-of-personal-data-after-getting-saudi-princes-whatsapp-message/",
+  "summary": "Una investigación revela que el teléfono de Jeff Bezos exfiltró una cantidad masiva de información personal después de recibir un archivo de video adjunto a WhatsApp enviado por el futuro rey de Arabia Saudita, el príncipe Mohammed bin Salman, el 1 de mayo de 2018.",
+  "color": "#ef4444"
+}

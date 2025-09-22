@@ -1,0 +1,13 @@
+{
+  "id": 3285,
+  "title": "Condado de Hall, Georgia - Ransomware - INDRIK SPIDER",
+  "date": "2020-10-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Filtración de datos en Hall",
+  "source": "https://www.bleepingcomputer.com/news/security/georgia-county-voter-information-leaked-by-ransomware-gang/",
+  "summary": "La banda de ransomware DoppelPaymer ha publicado datos no cifrados robados del condado de Hall, Georgia, durante un ataque de ransomware a principios de este mes.",
+  "color": "#ef4444"
+}

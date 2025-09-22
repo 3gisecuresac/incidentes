@@ -1,0 +1,13 @@
+{
+  "id": 2272,
+  "title": "Condado de Henry - DoS - Undetermined",
+  "date": "2019-07-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Henry se ve afectado",
+  "source": "https://www.databreaches.net/ga-henry-county-networks-still-offline-five-days-after-malware-attack/",
+  "summary": "El condado de Henry se ve afectado por un ataque de malware.",
+  "color": "#a78bfa"
+}

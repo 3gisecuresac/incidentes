@@ -1,0 +1,13 @@
+{
+  "id": 2784,
+  "title": "Colegio de DuPage - Data leak - Undetermined",
+  "date": "2020-03-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en College of DuPage",
+  "source": "https://www.infosecurity-magazine.com/news/illinois-college-suffers-data/",
+  "summary": "College of DuPage ofrece monitoreo de crédito casi gratuito a más de 1,700 empleados actuales y anteriores luego de una violación de datos.",
+  "color": "#ef4444"
+}

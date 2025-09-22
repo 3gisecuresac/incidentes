@@ -1,0 +1,13 @@
+{
+  "id": 3801,
+  "title": "Applus Technologies - Ciberataque - Undetermined",
+  "date": "2021-03-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Connecticut Georgia Idaho Illinois Massachusetts Utah y Wisconsin",
+  "source": "nan",
+  "summary": "Un ataque de malware a la empresa de pruebas de emisiones Applus Technologies impide las inspecciones de vehículos en ocho estados, incluidos Connecticut, Georgia, Idaho, Illinois, Massachusetts, Utah y Wisconsin.",
+  "color": "#a78bfa"
+}

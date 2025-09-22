@@ -1,0 +1,13 @@
+{
+  "id": 6677,
+  "title": "Fondo Monetario Internacional (FMI) - Data leak - Undetermined",
+  "date": "2024-03-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en El Fondo Monetario Internacional FMI",
+  "source": "nan",
+  "summary": "El Fondo Monetario Internacional (FMI) revela que un ciberataque en febrero provocó la vulneración de 11 cuentas de correo electrónico.",
+  "color": "#a78bfa"
+}

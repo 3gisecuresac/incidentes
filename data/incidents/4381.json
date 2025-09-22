@@ -1,0 +1,13 @@
+{
+  "id": 4381,
+  "title": "Plan de Salud de Asociación de California (PHC) - Ransomware - Hive",
+  "date": "2022-03-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Filtración de datos en PHC",
+  "source": "nan",
+  "summary": "Partnership Health Plan of California (PHC) sufre un ataque de ransomware HIVe. Los atacantes afirman que se extrajeron 400 gigabytes de datos de los sistemas de PHC, incluyendo 850.000 registros de información personal identificable (PII).",
+  "color": "#ef4444"
+}

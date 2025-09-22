@@ -1,0 +1,13 @@
+{
+  "id": 7702,
+  "title": "Centro de Ciencias de la Salud de Kingston - DoS - Undetermined",
+  "date": "2020-11-04",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Ciencias de la Salud de Kingston ha confirmado un ciberataque a los sistemas de su hospital",
+  "source": "nan",
+  "summary": "El Centro de Ciencias de la Salud de Kingston ha confirmado un ciberataque a los sistemas de su hospital, que afectó tanto las comunicaciones internas como las externas. El ataque tuvo un impacto temporal en el acceso a internet y al correo electrónico.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2237,
+  "title": "Ciudad de Sun Prairie - Data leak - Undetermined",
+  "date": "2019-06-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Sun Prairie",
+  "source": "https://www.scmagazine.com/home/security-news/sun-prairie-wisc-warns-of-data-breach-after-intruder-accesses-employee-email-accounts/",
+  "summary": "Un comunicado de prensa revela que durante casi dos meses de este año, una parte no autorizada tuvo acceso ilegítimo a las cuentas de correo electrónico de ciertos empleados que trabajaban para la ciudad de Sun Prairie.",
+  "color": "#a78bfa"
+}

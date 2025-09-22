@@ -1,0 +1,13 @@
+{
+  "id": 1650,
+  "title": "Escuela secundaria de Oakton - Phishing - Undetermined",
+  "date": "2018-04-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Phishing",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Oakton High School",
+  "source": "https://www.washingtonpost.com/local/public-safety/hackers-tried-to-change-grades-at-virginia-high-school-police-say/2018/04/03/924ecf82-3765-11e8-acd5-35eac230e514_story.html?utm_term=.1c4f8f8aeb49",
+  "summary": "Una investigación policial revela que piratas informáticos intentaron cambiar las calificaciones en Oakton High School, mediante un ataque realizado a través de un correo electrónico malicioso.",
+  "color": "#a78bfa"
+}

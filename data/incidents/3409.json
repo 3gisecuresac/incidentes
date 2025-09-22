@@ -1,0 +1,13 @@
+{
+  "id": 3409,
+  "title": "Distrito escolar secundario municipal 211 - DoS - Undetermined",
+  "date": "2020-11-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Municipio sufrió un ataque informático",
+  "source": "https://www.databreaches.net/chicago-suburban-school-districts-experience-apparent-hacks-in-which-offensive-sexual-messages-sent/",
+  "summary": "El Distrito Escolar Secundario 211 del Municipio sufrió un ataque informático que comprometió el envío de correos electrónicos, llamadas telefónicas y mensajes de texto. Los padres afirmaron haber recibido mensajes ofensivos como resultado del ataque.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4936,
+  "title": "2K - Infección Malware - Undetermined",
+  "date": "2022-09-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Malware",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida",
+  "source": "nan",
+  "summary": "El editor de videojuegos estadounidense 2K confirma que su plataforma de soporte técnico fue hackeada y utilizada para atacar a clientes con tickets de soporte falsos que difundían malware a través de enlaces incrustados, después de que un tercero no autorizado accediera ilegalmente a las credenciales de uno de los proveedores de la plataforma de soporte técnico.",
+  "color": "#3b82f6"
+}

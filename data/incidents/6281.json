@@ -1,0 +1,13 @@
+{
+  "id": 6281,
+  "title": "Camino hacia - Data leak - cl0p",
+  "date": "2023-10-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit",
+  "source": "nan",
+  "summary": "Pathward (anteriormente conocido como MetaBank) revela que más de 800.000 usuarios tuvieron su información expuesta en la violación de datos de MOVEit.",
+  "color": "#ef4444"
+}

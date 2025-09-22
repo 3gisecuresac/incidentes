@@ -1,0 +1,13 @@
+{
+  "id": 2405,
+  "title": "Ayuntamiento de Bradford - Ransomware - Undetermined",
+  "date": "2019-09-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Bradford sufre un ataque de ransomware",
+  "source": "https://www.databreaches.net/pa-bradford-city-hall-nearly-back-to-normal-after-ransomware-incident/",
+  "summary": "El Ayuntamiento de Bradford sufre un ataque de ransomware.",
+  "color": "#ef4444"
+}

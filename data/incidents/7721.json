@@ -1,0 +1,13 @@
+{
+  "id": 7721,
+  "title": "Ciudad de Montmagne - Ransomware - Undetermined",
+  "date": "2021-01-16",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Montmagne fue atacada",
+  "source": "nan",
+  "summary": "La ciudad de Montmagne fue atacada por un ransomware que paralizó por completo sus sistemas informáticos y telefónicos.",
+  "color": "#ef4444"
+}

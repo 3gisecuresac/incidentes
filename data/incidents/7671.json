@@ -1,0 +1,13 @@
+{
+  "id": 7671,
+  "title": "Salud electrónica Saskatchewan - Ransomware - Undetermined",
+  "date": "2020-06-11",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Saskatchewan",
+  "source": "nan",
+  "summary": "eHealth Saskatchewan admite haber sufrido un ataque de ransomware el 20 de diciembre.",
+  "color": "#ef4444"
+}

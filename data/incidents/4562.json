@@ -1,0 +1,13 @@
+{
+  "id": 4562,
+  "title": "Aon PLC - Data leak - Undetermined",
+  "date": "2022-05-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Aon PLC",
+  "source": "nan",
+  "summary": "Aon PLC informa de un incidente de piratería que afectó a 28.714 personas.",
+  "color": "#a78bfa"
+}

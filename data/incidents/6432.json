@@ -1,0 +1,13 @@
+{
+  "id": 6432,
+  "title": "PruittHealth - Ransomware - NoEscape",
+  "date": "2023-11-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "NoEscape",
+  "impact": "Filtración de datos en PruittHealth",
+  "source": "nan",
+  "summary": "El grupo de ransomware NoEscape se atribuye la responsabilidad de un ciberataque a PruittHealth, amenazando con liberar una gran cantidad de datos exfiltrados (1,5 TB).",
+  "color": "#ef4444"
+}

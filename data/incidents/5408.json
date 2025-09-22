@@ -1,0 +1,13 @@
+{
+  "id": 5408,
+  "title": "Populus Financial - Data leak - Undetermined",
+  "date": "2023-03-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Populus Financial",
+  "source": "nan",
+  "summary": "Populus Financial presenta un aviso de violación de datos después de experimentar un evento de ciberseguridad que comprometió la información confidencial del consumidor que había sido confiada a la empresa.",
+  "color": "#ef4444"
+}

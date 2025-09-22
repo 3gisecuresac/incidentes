@@ -1,0 +1,13 @@
+{
+  "id": 2730,
+  "title": "Escuelas públicas de Jackson - Ransomware - Undetermined",
+  "date": "2020-02-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Jackson sufren un ataque de ransomware",
+  "source": "https://www.databreaches.net/ms-fbi-investigating-after-jackson-public-schools-computer-system-hacked/",
+  "summary": "Las Escuelas Públicas de Jackson sufren un ataque de ransomware.",
+  "color": "#ef4444"
+}

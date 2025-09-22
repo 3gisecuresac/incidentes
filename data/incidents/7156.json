@@ -1,0 +1,13 @@
+{
+  "id": 7156,
+  "title": "Kokomo Solutions Inc. (proveedor de telesalud e informes para el LAUSD) - Data leak - Undetermined",
+  "date": "2024-12-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Kokomo Solutions el 11 de diciembre de 2024",
+  "source": "nan",
+  "summary": "Un tercero no autorizado accedió a archivos de la red de Kokomo Solutions el 11 de diciembre de 2024. La filtración potencialmente comprometió diversos datos confidenciales de estudiantes (información personal identificable, información de salud, documentos de identidad), aunque no se reveló el alcance exacto; la notificación se produjo el 5 de agosto de 2025.",
+  "color": "#ef4444"
+}

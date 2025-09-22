@@ -1,0 +1,13 @@
+{
+  "id": 5550,
+  "title": "Ciudad de Collegedale - Ransomware - BlackByte",
+  "date": "2023-04-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "BlackByte",
+  "impact": "Filtración de datos en Collegedale después de",
+  "source": "nan",
+  "summary": "Se filtran datos de la ciudad de Collegedale después de que los sistemas informáticos de la ciudad fueran pirateados por la banda de ransomware BlackByte.",
+  "color": "#ef4444"
+}

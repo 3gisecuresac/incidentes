@@ -1,0 +1,13 @@
+{
+  "id": 4591,
+  "title": "Afni - Ransomware - Undetermined",
+  "date": "2022-06-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Afni",
+  "source": "nan",
+  "summary": "Afni presenta notificación oficial de una violación de datos que afectó la información sensible de ciertas personas, luego de detectar actividad anómala en su red.",
+  "color": "#ef4444"
+}

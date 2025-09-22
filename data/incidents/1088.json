@@ -1,0 +1,13 @@
+{
+  "id": 1088,
+  "title": "Buscador de amigos adultos - Data leak - Peace",
+  "date": "2016-10-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Peace",
+  "impact": "Sistema o cuenta comprometida en AdultFriendFinder",
+  "source": "https://www.vice.com/en_us/article/qkjeap/hookup-service-adult-friendfinder-may-have-been-hacked-again",
+  "summary": "Un hacker conocido como Revolver o 1x0123 afirma haber accedido a AdultFriendFinder, publicando dos capturas de pantalla que parecen indicar que tuvo acceso a parte de la infraestructura del sitio web. Otro conocido hacker, conocido como Peace, también afirma haberlo hecho.",
+  "color": "#3b82f6"
+}

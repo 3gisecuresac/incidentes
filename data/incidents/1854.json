@@ -1,0 +1,13 @@
+{
+  "id": 1854,
+  "title": "Proveedores de servicios gestionados - Data leak - Ministry of State Security's (MSS) Tianjin State Security Department (APT10)",
+  "date": "2018-10-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Ministry of State Security's (MSS) Tianjin State Security Department (APT10)",
+  "impact": "Incidente de seguridad en Seguridad Nacional de EE",
+  "source": "https://www.zdnet.com/article/dhs-aware-of-ongoing-apt-attacks-on-cloud-service-providers/",
+  "summary": "El Departamento de Seguridad Nacional de EE. UU. emite una alerta sobre ciberataques en curso contra proveedores de servicios gestionados, atribuidos indirectamente a APT10.",
+  "color": "#a78bfa"
+}

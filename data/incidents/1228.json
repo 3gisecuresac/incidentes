@@ -1,0 +1,13 @@
+{
+  "id": 1228,
+  "title": "¡Yahoo! - Data leak - Undetermined",
+  "date": "2017-02-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Yahoo",
+  "source": "https://arstechnica.com/information-technology/2017/02/yahoo-reveals-more-breachiness-to-users-victimized-by-forged-cookies/",
+  "summary": "Yahoo envía una nueva ronda de notificaciones a sus usuarios, advirtiendo a algunos de que sus cuentas podrían haber sido vulneradas el año pasado. Las cuentas se vieron afectadas por una falla en el servicio de correo de Yahoo que permitió a un atacante, probablemente un agente estatal, según Yahoo, utilizar una cookie falsificada creada mediante software robado de los sistemas internos de Yahoo para acceder a las cuentas sin contraseña.",
+  "color": "#a78bfa"
+}

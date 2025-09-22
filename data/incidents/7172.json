@@ -1,0 +1,13 @@
+{
+  "id": 7172,
+  "title": "Gobierno del condado de Luzerne - Data leak - Undetermined",
+  "date": "2025-07-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Luzerne",
+  "source": "nan",
+  "summary": "El condado de Luzerne, Pensilvania, reportó una filtración de datos en julio de 2025 tras descubrir un acceso no autorizado a sus servidores. La investigación sugiere que se expusieron datos personales y posiblemente financieros, aunque no se reportó ninguna interrupción del servicio ni cifrado.",
+  "color": "#ef4444"
+}

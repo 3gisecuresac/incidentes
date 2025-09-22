@@ -1,0 +1,13 @@
+{
+  "id": 919,
+  "title": "Reddit - Data leak - Undetermined",
+  "date": "2016-05-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Reddit a restablecer 100",
+  "source": "http://www.zdnet.com/article/reddit-forces-password-reset-of-100000-users/",
+  "summary": "Un aumento en el secuestro y robo de cuentas obliga a Reddit a restablecer 100.000 contraseñas.",
+  "color": "#a78bfa"
+}

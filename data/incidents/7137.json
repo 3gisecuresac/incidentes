@@ -1,0 +1,13 @@
+{
+  "id": 7137,
+  "title": "Condado de Spartanburg - Ransomware - Undetermined",
+  "date": "2025-08-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware",
+  "source": "nan",
+  "summary": "El ciberataque provocó la desactivación de ciertos servicios en línea, incluidas las conexiones de red del condado; los servicios de emergencia como el 911 permanecieron operativos; el tercer evento de ransomware en los últimos años",
+  "color": "#ef4444"
+}

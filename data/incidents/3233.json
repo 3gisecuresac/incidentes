@@ -1,0 +1,13 @@
+{
+  "id": 3233,
+  "title": "Dental Dyras - Ransomware - Egregor",
+  "date": "2020-09-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Egregor",
+  "impact": "Cifrado por ransomware en Dyras Dental",
+  "source": "https://www.databreaches.net/egregor-threat-actors-pose-risk-to-medical-and-dental-entities/",
+  "summary": "La banda de ransomware Egregor ha atacado a Dyras Dental.",
+  "color": "#ef4444"
+}

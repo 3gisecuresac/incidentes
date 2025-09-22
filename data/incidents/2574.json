@@ -1,0 +1,13 @@
+{
+  "id": 2574,
+  "title": "La Compañía del Patrimonio - Ransomware - Undetermined",
+  "date": "2019-12-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en TI no salieran según lo planeado",
+  "source": "https://www.zdnet.com/article/company-shuts-down-because-of-ransomware-leaves-300-without-jobs-just-before-holidays/",
+  "summary": "The Heritage Company, una empresa de telemarketing, envía a casa a más de 300 empleados y les dice que busquen nuevos trabajos después de que los esfuerzos de recuperación de TI no salieran según lo planeado tras un incidente de ransomware que tuvo lugar a principios de octubre de 2019.",
+  "color": "#ef4444"
+}

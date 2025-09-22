@@ -1,0 +1,13 @@
+{
+  "id": 2395,
+  "title": "Ciudad Unión - Ransomware - Undetermined",
+  "date": "2019-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Union City",
+  "source": "https://www.databreaches.net/virus-cripples-most-city-owned-computers-in-union-city/",
+  "summary": "Union City está infectada con malware.",
+  "color": "#a78bfa"
+}

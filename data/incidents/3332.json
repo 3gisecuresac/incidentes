@@ -1,0 +1,13 @@
+{
+  "id": 3332,
+  "title": "Soluciones de salud Beacon, LLC - Ransomware - REvil",
+  "date": "2020-10-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Cifrado por ransomware en Beacon Health Solutions",
+  "source": "https://www.databreaches.net/wp-content/uploads/Without_Undue_Delay.pdf",
+  "summary": "Los operadores del ransomware Revil agregan a Beacon Health Solutions, LLC a la lista de sus víctimas.",
+  "color": "#ef4444"
+}

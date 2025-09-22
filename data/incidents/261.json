@@ -1,0 +1,13 @@
+{
+  "id": 261,
+  "title": "Hoteles Bartell - Infección Dispositivos - Undetermined",
+  "date": "2014-09-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en San Diego se vieron comprometidos",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/payment-card-processing-systems-compromised-at-five-bartell-hotels-locations/",
+  "summary": "Bartell Hotels notifica que los sistemas de procesamiento de tarjetas de pago utilizados en cinco de sus hoteles en San Diego se vieron comprometidos y que la información personal, incluidos los números de tarjetas de crédito, podría estar en riesgo. Se estima que el número potencial de clientes afectados se sitúa entre 40.000 y 45.000.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1870,
+  "title": "Ciudad de Muscatine - Ransomware - Undetermined",
+  "date": "2018-10-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Muscatine fue víctima de un ataque de ransomware el 17 de octubre",
+  "source": "https://www.scmagazine.com/home/security-news/west-haven-indiana-national-guard-muscatine-hit-with-ransomware-attacks/",
+  "summary": "La ciudad de Muscatine fue víctima de un ataque de ransomware el 17 de octubre. Los servidores financieros y de otro tipo se vieron afectados.",
+  "color": "#ef4444"
+}

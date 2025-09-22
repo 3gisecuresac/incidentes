@@ -1,0 +1,13 @@
+{
+  "id": 1663,
+  "title": "Centro de Especialistas en Ortopedia de California (COS) - Ransomware - Undetermined",
+  "date": "2018-04-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Especialistas en Ortopedia",
+  "source": "https://www.scmagazine.com/ransomware-exposes-records-of-85000-center-for-orthopaedic-specialists-patients/article/761844/",
+  "summary": "El Centro de Especialistas en Ortopedia (COS) de California informa haber sido víctima de un ataque de ransomware. El incidente afecta los registros de aproximadamente 85,000 pacientes en tres instalaciones en West Hills, Simi Valley y Westlake Village.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6714,
+  "title": "Targus - Data leak - Undetermined",
+  "date": "2024-04-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Targus",
+  "source": "nan",
+  "summary": "Targus, fabricante de accesorios para computadoras portátiles y tabletas, revela que sufrió un ciberataque que interrumpió sus operaciones luego de que un actor de amenazas obtuviera acceso a los servidores de archivos de la empresa.",
+  "color": "#a78bfa"
+}

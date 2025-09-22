@@ -1,0 +1,13 @@
+{
+  "id": 517,
+  "title": "Eataly - Data leak - Undetermined",
+  "date": "2015-06-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Eataly en Nueva York se vio afectado",
+  "source": "https://www.scmagazine.com/home/security-news/news-alert-eataly-nyc-confirms-data-breach/",
+  "summary": "Eataly, el mercado global de alimentos italianos, confirma que fue víctima de una filtración de datos a principios de este año que podría haber comprometido los datos de todas las tarjetas de pago utilizadas durante casi cuatro meses. Al parecer, solo el Marketplace de Eataly en Nueva York se vio afectado.",
+  "color": "#ef4444"
+}

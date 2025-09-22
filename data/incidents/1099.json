@@ -1,0 +1,13 @@
+{
+  "id": 1099,
+  "title": "Business Insider - Manipulación de mensajes - OurMine",
+  "date": "2016-11-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "OurMine",
+  "impact": "Incidente de seguridad en OurMine",
+  "source": "https://www.hackread.com/ourmine-hacks-business-insider-website/",
+  "summary": "El colectivo llamado OurMine publicó y editó algunas historias en la versión estadounidense del sitio web.",
+  "color": "#a78bfa"
+}

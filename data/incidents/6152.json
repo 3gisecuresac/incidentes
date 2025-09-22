@@ -1,0 +1,13 @@
+{
+  "id": 6152,
+  "title": "Comercio - Ciberataque - victim",
+  "date": "2023-09-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "victim",
+  "impact": "Filtración de datos en Traderie y",
+  "source": "nan",
+  "summary": "Las plataformas de intercambio dentro del juego, Traderie, y otra plataforma, Nookazon, propiedad de la misma empresa matriz, Akrew, alertan a los usuarios sobre una filtración de datos que afecta a su información personal. Un actor de amenazas llamado víctima afirma estar vendiendo los datos de hasta 2,6 millones de usuarios por 5.000 dólares en bitcoin.",
+  "color": "#ef4444"
+}

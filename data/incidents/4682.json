@@ -1,0 +1,13 @@
+{
+  "id": 4682,
+  "title": "Hospital cardíaco y quirúrgico de Lubbock - Data leak - Undetermined",
+  "date": "2022-07-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Derechos Civiles del Departamento de Salud",
+  "source": "nan",
+  "summary": "El Lubbock Heart & Surgical Hospital presenta un aviso oficial de violación de datos ante la Oficina de Derechos Civiles del Departamento de Salud y Servicios Humanos de EE. UU. luego de un incidente de seguridad de datos que interrumpió la red informática del hospital.",
+  "color": "#ef4444"
+}

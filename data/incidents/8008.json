@@ -1,0 +1,13 @@
+{
+  "id": 8008,
+  "title": "Grupo Jaime CÃÆÃ'Ã'ÃÂ¢mara (JCG) - Ransomware - Vice Society",
+  "date": "2022-09-27",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Vice Society",
+  "impact": "Cifrado por ransomware en Group JCG",
+  "source": "nan",
+  "summary": "El conglomerado de medios brasileño Jaime Cámara Group (JCG) es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5360,
+  "title": "LastPass - Data leak - Undetermined",
+  "date": "2023-02-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Amazon AWS durante más de dos meses",
+  "source": "nan",
+  "summary": "LastPass revela más información sobre un segundo ataque coordinado, en el que un actor de amenazas accedió y robó datos de los servidores de almacenamiento en la nube de Amazon AWS durante más de dos meses.",
+  "color": "#ef4444"
+}

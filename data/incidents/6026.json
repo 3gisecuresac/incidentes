@@ -1,0 +1,13 @@
+{
+  "id": 6026,
+  "title": "Medicina deportiva de Oregón - Ransomware - 8Base",
+  "date": "2023-08-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "8Base",
+  "impact": "Filtración de datos en Oregon Sports Medicine",
+  "source": "nan",
+  "summary": "Oregon Sports Medicine se agrega al sitio de filtración del ransomware 8Base.",
+  "color": "#ef4444"
+}

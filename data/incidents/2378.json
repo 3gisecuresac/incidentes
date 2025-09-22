@@ -1,0 +1,13 @@
+{
+  "id": 2378,
+  "title": "Comunicaciones Entercom - Ransomware - Undetermined",
+  "date": "2019-09-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en EE",
+  "source": "https://www.bleepingcomputer.com/news/security/giant-entercom-radio-network-deals-with-ransomware-like-incident/",
+  "summary": "Entercom Communications, uno de los mayores propietarios de estaciones de radio en EE. UU., supuestamente fue atacado por un ransomware, afectando a todas las oficinas que la compañía tiene en todo el país.",
+  "color": "#ef4444"
+}

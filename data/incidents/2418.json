@@ -1,0 +1,13 @@
+{
+  "id": 2418,
+  "title": "Ciudad de Cornelia - Ransomware - Undetermined",
+  "date": "2019-10-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Cornelia resulta en un día de productividad perdida",
+  "source": "https://www.databreaches.net/ga-cornelia-fends-off-third-ransomware-attack-of-the-year-upgrades-firewall/",
+  "summary": "Un ataque de ransomware al sistema de facturación de la ciudad de Cornelia resulta en un día de productividad perdida.",
+  "color": "#ef4444"
+}

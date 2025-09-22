@@ -1,0 +1,13 @@
+{
+  "id": 6459,
+  "title": "Carreteras secundarias - Ransomware - Meow",
+  "date": "2023-11-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Meow",
+  "impact": "Filtración de datos en Backroads a su",
+  "source": "nan",
+  "summary": "La banda de ransomware MEOW agrega Backroads a su sitio de filtraciones.",
+  "color": "#ef4444"
+}

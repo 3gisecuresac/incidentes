@@ -1,0 +1,13 @@
+{
+  "id": 731,
+  "title": "Centro médico Hurley - DoS - Anonymous",
+  "date": "2016-01-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Anonymous",
+  "impact": "Incidente de seguridad en Flint",
+  "source": "https://www.scmagazine.com/home/security-news/flint-hospital-hit-with-cyber-attack-after-anonymous-threatens-action/",
+  "summary": "El Centro Médico Hurley en Flint, Michigan, es víctima de un ciberataque, un día después de que el grupo hacktivista Anonymous amenazara con tomar medidas por la crisis del agua de la ciudad.",
+  "color": "#a78bfa"
+}

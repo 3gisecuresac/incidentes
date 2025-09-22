@@ -1,0 +1,13 @@
+{
+  "id": 1039,
+  "title": "manaliveinc.org - Data Leak - Return",
+  "date": "2016-08-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data Leak",
+  "actor": "Return",
+  "impact": "Filtración de datos en Man Alive",
+  "source": "https://www.databreaches.net/baltimore-addiction-treatment-clinic-hacked-patients-info-up-for-sale-on-dark-web/",
+  "summary": "La organización sin fines de lucro Man Alive es hackeada y una base de datos de pacientes con información confidencial personal y de tratamientos se pone a la venta en la dark web.",
+  "color": "#ef4444"
+}

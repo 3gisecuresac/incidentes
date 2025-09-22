@@ -1,0 +1,13 @@
+{
+  "id": 760,
+  "title": "4.000 registros confidenciales de agentes de policía, abogados y jueces del condado de Palm Beach - Data leak - Undetermined",
+  "date": "2016-02-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en PBSOTalk.com",
+  "source": "http://www.browardpalmbeach.com/news/hackers-post-confidential-records-of-4-000-palm-beach-county-cops-prosecutors-and-judges-7589158",
+  "summary": "Alrededor de 4.000 registros confidenciales, las supuestas direcciones residenciales de oficiales de policía, abogados y jueces, están publicados en el sitio web PBSOTalk.com.",
+  "color": "#a78bfa"
+}

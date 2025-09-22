@@ -1,0 +1,13 @@
+{
+  "id": 239,
+  "title": "Distrito Escolar del Valle de Cumberland - Data leak - Undetermined",
+  "date": "2014-08-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Distrito Escolar de Cumberland Valley",
+  "source": "http://www.pennlive.com/midstate/index.ssf/2014/08/cumberland_valley_students_hac.html",
+  "summary": "Un hacker obtiene acceso a la red informática del Distrito Escolar de Cumberland Valley, lo que obliga al distrito a notificar a la policía local y al FBI.",
+  "color": "#3b82f6"
+}

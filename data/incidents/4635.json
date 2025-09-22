@@ -1,0 +1,13 @@
+{
+  "id": 4635,
+  "title": "Local 286 de Trabajadores Siderúrgicos Unidos - Data leak - Undetermined",
+  "date": "2022-06-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en United Steelworkers Local 286",
+  "source": "nan",
+  "summary": "El sindicato United Steelworkers Local 286 presenta un aviso de violación de datos después de que la organización se enteró de que una parte no autorizada había obtenido acceso a información confidencial de los miembros a través de la cuenta de correo electrónico comprometida de un empleado.",
+  "color": "#ef4444"
+}

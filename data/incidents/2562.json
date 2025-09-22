@@ -1,0 +1,13 @@
+{
+  "id": 2562,
+  "title": "Anillo - Data leak - Undetermined",
+  "date": "2019-12-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Ring",
+  "source": "https://www.buzzfeednews.com/article/carolinehaskins1/data-leak-exposes-personal-data-over-3000-ring-camera-users",
+  "summary": "Las credenciales de inicio de sesión de 3.672 propietarios de cámaras Ring están comprometidas, lo que expone correos electrónicos de inicio de sesión, contraseñas, zonas horarias y los nombres que las personas dan a cámaras Ring específicas.",
+  "color": "#3b82f6"
+}

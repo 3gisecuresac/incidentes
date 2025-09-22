@@ -1,0 +1,13 @@
+{
+  "id": 1541,
+  "title": "Comité Olímpico de los Estados Unidos - Data leak - GRU 85th Main Special Service Center (Unit 26165) (FANCYBEAR)",
+  "date": "2018-01-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "GRU 85th Main Special Service Center (Unit 26165) (FANCYBEAR)",
+  "impact": "Incidente de seguridad en Comité Olímpico Internacional",
+  "source": "https://www.wired.com/story/russian-fancy-bears-hackers-release-apparent-ioc-emails/",
+  "summary": "APT28, también conocido como Pawn Storm, también conocido como Fancy Bear, publicó un conjunto de correos electrónicos aparentemente robados que supuestamente pertenecen a funcionarios del Comité Olímpico Internacional, el Comité Olímpico de los Estados Unidos y grupos de terceros asociados con las organizaciones.",
+  "color": "#a78bfa"
+}

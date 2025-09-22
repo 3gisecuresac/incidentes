@@ -1,0 +1,13 @@
+{
+  "id": 5863,
+  "title": "Banco Unido - Ransomware - cl0p",
+  "date": "2023-06-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit",
+  "source": "nan",
+  "summary": "United Bank presenta un aviso sobre una filtración de datos en una herramienta de software de terceros. Se sospecha que la filtración está relacionada con la vulnerabilidad CVE-2023-34362 en MOVEit.",
+  "color": "#ef4444"
+}

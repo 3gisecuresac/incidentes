@@ -1,0 +1,13 @@
+{
+  "id": 7162,
+  "title": "Workday Inc. (a través de un CRM de terceros no revelado) - Data leak - Undetermined",
+  "date": "2025-07-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en RR",
+  "source": "nan",
+  "summary": "Workday reveló en agosto de 2025 que los piratas informáticos accedieron a un sistema CRM de terceros y robaron datos personales de aproximadamente 1,6 millones de personas vinculadas a clientes empresariales; los principales sistemas de RR.HH. y nóminas no se vieron afectados.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2911,
+  "title": "Conducto - Ransomware - MAZE",
+  "date": "2020-05-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "MAZE",
+  "impact": "Cifrado por ransomware en Maze",
+  "source": "https://www.bleepingcomputer.com/news/security/business-services-giant-conduent-hit-by-maze-ransomware/",
+  "summary": "Los operadores del ransomware Maze afirman haber atacado con éxito al gigante de servicios empresariales Conduent, donde robaron archivos no cifrados y dispositivos cifrados en su red.",
+  "color": "#ef4444"
+}

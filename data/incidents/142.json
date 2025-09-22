@@ -1,0 +1,13 @@
+{
+  "id": 142,
+  "title": "Salud de DeKalb - Data leak - Undetermined",
+  "date": "2014-04-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Seguro Social",
+  "source": "https://www.databreaches.net/dekalb-health-reports-patient-information-breach-after-compromise-of-vendors-server/",
+  "summary": "Dekalb Health notifica que 1,361 registros que incluyen una combinación de nombres, números de Seguro Social, fechas de nacimiento, números de tarjetas de crédito, direcciones, números de teléfono, contraseñas, direcciones de correo electrónico, información de seguros, tipos de servicios y otros detalles se han visto comprometidos.",
+  "color": "#3b82f6"
+}

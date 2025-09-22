@@ -1,0 +1,13 @@
+{
+  "id": 6544,
+  "title": "Hospital Liberty - Ransomware - Undetermined",
+  "date": "2023-12-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Hospital Liberty",
+  "source": "nan",
+  "summary": "El Hospital Liberty tiene dificultades para brindar atención a los pacientes luego de que un presunto ataque de ransomware limitara sus sistemas.",
+  "color": "#ef4444"
+}

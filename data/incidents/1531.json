@@ -1,0 +1,13 @@
+{
+  "id": 1531,
+  "title": "thefly.com - Data leak - @0x55Taylor",
+  "date": "2018-01-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "@0x55Taylor",
+  "impact": "Filtración de datos en @0x55Taylor",
+  "source": "https://www.cyber.nj.gov/public-data-breaches/theflycom/",
+  "summary": "Un hacker que usa el nombre de usuario de Twitter @0x55Taylor publica algunas capturas de pantalla de una filtración que afectó a todos los usuarios que se registraron en thefly.com, un editor digital líder de noticias financieras en tiempo real, entre 2006 y 2015. La filtración contiene datos de 100.000 personas.",
+  "color": "#ef4444"
+}

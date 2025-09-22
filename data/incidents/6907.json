@@ -1,0 +1,13 @@
+{
+  "id": 6907,
+  "title": "Socios de Dermatología de EE. UU. - Ransomware - Black Basta",
+  "date": "2024-06-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Black Basta",
+  "impact": "Filtración de datos en U.S. Dermatology Partners",
+  "source": "nan",
+  "summary": "U.S. Dermatology Partners supuestamente tiene 1,8 TB de archivos filtrados por la operación de ransomware Black Basta.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6386,
+  "title": "OpenAI - DoS - Anonymous Sudan",
+  "date": "2023-11-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Anonymous Sudan",
+  "impact": "Interrupción por DDoS en DDoS contra su API y ChatGPT. El",
+  "source": "nan",
+  "summary": "OpenAI aborda interrupciones periódicas del servicio debido a ataques DDoS contra su API y ChatGPT. El grupo prorruso Anonymous Sudan se atribuye la responsabilidad del ataque.",
+  "color": "#f59e0b"
+}

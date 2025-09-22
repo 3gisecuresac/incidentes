@@ -1,0 +1,13 @@
+{
+  "id": 7707,
+  "title": "Comunicaciones de Commport - Ransomware - Lorenz",
+  "date": "2020-12-01",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Lorenz",
+  "impact": "Filtración de datos en Canadá informa a 44 de sus grandes clientes comerciales",
+  "source": "nan",
+  "summary": "Correos de Canadá informa a 44 de sus grandes clientes comerciales que un ataque de ransomware contra Commport Communications, un proveedor de servicios externo, expuso la información de envío de sus clientes. El grupo de ransomware, llamado Lorenz, filtró información en su sitio web de filtración de datos.",
+  "color": "#ef4444"
+}

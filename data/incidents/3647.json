@@ -1,0 +1,13 @@
+{
+  "id": 3647,
+  "title": "Grupo médico Grand River - Data leak - Undetermined",
+  "date": "2021-02-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Grand River Medical Group se ven afectados",
+  "source": "nan",
+  "summary": "34.000 pacientes de Grand River Medical Group se ven afectados por una posible violación de datos después de que el correo electrónico de un empleado se viera comprometido.",
+  "color": "#ef4444"
+}

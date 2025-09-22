@@ -1,0 +1,13 @@
+{
+  "id": 4545,
+  "title": "Aesto Salud - Data leak - Undetermined",
+  "date": "2022-05-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI internos",
+  "source": "nan",
+  "summary": "Aesto Health afirma que sufrió un incidente de seguridad de datos que afectó sus sistemas de TI internos cuando un actor no autorizado accedió a los sistemas de Aesto Health entre el 25 de diciembre y el 8 de marzo.",
+  "color": "#ef4444"
+}

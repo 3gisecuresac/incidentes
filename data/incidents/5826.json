@@ -1,0 +1,13 @@
+{
+  "id": 5826,
+  "title": "CareSource - Data leak - cl0p",
+  "date": "2023-06-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit por",
+  "source": "nan",
+  "summary": "CareSource notifica sobre una violación de datos que involucra el uso de la aplicación de transferencia de archivos MOVEit por parte de la empresa.",
+  "color": "#ef4444"
+}

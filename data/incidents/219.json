@@ -1,0 +1,13 @@
+{
+  "id": 219,
+  "title": "baltimorejewishlife.com - Data leak - Smitt3nz AKA Rubber",
+  "date": "2014-08-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Smitt3nz AKA Rubber",
+  "impact": "Filtración de datos en @smitt3nz",
+  "source": "http://siph0n.net/exploits.php?id=1834",
+  "summary": "@smitt3nz hackea baltimorejewishlife.com y filtra casi 20.000 nombres de usuario y contraseñas de texto sin formato.",
+  "color": "#ef4444"
+}

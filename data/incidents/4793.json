@@ -1,0 +1,13 @@
+{
+  "id": 4793,
+  "title": "Servicios de salud presbiterianos - Data leak - Undetermined",
+  "date": "2022-08-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Presbyterian Healthcare Services",
+  "source": "nan",
+  "summary": "Presbyterian Healthcare Services revela que la información médica protegida de 2.624 pacientes estaba almacenada en una cuenta de correo electrónico de un empleado a la que accedió un tercero no autorizado después de un correo electrónico de phishing.",
+  "color": "#ef4444"
+}

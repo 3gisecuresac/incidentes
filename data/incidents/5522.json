@@ -1,0 +1,13 @@
+{
+  "id": 5522,
+  "title": "Enlace Audiología - Data leak - Undetermined",
+  "date": "2023-04-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Link Audiology un",
+  "source": "nan",
+  "summary": "Link Audiology, un proveedor de servicios de audiología, confirma que la información de salud protegida de hasta 7.200 pacientes actuales y anteriores ha sido expuesta debido a la piratería de la cuenta de correo electrónico de un empleado.",
+  "color": "#ef4444"
+}

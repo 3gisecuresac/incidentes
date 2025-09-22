@@ -1,0 +1,13 @@
+{
+  "id": 4486,
+  "title": "Aeropost - Infección Dispositivos - Undetermined",
+  "date": "2022-04-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Aeropost",
+  "source": "nan",
+  "summary": "Aeropost sufre una violación de tarjeta de crédito.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7572,
+  "title": "Estadísticas Canadá - DoS - Undetermined",
+  "date": "2017-03-14",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Statistics Canada fue hackeado",
+  "source": "nan",
+  "summary": "El gobierno canadiense confirma que el sitio web de Statistics Canada fue hackeado y estuvo fuera de línea durante más de dos días. Tras el ciberataque, se informa que las autoridades también desconectaron partes del sitio web de la Agencia de Ingresos de Canadá (CRA) como medida de precaución.",
+  "color": "#3b82f6"
+}

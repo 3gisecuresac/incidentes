@@ -1,0 +1,13 @@
+{
+  "id": 6730,
+  "title": "Equipos Crown - DoS - Undetermined",
+  "date": "2024-06-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Crown Equipment",
+  "source": "nan",
+  "summary": "El fabricante de carretillas elevadoras Crown Equipment confirma que sufrió un ciberataque a principios de este mes que interrumpió la fabricación en sus plantas.",
+  "color": "#a78bfa"
+}

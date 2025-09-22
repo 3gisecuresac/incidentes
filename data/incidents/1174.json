@@ -1,0 +1,13 @@
+{
+  "id": 1174,
+  "title": "Escuelas del condado de Kanawha - Ransomware - Undetermined",
+  "date": "2017-01-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Kanawha informan",
+  "source": "https://www.databreaches.net/wv-internal-documents-restored-after-ransomware-hack-on-school-district/",
+  "summary": "Las escuelas del condado de Kanawha informan que sus documentos internos han sido restaurados después de un ataque de ransomware.",
+  "color": "#ef4444"
+}

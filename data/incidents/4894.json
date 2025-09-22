@@ -1,0 +1,13 @@
+{
+  "id": 4894,
+  "title": "Conexión con Bardstown - Ransomware - Undetermined",
+  "date": "2022-09-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Bardstown",
+  "source": "nan",
+  "summary": "Un ataque de ransomware destruye Bardstown Connect, el ISP municipal de la ciudad de Bardstown.",
+  "color": "#ef4444"
+}

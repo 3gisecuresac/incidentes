@@ -1,0 +1,13 @@
+{
+  "id": 712,
+  "title": "Forbes - Data leak - Undetermined",
+  "date": "2016-01-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Forbes",
+  "source": "https://www.hackread.com/forbes-website-dropping-malware-on-visitors-pcs/",
+  "summary": "Brian Baskin, un experto en análisis forense digital, recibe malware cuando visita el sitio web de Forbes, después de desactivar el bloqueador de anuncios como se sugirió.",
+  "color": "#a78bfa"
+}

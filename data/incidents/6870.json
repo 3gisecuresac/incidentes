@@ -1,0 +1,13 @@
+{
+  "id": 6870,
+  "title": "Equidad en salud - Data leak - Undetermined",
+  "date": "2024-07-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en HealthEquity",
+  "source": "nan",
+  "summary": "La empresa fintech de salud HealthEquity revela una filtración de datos tras el uso de la cuenta comprometida de un socio para acceder a sus sistemas. Los intrusos lograron robar información médica protegida de los sistemas de la compañía.",
+  "color": "#ef4444"
+}

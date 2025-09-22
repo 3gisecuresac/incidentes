@@ -1,0 +1,13 @@
+{
+  "id": 4379,
+  "title": "Wheeling Health Right (WHR) - Ransomware - Undetermined",
+  "date": "2022-03-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Wheeling Health Right WHR",
+  "source": "nan",
+  "summary": "Wheeling Health Right (WHR) notifica a un número no revelado de personas sobre un incidente de ransomware que sufrió en enero de 2022.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6431,
+  "title": "Farmacia estadounidense - Data leak - Undetermined",
+  "date": "2023-11-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en U.S. Drug Mart",
+  "source": "nan",
+  "summary": "U.S. Drug Mart presenta un aviso de violación de datos después de descubrir que la información en posesión de la empresa estaba sujeta a acceso no autorizado.",
+  "color": "#ef4444"
+}

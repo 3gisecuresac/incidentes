@@ -1,0 +1,13 @@
+{
+  "id": 1673,
+  "title": "Centros de salud comunitarios de Scenic Bluffs - Data leak - Undetermined",
+  "date": "2018-04-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Scenic Bluffs Community Health Centers",
+  "source": "https://www.databreaches.net/scenic-bluffs-community-health-centers-notifies-patients-of-security-breach/",
+  "summary": "Scenic Bluffs Community Health Centers notifica a 2,889 pacientes sobre una posible violación de información personal de pacientes después de descubrir el 1 de marzo de 2018 que una cuenta de correo electrónico del personal había sido pirateada el 28 de febrero de 2018 por una parte no autorizada.",
+  "color": "#a78bfa"
+}

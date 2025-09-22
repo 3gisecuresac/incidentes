@@ -1,0 +1,13 @@
+{
+  "id": 8004,
+  "title": "Fondo Nacional de Desarrollo de la Educación - Ransomware - RansomEXX",
+  "date": "2022-09-03",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "RansomEXX",
+  "impact": "Filtración de datos en Fundo Nacional de Desenvolvimento da Educatioï¿½ en su sitio web oscuro",
+  "source": "nan",
+  "summary": "RansomExx cifró y filtró datos robados del Fundo Nacional de Desenvolvimento da Educatioï¿½ en su sitio web oscuro",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 439,
+  "title": "Xtube - Data leak - Undetermined",
+  "date": "2015-03-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Otro",
+  "source": "https://blog.malwarebytes.org/exploits-2/2015/03/adult-site-xtube-serves-malware-via-neutrino-ek/",
+  "summary": "Otro sitio para adultos utilizado para distribuir malware. En esta ocasión, la víctima es Xtube, cuya página principal está comprometida para redirigir al usuario a un sitio que alberga el kit de explotación Neutrino.",
+  "color": "#3b82f6"
+}

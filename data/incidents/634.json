@@ -1,0 +1,13 @@
+{
+  "id": 634,
+  "title": "Las tiendas de segunda mano de Estados Unidos - Data leak - Undetermined",
+  "date": "2015-10-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Estados Unidos",
+  "source": "http://krebsonsecurity.com/2015/10/credit-card-breach-at-americas-thrift-stores/",
+  "summary": "Otra tienda de caridad hackeada: America's Thrift Stores, una organización que opera tiendas de segunda mano basadas en donaciones en todo el sureste de Estados Unidos, dice haber sido víctima de una violación de seguridad impulsada por malware.",
+  "color": "#3b82f6"
+}

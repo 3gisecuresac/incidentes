@@ -1,0 +1,13 @@
+{
+  "id": 1368,
+  "title": "Teatros B&B - Data leak - Undetermined",
+  "date": "2017-07-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estados Unidos",
+  "source": "https://krebsonsecurity.com/2017/07/bb-theatres-hit-in-2-year-credit-card-breach/",
+  "summary": "B&B Theatres, una compañía que posee y opera la séptima cadena de cines más grande de Estados Unidos, dice que está investigando una violación de sus sistemas de tarjetas de crédito que comenzó en septiembre de 2015.",
+  "color": "#a78bfa"
+}

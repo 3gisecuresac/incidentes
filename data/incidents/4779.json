@@ -1,0 +1,13 @@
+{
+  "id": 4779,
+  "title": "Servicios de Gestión de Diálisis del Atlántico (ADMS) - Ciberataque - Undetermined",
+  "date": "2022-08-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Atlantic Dialysis Management Services",
+  "source": "nan",
+  "summary": "Atlantic Dialysis Management Services notifica a sus pacientes sobre un incidente de seguridad de datos.",
+  "color": "#ef4444"
+}

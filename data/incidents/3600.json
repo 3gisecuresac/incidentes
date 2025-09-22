@@ -1,0 +1,13 @@
+{
+  "id": 3600,
+  "title": "Centro Médico León - Data leak - WIZARD SPIDER",
+  "date": "2021-02-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "WIZARD SPIDER",
+  "impact": "Incidente de seguridad en Florida",
+  "source": "nan",
+  "summary": "El Centro Médico León, con sede en Florida, y el Hospital General Nocona, en Texas, han sufrido ataques de piratas informáticos que han dado lugar a que se publique en Internet amplia información sobre sus pacientes.",
+  "color": "#a78bfa"
+}

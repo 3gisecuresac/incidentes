@@ -1,0 +1,13 @@
+{
+  "id": 1216,
+  "title": "Ciudad de Troya - Ransomware - Undetermined",
+  "date": "2017-02-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Troy es víctima de un ataque de ransomware",
+  "source": "http://www.timesunion.com/local/article/Virus-found-in-Troy-s-computer-system-10904935.php",
+  "summary": "El sistema informático de la ciudad de Troy es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2217,
+  "title": "Salud de Estes Park - Ransomware - Undetermined",
+  "date": "2019-06-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Estes Park Health",
+  "source": "https://www.databreaches.net/co-hit-by-ransomware-estes-park-health-decides-to-pay-the-ransom-to-get-decryption-keys/",
+  "summary": "Estes Park Health sufre un ataque de ransomware el 2 de junio y decide pagar el rescate para recuperar los datos.",
+  "color": "#ef4444"
+}

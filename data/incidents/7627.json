@@ -1,0 +1,13 @@
+{
+  "id": 7627,
+  "title": "Autoridad Sanitaria de Nueva Escocia - Data leak - Undetermined",
+  "date": "2019-06-10",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Nueva Escocia notifica a unas 3",
+  "source": "nan",
+  "summary": "La Autoridad Sanitaria de Nueva Escocia notifica a unas 3.000 posibles víctimas de un ataque de phishing ocurrido el 8 de mayo de 2019.",
+  "color": "#ef4444"
+}

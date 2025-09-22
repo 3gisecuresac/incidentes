@@ -1,0 +1,13 @@
+{
+  "id": 2596,
+  "title": "Centro Médico Enloe - Ransomware - Undetermined",
+  "date": "2020-01-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Centro M",
+  "source": "https://www.databreaches.net/ca-enloe-targeted-by-ransomware-attack-and-elective-procedures-delayed/",
+  "summary": "El Centro Médico Enloe se ve afectado por un ataque de ransomware que obliga al hospital a reprogramar algunos procedimientos electivos.",
+  "color": "#ef4444"
+}

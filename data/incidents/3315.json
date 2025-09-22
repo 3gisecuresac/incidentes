@@ -1,0 +1,13 @@
+{
+  "id": 3315,
+  "title": "Universidad del Norte de Texas - Phishing - Silent Librarian",
+  "date": "2020-10-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Phishing",
+  "actor": "Silent Librarian",
+  "impact": "Cuentas comprometidas por phishing en Norte de Texas",
+  "source": "https://www.zdnet.com/article/iranian-hackers-restart-attacks-on-universities-as-the-new-school-year-begins/",
+  "summary": "Los piratas informáticos iraníes con antecedentes de lanzar ataques de phishing contra instituciones académicas han lanzado una nueva campaña, incluso contra la Universidad del Norte de Texas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3029,
+  "title": "Museo Infantil de Providence - Data leak - Undetermined",
+  "date": "2020-07-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Providence es otra víctima del hackeo de Blackbaud",
+  "source": "https://www.govtech.com/security/Rhode-Island-Entities-Breached-Through-Software-Service-Provider.html",
+  "summary": "El Museo Infantil de Providence es otra víctima del hackeo de Blackbaud.",
+  "color": "#3b82f6"
+}

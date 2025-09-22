@@ -1,0 +1,13 @@
+{
+  "id": 7775,
+  "title": "Federación de Maestros de Escuelas Secundarias de Ontario (OSSTF) - Ransomware - Undetermined",
+  "date": "2022-05-30",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Maestros de Escuelas Secundarias de Ontario",
+  "source": "nan",
+  "summary": "La Federación de Maestros de Escuelas Secundarias de Ontario (OSSTF) dice que fue víctima de un ataque de ransomware a principios de este año que comprometió la información personal de sus miembros.",
+  "color": "#ef4444"
+}

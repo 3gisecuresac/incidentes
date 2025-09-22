@@ -1,0 +1,13 @@
+{
+  "id": 6473,
+  "title": "Distrito Municipal de Agua del Norte de Texas - Ransomware - Daixin Team",
+  "date": "2023-11-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Daixin Team",
+  "impact": "Cifrado por ransomware en Aguas del Norte de Texas",
+  "source": "nan",
+  "summary": "El Distrito Municipal de Aguas del Norte de Texas (NTMWD) está lidiando con un incidente de ciberseguridad que causó problemas operativos. La banda de ransomware Daixin afirma estar detrás del ataque, añadiendo a NTMWD a su lista de víctimas y afirmando haber robado más de 33,000 archivos con información de clientes.",
+  "color": "#ef4444"
+}

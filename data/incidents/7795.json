@@ -1,0 +1,13 @@
+{
+  "id": 7795,
+  "title": "Ciudad de Westmount - Ransomware - LockBit 3.0",
+  "date": "2022-11-22",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Westmount",
+  "source": "nan",
+  "summary": "El grupo cibercriminal LockBit 3.0 se atribuye la responsabilidad del ataque de ransomware que detuvo los servicios municipales y cerró las cuentas de correo electrónico de los empleados en Westmount, Quebec.",
+  "color": "#ef4444"
+}

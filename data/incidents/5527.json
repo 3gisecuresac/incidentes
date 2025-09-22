@@ -1,0 +1,13 @@
+{
+  "id": 5527,
+  "title": "Recursos de salud conductual del sur de Jersey - Ransomware - Undetermined",
+  "date": "2023-04-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en South Jersey Behavioral Health Resources",
+  "source": "nan",
+  "summary": "South Jersey Behavioral Health Resources revela haber sufrido un ataque de ransomware.",
+  "color": "#ef4444"
+}

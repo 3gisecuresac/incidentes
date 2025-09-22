@@ -1,0 +1,13 @@
+{
+  "id": 5862,
+  "title": "Banco y Compañía Fiduciaria de la Unión - Ransomware - cl0p",
+  "date": "2023-06-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit",
+  "source": "nan",
+  "summary": "Union Bank and Trust Company (UBT) presenta un aviso de violación de datos después de descubrir que la información personal de 25.660 personas se filtró como resultado de la vulnerabilidad masiva de MOVEit.",
+  "color": "#ef4444"
+}

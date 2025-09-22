@@ -1,0 +1,13 @@
+{
+  "id": 3101,
+  "title": "Escuelas públicas de la ciudad de Ponca - Ransomware - Undetermined",
+  "date": "2020-08-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Ponca se están recuperando de un ataque de ransomware",
+  "source": "https://www.databreaches.net/ok-ponca-city-public-schools-address-cyber-attack/",
+  "summary": "Las escuelas de la ciudad de Ponca se están recuperando de un ataque de ransomware que afectó a PowerSchool, el sistema que utiliza el distrito para determinar horarios, contener información y mantener informados a los padres.",
+  "color": "#ef4444"
+}

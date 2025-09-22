@@ -1,0 +1,13 @@
+{
+  "id": 3683,
+  "title": "Salud completa de Arizona - ciberataque - FIN11",
+  "date": "2021-02-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "ciberataque",
+  "actor": "FIN11",
+  "impact": "Incidente de seguridad en Accellion",
+  "source": "nan",
+  "summary": "Arizona Complete Health se suma a la lista de víctimas de los ciberataques llevados a cabo explotando la vulnerabilidad de Accellion.",
+  "color": "#a78bfa"
+}

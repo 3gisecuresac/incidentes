@@ -1,0 +1,13 @@
+{
+  "id": 1046,
+  "title": "Museo Exploratorio de San Francisco - Ransomware - Unknown Nigerian attackers",
+  "date": "2016-09-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Unknown Nigerian attackers",
+  "impact": "Cuentas comprometidas por phishing en San Francisco admite haber sido víctima de un ataque de Spear Phishing",
+  "source": "http://news.softpedia.com/news/spear-phishing-incident-causes-havoc-at-san-francisco-exploratorium-museum-509625.shtml",
+  "summary": "El Museo Exploratorium de San Francisco admite haber sido víctima de un ataque de Spear Phishing.",
+  "color": "#ef4444"
+}

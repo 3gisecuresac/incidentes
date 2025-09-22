@@ -1,0 +1,13 @@
+{
+  "id": 2330,
+  "title": "Asociados para el cuidado de los ojos Inc. - Ransomware - Undetermined",
+  "date": "2019-08-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Eye Care Associates Inc",
+  "source": "https://www.databreaches.net/healthcare-entities-continue-to-be-targeted-eye-care-provider-in-ohio-hit-with-ransomware-dental-practice-in-minnesota-reports-cyberattack/",
+  "summary": "Eye Care Associates Inc. fue víctima de un ataque de ransomware. El ataque ocurrió aproximadamente dos semanas antes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5235,
+  "title": "Escuelas públicas de Des Moines - Ciberataque - Undetermined",
+  "date": "2023-01-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Des Moines",
+  "source": "nan",
+  "summary": "Las Escuelas Públicas de Des Moines, el distrito escolar más grande de Iowa, cancelan todas las clases después de desconectar todos los sistemas en red en respuesta a una actividad inusual detectada en su red.",
+  "color": "#a78bfa"
+}

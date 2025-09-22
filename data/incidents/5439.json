@@ -1,0 +1,13 @@
+{
+  "id": 5439,
+  "title": "Ciudad de Ballwin - Ransomware - Royal",
+  "date": "2023-03-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Royal",
+  "impact": "Cifrado por ransomware en Ballwin",
+  "source": "nan",
+  "summary": "El gobierno local de Ballwin, un suburbio de San Luis, Misuri, está investigando un incidente de seguridad de red que se cree que comenzó el mes pasado, pero que aún afecta a los sistemas. La banda de ransomware Royal se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

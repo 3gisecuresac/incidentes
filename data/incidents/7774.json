@@ -1,0 +1,13 @@
+{
+  "id": 7774,
+  "title": "Escuelas Públicas de Regina - DoS - ALPHVM",
+  "date": "2022-05-28",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "ALPHVM",
+  "impact": "Cifrado por ransomware en Regina se ven afectadas",
+  "source": "nan",
+  "summary": "Las escuelas públicas de Regina se ven afectadas por un ataque de ransomware.",
+  "color": "#ef4444"
+}

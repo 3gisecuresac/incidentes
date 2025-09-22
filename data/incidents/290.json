@@ -1,0 +1,13 @@
+{
+  "id": 290,
+  "title": "Flinn Scientific - Data leak - Undetermined",
+  "date": "2014-10-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Flinn Scientific",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/flinn-scientific-notifies-customers-of-payment-card-breach/",
+  "summary": "Se notifica a un número no revelado de clientes que realizaron compras en el sitio web de Flinn Scientific que su información personal, incluidos los datos de su tarjeta de pago, puede haber sido comprometida en un ataque de malware al servidor de la compañía que aloja su tienda en Internet.",
+  "color": "#ef4444"
+}

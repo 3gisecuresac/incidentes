@@ -1,0 +1,13 @@
+{
+  "id": 2875,
+  "title": "Microsoft - Data leak - ShinyHunters",
+  "date": "2020-05-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Filtración de datos en GitHub de Microsoft",
+  "source": "https://www.bleepingcomputer.com/news/security/microsofts-github-account-hacked-private-repositories-stolen/",
+  "summary": "Un hacker llamado ShinyHunters afirma haber robado más de 500 GB de datos de los repositorios privados de GitHub de Microsoft.",
+  "color": "#ef4444"
+}

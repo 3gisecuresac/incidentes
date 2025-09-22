@@ -1,0 +1,13 @@
+{
+  "id": 5091,
+  "title": "Sitios web del FBI - DoS - Killnet",
+  "date": "2022-11-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Killnet",
+  "impact": "Interrupción por DDoS en FBI",
+  "source": "nan",
+  "summary": "El grupo de hackers prorruso KillNet se atribuye la responsabilidad de un ataque de denegación de servicio contra sitios web del FBI,",
+  "color": "#f59e0b"
+}

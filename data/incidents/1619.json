@@ -1,0 +1,13 @@
+{
+  "id": 1619,
+  "title": "Proveedor de servicios estadounidense no identificado - DoS - Undetermined",
+  "date": "2018-03-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Tbps Arbor Networks",
+  "source": "https://www.bleepingcomputer.com/news/security/new-ddos-record-is-now-17-tbps/",
+  "summary": "Pocos días después de que GitHub sufriera un ataque DDoS masivo de 1,3 Tbps, Arbor Networks reveló los detalles de un nuevo ataque DDoS récord de 1,7 Tbps. El ataque estaba dirigido a un proveedor de servicios estadounidense aún no identificado.",
+  "color": "#f59e0b"
+}

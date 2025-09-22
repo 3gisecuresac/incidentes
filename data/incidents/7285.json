@@ -1,0 +1,13 @@
+{
+  "id": 7285,
+  "title": "Naranja España - Manipulación de mensajes - Snow",
+  "date": "2024-01-02",
+  "country": "España",
+  "region": "Europa",
+  "type": "Manipulación de mensajes",
+  "actor": "Snow",
+  "impact": "Incidente de seguridad en Internet después de",
+  "source": "nan",
+  "summary": "Orange España sufre una caída de Internet después de que un atacante con el apodo de 'Snow' vulnerara la cuenta RIPE de la compañía para configurar incorrectamente el enrutamiento BGP y una configuración RPKI.",
+  "color": "#a78bfa"
+}

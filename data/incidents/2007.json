@@ -1,0 +1,13 @@
+{
+  "id": 2007,
+  "title": "Campamento base - Data leak - Undetermined",
+  "date": "2019-01-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Basecamp",
+  "source": "https://www.bleepingcomputer.com/news/security/basecamp-successfully-defends-against-credential-stuffing-attack/",
+  "summary": "Basecamp sufre un ataque de robo de credenciales de una hora de duración dirigido a su plataforma.",
+  "color": "#a78bfa"
+}

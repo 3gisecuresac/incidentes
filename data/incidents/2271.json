@@ -1,0 +1,13 @@
+{
+  "id": 2271,
+  "title": "Suministros médicos de Edgepark - Data leak - Undetermined",
+  "date": "2019-07-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Edgepark Medical Supplies",
+  "source": "https://www.databreaches.net/oh-edgepark-medical-supplies-notifying-6572-patients-after-a-password-spray-attack/",
+  "summary": "Edgepark Medical Supplies notifica a 6.572 pacientes después de que ocurrió un ataque de rociado de contraseña en mayo de 2019.",
+  "color": "#a78bfa"
+}

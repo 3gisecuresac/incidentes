@@ -1,0 +1,13 @@
+{
+  "id": 4010,
+  "title": "Sistema de agua y aguas residuales de California - Ciberataque - Undetermined",
+  "date": "2021-08-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en California",
+  "source": "nan",
+  "summary": "WWS, con sede en California, es víctima de un ataque de ransomware variante Ghost.",
+  "color": "#ef4444"
+}

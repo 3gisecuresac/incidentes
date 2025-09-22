@@ -1,0 +1,13 @@
+{
+  "id": 7489,
+  "title": "Redbanc - Malware Attack - NGB 3rd Technical Surveillance Bureau",
+  "date": "2019-01-15",
+  "country": "Chile",
+  "region": "Latinoamerica",
+  "type": "Malware Attack",
+  "actor": "NGB 3rd Technical Surveillance Bureau",
+  "impact": "Sistema o cuenta comprometida en Flashpoint creen",
+  "source": "nan",
+  "summary": "Los analistas de Flashpoint creen que el Grupo Lazarus está detrás de la reciente intrusión sufrida por la red interbancaria chilena Redbanc a través del malware PowerRatankba.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 531,
+  "title": "Primedice (primedice.com) - Ransomware - Hufflepuff",
+  "date": "2015-07-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hufflepuff",
+  "impact": "Incidente de seguridad en Primedice un",
+  "source": "https://www.hackread.com/gambling-site-hacked-bitcoin-stolen/",
+  "summary": "Primedice, un sitio de juegos y apuestas en línea, pierde $1 millón en bitcoins a manos de un atacante que explotó su sistema de generación de números aleatorios (RNG).",
+  "color": "#a78bfa"
+}

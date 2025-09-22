@@ -1,0 +1,13 @@
+{
+  "id": 1887,
+  "title": "La vida de los banqueros - Data leak - Undetermined",
+  "date": "2018-11-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Bankers Life",
+  "source": "https://www.databreaches.net/bankers-life-notified-more-than-566000-after-hack-of-employees-email-resulted-in-breach-of-phi/",
+  "summary": "Bankers Life notifica a más de 566.000 personas tras el hackeo del correo electrónico de algunos empleados, que resultó en una filtración de información médica protegida (PHI). La filtración ocurrió entre el 30 de mayo y el 13 de septiembre de 2018.",
+  "color": "#ef4444"
+}

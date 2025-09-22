@@ -1,0 +1,13 @@
+{
+  "id": 6230,
+  "title": "Colegio Baruch - Ciberataque - Undetermined",
+  "date": "2023-09-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Baruch College",
+  "source": "nan",
+  "summary": "Baruch College sufre un ataque de malware.",
+  "color": "#a78bfa"
+}

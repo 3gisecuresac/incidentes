@@ -1,0 +1,13 @@
+{
+  "id": 5938,
+  "title": "Explorador de redes - Data leak - cl0p",
+  "date": "2023-07-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Incidente de seguridad en Netscout",
+  "source": "nan",
+  "summary": "Netscout aparece nombrado en el sitio web Cl0p entre las víctimas de los ataques que explotan la vulnerabilidad CVE-2023-34362.",
+  "color": "#a78bfa"
+}

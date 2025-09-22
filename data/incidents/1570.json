@@ -1,0 +1,13 @@
+{
+  "id": 1570,
+  "title": "Condado de Waldo - Data leak - Undetermined",
+  "date": "2018-02-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Waldo",
+  "source": "https://www.scmagazine.com/waldo-county-maine-employee-data-breached-after-phishing-attack/article/743142/",
+  "summary": "Un ataque de phishing comprometió la información de 100 empleados del condado de Waldo.",
+  "color": "#ef4444"
+}

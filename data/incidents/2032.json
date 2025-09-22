@@ -1,0 +1,13 @@
+{
+  "id": 2032,
+  "title": "Restaurante de mariscos, carnes y cangrejos de Truluck - Infección Dispositivos - Undetermined",
+  "date": "2019-02-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Truluck's Seafood",
+  "source": "https://www.databreaches.net/business-hotspot-trulucks-reports-data-breach-at-8-restaurants/",
+  "summary": "Es posible que la información de las tarjetas de crédito de los clientes que cenan en Truluck's Seafood, Steak & Crab House en el centro de Dallas y Southlake haya sido copiada por un malware insertado en los sistemas de puntos de venta de los restaurantes.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4927,
+  "title": "Centro de Neurología de Nevada (NCNV) - Ransomware - Undetermined",
+  "date": "2022-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Neurología de Nevada",
+  "source": "nan",
+  "summary": "El Centro de Neurología de Nevada (NCNV) confirma que sufrió una violación de datos luego de que las computadoras se volvieran inaccesibles.",
+  "color": "#ef4444"
+}

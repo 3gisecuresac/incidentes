@@ -1,0 +1,13 @@
+{
+  "id": 4414,
+  "title": "Corporación Internacional TIC (TIC) - Ransomware - Conti",
+  "date": "2022-03-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Conti",
+  "impact": "Filtración de datos en TIC International Corporation TIC",
+  "source": "nan",
+  "summary": "TIC International Corporation (TIC) informa sobre una violación de datos después de que la empresa se enterara de que había sido el objetivo de un ataque de ransomware.",
+  "color": "#ef4444"
+}

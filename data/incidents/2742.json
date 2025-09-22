@@ -1,0 +1,13 @@
+{
+  "id": 2742,
+  "title": "NRC Salud - Ransomware - Undetermined",
+  "date": "2020-02-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en NRC Health",
+  "source": "https://securityaffairs.co/wordpress/98614/cyber-crime/nrc-health-ransomware.html",
+  "summary": "NRC Health revela que fue víctima de un ataque de ransomware que tuvo lugar el 11 de febrero.",
+  "color": "#ef4444"
+}

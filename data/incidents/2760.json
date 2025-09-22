@@ -1,0 +1,13 @@
+{
+  "id": 2760,
+  "title": "T-Mobile - Data leak - Undetermined",
+  "date": "2020-03-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en T-Mobile",
+  "source": "https://www.zdnet.com/article/t-mobile-says-hacker-gained-access-to-employee-email-accounts-user-data/",
+  "summary": "El gigante estadounidense de las telecomunicaciones, T-Mobile, revela una brecha de seguridad que afectó tanto a sus empleados como a sus clientes. Los atacantes obtuvieron acceso a ciertas cuentas de correo electrónico de empleados de T-Mobile, algunas de las cuales contenían información de cuentas de clientes y empleados de T-Mobile.",
+  "color": "#a78bfa"
+}

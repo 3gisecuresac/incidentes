@@ -1,0 +1,13 @@
+{
+  "id": 7698,
+  "title": "Socios de Transporte de Montreal (STM) - Ransomware - RansomEXX",
+  "date": "2020-10-19",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "RansomEXX",
+  "impact": "Cifrado por ransomware en Montreal",
+  "source": "nan",
+  "summary": "El sistema de transporte público de Montreal (STM) fue atacado por un ransomware RansomExx que afectó los servicios y sistemas en línea.",
+  "color": "#ef4444"
+}

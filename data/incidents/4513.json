@@ -1,0 +1,13 @@
+{
+  "id": 4513,
+  "title": "Canal oficial de Discord de OpenSea - Ciberataque - Undetermined",
+  "date": "2022-05-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Discord",
+  "source": "nan",
+  "summary": "OpenSea, un mercado de tokens no fungibles, es víctima de un hackeo en su canal principal de Discord: los actores de amenazas publican anuncios falsos sobre asociaciones entre OpenSea y otros proyectos.",
+  "color": "#3b82f6"
+}

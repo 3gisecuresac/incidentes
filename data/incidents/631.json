@@ -1,0 +1,13 @@
+{
+  "id": 631,
+  "title": "Dow Jones & Cía. - Data leak - Undetermined",
+  "date": "2015-10-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Dow Jones & Co",
+  "source": "http://www.bloomberg.com/news/articles/2015-10-16/russian-hackers-of-dow-jones-said-to-have-sought-trading-tips",
+  "summary": "Una nueva filtración de datos de Dow Jones & Co. Bloomberg revela que un grupo de hackers rusos se infiltró en los servidores y robó información para operar antes de que se hiciera pública. La investigación comenzó hace al menos un año.",
+  "color": "#ef4444"
+}

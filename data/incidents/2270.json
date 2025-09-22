@@ -1,0 +1,13 @@
+{
+  "id": 2270,
+  "title": "Flojo - Data leak - Undetermined",
+  "date": "2019-07-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Slack",
+  "source": "https://www.zdnet.com/article/slack-resets-passwords-for-1-of-its-users-because-of-2015-hack/",
+  "summary": "Slack restablece las contraseñas del 1% de sus usuarios después de recibir un lote de credenciales de usuarios relacionadas con el hackeo de 2015.",
+  "color": "#3b82f6"
+}

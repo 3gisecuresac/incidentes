@@ -1,0 +1,13 @@
+{
+  "id": 1820,
+  "title": "El espía de la verdad - Data leak - L.M.",
+  "date": "2018-08-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "L.M.",
+  "impact": "Filtración de datos en TheTruthSpy",
+  "source": "https://motherboard.vice.com/en_us/article/mb4y5x/thetruthspy-spyware-domestic-abusers-hacked-data-breach",
+  "summary": "Un hacker irrumpió en los servidores de TheTruthSpy, una de las empresas de stalkerware más notorias del mercado, y robó datos de inicio de sesión, grabaciones de audio, imágenes y mensajes de texto, entre otros. La filtración ocurrió en febrero de 2018.",
+  "color": "#ef4444"
+}

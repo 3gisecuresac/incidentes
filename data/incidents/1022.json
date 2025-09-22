@@ -1,0 +1,13 @@
+{
+  "id": 1022,
+  "title": "michaelphelps.com - DoS - New World Hackers (NWH)",
+  "date": "2016-08-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "New World Hackers (NWH)",
+  "impact": "Sistema o cuenta comprometida en Michael Phelps",
+  "source": "http://www.newsweek.com/michael-phelps-website-down-hackers-record-olympics-gold-488171",
+  "summary": "New World Hackers se atribuyen la responsabilidad de haber derribado el sitio web personal de Michael Phelps.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4596,
+  "title": "Rainier Arms - Data leak - Undetermined",
+  "date": "2022-06-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Rainier Arms un",
+  "source": "nan",
+  "summary": "Rainier Arms, un sitio de comercio electrónico, revela una violación de datos resultante de una infección con un skimmer de tarjetas en su sitio.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3808,
+  "title": "Importadores de J&B - Ransomware - Undetermined",
+  "date": "2021-04-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en J B Importers",
+  "source": "nan",
+  "summary": "J&B Importers sufre un ataque de ransomware.",
+  "color": "#ef4444"
+}

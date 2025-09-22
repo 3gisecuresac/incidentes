@@ -1,0 +1,13 @@
+{
+  "id": 3747,
+  "title": "Destino Maternidad - Data leak - Undetermined",
+  "date": "2021-03-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Destination Maternity",
+  "source": "nan",
+  "summary": "Destination Maternity notifica a más de 90.000 empleados que su información personal se vio comprometida en un incidente de piratería.",
+  "color": "#3b82f6"
+}

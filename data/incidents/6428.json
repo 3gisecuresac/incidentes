@@ -1,0 +1,13 @@
+{
+  "id": 6428,
+  "title": "4 más - Data leak - Undetermined",
+  "date": "2023-11-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Over",
+  "source": "nan",
+  "summary": "4 Over proporciona aviso de un incidente de seguridad de datos después de detectar actividad sospechosa que afecta a los sistemas dentro de la red.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6666,
+  "title": "Microsoft - Data leak - SVR (COZYBEAR)",
+  "date": "2024-03-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (COZYBEAR)",
+  "impact": "Filtración de datos en Cozy Bear Midnight Blizzard Nobelium The Dukes",
+  "source": "nan",
+  "summary": "Microsoft revela que APT29 (también conocido como Cozy Bear, Midnight Blizzard, Nobelium, The Dukes) utilizó la información inicialmente exfiltrada de sus sistemas de correo electrónico corporativo para acceder a partes del código fuente.",
+  "color": "#ef4444"
+}

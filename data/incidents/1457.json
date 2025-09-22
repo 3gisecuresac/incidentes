@@ -1,0 +1,13 @@
+{
+  "id": 1457,
+  "title": "Atención médica de Chase Brexton - Data leak - Undetermined",
+  "date": "2017-10-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Chase Brexton Health Care",
+  "source": "https://www.databreaches.net/chase-brexton-health-care-notifies-more-than-16000-patients-after-phishing-incident/",
+  "summary": "Chase Brexton Health Care notifica a 16.562 pacientes después de que cuatro empleados fueran víctimas de un ataque de phishing. Los correos electrónicos de phishing se enviaron el 2 y el 3 de agosto, y para el 4 de agosto, los atacantes habían desviado los cheques de pago de los empleados.",
+  "color": "#ef4444"
+}

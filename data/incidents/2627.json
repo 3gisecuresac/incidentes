@@ -1,0 +1,13 @@
+{
+  "id": 2627,
+  "title": "Clientes de Citibank - Data leak - Undetermined",
+  "date": "2020-01-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Citibank",
+  "source": "https://www.bleepingcomputer.com/news/security/this-citibank-phishing-scam-could-trick-many-people/",
+  "summary": "Los investigadores descubren una nueva estafa de phishing de Citibank que utiliza un nombre de dominio convincente, certificados TLS e incluso solicita códigos OTP que podrían engañar fácilmente a sus víctimas.",
+  "color": "#ef4444"
+}

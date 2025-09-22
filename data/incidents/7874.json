@@ -1,0 +1,13 @@
+{
+  "id": 7874,
+  "title": "Junta Escolar del Distrito de Toronto - Ransomware - Undetermined",
+  "date": "2024-06-12",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Distrito de Toronto",
+  "source": "nan",
+  "summary": "La Junta Escolar del Distrito de Toronto (TDSB) advierte que sufrió un ataque de ransomware en su entorno de pruebas de software y está investigando si se expuso alguna información personal.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 8024,
+  "title": "Asociación de Abogados de São Paulo (AASP) - Ransomware - Ragnar Locker",
+  "date": "2023-02-22",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Ragnar Locker",
+  "impact": "Filtración de datos en Advogados de SÃÆÃ'Ã'ÃÂ£o Paulo",
+  "source": "nan",
+  "summary": "La banda de ransomware Ragnar Locker filtra 200 GB de archivos de la AssociaÃÆÃ'Ã'ÃÂ§ÃÆÃ'Ã'ÃÂ£o de Advogados de SÃÆÃ'Ã'ÃÂ£o Paulo (AASP), además de numerosas capturas de pantalla con información personal después de que la asociación negara haber sido hackeada.",
+  "color": "#ef4444"
+}

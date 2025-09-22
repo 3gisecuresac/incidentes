@@ -1,0 +1,13 @@
+{
+  "id": 1455,
+  "title": "Pizza Hut - Data leak - Undetermined",
+  "date": "2017-10-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Pizza Hut",
+  "source": "https://www.bleepingcomputer.com/news/security/users-report-fraudulent-transactions-after-pizza-hut-admits-card-breach/",
+  "summary": "Pizza Hut admite haber sufrido una violación de datos, a través de la cual un hacker robó datos de tarjetas de pago de un pequeño número de clientes.",
+  "color": "#ef4444"
+}

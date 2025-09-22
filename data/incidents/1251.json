@@ -1,0 +1,13 @@
+{
+  "id": 1251,
+  "title": "Henok Gabisa - Data leak - Undetermined",
+  "date": "2017-03-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Israel",
+  "source": "https://citizenlab.ca/2017/12/champing-cyberbit-ethiopian-dissidents-targeted-commercial-spyware/",
+  "summary": "Un actor de amenazas atacó a disidentes etíopes con fines de espionaje, utilizando software espía comercial vendido por Cyberbit, una empresa con sede en Israel. En particular, el actor atacó a Oromia Media Network y a algunas personas asociadas a ella.",
+  "color": "#a78bfa"
+}

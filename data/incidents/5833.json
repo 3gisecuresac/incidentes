@@ -1,0 +1,13 @@
+{
+  "id": 5833,
+  "title": "Competente - Ransomware - cl0p",
+  "date": "2023-06-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Cognizant",
+  "source": "nan",
+  "summary": "Cognizant está incluido por la banda Cl0p entre las víctimas de una filtración de datos ocurrida explotando la vulnerabilidad MOVEit.",
+  "color": "#ef4444"
+}

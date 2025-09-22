@@ -1,0 +1,13 @@
+{
+  "id": 3094,
+  "title": "Rocky Mount, Carolina del Norte - Ransomware - Undetermined",
+  "date": "2020-08-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Norte se ve afectado",
+  "source": "https://www.cbs17.com/news/local-news/rocky-mount-wont-pay-ransom-to-group-behind-cyberattack-on-city-systems/#:~:text=ROCKY%20MOUNT%2C%20N.C.%20(WNCN),with%20malware%2C%20the%20City%20said.",
+  "summary": "Rocky Mount, Carolina del Norte se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 75,
+  "title": "GitHub - DoS - Undetermined",
+  "date": "2014-01-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en GitHub",
+  "source": "http://news.softpedia.com/news/GitHub-Down-Due-to-DDOS-Attack-1-27-2014-421114.shtml",
+  "summary": "GitHub fue derribado por un ataque DDoS.",
+  "color": "#f59e0b"
+}

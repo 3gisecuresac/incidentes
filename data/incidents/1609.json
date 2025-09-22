@@ -1,0 +1,13 @@
+{
+  "id": 1609,
+  "title": "FS-ISAC - Data leak - Undetermined",
+  "date": "2018-03-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en FS-ISAC",
+  "source": "https://krebsonsecurity.com/2018/03/financial-cyber-threat-sharing-group-phished/",
+  "summary": "El Centro de análisis e intercambio de información de servicios financieros (FS-ISAC), un foro industrial para compartir datos sobre amenazas críticas de ciberseguridad que enfrentan las industrias bancarias y financieras, revela que un ataque de phishing exitoso contra uno de sus empleados se utilizó para lanzar ataques de phishing adicionales contra miembros del FS-ISAC.",
+  "color": "#ef4444"
+}

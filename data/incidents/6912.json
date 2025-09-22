@@ -1,0 +1,13 @@
+{
+  "id": 6912,
+  "title": "Monitor de riesgo crediticio - Ciberataque - Undetermined",
+  "date": "2024-08-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en CreditRiskMonitor un",
+  "source": "nan",
+  "summary": "CreditRiskMonitor, un proveedor de inteligencia y análisis para profesionales del crédito y la cadena de suministro, revela una violación de datos que afecta a empleados y contratistas.",
+  "color": "#ef4444"
+}

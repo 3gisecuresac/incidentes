@@ -1,0 +1,13 @@
+{
+  "id": 4020,
+  "title": "Familia de Woodstock - Data leak - Undetermined",
+  "date": "2021-08-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Nueva York sufre un ciberataque",
+  "source": "nan",
+  "summary": "Proveedor de servicios sociales de Nueva York sufre un ciberataque que compromete la información sanitaria protegida de 8.214 personas.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6039,
+  "title": "Servicios de Información Nacional de Fidelity (FIS Global) - Data leak - cl0p",
+  "date": "2023-08-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Fidelity National Information Services FIS Global",
+  "source": "nan",
+  "summary": "Fidelity National Information Services (FIS Global) presenta un aviso de violación de datos después de descubrir que una vulnerabilidad en el programa de transferencia de archivos MOVEit utilizado por FIS Global comprometió la información del consumidor.",
+  "color": "#ef4444"
+}

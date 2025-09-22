@@ -1,0 +1,13 @@
+{
+  "id": 5216,
+  "title": "Hub International Limited - Data leak - Undetermined",
+  "date": "2022-12-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI de la empresa",
+  "source": "nan",
+  "summary": "Hub International Limited presenta un aviso de violación de datos después de descubrir que un tercero no autorizado accedió y copió los archivos de la red de TI de la empresa.",
+  "color": "#ef4444"
+}

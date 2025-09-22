@@ -1,0 +1,13 @@
+{
+  "id": 1623,
+  "title": "Escuela de Aprendizaje Virtual de Florida (FVLS) - Data leak - $2a$45",
+  "date": "2018-03-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "$2a$45",
+  "impact": "Incidente de seguridad en Aprendizaje Virtual de Florida notifica a 368",
+  "source": "https://www.databreaches.net/leon-county-schools-vendors-data-leak-exposed-368000-current-and-former-flvs-students-details-lcs-teacher-data-and-more/",
+  "summary": "La Escuela de Aprendizaje Virtual de Florida notifica a 368,000 estudiantes y exalumnos, después de que un usuario con el nombre de usuario $2a$45 publicara información de 35,000 estudiantes en un foro. Las Escuelas del Condado de Leon se encuentran entre las organizaciones afectadas.",
+  "color": "#a78bfa"
+}

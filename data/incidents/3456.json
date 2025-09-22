@@ -1,0 +1,13 @@
+{
+  "id": 3456,
+  "title": "Servicios de agua de Texarkana - Ransomware - Undetermined",
+  "date": "2020-12-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Texarkana Water Utility",
+  "source": "nan",
+  "summary": "Texarkana Water Utility es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

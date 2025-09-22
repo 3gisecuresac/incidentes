@@ -1,0 +1,13 @@
+{
+  "id": 1036,
+  "title": "Hoteles y complejos turísticos HEI - Infección Dispositivos - Undetermined",
+  "date": "2016-08-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Starwood Marriott Hyatt",
+  "source": "http://www.cnbc.com/2016/08/15/starwood-marriott-hyatt-ihg-hit-by-malware-hei.html",
+  "summary": "HEI Hotels & Resorts, la cadena propietaria de los hoteles Starwood, Marriott, Hyatt e Intercontinental, revela que los sistemas de pago de 20 de sus establecimientos han sido infectados con malware que podría haber robado decenas de miles de números de tarjetas de crédito.",
+  "color": "#a78bfa"
+}

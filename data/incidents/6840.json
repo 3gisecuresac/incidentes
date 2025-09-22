@@ -1,0 +1,13 @@
+{
+  "id": 6840,
+  "title": "Hospital Español Auxilio Mutuo (Hospital Auxilio Mutuo) - Data leak - Undetermined",
+  "date": "2023-09-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Auxilio Mutuo Hospital Auxilio Mutuo",
+  "source": "nan",
+  "summary": "Hospital Español Auxilio Mutuo (Hospital Auxilio Mutuo) in Puerto Rico notifies of a network incident affecting 500 patients.",
+  "color": "#a78bfa"
+}

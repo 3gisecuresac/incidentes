@@ -1,0 +1,13 @@
+{
+  "id": 2307,
+  "title": "Departamento de Policía de Los Ángeles - Data leak - Undetermined",
+  "date": "2019-07-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Departamento de Policía de Los Ángeles",
+  "source": "https://www.nbclosangeles.com/news/local/LAPD-Police-Officers-Personal-Information-Stolen-Data-Breach-513340401.html",
+  "summary": "Un presunto pirata informático afirma haber robado la información personal de unos 2.500 oficiales, aprendices y reclutas del Departamento de Policía de Los Ángeles, junto con aproximadamente 17.500 aspirantes a oficiales de policía.",
+  "color": "#a78bfa"
+}

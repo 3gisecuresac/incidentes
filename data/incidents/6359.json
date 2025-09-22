@@ -1,0 +1,13 @@
+{
+  "id": 6359,
+  "title": "Akumin - Ransomware - BianLian",
+  "date": "2023-11-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "BianLian",
+  "impact": "Cifrado por ransomware en Akumin",
+  "source": "nan",
+  "summary": "Akumin es víctima de un ataque de ransomware del grupo BianLian.",
+  "color": "#ef4444"
+}

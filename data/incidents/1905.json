@@ -1,0 +1,13 @@
+{
+  "id": 1905,
+  "title": "OSIsoft LLC - Data leak - Undetermined",
+  "date": "2018-11-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en OSIsoft LLC",
+  "source": "https://news.softpedia.com/news/osisoft-breached-all-domain-accounts-emails-and-passwords-assumed-compromised-523863.shtml",
+  "summary": "OSIsoft LLC revela una brecha de seguridad que afectó a sus empleados, consultores, becarios y contratistas. El robo de credenciales afecta a 29 computadoras y 135 cuentas.",
+  "color": "#a78bfa"
+}

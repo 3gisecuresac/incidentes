@@ -1,0 +1,13 @@
+{
+  "id": 3669,
+  "title": "Covenant HealthCare - Data leak - Undetermined",
+  "date": "2021-02-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Covenant HealthCare",
+  "source": "nan",
+  "summary": "Covenant HealthCare notifica a 45.000 pacientes y empleados sobre una violación de datos que ocurrió el pasado 4 de mayo cuando actores de amenazas accedieron a dos cuentas de correo electrónico de empleados.",
+  "color": "#ef4444"
+}

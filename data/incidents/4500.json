@@ -1,0 +1,13 @@
+{
+  "id": 4500,
+  "title": "Colegio Comunitario Kellogg - Ciberataque - Undetermined",
+  "date": "2022-04-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Kellogg Community College",
+  "source": "nan",
+  "summary": "Kellogg Community College sufre un ataque de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 657,
+  "title": "Zoho - DoS - Undetermined",
+  "date": "2015-11-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en DDoS. El",
+  "source": "https://www.zoho.com/service-updates/blog/zoho-services-under-criminal-attack.html",
+  "summary": "Zoho sufre un ataque DDoS. El ataque comienza el 4 de noviembre y afecta a la empresa durante una semana.",
+  "color": "#f59e0b"
+}

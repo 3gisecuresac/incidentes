@@ -1,0 +1,13 @@
+{
+  "id": 4220,
+  "title": "Shutterfly - Ransomware - WIZARD SPIDER",
+  "date": "2021-12-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Cifrado por ransomware en Shutterfly",
+  "source": "nan",
+  "summary": "Shutterfly sufre un importante ataque de ransomware, la banda Conti encriptó más de 4.000 dispositivos y 120 servidores.",
+  "color": "#ef4444"
+}

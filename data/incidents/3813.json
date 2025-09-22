@@ -1,0 +1,13 @@
+{
+  "id": 3813,
+  "title": "Distrito Escolar Consolidado 230 - Ransomware - Pysa",
+  "date": "2021-04-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Pysa",
+  "impact": "Filtración de datos en Illinois sufre ataque",
+  "source": "nan",
+  "summary": "Distrito escolar de Illinois sufre ataque, 10 GB de datos se filtran en línea.",
+  "color": "#ef4444"
+}

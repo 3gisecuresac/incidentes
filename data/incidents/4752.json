@@ -1,0 +1,13 @@
+{
+  "id": 4752,
+  "title": "Consultoría de recursos de Gardner - Data leak - Undetermined",
+  "date": "2022-07-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Gardner Resources Consulting",
+  "source": "nan",
+  "summary": "Gardner Resources Consulting confirma que la empresa sufrió una violación de datos después de que una parte no autorizada obtuviera acceso a datos confidenciales de consumidores contenidos en su red.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7144,
+  "title": "Ciudad de Bar Harbor, Maine - Data leak - Undetermined",
+  "date": "2025-07-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en CrowdStrike y el FBI",
+  "source": "nan",
+  "summary": "Bar Harbor descubrió el 30 de julio de 2025 que cuatro cuentas de correo electrónico municipales fueron comprometidas y utilizadas para enviar mensajes de phishing. Las oficinas municipales permanecieron cerradas del 31 de julio al 1 de agosto mientras se aseguraban los sistemas. CrowdStrike y el FBI confirmaron la ausencia de ransomware, cifrado, malware, robo financiero ni exfiltración de datos.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2219,
+  "title": "Universidad Estatal del Sur de Missouri (MSSU) - Data leak - Undetermined",
+  "date": "2019-06-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Sur de Missouri",
+  "source": "https://www.bleepingcomputer.com/news/security/three-us-universities-disclose-data-breaches-over-two-day-span/",
+  "summary": "La Universidad Estatal del Sur de Missouri (MSSU) afirma que fue alertada de un posible ataque cibernético provocado por un correo electrónico de phishing el 9 de enero. El ataque de phishing causó varias víctimas entre los empleados de la universidad.",
+  "color": "#ef4444"
+}

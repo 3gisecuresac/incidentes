@@ -1,0 +1,13 @@
+{
+  "id": 7183,
+  "title": "Socios de salud Premier - Data leak - Undetermined",
+  "date": "2023-06-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Yahoo el 30 de agosto de 2025",
+  "source": "nan",
+  "summary": "El acceso no autorizado entre el 7 de junio y el 12 de julio de 2023 condujo a la adquisición de información personal y de salud confidencial de 10.833 personas. No se interrumpió el servicio; los servicios permanecieron operativos. No se identificó al responsable. El incidente se descubrió el 12 de julio de 2023; la divulgación se publicó a través de Yahoo el 30 de agosto de 2025.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1767,
+  "title": "Colegio de Optometría del Sur - Data leak - Undetermined",
+  "date": "2018-07-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Seguro Social estaban en una cuenta de correo electrónico de empleado",
+  "source": "https://www.databreaches.net/southern-college-of-optometry-notifies-students-whose-loan-information-was-hacked/",
+  "summary": "El Southern College of Optometry notifica a un número no revelado de estudiantes cuya información de préstamos estudiantiles y números de Seguro Social estaban en una cuenta de correo electrónico de empleado que fue pirateada.",
+  "color": "#a78bfa"
+}

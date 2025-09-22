@@ -1,0 +1,13 @@
+{
+  "id": 1166,
+  "title": "Distrito Escolar Independiente de Northside - Data leak - Undetermined",
+  "date": "2017-01-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Northside envía cartas a aproximadamente 23",
+  "source": "https://www.databreaches.net/tx-letter-notifies-23000-nisd-employees-students-of-email-breach/",
+  "summary": "El Distrito Escolar Independiente de Northside envía cartas a aproximadamente 23.000 estudiantes y empleados actuales y anteriores con respecto a una violación de seguridad que podría haber puesto en riesgo su información personal después de que las cuentas de correo electrónico de varios empleados se vieran comprometidas.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 563,
+  "title": "Asociación de Empleados del Condado de Orange - Data leak - Undetermined",
+  "date": "2015-08-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Empleados del Condado de Orange notifica a un número no revelado de personas",
+  "source": "http://www.databreaches.net/orange-county-employees-association-victim-of-hack/",
+  "summary": "La Asociación de Empleados del Condado de Orange notifica a un número no revelado de personas que su información personal y la de sus dependientes pueden haber sido accedidas por piratas informáticos durante uno o más ataques, que parecen haber ocurrido ya el 5 de junio.",
+  "color": "#a78bfa"
+}

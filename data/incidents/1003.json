@@ -1,0 +1,13 @@
+{
+  "id": 1003,
+  "title": "Foros de Dota 2 - Data leak - Undetermined",
+  "date": "2016-07-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Dota 2",
+  "source": "http://www.zdnet.com/article/dota-2-players-targeted-by-forum-hackers-in-new-breach/",
+  "summary": "El foro del popular juego multijugador en línea Dota 2 fue hackeado y, como resultado, se filtraron 2 millones de cuentas. El ataque se ejecutó el 10 de julio.",
+  "color": "#ef4444"
+}

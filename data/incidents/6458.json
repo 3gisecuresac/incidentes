@@ -1,0 +1,13 @@
+{
+  "id": 6458,
+  "title": "Centro Médico de la Universidad de Vanderbilt - Ransomware - Meow",
+  "date": "2023-11-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Meow",
+  "impact": "Filtración de datos en Vanderbilt",
+  "source": "nan",
+  "summary": "El Centro Médico de la Universidad de Vanderbilt (VUMC) afirma estar investigando un incidente de ciberseguridad que provocó la vulneración de una base de datos. El grupo de ransomware Meow se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

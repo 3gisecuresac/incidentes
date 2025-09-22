@@ -1,0 +1,13 @@
+{
+  "id": 4400,
+  "title": "Centro Médico Regional Val Verde (VVRMC) - Ransomware - LockBit",
+  "date": "2022-03-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit",
+  "impact": "Cifrado por ransomware en LockBit",
+  "source": "nan",
+  "summary": "El Centro Médico Regional Val Verde (VVRMC) parece haber sido víctima de un ataque de ransomware que involucró a LockBit.",
+  "color": "#ef4444"
+}

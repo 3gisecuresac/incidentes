@@ -1,0 +1,13 @@
+{
+  "id": 5167,
+  "title": "Arrendamiento de North Star - Data leak - Undetermined",
+  "date": "2022-12-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Peoples Bancorp",
+  "source": "nan",
+  "summary": "El 12 de diciembre de 2022, North Star Leasing, una subsidiaria de propiedad absoluta de Peoples Bancorp, informó una violación de datos a la Oficina de Asuntos del Consumidor y Regulación Comercial de Massachusetts después de descubrir que cierta información que los consumidores habían confiado a la empresa era accesible para una parte no autorizada, posiblemente como resultado de un ciberataque.",
+  "color": "#ef4444"
+}

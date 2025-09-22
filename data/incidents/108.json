@@ -1,0 +1,13 @@
+{
+  "id": 108,
+  "title": "Coordinación de servicios Inc. - Data leak - Undetermined",
+  "date": "2014-03-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Service Coordination Inc",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/maryland-nonprofit-breached-nearly-10k-impacted-suspect-identified/",
+  "summary": "Casi 10.000 clientes de Service Coordination Inc. (SCI), con sede en Maryland, podrían tener información personal en riesgo después de que un individuo obtuvo acceso no autorizado a los sistemas informáticos de SCI.",
+  "color": "#a78bfa"
+}

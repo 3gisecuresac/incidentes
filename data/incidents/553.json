@@ -1,0 +1,13 @@
+{
+  "id": 553,
+  "title": "Planificación Familiar - Data leak - Undetermined",
+  "date": "2015-07-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Planned Parenthood",
+  "source": "https://www.dailydot.com/debug/planned-parenthood-hacked-anti-abortion-3301/",
+  "summary": "Un grupo de piratas informáticos que se oponen a las prácticas abortistas de la organización sanitaria sin fines de lucro publican las bases de datos del sitio web de Planned Parenthood, así como los nombres y direcciones de correo electrónico de los empleados de la organización.",
+  "color": "#ef4444"
+}

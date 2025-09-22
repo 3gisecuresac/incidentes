@@ -1,0 +1,13 @@
+{
+  "id": 2926,
+  "title": "Ciudad de Florencia - Ransomware - Undetermined",
+  "date": "2020-06-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Florence",
+  "source": "https://securityaffairs.co/wordpress/104666/breaking-news/city-of-florence-ransomware.html",
+  "summary": "La ciudad de Florence, Alabama, se ve afectada por el ransomware DoppelPaymer.",
+  "color": "#ef4444"
+}

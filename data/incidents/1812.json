@@ -1,0 +1,13 @@
+{
+  "id": 1812,
+  "title": "Colegio Comunitario del Este de Maine - Malware Attack - Undetermined",
+  "date": "2018-08-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Bangor advierte sobre una posible filtración de datos",
+  "source": "https://www.pressherald.com/2018/08/17/eastern-maine-community-college-warns-of-possible-data-breach/",
+  "summary": "El Eastern Maine Community College de Bangor advierte sobre una posible filtración de datos que podría haber expuesto la información personal de personal y alumnos, tanto actuales como anteriores. Las autoridades escolares notifican a 42 000 alumnos y empleados, tanto actuales como anteriores, que ciertas computadoras se infectaron recientemente con malware y podrían haber sido hackeadas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2259,
+  "title": "Corporación de Investigación Nemadji - Data leak - Undetermined",
+  "date": "2019-07-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Los Ángeles quedan expuestos después de",
+  "source": "https://www.databreaches.net/data-breach-exposes-information-of-nearly-15000-patients-of-la-countys-department-of-health-services-officials-say/",
+  "summary": "Los datos personales de 14,591 pacientes del condado de Los Ángeles quedan expuestos después de que un empleado de Nemadji Research Corporation, un contratista que identifica y verifica la elegibilidad de los pacientes para programas que reembolsan la atención proporcionada por el DHS, es víctima de un ataque de phishing.",
+  "color": "#ef4444"
+}

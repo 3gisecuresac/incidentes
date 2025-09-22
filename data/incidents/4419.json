@@ -1,0 +1,13 @@
+{
+  "id": 4419,
+  "title": "U-Haul Internacional (U-Haul) - Data leak - Undetermined",
+  "date": "2022-04-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en U-Haul International U-Haul",
+  "source": "nan",
+  "summary": "El gigante de mudanzas y almacenamiento U-Haul International (U-Haul) revela una violación de datos luego de que una herramienta de búsqueda de contratos de clientes fuera pirateada para acceder a los nombres de los clientes y a la información de sus licencias de conducir.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2812,
+  "title": "Distrito de Servicios Educativos de Puget Sound - Data leak - Undetermined",
+  "date": "2020-04-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Servicios Educativos de Puget Sound",
+  "source": "https://www.databreaches.net/puget-sound-educational-service-district-reports-data-breach/",
+  "summary": "El Distrito de Servicios Educativos de Puget Sound (PSESD) envía un aviso a los estudiantes actuales y anteriores, y a los empleados de las escuelas del condado de King y Pierce, después de enterarse de una violación de datos dentro de su red informática.",
+  "color": "#ef4444"
+}

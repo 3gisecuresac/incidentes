@@ -1,0 +1,13 @@
+{
+  "id": 4651,
+  "title": "Asociados de imágenes cardíacas, CIA - Data leak - Undetermined",
+  "date": "2022-06-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Cardiac Imaging Associates CIA",
+  "source": "nan",
+  "summary": "Cardiac Imaging Associates (CIA) revela un incidente de phishing.",
+  "color": "#ef4444"
+}

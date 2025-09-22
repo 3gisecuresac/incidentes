@@ -1,0 +1,13 @@
+{
+  "id": 548,
+  "title": "Walgreens - Data leak - Undetermined",
+  "date": "2015-07-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en CVSphoto.com",
+  "source": "https://krebsonsecurity.com/2015/07/cvs-probes-card-breach-at-online-photo-unit/",
+  "summary": "La cadena de farmacias CVS desactiva su centro de fotos en línea CVSphoto.com y lo reemplaza con un mensaje que advierte que los datos de las tarjetas de crédito de sus clientes podrían estar comprometidos. El incidente se produce pocos días después de que Walmart Canadá anunciara que estaba investigando una posible vulneración de datos, y es consecuencia de la vulneración de la plataforma externa que aloja el sitio web (PNI). Otras empresas afectadas incluyen: Sams Club, Walgreens, Rite Aid y Tesco, entre otras.",
+  "color": "#ef4444"
+}

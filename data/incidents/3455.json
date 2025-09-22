@@ -1,0 +1,13 @@
+{
+  "id": 3455,
+  "title": "Condado de Miller - Ransomware - Undetermined",
+  "date": "2020-12-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Miller",
+  "source": "nan",
+  "summary": "Un ataque de ransomware afectó las computadoras de la ciudad y provocó cortes en todo el condado de Miller.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5088,
+  "title": "Nissan of Las Cruces - Ransomware - Lorenz",
+  "date": "2022-11-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Lorenz",
+  "impact": "Filtración de datos en Nissan de Las Cruces a su sitio web oscuro",
+  "source": "nan",
+  "summary": "Lorenz cifró y filtró datos robados de Nissan de Las Cruces a su sitio web oscuro",
+  "color": "#ef4444"
+}

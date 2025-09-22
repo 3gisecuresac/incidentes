@@ -1,0 +1,13 @@
+{
+  "id": 3023,
+  "title": "Promo.com - Data leak - ShinyHunters",
+  "date": "2020-07-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Filtración de datos en Promo.com",
+  "source": "https://www.bleepingcomputer.com/news/security/promocom-discloses-data-breach-after-22m-user-records-leaked-online/",
+  "summary": "Promo.com, un sitio de creación de videos de marketing con sede en Israel, revela una violación de datos luego de que una base de datos que contenía 22 millones de registros de usuarios se filtrara de forma gratuita en un foro de piratas informáticos.",
+  "color": "#ef4444"
+}

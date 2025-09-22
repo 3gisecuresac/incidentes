@@ -1,0 +1,13 @@
+{
+  "id": 5496,
+  "title": "Banco Central Nacional - Data leak - Undetermined",
+  "date": "2023-03-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El Banco Nacional Central",
+  "source": "nan",
+  "summary": "El Banco Nacional Central presenta un aviso de violación de datos después de enterarse de que datos confidenciales de clientes confiados al banco se filtraron después de un evento de ciberseguridad.",
+  "color": "#ef4444"
+}

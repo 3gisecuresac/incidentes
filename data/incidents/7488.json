@@ -1,0 +1,13 @@
+{
+  "id": 7488,
+  "title": "Ministerio de Agricultura de Chile - Ransomware - Undetermined",
+  "date": "2019-07-01",
+  "country": "Chile",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Agricultura de Chile es atacado",
+  "source": "nan",
+  "summary": "El Ministerio de Agricultura de Chile es atacado por el ransomware DoppelPaymer.",
+  "color": "#ef4444"
+}

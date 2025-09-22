@@ -1,0 +1,13 @@
+{
+  "id": 5369,
+  "title": "Distrito Escolar Independiente de White Settlement - Data leak - LockBit 3.0",
+  "date": "2023-02-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en White Settlement en Texas a su sitio de filtraciones",
+  "source": "nan",
+  "summary": "LockBit agrega el Distrito Escolar Independiente de White Settlement en Texas a su sitio de filtraciones, con un paquete de pruebas que sugiere que los actores de amenazas pudieron acceder y pueden haber exfiltrado una gran cantidad de archivos.",
+  "color": "#ef4444"
+}

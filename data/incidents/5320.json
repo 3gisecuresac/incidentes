@@ -1,0 +1,13 @@
+{
+  "id": 5320,
+  "title": "Cuidado ilimitado - Data leak - Undetermined",
+  "date": "2023-02-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Unlimited Care",
+  "source": "nan",
+  "summary": "Unlimited Care presenta un aviso de violación de datos después de enterarse de que una interrupción de la red provocó que se comprometiera información confidencial de los empleados.",
+  "color": "#ef4444"
+}

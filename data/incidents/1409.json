@@ -1,0 +1,13 @@
+{
+  "id": 1409,
+  "title": "DreamHost - DoS - Undetermined",
+  "date": "2017-08-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Daily Stormer",
+  "source": "http://www.ibtimes.co.uk/dreamhost-hit-by-powerful-ddos-attack-after-briefly-hosting-neo-nazi-website-daily-stormer-1636666",
+  "summary": "DreamHost sufre un potente y sostenido ataque DDoS después de alojar brevemente una nueva edición del sitio web neonazi Daily Stormer.",
+  "color": "#f59e0b"
+}

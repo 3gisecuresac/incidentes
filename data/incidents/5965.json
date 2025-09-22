@@ -1,0 +1,13 @@
+{
+  "id": 5965,
+  "title": "Torres Willis Watson - Data leak - cl0p",
+  "date": "2023-07-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Willis Towers Watson",
+  "source": "nan",
+  "summary": "Pension Benefits Information (PBI) presenta un aviso de violación de datos en nombre de Willis Towers Watson (WTW) después de descubrir que una violación relacionada con MOVEit en PBI afectó información confidencial que se había proporcionado a WTW.",
+  "color": "#ef4444"
+}

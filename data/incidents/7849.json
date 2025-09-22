@@ -1,0 +1,13 @@
+{
+  "id": 7849,
+  "title": "Transformar - Ransomware - Daixin Team",
+  "date": "2023-10-23",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Daixin Team",
+  "impact": "Cifrado por ransomware en Ontario",
+  "source": "nan",
+  "summary": "Un ciberataque al proveedor de servicios compartidos TransForm afecta las operaciones de cinco hospitales de Ontario, Canadá (Windsor Regional Hospital, Hotel Dieu Grace, Erie Shores Healthcare, Hospice of Windsor-Essex y Chatham-Kent Health Alliance), lo que afecta la atención a los pacientes y provoca la reprogramación de citas. El grupo de ransomware Daixin Team se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 339,
+  "title": "8chan - DoS - Lizard Squad",
+  "date": "2015-01-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Lizard Squad",
+  "impact": "Interrupción por DDoS en DDoS contra el",
+  "source": "http://arstechnica.com/security/2015/01/8chan-related-sites-go-down-in-lizard-squad-powered-ddos/",
+  "summary": "El infame Lizard Squad se atribuye el mérito de un ataque DDoS contra el sitio de imágenes 8chan.",
+  "color": "#f59e0b"
+}

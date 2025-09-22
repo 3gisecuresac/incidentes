@@ -1,0 +1,13 @@
+{
+  "id": 6146,
+  "title": "Fortress Trust - Data leak - Undetermined",
+  "date": "2023-09-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Fortress Trust",
+  "source": "nan",
+  "summary": "Fortress Trust revela un robo de criptomonedas de clientes la semana pasada, que luego se reveló que ascendía a cerca de 15 millones de dólares, derivado de un ciberataque sufrido por Retool, un proveedor de la nube.",
+  "color": "#a78bfa"
+}

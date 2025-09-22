@@ -1,0 +1,13 @@
+{
+  "id": 3530,
+  "title": "News Corp - Data leak - Undetermined",
+  "date": "2021-01-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en News Corp",
+  "source": "nan",
+  "summary": "El conglomerado de medios estadounidense News Corp es el objetivo de un ciberataque persistente que se cree está asociado con un gobierno extranjero.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 250,
+  "title": "Universidad de Stanford - Defacement - Sahoo",
+  "date": "2014-08-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Defacement",
+  "actor": "Sahoo",
+  "impact": "Incidente de seguridad en web.stanford.edu",
+  "source": "https://www.cyberkendra.com/2014/08/stanford-university-and-mit-site-hacked.html",
+  "summary": "Sahoo desfigura un subdominio de Stanford (web.stanford.edu).",
+  "color": "#a78bfa"
+}

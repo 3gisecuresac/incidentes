@@ -1,0 +1,13 @@
+{
+  "id": 6656,
+  "title": "Distrito de Servicios Públicos del Condado de Chelan - Data leak - BlackCat",
+  "date": "2024-02-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "BlackCat",
+  "impact": "Incidente de seguridad en Servicios Públicos del Condado de Chelan se vio afectado",
+  "source": "nan",
+  "summary": "El Distrito de Servicios Públicos del Condado de Chelan se vio afectado por un evento de ciberseguridad que impidió que un proveedor nacional enviara estados de cuenta por correo postal y electrónico.",
+  "color": "#a78bfa"
+}

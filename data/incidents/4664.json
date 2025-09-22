@@ -1,0 +1,13 @@
+{
+  "id": 4664,
+  "title": "Colegio del Desierto - Ransomware - Undetermined",
+  "date": "2022-07-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en College of the Desert",
+  "source": "nan",
+  "summary": "College of the Desert sufre un ciberataque que inutiliza los servicios en línea de la escuela y las líneas telefónicas del campus.",
+  "color": "#a78bfa"
+}

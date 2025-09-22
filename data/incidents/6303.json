@@ -1,0 +1,13 @@
+{
+  "id": 6303,
+  "title": "Oficina Agrícola de Virginia - Ransomware - Undetermined",
+  "date": "2023-10-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI de la empresa fuera objeto de un ataque de ransomware",
+  "source": "nan",
+  "summary": "Virginia Farm Bureau (VFB) presenta un aviso de violación de datos después de que el sistema de TI de la empresa fuera objeto de un ataque de ransomware.",
+  "color": "#ef4444"
+}

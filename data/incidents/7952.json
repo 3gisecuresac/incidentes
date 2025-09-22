@@ -1,0 +1,13 @@
+{
+  "id": 7952,
+  "title": "Athletico.com.br - Data leak - Undetermined",
+  "date": "2020-10-28",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Athletico.com.br",
+  "source": "nan",
+  "summary": "Un actor de amenazas está vendiendo bases de datos de cuentas que contienen un total agregado de 34 millones de registros de usuarios que, según afirma, fueron robados de diecisiete empresas durante violaciones de datos, incluido Athletico.com.br.",
+  "color": "#ef4444"
+}

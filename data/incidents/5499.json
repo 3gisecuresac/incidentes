@@ -1,0 +1,13 @@
+{
+  "id": 5499,
+  "title": "Sistema de salud comunitario del condado de Wyoming - Data leak - Undetermined",
+  "date": "2023-03-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Salud Comunitario del Condado de Wyoming",
+  "source": "nan",
+  "summary": "El Sistema de Salud Comunitario del Condado de Wyoming (WCCHS) presenta un aviso de violación de datos después de descubrir que los archivos almacenados en la red de WCCHS estaban sujetos a acceso no autorizado.",
+  "color": "#ef4444"
+}

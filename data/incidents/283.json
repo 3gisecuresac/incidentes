@@ -1,0 +1,13 @@
+{
+  "id": 283,
+  "title": "Asociación de Biociencias del Área de la Bahía - Data leak - Undetermined",
+  "date": "2014-09-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Biociencias del Área de la Bahía",
+  "source": "http://www.databreaches.net/bay-area-bioscience-association-baybio-notifies-online-customers-of-breach/",
+  "summary": "La Asociación de Biociencias del Área de la Bahía (BayBio) notifica a los clientes en línea sobre una violación.",
+  "color": "#a78bfa"
+}

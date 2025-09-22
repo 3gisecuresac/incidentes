@@ -1,0 +1,13 @@
+{
+  "id": 3553,
+  "title": "Bricker & Eckler LLP - Ransomware - Undetermined",
+  "date": "2021-01-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Bricker Eckler LLP",
+  "source": "nan",
+  "summary": "Bricker & Eckler LLP revela haber sido víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

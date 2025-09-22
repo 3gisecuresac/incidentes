@@ -1,0 +1,13 @@
+{
+  "id": 1074,
+  "title": "Universidad de Florida Central - Data leak - Undetermined",
+  "date": "2016-10-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Florida Central",
+  "source": "https://www.scmagazine.com/home/security-news/malware-behind-payment-card-breach-at-university-of-central-florida/",
+  "summary": "Una infección de malware es la responsable de una violación de datos de tarjetas de pago que afecta al menos a 230 estudiantes de la Universidad de Florida Central.",
+  "color": "#ef4444"
+}

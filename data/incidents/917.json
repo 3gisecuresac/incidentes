@@ -1,0 +1,13 @@
+{
+  "id": 917,
+  "title": "Mi espacio - Data leak - Tessa88",
+  "date": "2016-05-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Tessa88",
+  "impact": "Filtración de datos en @exploit",
+  "source": "https://www.leakedsource.com/blog/myspace",
+  "summary": "Un hacker, oculto tras la dirección de correo electrónico Tessa88@exploit.im, publica una base de datos con 360 millones de registros pertenecientes a MySpace. Esta base de datos es el supuesto resultado de una filtración de datos ocurrida en 2013.",
+  "color": "#ef4444"
+}

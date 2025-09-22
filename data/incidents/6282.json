@@ -1,0 +1,13 @@
+{
+  "id": 6282,
+  "title": "Autoridad de Vivienda de Seattle - Ransomware - Undetermined",
+  "date": "2023-10-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Vivienda de Seattle",
+  "source": "nan",
+  "summary": "La banda de ransomware NoEscape afirma haber comprometido con éxito la Autoridad de Vivienda de Seattle (SHA), haber cifrado los servidores principales de la SHA y haber exfiltrado 158 GB de datos.",
+  "color": "#ef4444"
+}

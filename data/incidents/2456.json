@@ -1,0 +1,13 @@
+{
+  "id": 2456,
+  "title": "Programa de las Naciones Unidas para el Desarrollo - Phishing - Undetermined",
+  "date": "2019-10-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Phishing",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Lookout revelan",
+  "source": "https://www.zdnet.com/article/un-unicef-red-cross-officials-targeted-in-recent-phishing-campaign/",
+  "summary": "Los investigadores de Lookout revelan que durante los últimos meses, una campaña generalizada de phishing ha afectado a algunas organizaciones de derechos humanos en todo el mundo, incluidas la Cruz Roja, UNICEF y los programas de las Naciones Unidas para la Alimentación y el Desarrollo.",
+  "color": "#ef4444"
+}

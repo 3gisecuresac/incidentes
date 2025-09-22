@@ -1,0 +1,13 @@
+{
+  "id": 7670,
+  "title": "Depósito de fitness - Data leak - Undetermined",
+  "date": "2020-06-05",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Fitness Depot",
+  "source": "nan",
+  "summary": "El minorista canadiense Fitness Depot anuncia a sus clientes que su información personal y financiera fue robada luego de una violación que afectó la plataforma de comercio electrónico de la compañía el mes pasado.",
+  "color": "#a78bfa"
+}

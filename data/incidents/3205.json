@@ -1,0 +1,13 @@
+{
+  "id": 3205,
+  "title": "Fundación de Nueva York para Personas Mayores - Ransomware - WIZARD SPIDER",
+  "date": "2020-09-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Cifrado por ransomware en Nueva York",
+  "source": "https://www.databreaches.net/wp-content/uploads/Without_Undue_Delay.pdf",
+  "summary": "La Fundación de Nueva York para Ciudadanos Mayores se ve afectada por el ransomware Conti.",
+  "color": "#ef4444"
+}

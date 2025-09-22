@@ -1,0 +1,13 @@
+{
+  "id": 1429,
+  "title": "Vevo - Data leak - OurMine",
+  "date": "2017-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "OurMine",
+  "impact": "Sistema o cuenta comprometida en Universal Music Group",
+  "source": "https://gizmodo.com/welp-vevo-just-got-hacked-1813390834",
+  "summary": "Vevo, la empresa conjunta de Universal Music Group, Sony Music Entertainment, Abu Dhabi Media, Warner Music Group y Alphabet Inc., fue hackeada por OurMine. Aproximadamente 3,12 TB de archivos internos fueron publicados en línea.",
+  "color": "#3b82f6"
+}

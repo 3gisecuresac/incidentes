@@ -1,0 +1,13 @@
+{
+  "id": 5282,
+  "title": "Intellihartx - Ransomware - cl0p",
+  "date": "2023-02-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Sistema o cuenta comprometida en GoAnywhere a principios de este año",
+  "source": "nan",
+  "summary": "Intellihartx, una empresa que brinda servicios de resolución de saldos de pacientes a hospitales, informa a aproximadamente 490.000 personas que su información personal se vio comprometida en el ataque de día cero de GoAnywhere a principios de este año.",
+  "color": "#3b82f6"
+}

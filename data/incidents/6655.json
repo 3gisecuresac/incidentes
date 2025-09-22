@@ -1,0 +1,13 @@
+{
+  "id": 6655,
+  "title": "Varias organizaciones en los EE.UU. - Ransomware - Phobos",
+  "date": "2024-02-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Phobos",
+  "impact": "Cifrado por ransomware en EE",
+  "source": "nan",
+  "summary": "Las agencias de inteligencia y ciberseguridad de EE. UU., CISA, FBI y MS-ISAC, advierten sobre ataques de ransomware Phobos dirigidos a entidades gubernamentales y de infraestructura crítica.",
+  "color": "#ef4444"
+}

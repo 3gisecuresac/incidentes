@@ -1,0 +1,13 @@
+{
+  "id": 4098,
+  "title": "Salud Medurant - Ransomware - Undetermined",
+  "date": "2021-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Medsurant Health",
+  "source": "nan",
+  "summary": "Medsurant Health sufre un ataque de ransomware que afecta a 45.000 personas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1418,
+  "title": "Farmacia de la Universidad de Purdue - Data leak - Undetermined",
+  "date": "2017-09-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Purdue",
+  "source": "https://eu.jconline.com/story/news/local/purdue/2018/05/30/purdue-warns-patients-their-information-might-compromised/655611002/",
+  "summary": "Los pacientes de la Farmacia de la Universidad de Purdue y de la Clínica de Salud Familiar del Condado de Carroll reciben avisos de que su información podría estar comprometida debido a una vulneración de seguridad. Un archivo malicioso se instaló en algunas computadoras el 1 de septiembre.",
+  "color": "#3b82f6"
+}

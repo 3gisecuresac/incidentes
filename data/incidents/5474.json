@@ -1,0 +1,13 @@
+{
+  "id": 5474,
+  "title": "Frideres Dental - Data leak - Undetermined",
+  "date": "2023-03-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Frideres Dental",
+  "source": "nan",
+  "summary": "Frideres Dental confirma que la información sanitaria protegida de 1.596 pacientes se vio potencialmente comprometida en un ciberataque.",
+  "color": "#3b82f6"
+}

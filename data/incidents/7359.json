@@ -1,0 +1,13 @@
+{
+  "id": 7359,
+  "title": "Bancomext - Data leak - NGB 3rd Technical Surveillance Bureau",
+  "date": "2018-01-11",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "NGB 3rd Technical Surveillance Bureau",
+  "impact": "Incidente de seguridad en Bancomext",
+  "source": "nan",
+  "summary": "Los piratas informáticos intentaron robar dinero de Bancomext, el banco de exportaciones administrado por el gobierno de México, lo que provocó que el prestamista suspendiera las operaciones en su plataforma de pagos internacionales.",
+  "color": "#a78bfa"
+}

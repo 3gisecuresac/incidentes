@@ -1,0 +1,13 @@
+{
+  "id": 878,
+  "title": "Corporación Brunswick - Data leak - Undetermined",
+  "date": "2016-04-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Brunswick Corp",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/brunswick-corp-s-13000-workers-w-2-data-compromised/",
+  "summary": "Brunswick Corp. es la última víctima de una estafa de phishing que permite a los atacantes robar información W-2 de posiblemente todos los 13.000 empleados actuales y anteriores de la empresa.",
+  "color": "#ef4444"
+}

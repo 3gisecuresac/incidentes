@@ -1,0 +1,13 @@
+{
+  "id": 3338,
+  "title": "Fundación AdventHealth - Ransomware - Undetermined",
+  "date": "2020-10-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en La Fundaci",
+  "source": "https://www.msn.com/en-us/news/us/adventhealth-foundation-donors-alerted-to-security-breach/ar-BB1aggRb",
+  "summary": "La Fundación AdventHealth alerta a los donantes sobre la violación de seguridad debido al ataque del ransomware Blackbaud.",
+  "color": "#ef4444"
+}

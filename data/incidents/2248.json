@@ -1,0 +1,13 @@
+{
+  "id": 2248,
+  "title": "Asociación Estadounidense de Títulos de Propiedad (ALTA) - Data leak - Undetermined",
+  "date": "2019-07-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Títulos de Tierras",
+  "source": "https://www.bleepingcomputer.com/news/security/industry-breach-alert-published-by-us-national-trade-association-alta/",
+  "summary": "La Asociación Estadounidense de Títulos de Tierras (ALTA) publica una advertencia sobre cientos de registros de compañías de títulos que supuestamente fueron robados como parte de una campaña de phishing dirigida a miembros de ALTA.",
+  "color": "#ef4444"
+}

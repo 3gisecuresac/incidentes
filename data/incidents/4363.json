@@ -1,0 +1,13 @@
+{
+  "id": 4363,
+  "title": "Beneficios de Salud para las Fuerzas del Orden (LEHB) - Ransomware - Undetermined",
+  "date": "2022-03-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Law Enforcement Health Benefits Inc. LEHB",
+  "source": "nan",
+  "summary": "Law Enforcement Health Benefits Inc. (LEHB) notifica a los miembros del plan sobre un ataque de ransomware de septiembre de 2021 que afectó a más de 85.000 personas.",
+  "color": "#ef4444"
+}

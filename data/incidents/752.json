@@ -1,0 +1,13 @@
+{
+  "id": 752,
+  "title": "teksyndicate.com - Data leak - @0x1Taylor",
+  "date": "2016-02-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "@0x1Taylor",
+  "impact": "Cifrado por ransomware en @0x1Taylor",
+  "source": "http://siph0n.net/exploits.php?id=4443",
+  "summary": "@0x1Taylor hackea teksyndicate.com y descarga más de 30.000 registros con nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1311,
+  "title": "Fundación de la Universidad de Nuevo México - Data leak - Undetermined",
+  "date": "2017-05-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Nuevo México comienza a enviar cartas de notificación sobre el incidente",
+  "source": "https://www.databreaches.net/university-of-new-mexico-foundation-notifies-community-of-data-breach/",
+  "summary": "Un mes después de descubrir una violación de seguridad en un servidor informático que pudo haber comprometido información personal de aproximadamente 23.000 personas, la Fundación de la Universidad de Nuevo México comienza a enviar cartas de notificación sobre el incidente.",
+  "color": "#3b82f6"
+}

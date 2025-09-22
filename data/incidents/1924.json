@@ -1,0 +1,13 @@
+{
+  "id": 1924,
+  "title": "Ventana al Mundo Comunicaciones - Data leak - Undetermined",
+  "date": "2018-12-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad",
+  "source": "https://www.databreaches.net/robservations-two-year-data-breach-hits-employees-email-at-wttw-wfmt/",
+  "summary": "Las investigaciones realizadas por un bufete de abogados y una firma de contabilidad forense determinaron que los correos electrónicos y la información personal de aproximadamente 40 empleados fueron pirateados entre diciembre de 2018 y agosto de 2020.",
+  "color": "#a78bfa"
+}

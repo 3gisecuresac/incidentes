@@ -1,0 +1,13 @@
+{
+  "id": 1448,
+  "title": "Investigación de Forrester - Data leak - Undetermined",
+  "date": "2017-10-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Forrester una de las",
+  "source": "https://www.bleepingcomputer.com/news/security/market-research-firm-forrester-says-hackers-stole-sensitive-reports/",
+  "summary": "Forrester, una de las firmas líderes mundiales en investigación de mercados y asesoría de inversiones, admite que se produjo una brecha de seguridad la semana pasada. Uno o más atacantes no identificados accedieron a la infraestructura que aloja su sitio web, robando credenciales e investigaciones de su propiedad.",
+  "color": "#a78bfa"
+}

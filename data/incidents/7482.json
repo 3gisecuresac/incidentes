@@ -1,0 +1,13 @@
+{
+  "id": 7482,
+  "title": "CONADI - Data leak - Chilean hackers",
+  "date": "2016-02-10",
+  "country": "Chile",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Chilean hackers",
+  "impact": "Filtración de datos en Hackers Chilenos",
+  "source": "nan",
+  "summary": "Un grupo de hacktivistas chilenos, conocido como Hackers Chilenos, irrumpió en la base de datos de la CONADI y roba datos personales de 304.189 ciudadanos chilenos que buscaban beneficios estatales del gobierno del país.",
+  "color": "#ef4444"
+}

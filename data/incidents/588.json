@@ -1,0 +1,13 @@
+{
+  "id": 588,
+  "title": "Universidad de Minnesota - Data leak - JM511",
+  "date": "2015-08-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "JM511",
+  "impact": "Filtración de datos en California en Los Ángeles",
+  "source": "http://www.databreaches.net/more-american-universities-hacked-by-jm511/",
+  "summary": "JM511 filtra datos de la Universidad de California en Los Ángeles (UCLA) tras supuestamente haberla advertido dos veces. El atacante también advierte a otras universidades sobre posibles vulnerabilidades, como la Western Governor's University en Utah, la Universidad de Minnesota, la Universidad DePaul y la Universidad del Norte de Illinois.",
+  "color": "#ef4444"
+}

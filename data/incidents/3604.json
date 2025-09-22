@@ -1,0 +1,13 @@
+{
+  "id": 3604,
+  "title": "Hospital General de Nocona - Ransomware - WIZARD SPIDER",
+  "date": "2021-02-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Incidente de seguridad en Florida",
+  "source": "nan",
+  "summary": "El Centro Médico León, con sede en Florida, y el Hospital General Nocona, en Texas, han sufrido ataques de piratas informáticos que han dado lugar a que se publique en Internet amplia información sobre sus pacientes.",
+  "color": "#a78bfa"
+}

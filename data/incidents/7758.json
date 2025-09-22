@@ -1,0 +1,13 @@
+{
+  "id": 7758,
+  "title": "Autoridad de Licores y Juegos de Saskatchewan - Ransomware - Ransom House",
+  "date": "2022-04-04",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Ransom House",
+  "impact": "Filtración de datos en RANSOM HOUSE",
+  "source": "nan",
+  "summary": "La banda criminal RANSOM HOUSE explota datos y cifra sistemas. Datos y exigencias de rescate se presentan en un sitio web filtrado en la dark web.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1094,
+  "title": "Herramientas de dominio - Data leak - Undetermined",
+  "date": "2016-10-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en DomainTools",
+  "source": "http://news.softpedia.com/news/domaintools-warns-customers-of-user-data-scraping-attack-509642.shtml",
+  "summary": "DomainTools dice que detectó un ataque contra su sistema de gestión de usuarios por parte de un atacante desconocido y aconseja a los usuarios cambiar sus contraseñas como medida de precaución.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2033,
+  "title": "Medicina pulmonar y del sueño de AdventHealth Medical Group - Data leak - Undetermined",
+  "date": "2019-02-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Medicina Pulmonar",
+  "source": "https://www.hipaajournal.com/16-month-malware-infection-at-florida-pulmonary-sleep-medicine-center-impacts-42000-patients/",
+  "summary": "El departamento de Medicina Pulmonar y del Sueño de AdventHealth Medical Group descubre que hackers accedieron a sus sistemas y comprometieron la información de hasta 42.161 pacientes. La brecha de seguridad comenzó en agosto de 2017 y se descubrió en diciembre de 2018.",
+  "color": "#3b82f6"
+}

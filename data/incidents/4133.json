@@ -1,0 +1,13 @@
+{
+  "id": 4133,
+  "title": "Salud de Broward - Data leak - Undetermined",
+  "date": "2021-10-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Florida sufre una gran violación de datos",
+  "source": "nan",
+  "summary": "El sistema de salud de Florida sufre una gran violación de datos que compromete la información de más de 1,3 millones de personas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6371,
+  "title": "Salud Summit - Ransomware - LockBit 3.0",
+  "date": "2023-11-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en Summit Health",
+  "source": "nan",
+  "summary": "Summit Health se agrega al sitio de filtración del grupo de ransomware LockBit 3.0.",
+  "color": "#ef4444"
+}

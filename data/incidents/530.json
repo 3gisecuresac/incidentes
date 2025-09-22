@@ -1,0 +1,13 @@
+{
+  "id": 530,
+  "title": "Plex - Data leak - savaka",
+  "date": "2015-07-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "savaka",
+  "impact": "Filtración de datos en BTC para",
+  "source": "http://lifehacker.com/plex-hacked-change-your-password-now-1715355825",
+  "summary": "Un hacker llamado savaka hackea el servidor Plex que aloja los foros y el blog. El atacante pide un rescate de 9,5 BTC para evitar la filtración de datos.",
+  "color": "#ef4444"
+}

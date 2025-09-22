@@ -1,0 +1,13 @@
+{
+  "id": 2138,
+  "title": "Ciudad de Augusta - Ransomware - Undetermined",
+  "date": "2019-04-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Augusta se ven afectados",
+  "source": "https://www.sunjournal.com/2019/04/18/city-of-augusta-hit-by-computer-virus-city-center-closed/",
+  "summary": "Los servicios municipales de la ciudad de Augusta se ven afectados por un ataque de ransomware.",
+  "color": "#ef4444"
+}

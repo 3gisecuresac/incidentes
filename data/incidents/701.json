@@ -1,0 +1,13 @@
+{
+  "id": 701,
+  "title": "Transmisión en vivo - Data leak - Undetermined",
+  "date": "2015-12-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Livestream",
+  "source": "http://www.latimes.com/business/technology/la-fi-tn-livestream-data-breach-20151224-story.html",
+  "summary": "El servicio de transmisión de video en vivo Livestream notifica a los clientes sobre una violación de seguridad que puede haber dado a personas no autorizadas acceso a información del usuario, como direcciones de correo electrónico, contraseñas cifradas, fechas de nacimiento y números de teléfono.",
+  "color": "#ef4444"
+}

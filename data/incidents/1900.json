@@ -1,0 +1,13 @@
+{
+  "id": 1900,
+  "title": "La tienda online de Infowars - Data leak - Undetermined",
+  "date": "2018-11-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Magecart en la",
+  "source": "https://www.bleepingcomputer.com/news/security/infowars-store-affected-by-magecart-credit-card-stealing-hack/",
+  "summary": "Se descubre un ataque de clonación de tarjetas de crédito Magecart en la tienda en línea del sitio web Infowars.",
+  "color": "#a78bfa"
+}

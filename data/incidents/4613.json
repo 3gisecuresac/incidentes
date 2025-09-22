@@ -1,0 +1,13 @@
+{
+  "id": 4613,
+  "title": "Marketing de DialAmerica - Data leak - Undetermined",
+  "date": "2022-06-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en HHS de una violación de seguridad",
+  "source": "nan",
+  "summary": "DialAmerica Marketing, un servicio de centro de llamadas, informa al HHS de una violación de seguridad que afectó a 19.796 personas.",
+  "color": "#a78bfa"
+}

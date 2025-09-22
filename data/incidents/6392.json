@@ -1,0 +1,13 @@
+{
+  "id": 6392,
+  "title": "Poloniex - Ciberataque - Undetermined",
+  "date": "2023-11-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Bitcoin",
+  "source": "nan",
+  "summary": "Los actores de amenazas roban más de 100 millones de dólares en Bitcoin y Ethereum de la plataforma de comercio de criptomonedas Poloniex.",
+  "color": "#a78bfa"
+}

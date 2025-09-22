@@ -1,0 +1,13 @@
+{
+  "id": 6184,
+  "title": "Banco de piedra caliza (ahora Banco del Pueblo) - Data leak - Undetermined",
+  "date": "2023-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Peoples Bank",
+  "source": "nan",
+  "summary": "El banco Limestone (ahora Peoples Bank) revela una violación de datos que expone los datos personales de unos 50.000 clientes, incluidos números de cuentas financieras y tarjetas de crédito, después de haber identificado una actividad inusual que involucraba la cuenta de correo electrónico de un empleado.",
+  "color": "#ef4444"
+}

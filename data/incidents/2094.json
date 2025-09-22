@@ -1,0 +1,13 @@
+{
+  "id": 2094,
+  "title": "Salud Navicent - Data leak - Undetermined",
+  "date": "2019-03-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Navicent Health",
+  "source": "https://www.databreaches.net/navicent-health-announces-cyber-attack-targeting-its-email-system/",
+  "summary": "Navicent Health, anuncia que fue víctima de un ciberataque que tuvo como objetivo su sistema de correo electrónico durante el verano pasado.",
+  "color": "#a78bfa"
+}

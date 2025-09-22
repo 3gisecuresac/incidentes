@@ -1,0 +1,13 @@
+{
+  "id": 1973,
+  "title": "Colegio Westminster - Data leak - Undetermined",
+  "date": "2018-12-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Salt Lake City",
+  "source": "https://www.databreaches.net/ut-westminster-college-notifies-individuals-following-phishing-attack/",
+  "summary": "Westminster College en Salt Lake City, Utah notifica a las personas después de que once de sus empleados fueron víctimas de ataques de phishing.",
+  "color": "#ef4444"
+}

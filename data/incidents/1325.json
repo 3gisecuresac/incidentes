@@ -1,0 +1,13 @@
+{
+  "id": 1325,
+  "title": "Universidad de Augusta - Data leak - Undetermined",
+  "date": "2017-05-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Augusta",
+  "source": "https://www.databreaches.net/ga-investigation-into-phishing-attack-at-augusta-university/",
+  "summary": "Un ataque de phishing afecta las cuentas de correo electrónico de la facultad de la Universidad de Augusta que contienen información de salud de los pacientes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 121,
+  "title": "Universidad de Wisconsin Parkside - Data leak - Undetermined",
+  "date": "2014-03-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Wisconsin-Parkside",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/malware-on-wisconsin-university-server-storing-info-on-15k-students/",
+  "summary": "Aproximadamente 15.000 estudiantes de la Universidad de Wisconsin-Parkside (UW-Parkside) fueron notificados de que su información personal, incluidos sus números de Seguro Social, puede haber sido comprometida por piratas informáticos que instalaron malware en un servidor.",
+  "color": "#3b82f6"
+}

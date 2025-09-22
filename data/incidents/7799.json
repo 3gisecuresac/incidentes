@@ -1,0 +1,13 @@
+{
+  "id": 7799,
+  "title": "Corporación Minera Canadiense de las Montañas del Cobre (CMMC) - Ransomware - Undetermined",
+  "date": "2022-12-27",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Columbia Británica anunció",
+  "source": "nan",
+  "summary": "La Corporación Minera Canadiense Copper Mountain (CMMC) en Columbia Británica anunció que fue objeto de un ataque de ransomware que afectó sus operaciones.",
+  "color": "#ef4444"
+}

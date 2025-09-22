@@ -1,0 +1,13 @@
+{
+  "id": 3090,
+  "title": "Miembros de la Autoridad Reguladora de la Industria Financiera de EE. UU. (FINRA) - Manipulación de mensajes - Undetermined",
+  "date": "2020-08-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Estados Unidos",
+  "source": "https://www.bleepingcomputer.com/news/security/us-stock-broker-regulator-finra-warns-of-copycat-phishing-site/",
+  "summary": "La Autoridad Reguladora de la Industria Financiera de Estados Unidos (FINRA) advierte a sus miembros que un sitio imitador se está haciendo pasar por ellos y podría estar siendo utilizado en ataques de phishing.",
+  "color": "#ef4444"
+}

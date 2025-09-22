@@ -1,0 +1,13 @@
+{
+  "id": 6625,
+  "title": "Corporación Financiera Willis Lease - Ransomware - Black Basta",
+  "date": "2024-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Black Basta",
+  "impact": "Cifrado por ransomware en Comisión de Bolsa",
+  "source": "nan",
+  "summary": "El distribuidor de piezas de aeronaves Willis Lease Finance Corporation (WLFC) informa a la Comisión de Bolsa y Valores de EE. UU. que fue víctima de un ciberataque. La banda de ransomware Black Basta se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

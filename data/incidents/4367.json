@@ -1,0 +1,13 @@
+{
+  "id": 4367,
+  "title": "Salud pediátrica a domicilio RiverKids - Data leak - Undetermined",
+  "date": "2022-03-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en RiverKids Pediatric Home Health",
+  "source": "nan",
+  "summary": "RiverKids Pediatric Home Health notifica a 3.494 pacientes que parte de su información médica protegida potencialmente ha sido vista o robada como resultado de un incidente de seguridad del correo electrónico.",
+  "color": "#a78bfa"
+}

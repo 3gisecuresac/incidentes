@@ -1,0 +1,13 @@
+{
+  "id": 6934,
+  "title": "Equiniti Trust Company, anteriormente conocida como American Stock Transfer & Trust Company - Data leak - Undetermined",
+  "date": "2024-09-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en American Stock Transfer & Trust",
+  "source": "nan",
+  "summary": "En una segunda violación, un actor de amenazas desconocido pudo crear cuentas falsas en American Stock Transfer & Trust, utilizando números de Seguro Social robados de varios titulares de cuentas de American Stock Transfer, lo que les permitió liquidar valores mantenidos en las cuentas legítimas y transferir aproximadamente $1,9 millones a cuentas bancarias externas.",
+  "color": "#a78bfa"
+}

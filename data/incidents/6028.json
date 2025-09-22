@@ -1,0 +1,13 @@
+{
+  "id": 6028,
+  "title": "Gestión y Consultoría de EMS - Data leak - cl0p",
+  "date": "2023-08-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en EMS Management",
+  "source": "nan",
+  "summary": "EMS Management and Consultants presenta un aviso de violación de datos después de descubrir que la vulnerabilidad en el sistema de transferencia de archivos MOVEit permitió que una parte no autorizada accediera a la información del consumidor.",
+  "color": "#ef4444"
+}

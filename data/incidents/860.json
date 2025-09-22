@@ -1,0 +1,13 @@
+{
+  "id": 860,
+  "title": "dōTERRA - Data leak - Undetermined",
+  "date": "2016-04-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos",
+  "source": "http://www.databreaches.net/doterra-letter-informs-customers-of-possible-data-breach/",
+  "summary": "doTERRA notifica a varios clientes y distribuidores sobre una posible violación de datos que involucra a un tercero que les proporciona servicios de alojamiento y software.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1514,
+  "title": "Pinterest - Data leak - Undetermined",
+  "date": "2017-12-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Pinterest",
+  "source": "https://www.theregister.co.uk/2017/12/11/pinterest_hack_concerns/",
+  "summary": "Pinterest notifica a los usuarios sobre actividad sospechosa debido a que los atacantes intentan comprometer cuentas utilizando relleno de credenciales (credenciales obtenidas de otras violaciones).",
+  "color": "#3b82f6"
+}

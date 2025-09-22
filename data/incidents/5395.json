@@ -1,0 +1,13 @@
+{
+  "id": 5395,
+  "title": "Déjalos comer - Ransomware - LockBit 3.0",
+  "date": "2023-03-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Essendant",
+  "source": "nan",
+  "summary": "Essendant, distribuidor mayorista de papelería y material de oficina, informa que ha sufrido una interrupción del sistema que ha durado varios días, impidiendo a clientes y proveedores realizar y procesar pedidos en línea. Pocos días después de que el grupo de ransomware LockBit se atribuyera la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

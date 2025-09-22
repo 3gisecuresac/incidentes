@@ -1,0 +1,13 @@
+{
+  "id": 2854,
+  "title": "Socios Cardiovasculares Nacionales - Data leak - Undetermined",
+  "date": "2020-04-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en National Cardiovascular Partners",
+  "source": "https://healthitsecurity.com/news/national-cardiovascular-partners-email-hack-impacts-78k-patients",
+  "summary": "National Cardiovascular Partners notificó recientemente a 78.070 pacientes que sus datos estaban potencialmente comprometidos después de que un atacante obtuviera acceso a la cuenta de correo electrónico de un empleado.",
+  "color": "#ef4444"
+}

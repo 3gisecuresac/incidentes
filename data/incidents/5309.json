@@ -1,0 +1,13 @@
+{
+  "id": 5309,
+  "title": "Namecheap - Data leak - Undetermined",
+  "date": "2023-02-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en MetaMask",
+  "source": "nan",
+  "summary": "El registrador de dominios Namecheap sufrió una violación de su cuenta de correo electrónico, lo que provocó una avalancha de correos electrónicos de phishing de MetaMask y DHL que intentaron robar la información personal y las billeteras de criptomonedas de los destinatarios.",
+  "color": "#ef4444"
+}

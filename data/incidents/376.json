@@ -1,0 +1,13 @@
+{
+  "id": 376,
+  "title": "Himno - Data leak - Undetermined",
+  "date": "2015-02-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en EE",
+  "source": "https://www.wired.com/story/anthem-hack-indictment-china/",
+  "summary": "Anthem, una de las mayores aseguradoras de salud de EE. UU., afirma haber sufrido una vulneración de seguridad que expuso los números de la Seguridad Social y otra información personal de 80 millones de personas, incluido su director ejecutivo. Se cree que hackers chinos podrían ser responsables del ataque.",
+  "color": "#3b82f6"
+}

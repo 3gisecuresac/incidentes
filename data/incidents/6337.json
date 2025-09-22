@@ -1,0 +1,13 @@
+{
+  "id": 6337,
+  "title": "Especialistas en ortopedia del sureste - Ransomware - NoEscape",
+  "date": "2023-10-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "NoEscape",
+  "impact": "Filtración de datos en Southeastern Orthopaedic Specialists",
+  "source": "nan",
+  "summary": "Southeastern Orthopaedic Specialists se ha sumado al sitio de filtración de ransomware NoEscape. Los cibercriminales afirman haber exfiltrado 3 GB de datos.",
+  "color": "#ef4444"
+}

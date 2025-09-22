@@ -1,0 +1,13 @@
+{
+  "id": 5099,
+  "title": "Organización de infraestructura crítica no revelada en los Estados Unidos - Data leak - NGB 3rd Technical Surveillance Bureau",
+  "date": "2023-04-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "NGB 3rd Technical Surveillance Bureau",
+  "impact": "Incidente de seguridad en Symantec/Broadcom revelan",
+  "source": "nan",
+  "summary": "Investigadores de Symantec/Broadcom revelan que el ataque a la cadena de suministro de software que provocó la violación de 3CX el mes pasado también ha afectado al menos a varias organizaciones de infraestructura crítica en Estados Unidos y Europa.",
+  "color": "#a78bfa"
+}

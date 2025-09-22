@@ -1,0 +1,13 @@
+{
+  "id": 7074,
+  "title": "Visionworks - Data leak - Undetermined",
+  "date": "2025-01-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos",
+  "source": "nan",
+  "summary": "La demanda federal, que busca obtener el estatus de demanda colectiva, alega que una violación de datos expuso los datos privados de 40.000 clientes.",
+  "color": "#ef4444"
+}

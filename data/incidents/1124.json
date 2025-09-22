@@ -1,0 +1,13 @@
+{
+  "id": 1124,
+  "title": "Agencia Antidopaje de los Estados Unidos - Data leak - GRU 85th Main Special Service Center (Unit 26165) (FANCYBEAR)",
+  "date": "2016-11-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "GRU 85th Main Special Service Center (Unit 26165) (FANCYBEAR)",
+  "impact": "Incidente de seguridad en Estados Unidos",
+  "source": "https://www.theguardian.com/sport/2016/nov/25/fancy-bears-hack-again-with-attack-on-senior-anti-doping-officials",
+  "summary": "El grupo de ciberespionaje Fancy Bear ha pirateado los correos electrónicos confidenciales de altos funcionarios antidopaje de la Agencia Antidopaje de Estados Unidos (USADA).",
+  "color": "#a78bfa"
+}

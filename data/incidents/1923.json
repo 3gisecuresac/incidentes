@@ -1,0 +1,13 @@
+{
+  "id": 1923,
+  "title": "Foros técnicos - Data leak - Undetermined",
+  "date": "2018-11-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida",
+  "source": "https://www.databreaches.net/nampa-school-district-investigating-cyber-security-breach/",
+  "summary": "Los foros técnicos están comprometidos por un tercero desconocido.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7264,
+  "title": "Ayuntamiento Requena - Ransomware - ALPHVM",
+  "date": "2022-11-27",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Cifrado por ransomware en BlackCat ransomware attack",
+  "source": "nan",
+  "summary": "Ayuntamiento Requena (Requena City Council) discloses a BlackCat ransomware attack.",
+  "color": "#ef4444"
+}

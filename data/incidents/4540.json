@@ -1,0 +1,13 @@
+{
+  "id": 4540,
+  "title": "Escuelas locales de Washington - Data leak - Undetermined",
+  "date": "2022-05-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Washington dicen",
+  "source": "nan",
+  "summary": "Las Escuelas Locales de Washington dicen que un ciberataque afectó las redes de teléfono, correo electrónico, Internet y WiFi, así como todos los sistemas de Google Classroom.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 212,
+  "title": "El Wall Street Journal - Data leak - W0rm",
+  "date": "2014-07-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "W0rm",
+  "impact": "Filtración de datos en Wall Street Journal y",
+  "source": "http://arstechnica.com/security/2014/07/wsj-website-hacked-data-offered-for-sale-for-1-bitcoin/",
+  "summary": "W0rm hackea el Wall Street Journal y ofrece datos a la venta por 1 bitcoin.",
+  "color": "#ef4444"
+}

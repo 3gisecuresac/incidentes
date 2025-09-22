@@ -1,0 +1,13 @@
+{
+  "id": 181,
+  "title": "AT&T - Data leak - Undetermined",
+  "date": "2014-06-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en AT&T",
+  "source": "https://www.yahoo.com/tech/at-t-suffers-data-breach-88954139374.html",
+  "summary": "AT&T confirma que atacantes externos (supuestamente empleados de uno de los proveedores de servicios de AT&T) comprometieron la información personal de un número no revelado de miembros de AT&T Mobility.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2616,
+  "title": "Servidor electoral de Georgia (Centro de Sistemas Electorales de la Universidad Estatal de Kennesaw) - Data leak - Undetermined",
+  "date": "2020-01-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Georgia puede haber sido pirateado antes de las elecciones de 2016",
+  "source": "https://arstechnica.com/information-technology/2020/01/a-georgia-election-server-was-vulnerable-to-shellshock-and-may-have-been-hacked/",
+  "summary": "La evidencia forense muestra indicios de que un servidor electoral de Georgia puede haber sido pirateado antes de las elecciones de 2016 y 2018 por alguien que explotó Shellshock.",
+  "color": "#a78bfa"
+}

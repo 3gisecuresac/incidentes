@@ -1,0 +1,13 @@
+{
+  "id": 6522,
+  "title": "Distrito escolar de Hinsdale - Ransomware - Medusa",
+  "date": "2023-12-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Medusa",
+  "impact": "Cifrado por ransomware en Distrito Escolar Unificado de Glendale",
+  "source": "nan",
+  "summary": "La banda de ransomware Medusa se atribuye la responsabilidad de un ataque al Distrito Escolar Unificado de Glendale y enumera a la víctima en su sitio web.",
+  "color": "#ef4444"
+}

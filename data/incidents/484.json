@@ -1,0 +1,13 @@
+{
+  "id": 484,
+  "title": "Hotel Casino Firekeepers - Infección Dispositivos - Undetermined",
+  "date": "2015-05-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El Hotel Casino Firekeepers",
+  "source": "https://www.clickondetroit.com/consumer/2015/07/03/firekeepers-casino-hotel-says-credit-card-info-was-hacked-approximately-85000-affected/",
+  "summary": "El Hotel Casino Firekeepers está investigando un posible incidente de seguridad de datos relacionado con los sistemas de punto de venta. Como medida de precaución, se han instalado nuevos sistemas de punto de venta (TPV).",
+  "color": "#ef4444"
+}

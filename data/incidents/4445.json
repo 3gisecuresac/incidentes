@@ -1,0 +1,13 @@
+{
+  "id": 4445,
+  "title": "Centro de Asesoramiento de Nueva Creación (NCCC) - Ransomware - Undetermined",
+  "date": "2022-04-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Asesoría Nueva Creación",
+  "source": "nan",
+  "summary": "El Centro de Asesoría Nueva Creación (NCCC) revela haber sufrido un ataque de ransomware que afectó a 24.029 personas",
+  "color": "#ef4444"
+}

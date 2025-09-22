@@ -1,0 +1,13 @@
+{
+  "id": 4103,
+  "title": "Grupo de concesionarios de automóviles - Ransomware - Colossus",
+  "date": "2021-09-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Colossus",
+  "impact": "Cifrado por ransomware en Colossus en un",
+  "source": "nan",
+  "summary": "Se descubre un nuevo ransomware denominado Colossus en un ataque contra un grupo de concesionarios de automóviles.",
+  "color": "#ef4444"
+}

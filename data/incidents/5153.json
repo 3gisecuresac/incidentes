@@ -1,0 +1,13 @@
+{
+  "id": 5153,
+  "title": "Grúa Logística Mundial - Data leak - Undetermined",
+  "date": "2022-12-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Fiscal General de Texas después de confirmar",
+  "source": "nan",
+  "summary": "El 8 de diciembre de 2022, Crane Worldwide Logistics informó una violación de datos al Fiscal General de Texas después de confirmar que un reciente evento de ciberseguridad comprometió información confidencial del consumidor bajo el control de la empresa.",
+  "color": "#ef4444"
+}

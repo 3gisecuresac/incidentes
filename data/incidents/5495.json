@@ -1,0 +1,13 @@
+{
+  "id": 5495,
+  "title": "Vista de audiencia - Data leak - Undetermined",
+  "date": "2023-03-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estados Unidos",
+  "source": "nan",
+  "summary": "AudienceView, una plataforma de venta de entradas en línea, revela haber sido víctima de un ciberataque que afectó a estudiantes de docenas de las mayores universidades y colegios de Estados Unidos y Canadá.",
+  "color": "#a78bfa"
+}

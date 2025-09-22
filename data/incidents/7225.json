@@ -1,0 +1,13 @@
+{
+  "id": 7225,
+  "title": "SEPE (Sistema Público de Empleo Español) - Ransomware - WIZARD SPIDER",
+  "date": "2021-03-09",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Incidente de seguridad en SEPE",
+  "source": "nan",
+  "summary": "El sitio web del SEPE, el sistema público de empleo, se cayó este martes debido a un ciberataque que sufrió el sistema informático del SEPE. Fuentes del Ministerio de Trabajo indican que, por el momento, se desconoce el origen y se está trabajando para reactivar el servicio.",
+  "color": "#a78bfa"
+}

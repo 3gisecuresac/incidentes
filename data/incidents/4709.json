@@ -1,0 +1,13 @@
+{
+  "id": 4709,
+  "title": "Ciudad de Frederick - Ransomware - LockBit",
+  "date": "2022-07-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit",
+  "impact": "Cifrado por ransomware en Frederick",
+  "source": "nan",
+  "summary": "El departamento de policía de la ciudad de Frederick, Colorado, dice que está investigando denuncias de que el gobierno de la ciudad fue víctima de un ataque de ransomware LockBit.",
+  "color": "#ef4444"
+}

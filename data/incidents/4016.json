@@ -1,0 +1,13 @@
+{
+  "id": 4016,
+  "title": "Salud regional de Montrose - Data leak - Undetermined",
+  "date": "2021-08-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Colorado sufre acceso no autorizado a cuentas de correo electrónico de empleados comprometiendo información de más de 52",
+  "source": "nan",
+  "summary": "Centro médico de Colorado sufre acceso no autorizado a cuentas de correo electrónico de empleados comprometiendo información de más de 52.000 personas.",
+  "color": "#3b82f6"
+}

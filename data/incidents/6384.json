@@ -1,0 +1,13 @@
+{
+  "id": 6384,
+  "title": "Distrito Escolar del Área de Hopewell - Ransomware - Medusa",
+  "date": "2023-11-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Medusa",
+  "impact": "Cifrado por ransomware en Área de Hopewell se ve afectado",
+  "source": "nan",
+  "summary": "El Distrito Escolar del Área de Hopewell se ve afectado por un ataque de ransomware Medusa.",
+  "color": "#ef4444"
+}

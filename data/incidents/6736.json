@@ -1,0 +1,13 @@
+{
+  "id": 6736,
+  "title": "Kraken - Data leak - Undetermined",
+  "date": "2024-06-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Kraken",
+  "source": "nan",
+  "summary": "El intercambio de criptomonedas Kraken revela que presuntos investigadores de seguridad explotaron un error del sitio web de día cero para robar $ 3 millones en criptomonedas y luego se negaron a devolver los fondos.",
+  "color": "#a78bfa"
+}

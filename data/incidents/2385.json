@@ -1,0 +1,13 @@
+{
+  "id": 2385,
+  "title": "Departamento de Policía de Robstown - Ransomware - Undetermined",
+  "date": "2019-09-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Departamento de Policía de Robstown en investigaciones pendientes de 2018",
+  "source": "https://www.databreaches.net/robstown-police-evidence-reports-lost-during-data-breach/",
+  "summary": "Un ataque de ransomware provoca la pérdida de pruebas e informes del Departamento de Policía de Robstown en investigaciones pendientes de 2018 y 2019.",
+  "color": "#ef4444"
+}

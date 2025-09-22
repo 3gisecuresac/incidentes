@@ -1,0 +1,13 @@
+{
+  "id": 3239,
+  "title": "Escuela secundaria Cheverus - Ransomware - Undetermined",
+  "date": "2020-09-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Cheverus",
+  "source": "https://www.bbc.com/news/technology-53528339",
+  "summary": "La escuela secundaria Cheverus se encuentra entre las víctimas del ataque de ransomware Blackbaud.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5633,
+  "title": "Cooperativa de crédito Veridian - Data leak - Undetermined",
+  "date": "2023-05-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Veridian",
+  "source": "nan",
+  "summary": "Veridian Credit Union presenta un aviso de violación de datos después de determinar que un pirata informático obtuvo acceso con éxito al proceso de solicitud de membresía en línea de Veridian.",
+  "color": "#ef4444"
+}

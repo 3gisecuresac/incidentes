@@ -1,0 +1,13 @@
+{
+  "id": 5101,
+  "title": "Hospital Conmemorativo de San Gorgonio (SGMH) - Ransomware - Undetermined",
+  "date": "2022-11-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en El San Gorgonio Memorial Hospital SGMH",
+  "source": "nan",
+  "summary": "El San Gorgonio Memorial Hospital (SGMH) sufre un ataque de malware.",
+  "color": "#a78bfa"
+}

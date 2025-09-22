@@ -1,0 +1,13 @@
+{
+  "id": 5562,
+  "title": "Gestión de MAC Pizza - Ransomware - Undetermined",
+  "date": "2023-04-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en MAC Pizza Management",
+  "source": "nan",
+  "summary": "MAC Pizza Management presenta un aviso de violación de datos después de enterarse de que la información confidencial perteneciente a miles de personas se vio comprometida después de un ataque de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 252,
+  "title": "Estuche tipo almeja - Data leak - Undetermined",
+  "date": "2014-08-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en ClamCase",
+  "source": "http://news.softpedia.com/news/Hackers-Steal-Customer-Payment-Data-From-ClamCase-456961.shtml",
+  "summary": "ClamCase, fabricante de teclados y fundas protectoras para iPads, notifica a sus clientes que intrusos no identificados obtuvieron acceso a información personal y detalles de pago.",
+  "color": "#a78bfa"
+}

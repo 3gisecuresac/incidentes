@@ -1,0 +1,13 @@
+{
+  "id": 4843,
+  "title": "Cooperativa de crédito SF Fire - Data leak - Undetermined",
+  "date": "2022-08-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en SF Fire Credit Union",
+  "source": "nan",
+  "summary": "SF Fire Credit Union informa sobre una violación de datos que afecta los nombres de los miembros afectados, los números de tarjetas de crédito, los números CVV, las fechas de vencimiento de las tarjetas y los números PIN.",
+  "color": "#ef4444"
+}

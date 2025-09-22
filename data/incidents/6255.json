@@ -1,0 +1,13 @@
+{
+  "id": 6255,
+  "title": "Tránsito del Metro de San Luis - Ransomware - Undetermined",
+  "date": "2023-10-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en El St. Louis Metro Transit",
+  "source": "nan",
+  "summary": "El St. Louis Metro Transit es víctima de un ciberataque.",
+  "color": "#a78bfa"
+}

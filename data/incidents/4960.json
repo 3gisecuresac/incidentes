@@ -1,0 +1,13 @@
+{
+  "id": 4960,
+  "title": "Corporación Financiera IBW - Ciberataque - Undetermined",
+  "date": "2022-09-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos",
+  "source": "nan",
+  "summary": "IBW informó sobre una violación de datos después de descubrir que información confidencial de los consumidores se vio comprometida después de lo que parece haber sido un ciberataque cometido contra la red informática de la empresa.",
+  "color": "#ef4444"
+}

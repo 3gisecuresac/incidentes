@@ -1,0 +1,13 @@
+{
+  "id": 2325,
+  "title": "Municipio de Maplewood - Data leak - Undetermined",
+  "date": "2019-08-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Maplewood descubre una infección de malware",
+  "source": "https://www.databreaches.net/township-of-maplewood-nj-provides-media-notification-of-data-security-incident/",
+  "summary": "El municipio de Maplewood descubre una infección de malware. La infección comenzó en diciembre de 2018.",
+  "color": "#a78bfa"
+}

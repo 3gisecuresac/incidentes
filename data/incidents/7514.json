@@ -1,0 +1,13 @@
+{
+  "id": 7514,
+  "title": "IxMetro - Ransomware - SEXi",
+  "date": "2024-03-30",
+  "country": "Chile",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "SEXi",
+  "impact": "Filtración de datos en IxMetro Powerhost",
+  "source": "nan",
+  "summary": "El proveedor chileno de hosting y centro de datos IxMetro Powerhost sufre un ciberataque a manos de una nueva banda de ransomware conocida como SEXi, que cifra los servidores y copias de seguridad VMware ESXi de la compañía.",
+  "color": "#ef4444"
+}

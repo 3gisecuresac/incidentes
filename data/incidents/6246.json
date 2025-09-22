@@ -1,0 +1,13 @@
+{
+  "id": 6246,
+  "title": "Dolly.com - Ransomware - Undetermined",
+  "date": "2023-09-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Dolly.com",
+  "source": "nan",
+  "summary": "La plataforma de mudanzas y entregas a pedido Dolly.com es víctima de un ataque de ransomware, supuestamente paga un rescate, pero los actores de la amenaza encuentran una excusa para no cumplir con su parte del trato.",
+  "color": "#ef4444"
+}

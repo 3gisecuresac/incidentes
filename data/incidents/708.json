@@ -1,0 +1,13 @@
+{
+  "id": 708,
+  "title": "donaldjtrump.com - DoS - New World Hacktivists (NWH)",
+  "date": "2016-01-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "New World Hacktivists (NWH)",
+  "impact": "Interrupción por DDoS en donaldjtrump.com",
+  "source": "https://www.hackread.com/hackers-shut-down-donald-trump-election-campaign-website/",
+  "summary": "El grupo de hackers New World Hacktivists (NWH) desmantela el sitio web oficial de la campaña electoral del candidato presidencial estadounidense Donald Trump (donaldjtrump.com). Los mismos atacantes se atribuyen la responsabilidad del ataque DDoS que paralizó el sitio web de la BBC.",
+  "color": "#f59e0b"
+}

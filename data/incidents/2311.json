@@ -1,0 +1,13 @@
+{
+  "id": 2311,
+  "title": "Distrito Escolar Independiente de Gadsden - Ransomware - Undetermined",
+  "date": "2019-07-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Gadsden se ve afectado",
+  "source": "https://www.tripwire.com/state-of-security/security-data-protection/gadsden-independent-school-district-discloses-malware-attack/",
+  "summary": "El Distrito Escolar Independiente de Gadsden se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

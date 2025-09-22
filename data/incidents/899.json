@@ -1,0 +1,13 @@
+{
+  "id": 899,
+  "title": "Colegas médicos de Texas - Data leak - Undetermined",
+  "date": "2016-05-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Katy",
+  "source": "http://www.databreaches.net/data-breach-affecting-more-than-50000-reported-by-medical-colleagues-of-texas/",
+  "summary": "Los piratas informáticos violan la red informática de un grupo de médicos en Katy, accediendo potencialmente a más de 60.000 registros médicos y archivos de personal.",
+  "color": "#a78bfa"
+}

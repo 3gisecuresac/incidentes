@@ -1,0 +1,13 @@
+{
+  "id": 4141,
+  "title": "Grupo de radiodifusión Sinclair - Ransomware - Evil Corp",
+  "date": "2021-10-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Evil Corp",
+  "impact": "Cifrado por ransomware en Sinclair Broadcast Group",
+  "source": "nan",
+  "summary": "Sinclair Broadcast Group es atacado por el ransomware Macaw Locker, interrumpiendo gravemente sus operaciones.",
+  "color": "#ef4444"
+}

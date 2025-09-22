@@ -1,0 +1,13 @@
+{
+  "id": 516,
+  "title": "Pentágono - Data leak - Undetermined",
+  "date": "2015-06-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Defensa",
+  "source": "https://www.cnn.com/2015/04/23/politics/russian-hackers-pentagon-network/index.html",
+  "summary": "El secretario de Defensa, Ash Carter, revela que un actor de amenazas ruso comprometió una red heredada no clasificada en el Departamento de Defensa.",
+  "color": "#3b82f6"
+}

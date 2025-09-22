@@ -1,0 +1,13 @@
+{
+  "id": 3580,
+  "title": "Entretenimiento dorado - Ransomware - Undetermined",
+  "date": "2021-01-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Golden Entertainment",
+  "source": "nan",
+  "summary": "Golden Entertainment revela haber sufrido un ataque de ransomware que comprometió los datos de los clientes.",
+  "color": "#ef4444"
+}

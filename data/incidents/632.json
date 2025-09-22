@@ -1,0 +1,13 @@
+{
+  "id": 632,
+  "title": "http://shopatsullivan.com - Data leak - Comcastkids",
+  "date": "2015-10-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Comcastkids",
+  "impact": "Sistema o cuenta comprometida en shopatsullivan.com",
+  "source": "https://web.archive.org/web/20160911020913/http://siph0n.net/exploits.php?id=4110",
+  "summary": "Un equipo de hackers llamado Comcastkids hackea shopatsullivan.com y vacía más de 10.000 cuentas.",
+  "color": "#3b82f6"
+}

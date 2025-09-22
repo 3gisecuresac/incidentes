@@ -1,0 +1,13 @@
+{
+  "id": 6236,
+  "title": "Atención médica Foursquare - Ransomware - Undetermined",
+  "date": "2023-09-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Foursquare Healthcare",
+  "source": "nan",
+  "summary": "Foursquare Healthcare confirma que sufrió un ataque de ransomware en septiembre.",
+  "color": "#ef4444"
+}

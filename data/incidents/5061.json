@@ -1,0 +1,13 @@
+{
+  "id": 5061,
+  "title": "Colegio del Norte de Idaho - Ciberataque - Undetermined",
+  "date": "2022-11-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en North Idaho College",
+  "source": "nan",
+  "summary": "North Idaho College sufre un ciberataque que provoca el cierre de la red.",
+  "color": "#a78bfa"
+}

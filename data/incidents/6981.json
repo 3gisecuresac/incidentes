@@ -1,0 +1,13 @@
+{
+  "id": 6981,
+  "title": "ConnectOnCall (una subsidiaria de Phreesia) - Data leak - Undetermined",
+  "date": "2024-05-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en SaaS de",
+  "source": "nan",
+  "summary": "La empresa de software como servicio (SaaS) de atención médica Phreesia notifica a más de 910.000 personas que sus datos personales y de salud fueron expuestos en una violación de seguridad en mayo de su subsidiaria ConnectOnCall, adquirida en octubre de 2023.",
+  "color": "#ef4444"
+}

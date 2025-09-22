@@ -1,0 +1,13 @@
+{
+  "id": 2433,
+  "title": "Ciudad de Carrollton - DoS - Undetermined",
+  "date": "2019-10-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Carrollton",
+  "source": "https://www.databreaches.net/city-of-carrollton-texas-victimized-by-cyber-attack/",
+  "summary": "La ciudad de Carrollton, Texas, es víctima de un ciberataque que deja algunos servicios indisponibles.",
+  "color": "#a78bfa"
+}

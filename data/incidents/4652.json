@@ -1,0 +1,13 @@
+{
+  "id": 4652,
+  "title": "Servicios Comunitarios de Tessie Cleveland - Data leak - Undetermined",
+  "date": "2022-06-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Tessie Cleveland Community Services",
+  "source": "nan",
+  "summary": "Tessie Cleveland Community Services revela una violación debido a un ataque de phishing.",
+  "color": "#ef4444"
+}

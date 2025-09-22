@@ -1,0 +1,13 @@
+{
+  "id": 2362,
+  "title": "Foros de XKCD - Data leak - Undetermined",
+  "date": "2019-09-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en XKCD",
+  "source": "https://www.bleepingcomputer.com/news/security/xkcd-forum-breach-exposes-emails-passwords-of-562-000-users/",
+  "summary": "Los foros del webcomic XKCD están actualmente fuera de línea luego de verse afectados por una violación de datos que expuso la información de 561,991 usuarios el 1 de julio.",
+  "color": "#ef4444"
+}

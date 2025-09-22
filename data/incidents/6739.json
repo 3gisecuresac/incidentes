@@ -1,0 +1,13 @@
+{
+  "id": 6739,
+  "title": "Asistente de citas - Data leak - Sp1d3r",
+  "date": "2024-06-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Sp1d3r",
+  "impact": "Filtración de datos en QuoteWizard una de sus",
+  "source": "nan",
+  "summary": "La empresa de servicios financieros LendingTree confirma que QuoteWizard, una de sus subsidiarias, se vio potencialmente afectada por un incidente de ciberseguridad luego de un ataque más amplio a los clientes de la empresa de almacenamiento de datos Snowflake.",
+  "color": "#ef4444"
+}

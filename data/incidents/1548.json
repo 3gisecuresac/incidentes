@@ -1,0 +1,13 @@
+{
+  "id": 1548,
+  "title": "Todos los scripts - Ransomware - Undetermined",
+  "date": "2018-01-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Allscripts.",
+  "source": "https://histalk2.com/2018/01/18/ransomware-attack-takes-down-some-allscripts-systems/",
+  "summary": "Un ataque de ransomware destruye algunas de las aplicaciones utilizadas por Allscripts.",
+  "color": "#ef4444"
+}

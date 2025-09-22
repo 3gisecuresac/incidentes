@@ -1,0 +1,13 @@
+{
+  "id": 7634,
+  "title": "Construcción de Defensa de Canadá (DCC) - Ransomware - Undetermined",
+  "date": "2019-09-27",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Defence Construction Canada DCC",
+  "source": "nan",
+  "summary": "Defence Construction Canada (DCC) es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

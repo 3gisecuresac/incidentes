@@ -1,0 +1,13 @@
+{
+  "id": 5039,
+  "title": "Salud de San Lucas - Data leak - Undetermined",
+  "date": "2022-10-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Adelanto Healthcare Ventures",
+  "source": "nan",
+  "summary": "St. Luke's Health notifica a 16,906 personas sobre una violación de datos de terceros que afectó a Adelanto Healthcare Ventures (AHCV), un proveedor de servicios de consultoría, después de que dos de las cuentas de correo electrónico de sus empleados fueran comprometidas por un tercero.",
+  "color": "#ef4444"
+}

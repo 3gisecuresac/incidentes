@@ -1,0 +1,13 @@
+{
+  "id": 1265,
+  "title": "NSA - Data leak - Shadow Brokers",
+  "date": "2017-04-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Shadow Brokers",
+  "impact": "Incidente de seguridad en Los Shadow Brokers TSB",
+  "source": "https://www.bleepingcomputer.com/news/security/shadow-brokers-publish-the-password-for-the-rest-the-stolen-nsa-hacking-tools/",
+  "summary": "Los Shadow Brokers (TSB) han vuelto y han publicado la contraseña del resto de las herramientas de piratería que afirman haber robado de la NSA el año pasado.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2282,
+  "title": "Hospital comunitario de Grays Harbor - Ransomware - Undetermined",
+  "date": "2019-07-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Hospital Comunitario Grays Harbor",
+  "source": "https://www.databreaches.net/wa-hospital-still-mum-on-ransomware-attack/",
+  "summary": "El Hospital Comunitario Grays Harbor es víctima de un ataque de ransomware (y se queda callado).",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1484,
+  "title": "Imgur - Data leak - Undetermined",
+  "date": "2017-11-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Imgur de una posible violación de seguridad",
+  "source": "https://blog.imgur.com/2017/11/24/notice-of-data-breach/",
+  "summary": "Se notifica a Imgur de una posible violación de seguridad que ocurrió en 2014 y afectó las direcciones de correo electrónico y las contraseñas de 1,7 millones de cuentas de usuario.",
+  "color": "#a78bfa"
+}

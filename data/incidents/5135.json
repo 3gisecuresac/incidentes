@@ -1,0 +1,13 @@
+{
+  "id": 5135,
+  "title": "Ir a - Data leak - Undetermined",
+  "date": "2022-11-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en GoTo",
+  "source": "nan",
+  "summary": "La empresa de acceso remoto y colaboración GoTo revela que sufrió una violación de seguridad donde los actores de amenazas obtuvieron acceso a su entorno de desarrollo y al servicio de almacenamiento en la nube de terceros.",
+  "color": "#a78bfa"
+}

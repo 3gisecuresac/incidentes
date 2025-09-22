@@ -1,0 +1,13 @@
+{
+  "id": 7551,
+  "title": "valleyevents.ca - Data leak - Undetermined",
+  "date": "2016-01-28",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware",
+  "source": "nan",
+  "summary": "Un hacker desconocido piratea valleyevents.ca y descarga 4.646 nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

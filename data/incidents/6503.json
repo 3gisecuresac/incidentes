@@ -1,0 +1,13 @@
+{
+  "id": 6503,
+  "title": "Instituto de Cataratas y Láser del Pacífico - Ransomware - LockBit 3.0",
+  "date": "2023-12-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en El Pacific Cataract",
+  "source": "nan",
+  "summary": "El Pacific Cataract and Laser Institute es víctima de un ataque de ransomware LockBit 3.0.",
+  "color": "#ef4444"
+}

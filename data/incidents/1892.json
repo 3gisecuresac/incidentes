@@ -1,0 +1,13 @@
+{
+  "id": 1892,
+  "title": "Hospital de Huntsville - Data leak - Undetermined",
+  "date": "2018-11-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Jobscience",
+  "source": "https://www.scmagazine.com/home/security-news/huntsville-hospital-in-alabama-notifies-job-applicants-of-data-breach/",
+  "summary": "El Hospital Huntsville también informa que la información de los solicitantes de empleo que solicitaron empleo en la instalación puede estar en riesgo después de la violación en Jobscience.",
+  "color": "#a78bfa"
+}

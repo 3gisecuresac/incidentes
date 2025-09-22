@@ -1,0 +1,13 @@
+{
+  "id": 4265,
+  "title": "Hospicio católico - Data leak - Undetermined",
+  "date": "2022-01-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Hospicio Cat",
+  "source": "nan",
+  "summary": "Hospicio Católico sufre un ataque de phishing que resulta en acceso no autorizado a la cuenta de correo electrónico de un empleado que contiene información del paciente.",
+  "color": "#ef4444"
+}

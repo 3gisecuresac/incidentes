@@ -1,0 +1,13 @@
+{
+  "id": 1756,
+  "title": "Centros de Educación Profesional y Tecnológica (C-TEC) - Data leak - Undetermined",
+  "date": "2018-07-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Educación Profesional",
+  "source": "https://www.scmagazine.com/career-and-technology-education-centers-of-licking-county-acknowledge-possible-breach/article/780212/",
+  "summary": "Los Centros de Educación Profesional y Tecnológica (C-TEC) revelan que sufrieron una posible filtración de datos a principios de este año que podría haber expuesto los nombres y números de Seguro Social de varias personas. La filtración ocurrió el 25 de mayo cuando una persona no autorizada accedió a un archivo privado durante varios minutos.",
+  "color": "#ef4444"
+}

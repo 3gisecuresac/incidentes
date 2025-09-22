@@ -1,0 +1,13 @@
+{
+  "id": 2820,
+  "title": "Salud de Magallanes - Ransomware - Undetermined",
+  "date": "2020-04-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Magellan Health Inc",
+  "source": "https://www.bleepingcomputer.com/news/security/healthcare-giant-magellan-health-hit-by-ransomware-attack/",
+  "summary": "Magellan Health Inc. anuncia que fue víctima de un ataque de ransomware el 11 de abril de 2020, lo que provocó el robo de información personal de uno de sus servidores corporativos.",
+  "color": "#ef4444"
+}

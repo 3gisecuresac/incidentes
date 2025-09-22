@@ -1,0 +1,13 @@
+{
+  "id": 5521,
+  "title": "Suites quirúrgicas del suburbio sur - Ciberataque - Undetermined",
+  "date": "2023-04-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Microsoft Office 365 heredado",
+  "source": "nan",
+  "summary": "South Suburban Surgical Suites informa sobre una violación de una cuenta de correo electrónico empresarial alojada en Microsoft Office 365 heredado.",
+  "color": "#a78bfa"
+}

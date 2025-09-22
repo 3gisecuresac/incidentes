@@ -1,0 +1,13 @@
+{
+  "id": 7391,
+  "title": "Grupo Estrategas EMM - Ransomware - ALPHVM",
+  "date": "2023-01-06",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Cifrado por ransomware en Grupo Estrategas EMM",
+  "source": "nan",
+  "summary": "El grupo de ransomware ALPHV, también conocido como BlackCat, afirma haber atacado a Grupo Estrategas EMM.",
+  "color": "#ef4444"
+}

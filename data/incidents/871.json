@@ -1,0 +1,13 @@
+{
+  "id": 871,
+  "title": "BeautifulPeople.com - Data leak - Undetermined",
+  "date": "2016-04-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Beautifulpeople.com",
+  "source": "http://www.forbes.com/sites/thomasbrewster/2016/04/25/beautiful-people-hack-sexual-preference-location-addresses/",
+  "summary": "Forbes revela que hackers desconocidos pudieron hackear Beautifulpeople.com y filtrar los datos personales de 1,1 millones de miembros.",
+  "color": "#ef4444"
+}

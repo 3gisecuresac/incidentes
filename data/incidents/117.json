@@ -1,0 +1,13 @@
+{
+  "id": 117,
+  "title": "Restaurante El Agave - Infección Dispositivos - Undetermined",
+  "date": "2014-03-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Restaurante El Agave",
+  "source": "https://www.sctimes.com/story/news/local/minnesota/2014/03/26/fairmont-police-receive-fraud-reports-after-restaurant-hack/6927925/",
+  "summary": "Más de 200 números de tarjetas de crédito y débito fueron robados por hackers que instalaron malware en el sistema de punto de venta del Restaurante El Agave.",
+  "color": "#3b82f6"
+}

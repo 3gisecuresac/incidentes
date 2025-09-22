@@ -1,0 +1,13 @@
+{
+  "id": 4521,
+  "title": "Sistema de Salud McKenzie - Ciberataque - Undetermined",
+  "date": "2022-05-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en McKenzie Health System",
+  "source": "nan",
+  "summary": "McKenzie Health System informa a 25,318 personas sobre el robo de parte de su información médica protegida (PHI) debido a un reciente incidente de seguridad que interrumpió las operaciones de varios de sus sistemas.",
+  "color": "#a78bfa"
+}

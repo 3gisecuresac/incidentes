@@ -1,0 +1,13 @@
+{
+  "id": 5121,
+  "title": "Holler-Clásico - Ransomware - Lorenz",
+  "date": "2022-11-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Lorenz",
+  "impact": "Filtración de datos en Holler-Classic a su sitio web oscuro",
+  "source": "nan",
+  "summary": "Lorenz cifró y filtró datos robados de Holler-Classic a su sitio web oscuro.",
+  "color": "#ef4444"
+}

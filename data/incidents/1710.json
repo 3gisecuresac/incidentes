@@ -1,0 +1,13 @@
+{
+  "id": 1710,
+  "title": "Fundación de Salud Aultman - Data leak - Undetermined",
+  "date": "2018-05-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en AultWorks Occupational Medicine",
+  "source": "https://www.databreaches.net/aultman-data-breach-may-have-accessed-patient-information/",
+  "summary": "Aproximadamente 42.600 pacientes vinculados a AultWorks Occupational Medicine, Aultman Hospital y algunos consultorios médicos de Aultman podrían haber sufrido el robo de información personal de salud e identificación en una violación de datos luego de que individuos desconocidos y no autorizados obtuvieron acceso a ciertas cuentas de correo electrónico en febrero y marzo.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5783,
+  "title": "Miembros del servicio militar de los EE. UU. - Infección Dispositivos - Undetermined",
+  "date": "2023-06-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Miembros del",
+  "source": "nan",
+  "summary": "Miembros del servicio militar informan haber recibido relojes inteligentes por correo no solicitado. Al usarlos, se conectan automáticamente al wifi y a teléfonos celulares sin previo aviso, obteniendo acceso a una gran cantidad de datos de usuario y, además, podrían conectar malware.",
+  "color": "#ef4444"
+}

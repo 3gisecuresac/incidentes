@@ -1,0 +1,13 @@
+{
+  "id": 1286,
+  "title": "HipChat - Data leak - Undetermined",
+  "date": "2017-04-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en HipChat Cloud",
+  "source": "http://www.zdnet.com/article/hipchat-hacked-user-account-info-and-some-user-content-potentially-compromised/",
+  "summary": "HipChat fue hackeado durante el fin de semana debido a una vulnerabilidad en una biblioteca de terceros. El incidente afectó a un servidor en la capa web de HipChat Cloud y, en un pequeño número de casos (menos del 0,05 %), hay evidencia de que se pudo haber accedido a los mensajes y al contenido de las salas.",
+  "color": "#3b82f6"
+}

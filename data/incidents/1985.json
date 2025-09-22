@@ -1,0 +1,13 @@
+{
+  "id": 1985,
+  "title": "OXO Internacional - Data leak - Undetermined",
+  "date": "2019-01-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en MageCart",
+  "source": "https://www.bleepingcomputer.com/news/security/oxo-breach-involved-magecart-attack-that-targeted-customer-data/",
+  "summary": "OXO International revela una filtración de datos que abarca varios periodos a lo largo de dos años. Es posible que se haya expuesto información de clientes y pagos. Lo más probable es que el ataque haya sido un ataque a MageCart.",
+  "color": "#ef4444"
+}

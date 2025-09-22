@@ -1,0 +1,13 @@
+{
+  "id": 7006,
+  "title": "Oficina de Control de Activos Extranjeros - Data leak - People's Liberation Army Strategic Support Force (PLA Unit 61398, Silk Typhoon)",
+  "date": "2024-12-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "People's Liberation Army Strategic Support Force (PLA Unit 61398, Silk Typhoon)",
+  "impact": "Incidente de seguridad en Control de Activos Extranjeros",
+  "source": "nan",
+  "summary": "Los actores de amenazas respaldados por el estado chino violan la Oficina de Control de Activos Extranjeros (OFAC), una oficina del Departamento del Tesoro que administra y hace cumplir los programas de sanciones comerciales y económicas, explotando una vulnerabilidad en una instancia de BeyondTrust Remote Support SaaS.",
+  "color": "#a78bfa"
+}

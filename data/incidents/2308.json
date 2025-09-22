@@ -1,0 +1,13 @@
+{
+  "id": 2308,
+  "title": "Escuelas del condado de Houston - Ransomware - Undetermined",
+  "date": "2019-07-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware",
+  "source": "https://www.bleepingcomputer.com/news/security/malware-attack-delays-alabama-districts-school-year-twice/",
+  "summary": "Un ataque de ransomware retrasa el inicio del año escolar.",
+  "color": "#ef4444"
+}

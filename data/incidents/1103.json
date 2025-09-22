@@ -1,0 +1,13 @@
+{
+  "id": 1103,
+  "title": "Sam's Club - Data leak - Undetermined",
+  "date": "2016-11-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Club",
+  "source": "http://www.zdnet.com/article/sams-club-resets-passwords-after-thousands-of-logins-posted-online/",
+  "summary": "El gigante minorista mayorista Sam's Club restableció las contraseñas de miles de clientes (14.600 direcciones de correo electrónico y contraseñas de texto sin formato) después de que los detalles de sus cuentas se publicaran en línea.",
+  "color": "#a78bfa"
+}

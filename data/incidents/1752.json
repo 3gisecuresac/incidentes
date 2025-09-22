@@ -1,0 +1,13 @@
+{
+  "id": 1752,
+  "title": "Entretenimiento Blizzard - DoS - Undetermined",
+  "date": "2018-07-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Overwatch",
+  "source": "https://www.scmagazine.com/blizzard-hit-with-another-dos-attack-affecting-overwatch-heroes-of-the-storm-world-of-warcraft/article/780371/",
+  "summary": "Blizzard Entertainment sufre un ataque DDoS. Los jugadores de Overwatch, Heroes of the Storm y World of Warcraft se ven afectados.",
+  "color": "#f59e0b"
+}

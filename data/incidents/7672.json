@@ -1,0 +1,13 @@
+{
+  "id": 7672,
+  "title": "Soluciones tecnológicas Pivot - Ransomware - Undetermined",
+  "date": "2020-06-12",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Pivot Technology Solutions",
+  "source": "nan",
+  "summary": "La empresa canadiense de servicios gestionados Pivot Technology Solutions fue víctima de un ataque de ransomware en junio. El ataque no cifró sus sistemas, pero sí provocó la pérdida de algunos datos.",
+  "color": "#ef4444"
+}

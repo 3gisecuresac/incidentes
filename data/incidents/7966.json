@@ -1,0 +1,13 @@
+{
+  "id": 7966,
+  "title": "Vivo - Data leak - Undetermined",
+  "date": "2021-02-11",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Protección de Datos de Brasil",
+  "source": "nan",
+  "summary": "La Autoridad Nacional de Protección de Datos de Brasil (ANPD) inicia una investigación por la exposición de datos relativos a más de 102 millones de líneas de telefonía móvil de dos operadores móviles, Vivo (57,2 millones) y Claro (45,6 millones).",
+  "color": "#ef4444"
+}

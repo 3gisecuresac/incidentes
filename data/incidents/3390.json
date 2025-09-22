@@ -1,0 +1,13 @@
+{
+  "id": 3390,
+  "title": "Seeley Medical - Ransomware - Undetermined",
+  "date": "2020-11-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Ohio informó sobre una violación en la",
+  "source": "https://www.databreaches.net/under-the-radar-more-attacks-on-healthcare-entities/",
+  "summary": "Seeley Medical en Ohio informó sobre una violación en la que un actor no autorizado accedió a ciertos archivos dentro del sistema de Seeley y también infectó la red con malware que impidió el acceso a ciertos archivos en el sistema.",
+  "color": "#a78bfa"
+}

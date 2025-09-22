@@ -1,0 +1,13 @@
+{
+  "id": 3634,
+  "title": "Exmo - DoS - Undetermined",
+  "date": "2021-02-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en EXMO",
+  "source": "nan",
+  "summary": "Los servidores de la plataforma de intercambio de criptomonedas británica EXMO quedaron fuera de línea temporalmente después de ser objeto de un ataque de denegación de servicio distribuido (DDoS).",
+  "color": "#f59e0b"
+}

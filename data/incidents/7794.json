@@ -1,0 +1,13 @@
+{
+  "id": 7794,
+  "title": "Sobeys - Ransomware - Black Basta",
+  "date": "2022-11-07",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Black Basta",
+  "impact": "Cifrado por ransomware en Black Basta",
+  "source": "nan",
+  "summary": "El gigante minorista de alimentos canadiense Sobeys se ve afectado por un ataque de ransomware Black Basta.",
+  "color": "#ef4444"
+}

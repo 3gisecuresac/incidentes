@@ -1,0 +1,13 @@
+{
+  "id": 3694,
+  "title": "Dio - Data leak - JAx",
+  "date": "2021-02-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "JAx",
+  "impact": "Filtración de datos en Gab y",
+  "source": "nan",
+  "summary": "Un hacktivista afirma haber hackeado la plataforma de extrema derecha Gab y filtra una colección de más de 70 gigabytes de datos que representan más de 40 millones de publicaciones.",
+  "color": "#ef4444"
+}

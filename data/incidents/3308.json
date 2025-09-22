@@ -1,0 +1,13 @@
+{
+  "id": 3308,
+  "title": "Distrito Escolar Consolidado de Walled Lake - Ransomware - INDRIK SPIDER",
+  "date": "2020-10-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Filtración de datos en Walled Lake afirma",
+  "source": "https://www.databreaches.net/threat-actors-dump-personal-employee-and-student-data-from-walled-lake-consolidated-district/",
+  "summary": "El Distrito Escolar Consolidado de Walled Lake afirma que una interrupción del sistema se ha relacionado con un ataque de ransomware. Varias semanas después, los atacantes de DoppelPaymer filtraron datos limitados como prueba de acceso a los sistemas del distrito.",
+  "color": "#ef4444"
+}

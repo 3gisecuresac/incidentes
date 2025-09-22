@@ -1,0 +1,13 @@
+{
+  "id": 2941,
+  "title": "Hospital del Distrito de Rangely (RDH) - Ransomware - Undetermined",
+  "date": "2020-06-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Distrito de Rangely",
+  "source": "https://www.databreaches.net/co-rangely-district-hospital-unable-to-access-some-patient-records-after-ransomware-attack/",
+  "summary": "El Hospital del Distrito de Rangely (RDH) revela haber sido afectado por un ataque de ransomware en abril de 2020.",
+  "color": "#ef4444"
+}

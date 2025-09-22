@@ -1,0 +1,13 @@
+{
+  "id": 438,
+  "title": "Vapor - Data leak - bluebunny14",
+  "date": "2015-03-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "bluebunny14",
+  "impact": "Incidente de seguridad en Steam",
+  "source": "http://arstechnica.com/gaming/2015/03/malicious-user-hides-trojan-links-in-cloned-steam-greenlight-pages/",
+  "summary": "Un usuario malicioso que se hace llamar bluebunny14 explota la estructura de envío abierta de la sección Greenlight de Steam para ocultar brevemente enlaces de malware en versiones clonadas de cinco páginas de juegos legítimas.",
+  "color": "#a78bfa"
+}

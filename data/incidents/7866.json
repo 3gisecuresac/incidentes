@@ -1,0 +1,13 @@
+{
+  "id": 7866,
+  "title": "Oleoductos Trans-Norte (TNPI) - Ransomware - ALPHVM",
+  "date": "2024-02-14",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Trans-Northern Pipelines TNPI",
+  "source": "nan",
+  "summary": "Trans-Northern Pipelines (TNPI) confirma que su red interna fue violada en noviembre de 2023 y que ahora está investigando denuncias de robo de datos realizadas por la banda de ransomware ALPHV/BlackCat.",
+  "color": "#ef4444"
+}

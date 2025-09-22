@@ -1,0 +1,13 @@
+{
+  "id": 327,
+  "title": "Juegos de diferencias - Data leak - Zyklon",
+  "date": "2015-01-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Zyklon",
+  "impact": "Sistema o cuenta comprometida en differencegames.com",
+  "source": "https://web.archive.org/web/20150308065226/http://pastebin.com/SJc2xDr8",
+  "summary": "Zyklon hackea differencegames.com y descarga 1.804 nombres de usuario y contraseñas de texto sin cifrar.",
+  "color": "#3b82f6"
+}

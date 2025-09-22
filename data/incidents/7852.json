@@ -1,0 +1,13 @@
+{
+  "id": 7852,
+  "title": "Farmacia de escuela secundaria - Ransomware - Undetermined",
+  "date": "2023-11-03",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Hi-School",
+  "source": "nan",
+  "summary": "La farmacia Hi-School revela un ataque de ransomware.",
+  "color": "#ef4444"
+}

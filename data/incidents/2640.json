@@ -1,0 +1,13 @@
+{
+  "id": 2640,
+  "title": "Consultores de Urología Brandywine - Ransomware - Undetermined",
+  "date": "2020-01-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Brandywine Urology Consultants",
+  "source": "https://healthitsecurity.com/news/ransomware-attack-on-brandywine-urology-impacts-131k-patients",
+  "summary": "Brandywine Urology Consultants notifica sobre un ataque de ransomware. El ataque ocurrió el 25 de enero y la clínica tuvo conocimiento del mismo el 27 de enero.",
+  "color": "#ef4444"
+}

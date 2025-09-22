@@ -1,0 +1,13 @@
+{
+  "id": 4832,
+  "title": "Servicios de salud unidos - Data leak - Undetermined",
+  "date": "2022-08-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en United HealthCare Services",
+  "source": "nan",
+  "summary": "United HealthCare Services confirma que la empresa sufrió una violación de datos.",
+  "color": "#ef4444"
+}

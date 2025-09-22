@@ -1,0 +1,13 @@
+{
+  "id": 4847,
+  "title": "Universidad Whitworth - Ransomware - Undetermined",
+  "date": "2022-08-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en La Universidad Whitworth",
+  "source": "nan",
+  "summary": "La Universidad Whitworth es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

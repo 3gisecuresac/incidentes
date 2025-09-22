@@ -1,0 +1,13 @@
+{
+  "id": 1232,
+  "title": "Agencia de Oklahoma sin nombre - Ransomware - Undetermined",
+  "date": "2017-02-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Administración",
+  "source": "https://www.databreaches.net/oklahoma-gov-omes-confirm-unnamed-agency-hacked-no-ransom-paid/",
+  "summary": "La Oficina de Administración y Servicios Empresariales confirma que una agencia anónima ha sido blanco de ransomware.",
+  "color": "#ef4444"
+}

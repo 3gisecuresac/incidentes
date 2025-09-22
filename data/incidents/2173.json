@@ -1,0 +1,13 @@
+{
+  "id": 2173,
+  "title": "El Consejo del Sureste sobre Alcoholismo y Farmacodependencia, Inc. (SCADD) - Ransomware - Undetermined",
+  "date": "2019-05-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Sureste sobre Alcoholismo",
+  "source": "https://www.databreaches.net/25148-patients-served-by-southeastern-council-on-alcoholism-and-drug-dependence-notified-of-ransomware-incident/",
+  "summary": "El Consejo del Sureste sobre Alcoholismo y Dependencia de Drogas, Inc. (SCADD) notifica un ataque de ransomware que afecta a 25.148 pacientes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 569,
+  "title": "ICANN - Data leak - Undetermined",
+  "date": "2015-08-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Nombres de Dominio de Internet",
+  "source": "http://www.tripwire.com/state-of-security/security-data-protection/security-breach-icann/",
+  "summary": "La ICANN, la organización que supervisa el Sistema de Nombres de Dominio de Internet, revela haber sido víctima de un ataque hacker durante el cual fueron expuestos los detalles (correos electrónicos y contraseñas encriptadas) de usuarios que habían creado perfiles en el sitio web público de la organización.",
+  "color": "#ef4444"
+}

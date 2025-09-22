@@ -1,0 +1,13 @@
+{
+  "id": 2321,
+  "title": "CafePress - Data leak - Undetermined",
+  "date": "2019-08-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en CafePress la",
+  "source": "https://www.forbes.com/sites/daveywinder/2019/08/05/cafepress-hacked-23m-accounts-compromised-is-yours-one-of-them/#3423549c407e",
+  "summary": "CafePress, la empresa de camisetas y artículos personalizados, fue víctima de un ataque informático. Según diversos informes, la brecha, que afectó a más de 23 millones de cuentas, ocurrió el 20 de febrero.",
+  "color": "#a78bfa"
+}

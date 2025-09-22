@@ -1,0 +1,13 @@
+{
+  "id": 3250,
+  "title": "Radio pública de Vermont - Ransomware - Undetermined",
+  "date": "2020-09-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Vermont Public Radio",
+  "source": "https://www.bbc.com/news/technology-53528346",
+  "summary": "Vermont Public Radio se encuentra entre las víctimas del ataque de ransomware Blackbaud.",
+  "color": "#ef4444"
+}

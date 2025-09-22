@@ -1,0 +1,13 @@
+{
+  "id": 1412,
+  "title": "dms[.]nwcg[.]gov - Ransomware - Undetermined",
+  "date": "2017-08-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en NewSky Security descubre un sitio web del gobierno de EE",
+  "source": "https://threatpost.com/us-government-site-removes-link-to-cerber-ransomware-downloader/127767/",
+  "summary": "Ankit Anubhav de NewSky Security descubre un sitio web del gobierno de EE. UU. que aloja un descargador de JavaScript malicioso, lo que lleva a las víctimas a instalar el ransomware Cerber.",
+  "color": "#ef4444"
+}

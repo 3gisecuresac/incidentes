@@ -1,0 +1,13 @@
+{
+  "id": 7959,
+  "title": "Embraer - Ransomware - RansomEXX",
+  "date": "2020-11-30",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "RansomEXX",
+  "impact": "Filtración de datos en RansomExx. D",
+  "source": "nan",
+  "summary": "El grupo brasileño aeroespacial y de defensa Embraer es blanco de un ciberataque del ransomware RansomExx. Días después, los atacantes filtran los datos robados.",
+  "color": "#ef4444"
+}

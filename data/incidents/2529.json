@@ -1,0 +1,13 @@
+{
+  "id": 2529,
+  "title": "CyrusOne - Ransomware - REvil",
+  "date": "2019-12-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Filtración de datos en EE",
+  "source": "https://www.zdnet.com/article/ransomware-attack-hits-major-us-data-center-provider/",
+  "summary": "CyrusOne, uno de los mayores proveedores de centros de datos de EE. UU., es víctima de un ataque de ransomware REvil (Sodinokibi).",
+  "color": "#ef4444"
+}

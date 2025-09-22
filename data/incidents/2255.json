@@ -1,0 +1,13 @@
+{
+  "id": 2255,
+  "title": "Escuela de la ciudad de Syracuse - Ransomware - Undetermined",
+  "date": "2019-07-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Syracuse se ve afectada",
+  "source": "https://cnycentral.com/news/local/onondaga-county-library-syracuse-city-school-district-computers-crippled-by-ransomware",
+  "summary": "La escuela de la ciudad de Syracuse se ve afectada por ransomware.",
+  "color": "#ef4444"
+}

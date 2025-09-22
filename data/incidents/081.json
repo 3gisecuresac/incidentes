@@ -1,0 +1,13 @@
+{
+  "id": 81,
+  "title": "Sistema de Salud St. Joseph - Data leak - Undetermined",
+  "date": "2014-02-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en St",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/texas-health-system-attacked-data-on-more-than-400k-compromised/",
+  "summary": "Se notifica a más de 400,000 pacientes y empleados del St. Joseph Health System que su información personal, incluidos los números de Seguro Social y, en algunos casos, información de cuentas bancarias, puede haber sido accedida después de un ataque al sistema informático del sistema de salud.",
+  "color": "#a78bfa"
+}

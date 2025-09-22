@@ -1,0 +1,13 @@
+{
+  "id": 2320,
+  "title": "AT&T - Malware Attack - Muhammad Fahd",
+  "date": "2019-08-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Muhammad Fahd",
+  "impact": "Incidente de seguridad en Justicia de Estados Unidos revela",
+  "source": "https://www.zdnet.com/article/at-t-employees-took-bribes-to-plant-malware-on-the-companys-network/",
+  "summary": "El Departamento de Justicia de Estados Unidos revela que empleados de AT&T aceptaron sobornos para desbloquear millones de teléfonos inteligentes e instalar malware y hardware no autorizado en la red de la compañía.",
+  "color": "#a78bfa"
+}

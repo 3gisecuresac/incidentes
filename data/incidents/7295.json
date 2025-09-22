@@ -1,0 +1,13 @@
+{
+  "id": 7295,
+  "title": "Telefónica - Data leak - Undetermined",
+  "date": "2024-03-01",
+  "country": "España",
+  "region": "Europa",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Telef",
+  "source": "nan",
+  "summary": "Telefónica investiga las denuncias de un posible ciberataque ocurrido en marzo que permitió a delincuentes acceder a más de 2 millones de registros de clientes y colaboradores de la compañía.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3824,
+  "title": "Escuela Comunitaria de Logansport - Ransomware - Pysa",
+  "date": "2021-04-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Pysa",
+  "impact": "Cifrado por ransomware en Logansport se ve afectada",
+  "source": "nan",
+  "summary": "La escuela comunitaria de Logansport se ve afectada por un ataque de ransomware Pysa.",
+  "color": "#ef4444"
+}

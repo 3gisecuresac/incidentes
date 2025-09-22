@@ -1,0 +1,13 @@
+{
+  "id": 5166,
+  "title": "Cooperativa de Crédito Federal HawaiiUSA (HawaiiUSA) - Data leak - Undetermined",
+  "date": "2022-12-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en HawaiiUSA Federal Credit Union HawaiiUSA",
+  "source": "nan",
+  "summary": "HawaiiUSA Federal Credit Union (HawaiiUSA) presenta un aviso de violación de datos después de que un incidente de phishing filtrara la información personal de más de 20.000 clientes del banco.",
+  "color": "#ef4444"
+}

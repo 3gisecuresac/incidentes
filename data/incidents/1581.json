@@ -1,0 +1,13 @@
+{
+  "id": 1581,
+  "title": "Ciudad de Savannah - Data leak - Undetermined",
+  "date": "2018-02-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Savannah está en modo de recuperación después de haber sido atacada",
+  "source": "https://www.scmagazine.com/savannah-still-suffering-effects-from-cyberattack/article/745767/",
+  "summary": "La ciudad de Savannah está en modo de recuperación después de haber sido atacada por un malware cuando un trabajador de la ciudad probablemente abrió un correo electrónico malicioso.",
+  "color": "#a78bfa"
+}

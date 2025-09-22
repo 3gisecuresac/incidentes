@@ -1,0 +1,13 @@
+{
+  "id": 2581,
+  "title": "Landry's - Infección Dispositivos - Undetermined",
+  "date": "2019-12-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Landry",
+  "source": "https://www.zdnet.com/article/landrys-restaurant-chain-disclose-pos-malware-incident/",
+  "summary": "La cadena de restaurantes Landry's revela un incidente de seguridad que implicó el descubrimiento de malware en su red de 63 restaurantes. El malware, diseñado para recopilar datos de tarjetas de pago utilizadas en sus bares y restaurantes, estuvo activo del 13 de marzo a octubre de 2019.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7246,
+  "title": "El presidente del Gobierno español, Pedro Sánchez, y la ministra de Defensa, Margarita Robles - DoS - Undetermined",
+  "date": "2022-05-02",
+  "country": "España",
+  "region": "Europa",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Defensa",
+  "source": "nan",
+  "summary": "Funcionarios del gobierno español revelan que los teléfonos móviles utilizados por el primer ministro español, Pedro Sánchez, y la ministra de Defensa, Margarita Robles, estaban infectados con el software espía Pegasus, una conocida herramienta de vigilancia creada por el Grupo NSO de Israel.",
+  "color": "#a78bfa"
+}

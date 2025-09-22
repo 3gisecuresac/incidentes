@@ -1,0 +1,13 @@
+{
+  "id": 7124,
+  "title": "Ciudadanos mayores, Inc. - Data leak - Undetermined",
+  "date": "2024-03-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Savannah",
+  "source": "nan",
+  "summary": "Senior Citizens, Inc., una organización sin fines de lucro de Savannah, Georgia, detectó actividad sospechosa en la red el 11 de marzo de 2024. La investigación reveló que una entidad no autorizada accedió y adquirió archivos que contenían nombres y números de Seguro Social. Las personas afectadas fueron identificadas el 26 de noviembre y se enviaron notificaciones de la filtración de datos a partir del 31 de diciembre de 2024, ofreciendo monitoreo de identidad.",
+  "color": "#ef4444"
+}

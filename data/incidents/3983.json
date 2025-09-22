@@ -1,0 +1,13 @@
+{
+  "id": 3983,
+  "title": "Grupo Médico de Consultores de Retina - Ransomware - Undetermined",
+  "date": "2021-07-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Grupo",
+  "source": "nan",
+  "summary": "Grupo médico sufre robo de datos comprometiendo información personal de más de 11.000 pacientes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5170,
+  "title": "Administración Nacional de Aeronáutica y del Espacio - DoS - Mirai",
+  "date": "2022-12-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Mirai",
+  "impact": "Interrupción por DDoS en KillNet",
+  "source": "nan",
+  "summary": "Mirai, un colectivo afiliado a KillNet, afirma haber realizado un ataque DDoS contra el sitio web de una agencia estadounidense responsable del programa espacial civil, la investigación aeronáutica y la investigación espacial.",
+  "color": "#f59e0b"
+}

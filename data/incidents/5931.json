@@ -1,0 +1,13 @@
+{
+  "id": 5931,
+  "title": "Sistemas de salud de Highland - Ransomware - ALPHVM",
+  "date": "2023-07-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Alabama a su sitio de filtraciones",
+  "source": "nan",
+  "summary": "El grupo de ransomware ALPHV (también conocido como BlackCat) agrega Highland Health Systems en Alabama a su sitio de filtraciones, pero elimina los datos pocos días después de afirmar que el ataque había violado su prohibición de atacar a organizaciones sin fines de lucro.",
+  "color": "#ef4444"
+}

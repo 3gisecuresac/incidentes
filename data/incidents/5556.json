@@ -1,0 +1,13 @@
+{
+  "id": 5556,
+  "title": "Propano Pinnacle - Data leak - Undetermined",
+  "date": "2023-04-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Pinnacle Propane",
+  "source": "nan",
+  "summary": "Pinnacle Propane presenta un aviso de violación de datos después de confirmar que los datos de los consumidores en posesión de la empresa se filtraron como resultado de un ciberataque reciente.",
+  "color": "#ef4444"
+}

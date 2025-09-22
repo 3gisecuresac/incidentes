@@ -1,0 +1,13 @@
+{
+  "id": 5185,
+  "title": "Colegio Mount Saint Mary - Ransomware - Vice Society",
+  "date": "2022-12-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Vice Society",
+  "impact": "Cifrado por ransomware en Nueva York",
+  "source": "nan",
+  "summary": "Mount Saint Mary College, una universidad de artes liberales de Nueva York, confirma que sufrió un ataque de ransomware en diciembre después de que el grupo Vice Society compartiera públicamente detalles sobre el incidente.",
+  "color": "#ef4444"
+}

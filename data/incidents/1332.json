@@ -1,0 +1,13 @@
+{
+  "id": 1332,
+  "title": "Hoteles.com - Data leak - Undetermined",
+  "date": "2017-06-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Hotels.com",
+  "source": "http://www.irishexaminer.com/business/data-breach-affects-irish-users-of-global-hotel-website-451636.html",
+  "summary": "Hotels.com envía un correo electrónico a algunos clientes avisándoles que su nombre de usuario, contraseña, dirección de correo electrónico y los últimos cuatro dígitos de los números de tarjetas de crédito almacenados fueron potencialmente robados el mes pasado (entre el 22 y el 29 de mayo).",
+  "color": "#a78bfa"
+}

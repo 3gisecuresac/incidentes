@@ -1,0 +1,13 @@
+{
+  "id": 3158,
+  "title": "Hospital Memorial del Condado de Adams - Ransomware - WIZARD SPIDER",
+  "date": "2020-09-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Cifrado por ransomware en El Adams County Memorial Hospital",
+  "source": "https://www.databreaches.net/wp-content/uploads/Without_Undue_Delay.pdf",
+  "summary": "El Adams County Memorial Hospital se ve afectado por el ransomware Conti.",
+  "color": "#ef4444"
+}

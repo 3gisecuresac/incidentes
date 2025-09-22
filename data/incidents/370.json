@@ -1,0 +1,13 @@
+{
+  "id": 370,
+  "title": "Book2Park.com - Data leak - Denarius",
+  "date": "2015-02-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Denarius",
+  "impact": "Incidente de seguridad en Book2Park.com",
+  "source": "http://krebsonsecurity.com/2015/02/target-hackers-hit-third-parking-service/",
+  "summary": "Book2Park.com, un servicio de reserva de estacionamiento en línea para aeropuertos de todo Estados Unidos, parece ser la última víctima de la banda de piratas informáticos que tuvo como objetivo a Target y Home Depot.",
+  "color": "#a78bfa"
+}

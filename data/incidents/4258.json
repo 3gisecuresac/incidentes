@@ -1,0 +1,13 @@
+{
+  "id": 4258,
+  "title": "Centro médico de salud Logan - Data leak - Undetermined",
+  "date": "2022-01-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Montana es hackeado",
+  "source": "nan",
+  "summary": "Un centro médico de Montana es hackeado y la información sanitaria protegida de más de 200.000 personas está comprometida.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5224,
+  "title": "CircleCI - Data leak - Undetermined",
+  "date": "2023-01-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en CircleCI un",
+  "source": "nan",
+  "summary": "CircleCI, un servicio de desarrollo de software, revela un incidente de seguridad e insta a los usuarios a rotar sus secretos.",
+  "color": "#a78bfa"
+}

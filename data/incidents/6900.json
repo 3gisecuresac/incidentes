@@ -1,0 +1,13 @@
+{
+  "id": 6900,
+  "title": "Young Consulting (ahora Connexure) - Ransomware - BlackSuit",
+  "date": "2024-10-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "BlackSuit",
+  "impact": "Filtración de datos en BlackSuit el 10 de",
+  "source": "nan",
+  "summary": "Young Consulting envía notificaciones de violación de datos a 954.177 personas cuya información quedó expuesta en un ataque de ransomware BlackSuit el 10 de abril de 2024.",
+  "color": "#ef4444"
+}

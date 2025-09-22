@@ -1,0 +1,13 @@
+{
+  "id": 1640,
+  "title": "Sistema de despacho automatizado de Baltimore - DoS - Undetermined",
+  "date": "2018-03-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Baltimore",
+  "source": "https://www.zdnet.com/article/cyberattack-disrupted-baltimore-emergency-responders/",
+  "summary": "Actores desconocidos provocan temporalmente el cierre del sistema de despacho automatizado de Baltimore, lo que afecta las funciones de mensajería dentro del sistema de Despacho Asistido por Computadora (CAD) utilizado por los servicios 911 y 311 de la ciudad.",
+  "color": "#a78bfa"
+}

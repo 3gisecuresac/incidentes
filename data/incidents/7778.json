@@ -1,0 +1,13 @@
+{
+  "id": 7778,
+  "title": "Universidad de Windsor - Ransomware - Undetermined",
+  "date": "2022-07-14",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Windsor confirma",
+  "source": "nan",
+  "summary": "La Universidad de Windsor confirma que ha restaurado la gran mayoría de sus sistemas luego de una violación de seguridad cibernética que cerró temporalmente su sitio web.",
+  "color": "#a78bfa"
+}

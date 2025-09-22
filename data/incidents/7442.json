@@ -1,0 +1,13 @@
+{
+  "id": 7442,
+  "title": "Banco BCR - Data leak - MAZE",
+  "date": "2020-05-01",
+  "country": "Costa Rica",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "MAZE",
+  "impact": "Filtración de datos en Banco BCR",
+  "source": "nan",
+  "summary": "Hackers afirman haber obtenido acceso a la red del Banco BCR, el banco estatal de Costa Rica, y haber robado 11 millones de credenciales de tarjetas de crédito junto con otros datos.",
+  "color": "#ef4444"
+}

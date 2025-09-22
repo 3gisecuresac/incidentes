@@ -1,0 +1,13 @@
+{
+  "id": 5329,
+  "title": "Empresas Rockler - Data leak - Undetermined",
+  "date": "2023-02-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Rockler Companies",
+  "source": "nan",
+  "summary": "Rockler Companies presenta un aviso de violación de datos luego de un incidente de seguridad de datos que provocó la filtración de información personal de 8.604 consumidores.",
+  "color": "#ef4444"
+}

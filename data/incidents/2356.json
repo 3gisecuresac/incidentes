@@ -1,0 +1,13 @@
+{
+  "id": 2356,
+  "title": "Software Foxit - Data leak - Undetermined",
+  "date": "2019-08-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en PDF Foxit",
+  "source": "https://www.zdnet.com/article/company-behind-foxit-pdf-reader-announces-security-breach/",
+  "summary": "Foxit Software, la compañía detrás de la aplicación de lectura de PDF Foxit, anuncia que piratas informáticos violaron sus servidores y se llevaron parte de la información de sus usuarios.",
+  "color": "#a78bfa"
+}

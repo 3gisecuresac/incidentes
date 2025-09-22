@@ -1,0 +1,13 @@
+{
+  "id": 3927,
+  "title": "Departamento Jurídico de la Ciudad de Nueva York - Data leak - Undetermined",
+  "date": "2021-06-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Nueva York se ve obligado a desconectarse",
+  "source": "nan",
+  "summary": "El Departamento Jurídico de la Ciudad de Nueva York se ve obligado a desconectarse luego de que piratas informáticos se infiltraran en el sistema utilizando la contraseña robada de un usuario.",
+  "color": "#ef4444"
+}

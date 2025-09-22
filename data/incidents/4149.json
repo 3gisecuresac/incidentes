@@ -1,0 +1,13 @@
+{
+  "id": 4149,
+  "title": "Grupo de Gastroenterología de Illinois (IGG) - Data leak - Undetermined",
+  "date": "2021-10-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Illinois Gastroenterology Group IGG",
+  "source": "nan",
+  "summary": "Illinois Gastroenterology Group (IGG) revela haber sufrido un incidente de seguridad de datos que potencialmente afectó a 227,943 personas.",
+  "color": "#ef4444"
+}

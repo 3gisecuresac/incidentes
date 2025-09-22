@@ -1,0 +1,13 @@
+{
+  "id": 422,
+  "title": "Departamento de Estado de los Estados Unidos - Data leak - Undetermined",
+  "date": "2015-03-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estado cierra partes de su red informática",
+  "source": "http://www.cnet.com/news/state-department-takes-network-offline-for-security-scrub/",
+  "summary": "El Departamento de Estado cierra partes de su red informática para eliminar software malicioso de piratas informáticos rusos en su sistema de correo electrónico no clasificado.",
+  "color": "#a78bfa"
+}

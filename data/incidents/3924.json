@@ -1,0 +1,13 @@
+{
+  "id": 3924,
+  "title": "Fundación para la Epilepsia de Texas - Data leak - Undetermined",
+  "date": "2021-06-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Texas sufre un ataque de phishing",
+  "source": "nan",
+  "summary": "La Fundación para la Epilepsia de Texas sufre un ataque de phishing que compromete algunos datos personales de sus pacientes.",
+  "color": "#ef4444"
+}

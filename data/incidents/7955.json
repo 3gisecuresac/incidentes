@@ -1,0 +1,13 @@
+{
+  "id": 7955,
+  "title": "Revelo.com.br - Data leak - ShinyHunters",
+  "date": "2020-11-12",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Filtración de datos en Revelo.com.br",
+  "source": "nan",
+  "summary": "ShinyHunters ha puesto a la venta la base de datos Revelo.com.br.",
+  "color": "#ef4444"
+}

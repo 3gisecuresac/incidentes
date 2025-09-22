@@ -1,0 +1,13 @@
+{
+  "id": 875,
+  "title": "Mascota de la suerte - Data leak - Undetermined",
+  "date": "2016-04-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Fiscal General del Estado de California sobre una violación de datos",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/luckypet-data-breach-compromises-online-payment-info/",
+  "summary": "LuckyPet notifica a la oficina del Fiscal General del Estado de California sobre una violación de datos que comprometió la información de clientes en línea.",
+  "color": "#ef4444"
+}

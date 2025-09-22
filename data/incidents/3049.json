@@ -1,0 +1,13 @@
+{
+  "id": 3049,
+  "title": "Centro Médico United Memorial - Ransomware - MAZE",
+  "date": "2020-08-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "MAZE",
+  "impact": "Filtración de datos en Houston es atacado",
+  "source": "https://www.databreaches.net/already-in-the-midst-of-a-crisis-a-houston-hospital-was-attacked-by-ransomware/",
+  "summary": "El United Memorial Medical Center de Houston es atacado por los operadores del ransomware Maze Team y sus datos se filtran.",
+  "color": "#ef4444"
+}

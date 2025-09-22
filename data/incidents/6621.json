@@ -1,0 +1,13 @@
+{
+  "id": 6621,
+  "title": "Hospital Infantil Lurie - Ransomware - Rhysida",
+  "date": "2024-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Rhysida",
+  "impact": "Cifrado por ransomware en El Hospital Infantil Lurie",
+  "source": "nan",
+  "summary": "El Hospital Infantil Lurie sufre una interrupción de la red, que luego se confirma como un ataque de ransomware por parte del grupo Rhysida que exige un rescate de 3,4 millones de dólares.",
+  "color": "#ef4444"
+}

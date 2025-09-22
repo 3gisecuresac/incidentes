@@ -1,0 +1,13 @@
+{
+  "id": 7645,
+  "title": "Red de Atención de las Primeras Naciones del Sur - Ransomware - Undetermined",
+  "date": "2019-11-21",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Atención de las Primeras Naciones del Sur se ve afectada",
+  "source": "nan",
+  "summary": "La Red de Atención de las Primeras Naciones del Sur se ve afectada por un ataque de ransomware.",
+  "color": "#ef4444"
+}

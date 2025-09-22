@@ -1,0 +1,13 @@
+{
+  "id": 2664,
+  "title": "Grupo Tissue Regenix PLC - Data leak - Undetermined",
+  "date": "2020-01-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estados Unidos fueron objeto de acceso sin autorización",
+  "source": "https://www.infosecurity-magazine.com/news/tissue-regenix-shuts-plant/",
+  "summary": "Tissue Regenix Group PLC afirma que sus sistemas informáticos y los de un proveedor externo de servicios informáticos en Estados Unidos fueron objeto de acceso sin autorización.",
+  "color": "#a78bfa"
+}

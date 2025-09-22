@@ -1,0 +1,13 @@
+{
+  "id": 4911,
+  "title": "Centro de Mujeres Henderson & Walton - Data leak - Undetermined",
+  "date": "2022-09-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Centro de Mujeres Henderson & Walton en Alabama se ve comprometida durante el hackeo del correo electrónico de un empleado",
+  "source": "nan",
+  "summary": "La información de salud protegida de 34.306 pacientes vinculada al Centro de Mujeres Henderson & Walton en Alabama se ve comprometida durante el hackeo del correo electrónico de un empleado.",
+  "color": "#3b82f6"
+}

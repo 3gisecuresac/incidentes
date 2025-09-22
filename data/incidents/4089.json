@@ -1,0 +1,13 @@
+{
+  "id": 4089,
+  "title": "Valle de cristal - Ransomware - Undetermined",
+  "date": "2021-09-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Minnesota sufre un ataque de ransomware",
+  "source": "nan",
+  "summary": "La cooperativa de suministro agrícola de Minnesota sufre un ataque de ransomware que provoca el cierre de todos los sistemas de TI.",
+  "color": "#ef4444"
+}

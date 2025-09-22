@@ -1,0 +1,13 @@
+{
+  "id": 3087,
+  "title": "Centro Pace para niñas - Data leak - Undetermined",
+  "date": "2020-08-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Blackbaud",
+  "source": "https://www.infosecurity-magazine.com/news/pace-center-for-girls-donor-data/",
+  "summary": "El Pace Center for Girls se vio afectado por una violación de datos a raíz del hackeo de Blackbaud.",
+  "color": "#ef4444"
+}

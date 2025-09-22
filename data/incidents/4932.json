@@ -1,0 +1,13 @@
+{
+  "id": 4932,
+  "title": "Uber - Data leak - TeaPots",
+  "date": "2022-09-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "TeaPots",
+  "impact": "Sistema o cuenta comprometida en HackerOne",
+  "source": "nan",
+  "summary": "Uber sufre un ciberataque con un supuesto hacker de 18 años (probablemente parte de la banda Lapsus$) que descarga informes de vulnerabilidad de HackerOne y comparte capturas de pantalla de los sistemas internos de la empresa, el panel de correo electrónico y el servidor Slack.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7897,
+  "title": "Centro de Servicios Escolares de los Apalaches (CSSA) - Ransomware - INC",
+  "date": "2025-08-25",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INC",
+  "impact": "Filtración de datos en CSSA el 25 de agosto de 2025",
+  "source": "nan",
+  "summary": "INC llevó a cabo un ataque de ransomware contra CSSA el 25 de agosto de 2025, cifrando aproximadamente el 70 % de los archivos y exfiltrando aproximadamente 180 GB de datos. Los datos robados incluían registros personales de estudiantes y personal, además de documentos financieros, legales y administrativos de la organización. El incidente duró días o semanas antes de hacerse público el 3 de septiembre.",
+  "color": "#ef4444"
+}

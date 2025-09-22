@@ -1,0 +1,13 @@
+{
+  "id": 1227,
+  "title": "Sinfónica de San Antonio - Data leak - Undetermined",
+  "date": "2017-02-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en San Antonio",
+  "source": "http://www.expressnews.com/business/local/article/Data-breach-hits-San-Antonio-Symphony-employees-10931740.php",
+  "summary": "Los piratas informáticos ingresan a la red informática de la Sinfónica de San Antonio y roban nombres, fechas de nacimiento, números de Seguro Social, direcciones y formularios de impuestos W-2 de aproximadamente 250 empleados.",
+  "color": "#a78bfa"
+}

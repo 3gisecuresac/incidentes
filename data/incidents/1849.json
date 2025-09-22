@@ -1,0 +1,13 @@
+{
+  "id": 1849,
+  "title": "SHEIN - Data leak - Undetermined",
+  "date": "2018-09-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en SHEIN. El",
+  "source": "https://hotforsecurity.bitdefender.com/blog/malware-steals-passwords-from-6-4-million-shein-customers-20375.html",
+  "summary": "Se cree que un ciberataque criminal afectó a aproximadamente 6,42 millones de clientes de la marca de moda SHEIN. El ataque tuvo lugar el 22 de agosto y obtuvo acceso a las direcciones de correo electrónico y las contraseñas cifradas de los clientes que visitaron el sitio web de la compañía.",
+  "color": "#ef4444"
+}

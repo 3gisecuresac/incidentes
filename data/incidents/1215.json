@@ -1,0 +1,13 @@
+{
+  "id": 1215,
+  "title": "Foros ISO de Xbox 360 - Data leak - Undetermined",
+  "date": "2017-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en XBOX 360",
+  "source": "https://www.scmagazine.com/xbox-and-psp-forum-accounts-breached/article/635024/",
+  "summary": "Un hacker no identificado presuntamente vulneró los foros ISO de XBOX 360 y PlayStation Portable, comprometiendo 2,5 millones de cuentas de jugadores. La vulneración no está confirmada.",
+  "color": "#3b82f6"
+}

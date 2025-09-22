@@ -1,0 +1,13 @@
+{
+  "id": 3965,
+  "title": "Distrito escolar de Booneville - Ransomware - PayorGrief",
+  "date": "2021-06-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "PayorGrief",
+  "impact": "Filtración de datos en Booneville es atacado",
+  "source": "nan",
+  "summary": "El Distrito Escolar de Booneville es atacado por un ransomware PayorGrief y los datos se filtran en línea.",
+  "color": "#ef4444"
+}

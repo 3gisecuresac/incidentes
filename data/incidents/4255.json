@@ -1,0 +1,13 @@
+{
+  "id": 4255,
+  "title": "Condado de Bernalillo - Ransomware - Undetermined",
+  "date": "2022-01-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Bernailillo se ve afectado",
+  "source": "nan",
+  "summary": "El gobierno del condado de Bernailillo se ve afectado por un importante ataque de ransomware que provoca el cierre de todas las oficinas públicas en Albuquerque, Los Ranchos y Tijeras durante varios días.",
+  "color": "#ef4444"
+}

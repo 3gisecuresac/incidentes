@@ -1,0 +1,13 @@
+{
+  "id": 3419,
+  "title": "Estudio dental Paramount - Ransomware - Egregor",
+  "date": "2020-11-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Egregor",
+  "impact": "Cifrado por ransomware en Paramount Dental Studio",
+  "source": "https://www.databreaches.net/egregor-threat-actors-pose-risk-to-medical-and-dental-entities/",
+  "summary": "La banda de ransomware Egregor ha atacado Paramount Dental Studio.",
+  "color": "#ef4444"
+}

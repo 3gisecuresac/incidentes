@@ -1,0 +1,13 @@
+{
+  "id": 542,
+  "title": "Oficina de Servicios de Seguros - Data leak - Undetermined",
+  "date": "2015-07-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Servicios de Seguros",
+  "source": "http://www.databreaches.net/insurance-services-office-database-breached-insurance-data-accessed/",
+  "summary": "La Oficina de Servicios de Seguros (ISO) con sede en Nueva Jersey notifica a un número no revelado de consumidores sobre un acceso no autorizado a la base de datos.",
+  "color": "#ef4444"
+}

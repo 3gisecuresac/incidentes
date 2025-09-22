@@ -1,0 +1,13 @@
+{
+  "id": 4107,
+  "title": "Manufactura en las Grandes Llanuras - Data leak - Undetermined",
+  "date": "2021-09-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida",
+  "source": "nan",
+  "summary": "La información de salud de los empleados inscritos en el plan de salud de la empresa se ve comprometida en un ciberataque.",
+  "color": "#3b82f6"
+}

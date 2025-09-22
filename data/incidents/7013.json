@@ -1,0 +1,13 @@
+{
+  "id": 7013,
+  "title": "Compañía Ford Motor - Data leak - EnergyWeaponUser and IntelBroker",
+  "date": "2024-11-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "EnergyWeaponUser and IntelBroker",
+  "impact": "Filtración de datos en Ford",
+  "source": "nan",
+  "summary": "Ford está investigando acusaciones de que sufrió una violación de datos después de que un actor de amenazas afirmara haber filtrado 44.000 registros de clientes en un foro de piratería.",
+  "color": "#ef4444"
+}

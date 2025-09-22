@@ -1,0 +1,13 @@
+{
+  "id": 6469,
+  "title": "Clínica Médica Granger - Ransomware - NoEscape",
+  "date": "2023-11-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "NoEscape",
+  "impact": "Filtración de datos en Granger Medical Clinic a su",
+  "source": "nan",
+  "summary": "El grupo de ransomware NoEscape agrega Granger Medical Clinic a su sitio de filtraciones, afirmando estar en posesión de más de 35 GB de datos confidenciales.",
+  "color": "#ef4444"
+}

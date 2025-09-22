@@ -1,0 +1,13 @@
+{
+  "id": 6304,
+  "title": "Atención médica especializada para niños de Gillette - Data leak - cl0p",
+  "date": "2023-10-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Sistema o cuenta comprometida en Progress Software",
+  "source": "nan",
+  "summary": "Gillette Children's Specialty Healthcare confirma que la información médica protegida de 542 pacientes se vio comprometida como parte de la explotación masiva de la vulnerabilidad de día cero en la aplicación MOVEit Transfer de Progress Software.",
+  "color": "#3b82f6"
+}

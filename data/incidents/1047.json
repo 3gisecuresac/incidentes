@@ -1,0 +1,13 @@
+{
+  "id": 1047,
+  "title": "Universidad de Alaska - Data leak - Undetermined",
+  "date": "2016-09-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Alaska anuncian",
+  "source": "https://www.scmagazine.com/home/security-news/data-breach/phishing-scam-compromises-data-on-25000-individuals-at-university-of-alaska/",
+  "summary": "Los funcionarios de la Universidad de Alaska anuncian que un atacante que utiliza credenciales de empleados puede haber accedido a información estudiantil de aproximadamente 5.400 personas.",
+  "color": "#a78bfa"
+}

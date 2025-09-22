@@ -1,0 +1,13 @@
+{
+  "id": 4505,
+  "title": "Servicios de salud conductual de Allwell - Data leak - Undetermined",
+  "date": "2022-05-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Allwell Behavioral Health Services",
+  "source": "nan",
+  "summary": "Allwell Behavioral Health Services anuncia que una persona no autorizada accedió a un sistema informático utilizado para almacenar información de garantía de calidad relacionada con el tratamiento de pacientes.",
+  "color": "#a78bfa"
+}

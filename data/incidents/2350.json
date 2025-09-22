@@ -1,0 +1,13 @@
+{
+  "id": 2350,
+  "title": "Distrito Escolar de Rockville Center, Nueva York - Ransomware - Undetermined",
+  "date": "2019-08-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Rockville Center",
+  "source": "https://www.scmagazine.com/home/security-news/ransomware/rockville-center-school-district-pays-100000-ransom/",
+  "summary": "El Distrito Escolar de Rockville Center, Nueva York, paga un rescate de $88,000 para recuperar el acceso a los archivos cifrados por el ransomware Ryuk. El ataque tuvo lugar el 25 de julio.",
+  "color": "#ef4444"
+}

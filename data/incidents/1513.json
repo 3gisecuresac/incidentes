@@ -1,0 +1,13 @@
+{
+  "id": 1513,
+  "title": "Centro Nacional de Envenenamiento de la Capital - Ransomware - Undetermined",
+  "date": "2017-12-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Envenenamiento de la Capital informa sobre un incidente de ransomware",
+  "source": "https://www.databreaches.net/national-capital-poison-center-discloses-ransomware-incident/",
+  "summary": "El Centro Nacional de Envenenamiento de la Capital informa sobre un incidente de ransomware.",
+  "color": "#ef4444"
+}

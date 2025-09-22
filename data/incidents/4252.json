@@ -1,0 +1,13 @@
+{
+  "id": 4252,
+  "title": "Medicina de Michigan - Ciberataque - Undetermined",
+  "date": "2021-12-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Michigan Medicine",
+  "source": "nan",
+  "summary": "Michigan Medicine comienza a notificar a 2.920 pacientes sobre una filtración de datos de correo electrónico que potencialmente expuso información médica protegida.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2955,
+  "title": "Sistema de salud Crozer-Keystone - Ransomware - NetWalker",
+  "date": "2020-06-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "NetWalker",
+  "impact": "Filtración de datos en Salud Crozer-Keystone sufre un ataque de ransomware perpetrado",
+  "source": "https://cointelegraph.com/news/ransomware-gang-auctions-off-us-healthcare-data-for-bitcoin",
+  "summary": "El Sistema de Salud Crozer-Keystone sufre un ataque de ransomware perpetrado por la banda de ransomware NetWalker. Esta banda subasta los datos robados a través de su sitio web en la darknet.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1958,
+  "title": "Warby Parker - Data leak - Undetermined",
+  "date": "2018-12-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Warby Parker",
+  "source": "https://www.scmagazine.com/home/security-news/credential-stuffing-attack-focuses-on-glasses-retailer-warby-parker/",
+  "summary": "Warby Parker revela que aproximadamente 198.000 de sus clientes podrían haberse visto afectados por un ataque de robo de credenciales dirigido a la cadena de venta de gafas. La actividad no autorizada comenzó el 25 de septiembre y continuó hasta finales de noviembre.",
+  "color": "#a78bfa"
+}

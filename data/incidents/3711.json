@@ -1,0 +1,13 @@
+{
+  "id": 3711,
+  "title": "Casa Horizonte - Ransomware - Undetermined",
+  "date": "2021-03-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware",
+  "source": "nan",
+  "summary": "Un proveedor de atención médica mental sufre un ataque de ransomware que compromete la información sanitaria protegida de más de 27.000 personas.",
+  "color": "#ef4444"
+}

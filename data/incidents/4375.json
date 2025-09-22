@@ -1,0 +1,13 @@
+{
+  "id": 4375,
+  "title": "Municipio de East Windsor - Ciberataque - Undetermined",
+  "date": "2022-03-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en East Windsor ha sido comprometido",
+  "source": "nan",
+  "summary": "El sistema informático del municipio de East Windsor ha sido comprometido por piratas informáticos desconocidos.",
+  "color": "#3b82f6"
+}

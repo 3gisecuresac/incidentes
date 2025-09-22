@@ -1,0 +1,13 @@
+{
+  "id": 6375,
+  "title": "Servidores de casino - Ransomware - Silent Ransom Group' (SRG) and 'Luna Moth'",
+  "date": "2023-11-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Silent Ransom Group' (SRG) and 'Luna Moth'",
+  "impact": "Cifrado por ransomware en Investigaciones advierte",
+  "source": "nan",
+  "summary": "La Oficina Federal de Investigaciones advierte que los actores de amenazas de ransomware están apuntando a los servidores de los casinos y utilizan herramientas legítimas de administración del sistema para aumentar sus permisos en la red.",
+  "color": "#ef4444"
+}

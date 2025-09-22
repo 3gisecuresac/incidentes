@@ -1,0 +1,13 @@
+{
+  "id": 2001,
+  "title": "Ciudad de Sammamish - Ransomware - Undetermined",
+  "date": "2019-01-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Sammamish se ve afectada",
+  "source": "https://www.scmagazine.com/home/security-news/ransomware/ransomware-attacks-take-down-sammamish-city-hall-and-salisbury-pd/",
+  "summary": "La ciudad de Sammamish se ve afectada por un ataque de ransomware.",
+  "color": "#ef4444"
+}

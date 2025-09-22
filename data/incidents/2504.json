@@ -1,0 +1,13 @@
+{
+  "id": 2504,
+  "title": "VEP Salud - Data leak - Undetermined",
+  "date": "2019-11-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en VEP Healthcare",
+  "source": "https://www.beckershospitalreview.com/cybersecurity/emergency-medicine-staffing-firm-offers-patients-up-to-1m-insurance-policy-after-phishing-incident.html",
+  "summary": "VEP Healthcare notifica a los pacientes sobre un ataque de phishing.",
+  "color": "#ef4444"
+}

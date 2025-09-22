@@ -1,0 +1,13 @@
+{
+  "id": 1950,
+  "title": "NASA - Data leak - Undetermined",
+  "date": "2018-12-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Servicio Civil de la NASA desde julio de 2006 hasta octubre de 2018",
+  "source": "http://spaceref.com/news/viewsr.html?pid=52074",
+  "summary": "La NASA alerta a sus empleados sobre una posible vulneración de sus servidores que contienen información personal identificable. La brecha se descubrió el 23 de octubre y afecta a empleados del Servicio Civil de la NASA desde julio de 2006 hasta octubre de 2018.",
+  "color": "#a78bfa"
+}

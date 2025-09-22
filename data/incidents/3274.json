@@ -1,0 +1,13 @@
+{
+  "id": 3274,
+  "title": "Foxtons - Data leak - Undetermined",
+  "date": "2020-10-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Foxtons Group",
+  "source": "https://www.itpro.co.uk/security/data-breaches/358510/foxtons-customer-data-found-available-on-dark-web",
+  "summary": "Los detalles financieros pertenecientes a los clientes de la agencia inmobiliaria británica Foxtons están ampliamente disponibles en la red oscura luego de un ataque de malware en octubre del año pasado que afectó a la empresa matriz Foxtons Group.",
+  "color": "#a78bfa"
+}

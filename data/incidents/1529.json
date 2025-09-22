@@ -1,0 +1,13 @@
+{
+  "id": 1529,
+  "title": "Oreja milagrosa - Data leak - Undetermined",
+  "date": "2017-12-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Amplifon",
+  "source": "https://www.databreaches.net/miracle-ear-reports-privacy-breach-of-nearly-600-patients/",
+  "summary": "Miracle-Ear Inc. informa que 554 historiales de pacientes se vieron comprometidos debido a una vulneración de seguridad en su sistema de correo electrónico. El incidente ocurrió el 24 de octubre, cuando un intruso desconocido y no autorizado accedió a la cuenta de correo electrónico de un empleado de Amplifon, la empresa matriz de Miracle-Ear.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7395,
+  "title": "Casa Ley - Ransomware - Royal",
+  "date": "2023-02-02",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Royal",
+  "impact": "Filtración de datos en Casa Ley",
+  "source": "nan",
+  "summary": "Casa Ley se agrega al sitio de filtración de ransomware Royal.",
+  "color": "#ef4444"
+}

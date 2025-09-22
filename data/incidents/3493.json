@@ -1,0 +1,13 @@
+{
+  "id": 3493,
+  "title": "Agencia de Administración de Atención Médica de Florida - Data leak - SVR (COZYBEAR)",
+  "date": "2020-12-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (COZYBEAR)",
+  "impact": "Filtración de datos en Florida han dicho de forma anónima",
+  "source": "nan",
+  "summary": "Los funcionarios de Florida han dicho de forma anónima que la Agencia de Administración de Atención Médica del estado fue infiltrada como resultado del hackeo a SolarWinds.",
+  "color": "#ef4444"
+}

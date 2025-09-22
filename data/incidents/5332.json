@@ -1,0 +1,13 @@
+{
+  "id": 5332,
+  "title": "Oficina Federal de Investigaciones de los Estados Unidos (FBI) - Ciberataque - Undetermined",
+  "date": "2023-02-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Investigaciones de Estados Unidos",
+  "source": "nan",
+  "summary": "Según se informa, la Oficina Federal de Investigaciones de Estados Unidos (FBI) está investigando una actividad cibernética maliciosa en la red de la agencia que involucra un sistema informático de la Oficina de Campo del FBI en Nueva York utilizado para investigar la explotación sexual infantil.",
+  "color": "#a78bfa"
+}

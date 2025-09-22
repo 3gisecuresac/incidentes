@@ -1,0 +1,13 @@
+{
+  "id": 5545,
+  "title": "Corporación PharMerica - Ransomware - Money Message",
+  "date": "2023-04-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Money Message",
+  "impact": "Filtración de datos en PharMerica Corporation",
+  "source": "nan",
+  "summary": "PharMerica Corporation figura entre las víctimas del ransomware Money Message en su sitio de filtraciones.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4108,
+  "title": "Centro médico Schneck - Ransomware - Undetermined",
+  "date": "2021-09-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en El Centro M",
+  "source": "nan",
+  "summary": "El Centro Médico Schneck sufre un ciberataque que afecta las operaciones de la organización.",
+  "color": "#a78bfa"
+}

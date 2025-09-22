@@ -1,0 +1,13 @@
+{
+  "id": 368,
+  "title": "phoncert.com - Data leak - p0lak; sh0utz",
+  "date": "2015-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "p0lak; sh0utz",
+  "impact": "Sistema o cuenta comprometida en phoncert.com",
+  "source": "https://www.elevenpaths.com/wp-content/uploads/2015/12/2015_the_year_of_information_leaks_EN.pdf",
+  "summary": "p0lak y sh0utz hackean phoncert.com, un servicio de streaming de audio móvil, y descargan 2.800 nombres de usuario y contraseñas de texto sin cifrar.",
+  "color": "#3b82f6"
+}

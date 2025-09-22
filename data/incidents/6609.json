@@ -1,0 +1,13 @@
+{
+  "id": 6609,
+  "title": "Autoridad de Transporte del Área de Kansas City (KCATA) - Ransomware - Medusa",
+  "date": "2024-01-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Medusa",
+  "impact": "Cifrado por ransomware en Transporte del Área de Kansas City",
+  "source": "nan",
+  "summary": "La Autoridad de Transporte del Área de Kansas City (KCATA) anuncia haber sido víctima de un ataque de ransomware. La operación de ransomware Medusa se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1421,
+  "title": "Sistema de Salud Community Memorial - Data leak - Undetermined",
+  "date": "2017-09-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El Community Memorial Health System",
+  "source": "https://www.databreaches.net/community-memorial-health-system-in-ventura-suffers-data-security-breach/",
+  "summary": "El Community Memorial Health System envía un aviso sobre una violación de seguridad de datos que involucra información de pacientes luego de un ataque de phishing ocurrido el 23 de junio.",
+  "color": "#ef4444"
+}

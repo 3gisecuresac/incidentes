@@ -1,0 +1,13 @@
+{
+  "id": 6201,
+  "title": "Autoridad Federal de Relaciones Laborales - Ransomware - INC",
+  "date": "2023-09-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INC",
+  "impact": "Filtración de datos en Autoridad Federal de Relaciones Laborales a su sitio de filtraciones",
+  "source": "nan",
+  "summary": "La banda de ransomware INC agrega a la Autoridad Federal de Relaciones Laborales a su sitio de filtraciones.",
+  "color": "#ef4444"
+}

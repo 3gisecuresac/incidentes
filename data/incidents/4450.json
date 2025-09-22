@@ -1,0 +1,13 @@
+{
+  "id": 4450,
+  "title": "Corporación de atención médica Tenet - Ransomware - Undetermined",
+  "date": "2022-04-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Dallas",
+  "source": "nan",
+  "summary": "Tenet Healthcare Corporation investiga un incidente de ciberseguridad. El sistema de salud con sede en Dallas, Texas, compuesto por 60 hospitales y 550 centros ambulatorios, declaró que suspendió de inmediato el acceso de los usuarios a las aplicaciones informáticas afectadas tras descubrir el incidente. Si bien trabajó para contenerlo, Tenet afirmó haber experimentado interrupciones temporales en un subconjunto de las operaciones de atención aguda. Sin embargo, el sistema de salud aseguró a los pacientes que sus hospitales seguían operativos y podían brindar atención de forma eficaz mediante procesos de respaldo.",
+  "color": "#a78bfa"
+}

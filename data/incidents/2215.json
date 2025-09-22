@@ -1,0 +1,13 @@
+{
+  "id": 2215,
+  "title": "Universidad Estatal de Oregón (OSU) - Data leak - Undetermined",
+  "date": "2019-06-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Oregón",
+  "source": "https://www.bleepingcomputer.com/news/security/three-us-universities-disclose-data-breaches-over-two-day-span/",
+  "summary": "La Universidad Estatal de Oregón (OSU) afirma que 636 registros de estudiantes y registros familiares de estudiantes que contenían información de identificación personal se vieron potencialmente afectados por una violación de datos que ocurrió a principios de mayo, cuando se pirateó el correo electrónico de un empleado.",
+  "color": "#ef4444"
+}

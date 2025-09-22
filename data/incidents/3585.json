@@ -1,0 +1,13 @@
+{
+  "id": 3585,
+  "title": "Salud Memorial de UMass - Data leak - Undetermined",
+  "date": "2021-01-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Massachusetts sufre una violación de datos debido a un correo electrónico de un empleado comprometido",
+  "source": "nan",
+  "summary": "El sistema médico de Massachusetts sufre una violación de datos debido a un correo electrónico de un empleado comprometido que revela información personal de más de 200.000 personas.",
+  "color": "#ef4444"
+}

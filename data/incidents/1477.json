@@ -1,0 +1,13 @@
+{
+  "id": 1477,
+  "title": "UPMC Susquehanna - Data leak - Undetermined",
+  "date": "2017-11-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Seguro Social",
+  "source": "http://www.dailyitem.com/news/upmc-susquehanna-notifies-patients-of-data-breach/article_ee1b32c6-cbb6-11e7-97e6-bf68278e1b03.html",
+  "summary": "UPMC Susquehanna notifica a 1.200 pacientes tratados en varios lugares que su información personal, incluidos nombres, fechas de nacimiento, información de contacto y números de Seguro Social, puede haber sido accedida de manera inapropiada.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6254,
+  "title": "Prestige Care y Prestige Senior Living - Ransomware - ALPHVM",
+  "date": "2023-10-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Prestige Care",
+  "source": "nan",
+  "summary": "El ransomware ALPHV (BlackCat) incluye a Prestige Care y Prestige Senior Living en su sitio de filtración y afirma tener 260 GB de archivos.",
+  "color": "#ef4444"
+}

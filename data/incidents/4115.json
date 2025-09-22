@@ -1,0 +1,13 @@
+{
+  "id": 4115,
+  "title": "Sandhills Global - Ransomware - WIZARD SPIDER",
+  "date": "2021-10-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Cifrado por ransomware",
+  "source": "nan",
+  "summary": "El gigante de publicaciones y alojamiento web sufre un ataque de ransomware que cierra sus operaciones.",
+  "color": "#ef4444"
+}

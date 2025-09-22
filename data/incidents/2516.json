@@ -1,0 +1,13 @@
+{
+  "id": 2516,
+  "title": "El submarino antiguo de DiBella - Infección Dispositivos - FIN7",
+  "date": "2019-11-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "FIN7",
+  "impact": "Sistema o cuenta comprometida en Connecticut",
+  "source": "https://www.scmagazine.com/home/security-news/data-breach/fin7-behind-dibellas-data-breach-affecting-305000-cards/",
+  "summary": "DiBella's Old Fashioned Submarines revela que sus tiendas en Connecticut, Indiana, Michigan, Ohio, Nueva York y Pensilvania pueden haber tenido la información de hasta 305.000 tarjetas de pago comprometidas entre el 22 de marzo de 2018 y el 28 de diciembre de 2018.",
+  "color": "#3b82f6"
+}

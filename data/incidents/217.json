@@ -1,0 +1,13 @@
+{
+  "id": 217,
+  "title": "wirelessemporium.com - Data leak - Undetermined",
+  "date": "2014-08-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en wirelessemporium.com",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/payment-cards-used-on-wireless-emporium-website-compromised-by-malware/",
+  "summary": "Después de descubrir un malware en wirelessemporium.com, la empresa comienza a notificar a un número no revelado de personas que su información personal, incluidos los datos de sus tarjetas de pago, podría haber sido comprometida.",
+  "color": "#ef4444"
+}

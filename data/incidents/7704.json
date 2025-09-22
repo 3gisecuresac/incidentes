@@ -1,0 +1,13 @@
+{
+  "id": 7704,
+  "title": "Pájaro de cuentos - Data leak - ShinyHunters",
+  "date": "2020-11-12",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Filtración de datos en Storybird",
+  "source": "nan",
+  "summary": "ShinyHunters ha puesto a la venta la base de datos de Storybird.",
+  "color": "#ef4444"
+}

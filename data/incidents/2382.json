@@ -1,0 +1,13 @@
+{
+  "id": 2382,
+  "title": "Distrito escolar del condado de Wakulla - Ransomware - Undetermined",
+  "date": "2019-09-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Condado de Wakulla se ve afectado",
+  "source": "https://www.databreaches.net/hackers-target-wakulla-schools-shut-down-district-wide-emails-in-ransomware-attack/",
+  "summary": "El Distrito Escolar del Condado de Wakulla se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

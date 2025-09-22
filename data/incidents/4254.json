@@ -1,0 +1,13 @@
+{
+  "id": 4254,
+  "title": "Sitio final - Ransomware - Undetermined",
+  "date": "2022-01-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Proveedor de",
+  "source": "nan",
+  "summary": "Proveedor de software para escuelas K-12 y sitios web universitarios sufre un ataque de ransomware que interrumpe el acceso a miles de escuelas en todo el mundo.",
+  "color": "#ef4444"
+}

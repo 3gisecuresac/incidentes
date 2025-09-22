@@ -1,0 +1,13 @@
+{
+  "id": 1105,
+  "title": "Embajada de la India en Nueva York - Data leak - Kapustkiy",
+  "date": "2016-11-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Kapustkiy",
+  "impact": "Sistema o cuenta comprometida en Nueva York",
+  "source": "https://www.riskbasedsecurity.com/2016/12/23/kapustkiy-the-17-year-old-man-the-myth-the-motivations/",
+  "summary": "Kupustkiy hackea la Embajada de la India en Nueva York.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7550,
+  "title": "milq.com - Data leak - @ciadotgov",
+  "date": "2016-01-10",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "@ciadotgov",
+  "impact": "Cifrado por ransomware en @ciadotgov",
+  "source": "nan",
+  "summary": "root, también conocido como @ciadotgov, hackea milq.com y descarga 3.594 nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

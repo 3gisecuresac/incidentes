@@ -1,0 +1,13 @@
+{
+  "id": 5299,
+  "title": "Universidad D'Youville - Ciberataque - Undetermined",
+  "date": "2023-02-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en La Universidad D Youville",
+  "source": "nan",
+  "summary": "La Universidad D'Youville presenta un aviso de violación de datos después de descubrir que ciertos archivos que contenían información confidencial de los estudiantes fueron eliminados de la red informática de la escuela por una parte no autorizada.",
+  "color": "#ef4444"
+}

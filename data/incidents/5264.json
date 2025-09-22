@@ -1,0 +1,13 @@
+{
+  "id": 5264,
+  "title": "Distrito Escolar Unificado de Morgan Hill - Data leak - Undetermined",
+  "date": "2023-01-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Morgan Hill en California revela una violación",
+  "source": "nan",
+  "summary": "El Distrito Escolar Unificado de Morgan Hill en California revela una violación que ocurrió cuando se accedió a la cuenta de correo electrónico de un empleado sin autorización.",
+  "color": "#a78bfa"
+}

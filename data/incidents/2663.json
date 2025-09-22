@@ -1,0 +1,13 @@
+{
+  "id": 2663,
+  "title": "Atención domiciliaria Personal Touch de Greater Portsmouth. - Ransomware - Undetermined",
+  "date": "2020-01-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Personal Touch Home Care of Greater Portsmouth",
+  "source": "https://ago.vermont.gov/blog/2020/01/28/personal-touch-holding-corp-personal-touch-home-care-of-greater-portsmouth-notice-of-data-breach-to-consumers/",
+  "summary": "Personal Touch Home Care of Greater Portsmouth notifica que se produjo un ataque de ransomware Maze el 1 de diciembre de 2019.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2448,
+  "title": "Web.com - Data leak - Undetermined",
+  "date": "2019-10-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Web.com",
+  "source": "https://www.scmagazine.com/home/security-news/data-breach/web-com-discloses-breach-affecting-customer-account-info/",
+  "summary": "Web.com, la empresa matriz de Network Solutions, el primer registrador de dominios del mundo, revela una brecha de seguridad ocurrida en agosto de 2019. Un tercero se infiltró en algunos de los sistemas de la empresa. Incluso Register.com se vio afectado.",
+  "color": "#ef4444"
+}

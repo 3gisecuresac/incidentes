@@ -1,0 +1,13 @@
+{
+  "id": 3974,
+  "title": "Centro de la región de San Andreas - Ransomware - Undetermined",
+  "date": "2021-07-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en California sufre un ataque de ransomware",
+  "source": "nan",
+  "summary": "Organización sin fines de lucro de California sufre un ataque de ransomware que compromete la información de sus pacientes.",
+  "color": "#ef4444"
+}

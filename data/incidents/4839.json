@@ -1,0 +1,13 @@
+{
+  "id": 4839,
+  "title": "Centro de Mujeres Henderson & Walton (HWWC) - Data leak - Undetermined",
+  "date": "2022-08-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Mujeres Henderson & Walton",
+  "source": "nan",
+  "summary": "El Centro de Mujeres Henderson & Walton (HWWC) notifica a 34,306 pacientes que parte de su información médica protegida puede haber sido comprometida como resultado de que un pirata informático obtuvo acceso a la cuenta de correo electrónico de uno de sus empleados.",
+  "color": "#3b82f6"
+}

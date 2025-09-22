@@ -1,0 +1,13 @@
+{
+  "id": 5113,
+  "title": "DraftKings - Data leak - Undetermined",
+  "date": "2022-11-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en DraftKings",
+  "source": "nan",
+  "summary": "La empresa de apuestas deportivas DraftKings revela que todos sus clientes se verían afectados por un ataque de robo de credenciales que provocó pérdidas de hasta 300.000 dólares.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2699,
+  "title": "La Organización de Médicos Pediátricos del Children's (PPOC) - Ransomware - Undetermined",
+  "date": "2020-02-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Médicos Pediátricos del Children's",
+  "source": "https://www.boston25news.com/news/malware-attack-hits-pediatric-records-chlidrens-hospital-affiliates/ZV7QZ57P6VFN3F547UHHHEBHRQ/",
+  "summary": "La Organización de Médicos Pediátricos del Children's (PPOC) es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

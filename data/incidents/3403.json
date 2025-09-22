@@ -1,0 +1,13 @@
+{
+  "id": 3403,
+  "title": "Tina de lavado - Infección Dispositivos - Undetermined",
+  "date": "2020-11-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Wash Tub",
+  "source": "https://www.databreaches.net/the-wash-tub-is-notifying-customers-of-a-year-long-payment-card-breach/",
+  "summary": "The Wash Tub está notificando a los clientes sobre una violación de seguridad de tarjetas de pago que duró un año después de descubrir actividad sospechosa en tarjetas utilizadas en varias sucursales de Wash Tub.",
+  "color": "#a78bfa"
+}

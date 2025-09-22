@@ -1,0 +1,13 @@
+{
+  "id": 6461,
+  "title": "Corporación de filtros estándar - Ransomware - Meow",
+  "date": "2023-11-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Meow",
+  "impact": "Filtración de datos en Standard Filter Corporation a su sitio de filtraciones",
+  "source": "nan",
+  "summary": "La banda de ransomware MEOW agrega a Standard Filter Corporation a su sitio de filtraciones.",
+  "color": "#ef4444"
+}

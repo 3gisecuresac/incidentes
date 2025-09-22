@@ -1,0 +1,13 @@
+{
+  "id": 6086,
+  "title": "Cooperativa de Crédito Federal Chevron - Data leak - cl0p",
+  "date": "2023-08-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Chevron Federal Credit Union",
+  "source": "nan",
+  "summary": "Chevron Federal Credit Union presenta un aviso de violación de datos después de descubrir que las organizaciones sufrieron un ataque cibernético llevado a cabo explotando la vulnerabilidad MOVEit.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5409,
+  "title": "Corporación de Salud Trinity - Data leak - Undetermined",
+  "date": "2023-03-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Trinity Health Corporation",
+  "source": "nan",
+  "summary": "Trinity Health Corporation presenta un aviso de violación de datos después de enterarse de que un incidente de phishing resultó en la filtración de información confidencial de decenas de miles de pacientes.",
+  "color": "#ef4444"
+}

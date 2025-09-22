@@ -1,0 +1,13 @@
+{
+  "id": 2073,
+  "title": "Hexión - Ransomware - Undetermined",
+  "date": "2019-03-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Hexion una",
+  "source": "https://motherboard.vice.com/en_us/article/8xyj7g/ransomware-forces-two-chemical-companies-to-order-hundreds-of-new-computers",
+  "summary": "Hexion, una empresa química, se ve afectada por el ransomware LockerGoga.",
+  "color": "#ef4444"
+}

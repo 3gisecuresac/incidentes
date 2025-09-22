@@ -1,0 +1,13 @@
+{
+  "id": 769,
+  "title": "Cooperativa de crédito Coast Central - Data leak - Undetermined",
+  "date": "2016-02-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Coast Central Credit Union",
+  "source": "http://krebsonsecurity.com/2016/02/breached-credit-union-comes-out-of-its-shell/",
+  "summary": "El sitio web de Coast Central Credit Union, una institución financiera que atiende a más de 60.000 clientes, es hackeado, lo que permite a los atacantes implantar una puerta trasera.",
+  "color": "#3b82f6"
+}

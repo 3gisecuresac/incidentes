@@ -1,0 +1,13 @@
+{
+  "id": 5202,
+  "title": "Flojo - Data leak - Undetermined",
+  "date": "2022-12-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en GitHub alojados externamente",
+  "source": "nan",
+  "summary": "Los actores de amenazas obtuvieron acceso a los repositorios de GitHub alojados externamente por Slack a través de una cantidad limitada de tokens de empleados de Slack que fueron robados.",
+  "color": "#a78bfa"
+}

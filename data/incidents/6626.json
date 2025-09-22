@@ -1,0 +1,13 @@
+{
+  "id": 6626,
+  "title": "Hewlett Packard Enterprise - Data leak - IntelBroker",
+  "date": "2024-02-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "IntelBroker",
+  "impact": "Filtración de datos en HPE",
+  "source": "nan",
+  "summary": "Hewlett Packard Enterprise (HPE) está investigando una posible nueva violación después de que un actor de amenazas pusiera a la venta datos supuestamente robados en un foro de piratería, alegando que contienen credenciales de HPE y otra información confidencial.",
+  "color": "#ef4444"
+}

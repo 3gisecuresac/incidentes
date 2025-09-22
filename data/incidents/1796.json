@@ -1,0 +1,13 @@
+{
+  "id": 1796,
+  "title": "Cable de datos - Ciberrobo - Undetermined",
+  "date": "2018-08-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberrobo",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Oracle publican los detalles de tres secuestros de DNS contra tres procesadores de pagos",
+  "source": "https://blogs.oracle.com/internetintelligence/bgp-dns-hijacks-target-payment-systems",
+  "summary": "Investigadores de Oracle publican los detalles de tres secuestros de DNS contra tres procesadores de pagos.",
+  "color": "#a78bfa"
+}

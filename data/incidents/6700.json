@@ -1,0 +1,13 @@
+{
+  "id": 6700,
+  "title": "Prisma Finance - Data leak - Undetermined",
+  "date": "2024-03-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Prisma Finance",
+  "source": "nan",
+  "summary": "Un actor de amenazas roba aproximadamente 11,6 millones de dólares de Prisma Finance, una popular plataforma de finanzas descentralizadas (DeFi). Poco después, el atacante se declara un sombrero blanco y dispuesto a devolver los fondos.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4002,
+  "title": "Compañía eléctrica Coghlin - Ransomware - Avos Locker",
+  "date": "2021-07-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Avos Locker",
+  "impact": "Filtración de datos en Coghlin Electrical",
+  "source": "nan",
+  "summary": "Coghlin Electrical sufre un ataque de ransomware y los datos exfiltrados se filtran en línea, incluidos documentos financieros.",
+  "color": "#ef4444"
+}

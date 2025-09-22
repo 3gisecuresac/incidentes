@@ -1,0 +1,13 @@
+{
+  "id": 3284,
+  "title": "Departamento de Regulación Comercial y Profesional de Florida - DoS - Undetermined",
+  "date": "2020-10-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Regulación Comercial",
+  "source": "https://www.govtech.com/public-safety/Florida-Investigates-Malicious-Activity-in-Business-System.html",
+  "summary": "El Departamento de Regulación Comercial y Profesional de Florida está investigando una actividad maliciosa que afectó a la principal agencia reguladora del estado, causando días de interrupciones en el sistema informático e interrupciones en los servicios en línea.",
+  "color": "#a78bfa"
+}

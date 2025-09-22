@@ -1,0 +1,13 @@
+{
+  "id": 2735,
+  "title": "Logística de Calidad Total (TQL) - Data leak - Undetermined",
+  "date": "2020-02-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Total Quality Logistics",
+  "source": "https://www.databreaches.net/update-tql-says-data-breach-was-not-malware-or-ransomware-attack/",
+  "summary": "Total Quality Logistics confirma que fue víctima de una violación de datos.",
+  "color": "#ef4444"
+}

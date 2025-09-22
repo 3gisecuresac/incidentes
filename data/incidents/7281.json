@@ -1,0 +1,13 @@
+{
+  "id": 7281,
+  "title": "Ayuntamiento de Sevilla - Ransomware - LockBit 3.0",
+  "date": "2023-09-04",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Sevilla se ve afectado",
+  "source": "nan",
+  "summary": "El Ayuntamiento de Sevilla se ve afectado por un ataque del ransomware LockBit.",
+  "color": "#ef4444"
+}

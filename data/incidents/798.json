@@ -1,0 +1,13 @@
+{
+  "id": 798,
+  "title": "Distrito escolar de West Bloomfield - Data leak - Undetermined",
+  "date": "2016-03-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Distrito Escolar de West Bloomfield envían un correo electrónico a los padres diciendo",
+  "source": "http://www.databreaches.net/mi-network-security-breach-reported-in-west-bloomfield-school-district-student-info-exposed/",
+  "summary": "Los funcionarios del Distrito Escolar de West Bloomfield envían un correo electrónico a los padres diciendo que una violación de seguridad en su red expuso cierta información de los estudiantes.",
+  "color": "#a78bfa"
+}

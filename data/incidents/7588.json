@@ -1,0 +1,13 @@
+{
+  "id": 7588,
+  "title": "Bell Canadá - Data leak - Undetermined",
+  "date": "2018-01-23",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Bell Canada",
+  "source": "nan",
+  "summary": "La policía está investigando una nueva filtración de datos en Bell Canada (la segunda en ocho meses), que dice que los piratas informáticos han obtenido ilegalmente información de clientes, principalmente nombres de suscriptores y direcciones de correo electrónico de hasta 100.000 usuarios.",
+  "color": "#ef4444"
+}

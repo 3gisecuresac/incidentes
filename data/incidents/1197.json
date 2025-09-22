@@ -1,0 +1,13 @@
+{
+  "id": 1197,
+  "title": "Grey Eagle Resort y Casino - Data leak - Undetermined",
+  "date": "2017-01-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El Grey Eagle Resort",
+  "source": "https://www.databreaches.net/ca-grey-eagle-resort-hackers-threaten-to-dump-sensitive-employee-and-customer-info/",
+  "summary": "El Grey Eagle Resort and Casino fue hackeado y los atacantes amenazaron con filtrar cientos de gigabytes de datos. El casino confirmó la filtración.",
+  "color": "#ef4444"
+}

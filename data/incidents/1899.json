@@ -1,0 +1,13 @@
+{
+  "id": 1899,
+  "title": "Comité Nacional Demócrata - Data leak - SVR (COZYBEAR)",
+  "date": "2018-11-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (COZYBEAR)",
+  "impact": "Incidente de seguridad en Estados Unidos",
+  "source": "https://www.zdnet.com/article/dnc-says-russia-tried-to-hack-its-servers-again-in-november-2018/",
+  "summary": "El Comité Nacional Demócrata (DNC) afirma que piratas informáticos rusos intentaron entrar en sus servidores en noviembre de 2018, poco después de la conclusión de las elecciones de mitad de período en Estados Unidos.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 407,
+  "title": "Neofriends.com - Data leak - Smitt3nz AKA Rubber",
+  "date": "2015-03-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Smitt3nz AKA Rubber",
+  "impact": "Cifrado por ransomware en @smitt3nz",
+  "source": "https://www.elevenpaths.com/wp-content/uploads/2015/12/2015_the_year_of_information_leaks_EN.pdf",
+  "summary": "Rubber, también conocido como @smitt3nz, hackea neofriends.com, un sitio de citas, y publica 7.495 nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

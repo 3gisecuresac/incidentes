@@ -1,0 +1,13 @@
+{
+  "id": 7709,
+  "title": "Seguro de capital - Ransomware - Undetermined",
+  "date": "2020-12-04",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en La Capitale Seguros",
+  "source": "nan",
+  "summary": "Un ciberataque ha provocado un fallo informático y paralizado los servicios online de La Capitale Seguros.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6555,
+  "title": "Atención médica conductual Meridian - Ciberataque - Undetermined",
+  "date": "2023-12-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Meridian Behavioral Healthcare Meridian",
+  "source": "nan",
+  "summary": "Meridian Behavioral Healthcare (Meridian) presentó un aviso de violación de datos después de descubrir actividad no autorizada dentro de su sistema informático.",
+  "color": "#ef4444"
+}

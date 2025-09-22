@@ -1,0 +1,13 @@
+{
+  "id": 7294,
+  "title": "Iberdrola - Data leak - Undetermined",
+  "date": "2024-05-07",
+  "country": "España",
+  "region": "Europa",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Iberdrola",
+  "source": "nan",
+  "summary": "La multinacional eléctrica española Iberdrola afirma que un incidente cibernético que sufrió un proveedor a principios de mayo resultó en una violación de datos que afectó a 850.000 clientes españoles.",
+  "color": "#ef4444"
+}

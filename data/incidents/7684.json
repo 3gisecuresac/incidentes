@@ -1,0 +1,13 @@
+{
+  "id": 7684,
+  "title": "El Departamento de Justicia de Canadá - Malware Attack - Undetermined",
+  "date": "2020-08-11",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Departamento de Justicia de Canadá en agosto",
+  "source": "nan",
+  "summary": "Los hackers lograron infiltrarse en el sistema del Departamento de Justicia de Canadá en agosto y enviar el malware Emotet a los ciudadanos que comerciaban con estas direcciones.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5905,
+  "title": "Condado de Langlade - Ransomware - LockBit 3.0",
+  "date": "2023-07-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Langlade",
+  "source": "nan",
+  "summary": "El condado de Langlade, en el norte de Wisconsin, se ve afectado por un ataque de ransomware LockBit 3.0.",
+  "color": "#ef4444"
+}

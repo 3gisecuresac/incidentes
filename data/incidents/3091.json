@@ -1,0 +1,13 @@
+{
+  "id": 3091,
+  "title": "Corporación Brown-Forman - Data leak - REvil",
+  "date": "2020-08-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "REvil",
+  "impact": "Filtración de datos en Brown-Forman Corp",
+  "source": "https://www.bloomberg.com/news/articles/2020-08-14/brown-forman-was-target-of-apparent-ransomware-attack",
+  "summary": "Brown-Forman Corp., fabricante de bebidas alcohólicas como Jack Daniel's y Finlandia, informó haber sido víctima de un ciberataque que podría haber afectado a cierta información, incluidos datos de sus empleados. Sin embargo, la empresa logró evitar el cifrado de sus sistemas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2722,
+  "title": "Ciudad de Wayne - Ransomware - Undetermined",
+  "date": "2020-02-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Wayne es víctima de un ataque de ransomware",
+  "source": "https://www.databreaches.net/city-of-wayne-nebraska-hit-by-ransomware-attack/",
+  "summary": "La ciudad de Wayne es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

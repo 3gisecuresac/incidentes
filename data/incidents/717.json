@@ -1,0 +1,13 @@
+{
+  "id": 717,
+  "title": "Hospital Brigham and Women's Faulkner - Data leak - Undetermined",
+  "date": "2016-01-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Brigham",
+  "source": "http://www.databreaches.net/compromised-email-account-exposed-patient-info-from-brigham-and-womens-and-brigham-and-womens-faulkner-hospitals/",
+  "summary": "Los hospitales Brigham and Women's y Brigham and Women's Faulkner informan de un incidente que involucró la vulneración de la cuenta de correo electrónico de un empleado. La información de 1009 pacientes se vio comprometida.",
+  "color": "#3b82f6"
+}

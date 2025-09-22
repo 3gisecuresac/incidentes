@@ -1,0 +1,13 @@
+{
+  "id": 2945,
+  "title": "De Claire - Data leak - Undetermined",
+  "date": "2020-06-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Sansec revelan",
+  "source": "https://www.bleepingcomputer.com/news/security/accessories-giant-claires-hacked-to-steal-credit-card-info/",
+  "summary": "Investigadores de Sansec revelan que los sitios web del gigante estadounidense de joyería y accesorios Claire's y su subsidiaria Icing se vieron comprometidos en abril a través de un ataque de Magecart.",
+  "color": "#3b82f6"
+}

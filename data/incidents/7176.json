@@ -1,0 +1,13 @@
+{
+  "id": 7176,
+  "title": "TransUnión - Data leak - ShinyHunters",
+  "date": "2025-07-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Incidente de seguridad en EE",
+  "source": "nan",
+  "summary": "El acceso no autorizado a través de una aplicación de un contratista externo utilizada en operaciones de soporte al consumidor en EE. UU. permitió la visualización y copia de archivos.",
+  "color": "#a78bfa"
+}

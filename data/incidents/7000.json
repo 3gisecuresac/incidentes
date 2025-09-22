@@ -1,0 +1,13 @@
+{
+  "id": 7000,
+  "title": "Dinámica general - Data leak - Undetermined",
+  "date": "2024-10-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en General Dynamics",
+  "source": "nan",
+  "summary": "El gigante aeroespacial y de defensa General Dynamics dice que los actores de amenazas comprometieron docenas de cuentas de beneficios para empleados después de una exitosa campaña de phishing dirigida a su personal.",
+  "color": "#ef4444"
+}

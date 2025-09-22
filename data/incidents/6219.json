@@ -1,0 +1,13 @@
+{
+  "id": 6219,
+  "title": "Mar abierto - Ciberataque - Undetermined",
+  "date": "2023-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en NFT OpenSea",
+  "source": "nan",
+  "summary": "Según se informa, un incidente de seguridad de terceros podría haber expuesto información de los usuarios del mercado NFT OpenSea, incluidas las claves API.",
+  "color": "#ef4444"
+}

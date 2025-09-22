@@ -1,0 +1,13 @@
+{
+  "id": 2704,
+  "title": "Seguro de relación - Data leak - Undetermined",
+  "date": "2020-02-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Relation Insurance",
+  "source": "https://www.databreaches.net/relation-insurance-discloses-data-security-incident/",
+  "summary": "Relation Insurance revela un ataque de phishing ocurrido el 15 de agosto de 2019.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2575,
+  "title": "Escuelas comunitarias de Richmond - Ransomware - Undetermined",
+  "date": "2019-12-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Richmond sufren un ataque de ransomware",
+  "source": "https://www.scmagazine.com/home/security-news/ransomware/ransomware-forces-richmond-community-schools-to-close/",
+  "summary": "Las escuelas comunitarias de Richmond sufren un ataque de ransomware.",
+  "color": "#ef4444"
+}

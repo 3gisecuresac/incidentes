@@ -1,0 +1,13 @@
+{
+  "id": 780,
+  "title": "Seagate - Data leak - Undetermined",
+  "date": "2016-03-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Seagate envía los datos a una dirección de correo electrónico externa",
+  "source": "http://krebsonsecurity.com/2016/03/seagate-phish-exposes-all-employee-w-2s/",
+  "summary": "Seagate es la última víctima de un ataque de nómina. Un empleado de Seagate envía los datos a una dirección de correo electrónico externa tras recibir un correo electrónico supuestamente del director ejecutivo de Seagate, Stephen Luczo, solicitando los datos del formulario W-2 de 2015 de empleados actuales y antiguos de Seagate.",
+  "color": "#ef4444"
+}

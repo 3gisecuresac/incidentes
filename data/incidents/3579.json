@@ -1,0 +1,13 @@
+{
+  "id": 3579,
+  "title": "WestRock - Ransomware - Undetermined",
+  "date": "2021-01-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en TI",
+  "source": "nan",
+  "summary": "WestRock Company ha anunciado que detectó un incidente de ransomware que afectó partes de sus sistemas operativos y de TI.",
+  "color": "#ef4444"
+}

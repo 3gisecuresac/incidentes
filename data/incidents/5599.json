@@ -1,0 +1,13 @@
+{
+  "id": 5599,
+  "title": "Paisajes del personal - Data leak - Undetermined",
+  "date": "2023-04-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Colorado",
+  "source": "nan",
+  "summary": "StaffScapes, una empresa de servicios de recursos humanos con sede en Colorado, revela que una parte no autorizada obtuvo acceso a sus entornos luego de una vulneración del correo electrónico.",
+  "color": "#a78bfa"
+}

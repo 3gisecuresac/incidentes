@@ -1,0 +1,13 @@
+{
+  "id": 2922,
+  "title": "Distrito Escolar de Duluth - Data leak - Undetermined",
+  "date": "2020-06-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Duluth revela los detalles de una violación de seguridad",
+  "source": "https://www.govtech.com/security/BRIEF-Minnesota-School-District-Addresses-Cybersecurity-Breach.html",
+  "summary": "El Distrito Escolar de Duluth revela los detalles de una violación de seguridad que involucra a 14 cuentas de estudiantes.",
+  "color": "#a78bfa"
+}

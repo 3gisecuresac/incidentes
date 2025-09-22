@@ -1,0 +1,13 @@
+{
+  "id": 1935,
+  "title": "Linux.org - Defacement - @kitlol5",
+  "date": "2018-12-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Defacement",
+  "actor": "@kitlol5",
+  "impact": "Incidente de seguridad en Linux.org",
+  "source": "https://securityaffairs.co/wordpress/78791/hacking/linux-org-defacement.html",
+  "summary": "El sitio web Linux.org está desfigurado mediante un secuestro de DNS.",
+  "color": "#a78bfa"
+}

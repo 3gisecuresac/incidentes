@@ -1,0 +1,13 @@
+{
+  "id": 3115,
+  "title": "Bosques y jardines de Holden - Ransomware - Undetermined",
+  "date": "2020-08-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Holden Forests",
+  "source": "https://www.govtech.com/security/Ohio-Institutions-Affected-by-Blackbaud-Ransomware-Attack.html",
+  "summary": "Holden Forests and Gardens revela haber sido afectado por el ataque del ransomware Blackbaud.",
+  "color": "#ef4444"
+}

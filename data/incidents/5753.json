@@ -1,0 +1,13 @@
+{
+  "id": 5753,
+  "title": "Universidad Drake - Ransomware - cl0p",
+  "date": "2023-06-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit",
+  "source": "nan",
+  "summary": "La Universidad Drake confirma haber sufrido una violación de datos ocurrida explotando la vulnerabilidad CVE-2023-34362 de MOVEit.",
+  "color": "#ef4444"
+}

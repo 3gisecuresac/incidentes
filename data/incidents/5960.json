@@ -1,0 +1,13 @@
+{
+  "id": 5960,
+  "title": "Prensa asociada - Data leak - Undetermined",
+  "date": "2023-07-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en AP Stylebook",
+  "source": "nan",
+  "summary": "Associated Press advierte sobre una violación de datos que afecta a los clientes de AP Stylebook, donde los atacantes utilizaron los datos robados para realizar ataques de phishing dirigidos.",
+  "color": "#ef4444"
+}

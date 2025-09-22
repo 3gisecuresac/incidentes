@@ -1,0 +1,13 @@
+{
+  "id": 4262,
+  "title": "Hospital del condado de Jackson - Ransomware - Undetermined",
+  "date": "2022-01-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Florida sufre importante filtración de datos",
+  "source": "nan",
+  "summary": "Hospital de Florida sufre importante filtración de datos.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3467,
+  "title": "Colegio Roanoke - Ransomware - Undetermined",
+  "date": "2020-12-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Roanoke College",
+  "source": "nan",
+  "summary": "Roanoke College se vio obligado a retrasar el inicio de su semestre de primavera debido a lo que parece ser un ataque de ransomware.",
+  "color": "#ef4444"
+}

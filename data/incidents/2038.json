@@ -1,0 +1,13 @@
+{
+  "id": 2038,
+  "title": "Hospital Memorial - Data leak - Undetermined",
+  "date": "2019-02-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Gulfport revela un incidente de phishing",
+  "source": "https://www.databreaches.net/memorial-hospital-at-gulfport-phishing-incident-exposed-30000-patients-information/",
+  "summary": "El Memorial Hospital de Gulfport revela un incidente de phishing que expuso la información de 30.000 pacientes.",
+  "color": "#ef4444"
+}

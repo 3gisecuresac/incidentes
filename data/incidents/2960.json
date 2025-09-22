@@ -1,0 +1,13 @@
+{
+  "id": 2960,
+  "title": "Oficina de sucesiones del condado de Tallapoosa - Ransomware - Undetermined",
+  "date": "2020-06-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Sucesiones del Condado de Tallapoosa es víctima de un ataque de ransomware",
+  "source": "https://www.databreaches.net/al-tallapoosa-county-recovers-from-ransomware-attack/",
+  "summary": "La Oficina de Sucesiones del Condado de Tallapoosa es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4667,
+  "title": "Centro de Salud del Suroeste - Data leak - Undetermined",
+  "date": "2022-07-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Southwest Health Center",
+  "source": "nan",
+  "summary": "Southwest Health Center revela un incidente de seguridad de datos que puede haber involucrado la información de salud personal y protegida perteneciente a ciertos empleados actuales y anteriores.",
+  "color": "#ef4444"
+}

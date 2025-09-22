@@ -1,0 +1,13 @@
+{
+  "id": 3241,
+  "title": "Microsoft - Data leak - Undetermined",
+  "date": "2020-09-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Windows XP SP1",
+  "source": "https://www.bleepingcomputer.com/news/microsoft/the-windows-xp-source-code-was-allegedly-leaked-online/",
+  "summary": "El código fuente de Windows XP SP1 y otras versiones del sistema operativo se filtró en Internet.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5100,
+  "title": "Sistema de Salud Lake Charles Memorial (LCMH) - Ransomware - Hive",
+  "date": "2022-11-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Cifrado por ransomware en Lake Charles Memorial Health System LCMH",
+  "source": "nan",
+  "summary": "Lake Charles Memorial Health System (LCMH) confirma haber sido víctima de un ataque de ransomware Hive.",
+  "color": "#ef4444"
+}

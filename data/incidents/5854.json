@@ -1,0 +1,13 @@
+{
+  "id": 5854,
+  "title": "EFTPS.gov (Sistema Electrónico de Pago de Impuestos Federales del Departamento del Tesoro de los EE. UU.) - DoS - Anonymous Sudan",
+  "date": "2023-06-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Anonymous Sudan",
+  "impact": "Interrupción por DDoS en Seguridad de Infraestructura",
+  "source": "nan",
+  "summary": "La Agencia de Seguridad de Infraestructura y Ciberseguridad de Estados Unidos (CISA) advierte sobre continuos ataques distribuidos de denegación de servicio (DDoS) que afectan a organizaciones estadounidenses de múltiples sectores industriales.",
+  "color": "#f59e0b"
+}

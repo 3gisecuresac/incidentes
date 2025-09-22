@@ -1,0 +1,13 @@
+{
+  "id": 1971,
+  "title": "Centro Dental del Noroeste de Ohio - Ransomware - Undetermined",
+  "date": "2018-12-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Noroeste de Ohio revela",
+  "source": "https://www.scmagazine.com/home/security-news/dental-center-of-nw-ohio-feels-bite-of-ransomware-attack-on-it-vendor/",
+  "summary": "El Centro Dental del Noroeste de Ohio revela que un ataque de ransomware que afectó a su proveedor de TI externo local (Arakyta) puede haber puesto en peligro datos personales pertenecientes a pacientes y empleados actuales y anteriores.",
+  "color": "#ef4444"
+}

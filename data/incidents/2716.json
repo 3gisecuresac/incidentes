@@ -1,0 +1,13 @@
+{
+  "id": 2716,
+  "title": "Colegio Comunitario del Condado de Butler - Ransomware - Undetermined",
+  "date": "2020-02-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Butler County Community College",
+  "source": "https://www.databreaches.net/butler-county-community-college-recovering-from-ransomware-attack/",
+  "summary": "Butler County Community College sufre un ataque de ransomware.",
+  "color": "#ef4444"
+}

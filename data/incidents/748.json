@@ -1,0 +1,13 @@
+{
+  "id": 748,
+  "title": "Corporación de Salud Magnolia - Data leak - Undetermined",
+  "date": "2016-02-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en MHC",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/magnolia-health-corporation-suffers-breach-after-falling-for-spoofed-ceo-email/",
+  "summary": "Magnolia Health Corporation sufre una violación de seguridad después de que un perpetrador desconocido utiliza la dirección de correo electrónico del director ejecutivo de MHC, Kensett Moyle, para solicitar una hoja de cálculo de Excel que contiene información de los empleados.",
+  "color": "#a78bfa"
+}

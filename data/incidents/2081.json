@@ -1,0 +1,13 @@
+{
+  "id": 2081,
+  "title": "Centro para personas mayores Ballard Northwest - Ransomware - Undetermined",
+  "date": "2019-03-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Centro",
+  "source": "https://www.kiro7.com/news/local/ballard-nw-senior-center-attacked-by-ransomware-ahead-of-annual-fundraiser/930703676",
+  "summary": "El servidor del Centro para personas mayores Ballard Northwest fue borrado por un ataque de ransomware, apenas unas semanas antes de su mayor recaudación de fondos del año.",
+  "color": "#ef4444"
+}

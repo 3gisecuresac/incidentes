@@ -1,0 +1,13 @@
+{
+  "id": 5834,
+  "title": "Corte Suprema de Nebraska - Data leak - SiegedSec",
+  "date": "2023-06-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SiegedSec",
+  "impact": "Filtración de datos en Nebraska",
+  "source": "nan",
+  "summary": "Los hacktivistas del colectivo SiegedSec publican algunos datos de la Corte Suprema de Nebraska.",
+  "color": "#ef4444"
+}

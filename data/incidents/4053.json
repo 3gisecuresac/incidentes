@@ -1,0 +1,13 @@
+{
+  "id": 4053,
+  "title": "Consejo sobre el Envejecimiento del Suroeste de Ohio - Data leak - Undetermined",
+  "date": "2021-08-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida",
+  "source": "nan",
+  "summary": "La información de salud protegida de las personas se ve comprometida a través del acceso no autorizado a la cuenta de correo electrónico de un empleado.",
+  "color": "#3b82f6"
+}

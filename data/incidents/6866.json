@@ -1,0 +1,13 @@
+{
+  "id": 6866,
+  "title": "Hospital Wayne Memorial - Ransomware - Monti",
+  "date": "2024-07-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Monti",
+  "impact": "Filtración de datos en Pensilvania",
+  "source": "nan",
+  "summary": "La banda de ransomware Monti afirma haber violado el Wayne Memorial Hospital en Pensilvania y lo agrega a su sitio de filtraciones de Tor.",
+  "color": "#ef4444"
+}

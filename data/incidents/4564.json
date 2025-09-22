@@ -1,0 +1,13 @@
+{
+  "id": 4564,
+  "title": "Ciudad de Portland - Data leak - Undetermined",
+  "date": "2022-05-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Portland investiga una violación de seguridad cibernética",
+  "source": "nan",
+  "summary": "La ciudad de Portland investiga una violación de seguridad cibernética que resultó en una transacción fraudulenta de $1.4 millones con fondos de la ciudad en abril.",
+  "color": "#a78bfa"
+}

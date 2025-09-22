@@ -1,0 +1,13 @@
+{
+  "id": 3443,
+  "title": "Agencia de los Estados Unidos para los Medios Globales (USAGM) - Data leak - Undetermined",
+  "date": "2020-12-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Estados Unidos",
+  "source": "https://www.bleepingcomputer.com/news/security/us-agency-for-global-media-data-breach-caused-by-a-phishing-attack/",
+  "summary": "La Agencia de Estados Unidos para Medios Globales (USAGM) revela que sufrió una violación de datos después de caer en un ataque de phishing en diciembre de 2020.",
+  "color": "#ef4444"
+}

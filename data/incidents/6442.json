@@ -1,0 +1,13 @@
+{
+  "id": 6442,
+  "title": "Cirujanos de Proliance - Ransomware - Undetermined",
+  "date": "2023-11-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Proliance Surgeons",
+  "source": "nan",
+  "summary": "Proliance Surgeons presenta un aviso de violación de datos después de descubrir que un ataque de ransomware permitió a una parte no autorizada acceder y cifrar la red informática de la empresa.",
+  "color": "#ef4444"
+}

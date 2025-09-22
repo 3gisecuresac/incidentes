@@ -1,0 +1,13 @@
+{
+  "id": 5384,
+  "title": "Asociación Americana de Abogados (ABA) - Data leak - Undetermined",
+  "date": "2023-03-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Abogados",
+  "source": "nan",
+  "summary": "La Asociación Estadounidense de Abogados (ABA) revela una violación de datos después de que piratas informáticos comprometieran su red y obtuvieran acceso a credenciales más antiguas de 1.466.000 miembros.",
+  "color": "#ef4444"
+}

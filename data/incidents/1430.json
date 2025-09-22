@@ -1,0 +1,13 @@
+{
+  "id": 1430,
+  "title": "Centro Médico Augusta - Data leak - Undetermined",
+  "date": "2017-09-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Centro M",
+  "source": "https://www.hipaajournal.com/augusta-university-medical-center-phishing-attack-8971/",
+  "summary": "Casi cinco meses después de lo sucedido, el Centro Médico Augusta anuncia que algunos pacientes podrían haber tenido su información personal comprometida por un ataque a las cuentas de correo electrónico de la facultad.",
+  "color": "#3b82f6"
+}

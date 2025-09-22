@@ -1,0 +1,13 @@
+{
+  "id": 6210,
+  "title": "Grupo financiero Johnson - Data leak - cl0p",
+  "date": "2023-09-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Johnson Financial Group",
+  "source": "nan",
+  "summary": "Johnson Financial Group presenta un aviso de violación de datos después de descubrir que la vulnerabilidad en la aplicación de transferencia de archivos MOVEit permitió a los atacantes acceder a la información personal de más de 750.000 personas.",
+  "color": "#ef4444"
+}

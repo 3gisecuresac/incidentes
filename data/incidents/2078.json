@@ -1,0 +1,13 @@
+{
+  "id": 2078,
+  "title": "Guiones directos - Ransomware - Undetermined",
+  "date": "2019-03-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Direct Scripts",
+  "source": "https://www.hipaajournal.com/three-healthcare-ransomware-attacks-reported-70000-individuals-affected/",
+  "summary": "Direct Scripts sufre un ataque de ransomware el 30 de enero de 2019 que resultó en el cifrado de archivos que contenían información de salud protegida de los pacientes.",
+  "color": "#ef4444"
+}

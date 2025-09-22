@@ -1,0 +1,13 @@
+{
+  "id": 7056,
+  "title": "SelectBlinds - Data leak - Undetermined",
+  "date": "2024-09-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en SelectBlinds",
+  "source": "nan",
+  "summary": "Más de 200.000 personas que compraron persianas o decoración de ventanas este año sufrieron el robo de información de sus tarjetas de crédito y otros datos después de que actores de amenazas colocaran malware en el sitio web de SelectBlinds, un importante minorista.",
+  "color": "#ef4444"
+}

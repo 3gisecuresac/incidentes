@@ -1,0 +1,13 @@
+{
+  "id": 5188,
+  "title": "Corporación de Energía GeoSouthern - Ciberataque - Undetermined",
+  "date": "2022-12-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en GeoSouthern Energy Corporation",
+  "source": "nan",
+  "summary": "GeoSouthern Energy Corporation presentó un aviso de violación de datos después de enterarse de que un ciberataque reciente comprometió información confidencial perteneciente a empleados actuales y anteriores, así como a sus dependientes.",
+  "color": "#ef4444"
+}

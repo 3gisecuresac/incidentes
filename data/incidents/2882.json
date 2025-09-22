@@ -1,0 +1,13 @@
+{
+  "id": 2882,
+  "title": "Chef casero - Data leak - ShinyHunters",
+  "date": "2020-05-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Filtración de datos en HomeChef",
+  "source": "https://www.bleepingcomputer.com/news/security/hackers-sell-stolen-user-data-from-homechef-chatbooks-and-chronicle/",
+  "summary": "Una base de datos con 8 millones de registros pertenecientes al servicio de entrega de kits de comida HomeChef se pone a la venta en la dark web.",
+  "color": "#ef4444"
+}

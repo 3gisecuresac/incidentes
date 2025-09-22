@@ -1,0 +1,13 @@
+{
+  "id": 580,
+  "title": "Universidad de Virginia - Data leak - Undetermined",
+  "date": "2015-08-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Virginia anuncia haber sido víctima de un ciberataque presuntamente originado en China",
+  "source": "http://news.virginia.edu/content/uva-responds-cyber-attack-portions-it-systems-0",
+  "summary": "La Universidad de Virginia anuncia haber sido víctima de un ciberataque presuntamente originado en China.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1142,
+  "title": "Sun Trust Bank del Ayuntamiento de Miami Beach - Data leak - Undetermined",
+  "date": "2016-12-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad",
+  "source": "https://www.hackread.com/someone-stole-3-6m-from-miami-bank/",
+  "summary": "Según informes, ciberdelincuentes maliciosos llevaban robando dinero del banco desde el verano de 2016 y el robo había pasado desapercibido hasta ahora. Ya es demasiado tarde, pues el banco ya ha perdido 3,6 millones de dólares.",
+  "color": "#a78bfa"
+}

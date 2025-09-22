@@ -1,0 +1,13 @@
+{
+  "id": 3593,
+  "title": "perl.com - DoS - Undetermined",
+  "date": "2021-01-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en perl.com",
+  "source": "nan",
+  "summary": "El dominio perl.com ha sido tomado por piratas informáticos y apuntado a una dirección IP asociada con campañas de malware.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3188,
+  "title": "Imágenes aseguradas - Ransomware - Mespinoza",
+  "date": "2020-09-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Mespinoza",
+  "impact": "Cifrado por ransomware en Assured Imaging a la",
+  "source": "https://www.databreaches.net/wp-content/uploads/Without_Undue_Delay.pdf",
+  "summary": "Los operadores del ransomware Pysa agregan Assured Imaging a la lista de sus víctimas.",
+  "color": "#ef4444"
+}

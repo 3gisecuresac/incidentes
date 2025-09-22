@@ -1,0 +1,13 @@
+{
+  "id": 1200,
+  "title": "Policía de D.C. - Ransomware - Undetermined",
+  "date": "2017-01-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Washington D",
+  "source": "https://www.washingtonpost.com/local/public-safety/hackers-hit-dc-police-closed-circuit-camera-network-city-officials-disclose/2017/01/27/d285a4a4-e4f5-11e6-ba11-63c4b4fb5a63_story.html?utm_term=.7b48c2b9c1af",
+  "summary": "Ocho días antes de la toma de posesión del presidente Trump, un ransomware infectó el 70 por ciento de los dispositivos de almacenamiento que registran datos de las cámaras de vigilancia de la policía de Washington D.C., lo que obligó a realizar importantes esfuerzos de reinstalación en toda la ciudad.",
+  "color": "#ef4444"
+}

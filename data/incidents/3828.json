@@ -1,0 +1,13 @@
+{
+  "id": 3828,
+  "title": "Fuerza laboral de Virginia Occidental - Data leak - Undetermined",
+  "date": "2021-04-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en WorkForce West Virginia",
+  "source": "nan",
+  "summary": "WorkForce West Virginia sufre una violación de datos cuando una persona no autorizada accedió a una base de datos de servicios de empleo.",
+  "color": "#ef4444"
+}

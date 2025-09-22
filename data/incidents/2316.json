@@ -1,0 +1,13 @@
+{
+  "id": 2316,
+  "title": "Servicios de salud presbiterianos - Data leak - Undetermined",
+  "date": "2019-08-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Presbyterian Healthcare Services",
+  "source": "https://www.databreaches.net/presbyterian-data-breach-affects-some-183000-patients/",
+  "summary": "Presbyterian Healthcare Services es víctima de un ataque de phishing que afecta a alrededor de 183.000 pacientes y miembros de planes de salud.",
+  "color": "#ef4444"
+}

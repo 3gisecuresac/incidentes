@@ -1,0 +1,13 @@
+{
+  "id": 1070,
+  "title": "feverclan.com - Data leak - pr0jekkt",
+  "date": "2016-09-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "pr0jekkt",
+  "impact": "Filtración de datos en feverclan.com",
+  "source": "https://www.databreaches.net/feverclan-responds-to-notification-of-claimed-breach/",
+  "summary": "pr0jekkt hackea feverclan.com y filtra los datos de 50.000 usuarios.",
+  "color": "#ef4444"
+}

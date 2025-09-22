@@ -1,0 +1,13 @@
+{
+  "id": 3117,
+  "title": "Colegio Comunitario de Piedmont - Ransomware - Undetermined",
+  "date": "2020-08-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Carolina del Norte ha sido atacado con ransomware",
+  "source": "https://www.databreaches.net/another-north-carolina-community-college-hit-with-ransomware/",
+  "summary": "Piedmont Community College en Carolina del Norte ha sido atacado con ransomware.",
+  "color": "#ef4444"
+}

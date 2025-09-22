@@ -1,0 +1,13 @@
+{
+  "id": 1886,
+  "title": "www.misidentificadores.com - Data leak - Undetermined",
+  "date": "2018-11-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en www.myidentifiers.com",
+  "source": "https://www.databreaches.net/bowker-investigating-breach-of-isbn-site/",
+  "summary": "Luego de realizar cargos no autorizados con tarjetas utilizadas en www.myidentifiers.com, sitio encargado de emitir ISBN, una investigación revela que se agregó un código no autorizado a la página de pago que afectó las transacciones realizadas entre el 1 de mayo y el 23 de octubre.",
+  "color": "#a78bfa"
+}

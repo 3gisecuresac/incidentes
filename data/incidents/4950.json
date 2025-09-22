@@ -1,0 +1,13 @@
+{
+  "id": 4950,
+  "title": "Autor0 - Data leak - Undetermined",
+  "date": "2022-09-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Auth0",
+  "source": "nan",
+  "summary": "El proveedor de servicios de autenticación Auth0 revela lo que denomina un evento de seguridad que involucra algunos de sus repositorios de código (de 2020 y anteriores) obtenidos por medios desconocidos de su entorno.",
+  "color": "#a78bfa"
+}

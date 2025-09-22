@@ -1,0 +1,13 @@
+{
+  "id": 1172,
+  "title": "Centro Susan M. Hughes (hughescenter.net) - Ransomware - Undetermined",
+  "date": "2017-01-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Centro Susan M. Hughes",
+  "source": "https://www.databreaches.net/cosmetic-surgery-center-discloses-ransomware-attack/",
+  "summary": "El Centro Susan M. Hughes notifica un incidente de ransomware que afecta a 11.400 pacientes.",
+  "color": "#ef4444"
+}

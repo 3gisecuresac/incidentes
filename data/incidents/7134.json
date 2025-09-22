@@ -1,0 +1,13 @@
+{
+  "id": 7134,
+  "title": "Servicio Público de Radiodifusión (PBS) - Data leak - Undetermined",
+  "date": "2025-08-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en MyPBS.org",
+  "source": "nan",
+  "summary": "BleedingComputer confirmó que un archivo publicado en Discord con registros JSON de 3.997 empleados y afiliados de PBS provenía del servicio interno MyPBS.org de PBS, y PBS confirmó la autenticidad de los datos.",
+  "color": "#ef4444"
+}

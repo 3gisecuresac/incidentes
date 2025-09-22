@@ -1,0 +1,13 @@
+{
+  "id": 1830,
+  "title": "Feedify - Data leak - Undetermined",
+  "date": "2018-09-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Magecart",
+  "source": "https://www.helpnetsecurity.com/2018/09/13/feedify-magecart-compromise/",
+  "summary": "El servicio de interacción con el cliente Feedify se ve afectado por atacantes de Magecart, que modificaron repetidamente un script que sirve a cientos de sitios web para incluir un código de clonación de tarjetas de pago.",
+  "color": "#a78bfa"
+}

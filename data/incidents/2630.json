@@ -1,0 +1,13 @@
+{
+  "id": 2630,
+  "title": "Biblioteca pública del condado de Volusia - Ransomware - Undetermined",
+  "date": "2020-01-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Condado de Volusia",
+  "source": "https://www.bleepingcomputer.com/news/security/600-computers-taken-down-after-florida-library-cyberattack/",
+  "summary": "600 computadoras de acceso público y del personal fueron inutilizadas en las sucursales de la Biblioteca Pública del Condado de Volusia (VCPL) de Daytona Beach, Florida, luego de un ciberataque que comenzó alrededor de las 7 a. m. del 9 de enero.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5577,
+  "title": "Ortopedia Peachtree - Ransomware - Karakurt",
+  "date": "2023-04-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Karakurt",
+  "impact": "Filtración de datos en Peachtree Orthopedics",
+  "source": "nan",
+  "summary": "Peachtree Orthopedics publica un aviso de filtración de datos en su sitio web tras determinar que un tercero no autorizado accedió a su red informática. La banda de ransomware Karakurt se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

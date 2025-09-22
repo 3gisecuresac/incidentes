@@ -1,0 +1,13 @@
+{
+  "id": 1385,
+  "title": "CIA - Data leak - Undetermined",
+  "date": "2017-07-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Vault 7",
+  "source": "http://www.ibtimes.co.uk/wikileaks-new-dump-imperial-exposes-3-cia-hacking-tools-targeting-macs-linux-1632359",
+  "summary": "WikiLeaks publica tres nuevas supuestas herramientas de piratería de la CIA como parte de su nuevo volcado de Vault 7.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1579,
+  "title": "Departamento de Transporte de Idaho (ITD) - Data leak - Undetermined",
+  "date": "2018-02-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Departamento de Transporte de Idaho",
+  "source": "https://www.databreaches.net/idaho-transportation-department-email-hack-may-have-exposed-truckers-private-information/",
+  "summary": "Un hackeo de dos cuentas de correo electrónico del Departamento de Transporte de Idaho (ITD) potencialmente expone la información personal de camioneros comerciales cuyos vehículos están registrados en Idaho, incluidos números de Seguro Social y de tarjetas de crédito.",
+  "color": "#3b82f6"
+}

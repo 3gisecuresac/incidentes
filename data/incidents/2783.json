@@ -1,0 +1,13 @@
+{
+  "id": 2783,
+  "title": "Gestión de atención médica de Avalon - Data leak - Undetermined",
+  "date": "2020-03-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Avalon Health Care Management",
+  "source": "https://healthitsecurity.com/news/ransomware-attack-on-brandywine-urology-impacts-131k-patients",
+  "summary": "Avalon Health Care Management notifica a 14.500 pacientes sobre un incidente de phishing ocurrido el 16 de marzo de 2020.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1330,
+  "title": "Subdominio de la Universidad de Stanford - Malware Attack - Undetermined",
+  "date": "2017-06-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Stanford",
+  "source": "https://www.bleepingcomputer.com/news/security/stanford-university-site-hosted-malware-for-months/",
+  "summary": "Durante casi cuatro meses, uno de los subdominios de Stanford (Centro Paul F. Glenn para la Biología del Envejecimiento de la Universidad de Stanford) ha sido comprometido y utilizado para alojar shells web, correos electrónicos y otros tipos de malware web.",
+  "color": "#3b82f6"
+}

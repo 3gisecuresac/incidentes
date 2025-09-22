@@ -1,0 +1,13 @@
+{
+  "id": 2585,
+  "title": "Salud de Alomere - Data leak - Undetermined",
+  "date": "2020-01-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos",
+  "source": "https://www.bleepingcomputer.com/news/security/medical-info-of-roughly-50k-exposed-in-minnesota-hospital-breach/",
+  "summary": "La información personal y médica de 49.351 pacientes queda expuesta tras un incidente de seguridad que involucra las cuentas de correo electrónico de dos empleados.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3884,
+  "title": "OSF Atención Médica - Ransomware - Xing Team",
+  "date": "2021-05-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Xing Team",
+  "impact": "Filtración de datos en OSF Healthcare",
+  "source": "nan",
+  "summary": "OSF Healthcare es el objetivo del ransomware Xing Team que exfiltra 112 GB de datos, incluidos información personal de pacientes y registros médicos.",
+  "color": "#ef4444"
+}

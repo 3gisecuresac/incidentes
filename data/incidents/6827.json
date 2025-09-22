@@ -1,0 +1,13 @@
+{
+  "id": 6827,
+  "title": "Tribunal Superior del Condado de Los Ángeles (LASC) - Ransomware - Undetermined",
+  "date": "2024-07-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Condado de Los Ángeles",
+  "source": "nan",
+  "summary": "El tribunal de primera instancia más grande de los Estados Unidos, el Tribunal Superior del Condado de Los Ángeles, cerró el lunes sus 36 sedes judiciales para restaurar los sistemas afectados por un ataque de ransomware el viernes.",
+  "color": "#ef4444"
+}

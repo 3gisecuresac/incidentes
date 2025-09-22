@@ -1,0 +1,13 @@
+{
+  "id": 7219,
+  "title": "Administrador de Infraestructuras Ferroviarias (ADIF) - Ransomware - REvil",
+  "date": "2020-07-23",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Cifrado por ransomware en Infraestructuras Ferroviarias",
+  "source": "nan",
+  "summary": "Administrador de Infraestructuras Ferroviarias (ADIF), gestor de infraestructuras ferroviarias estatal española, se ve afectado por los operadores del ransomware REvil.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5500,
+  "title": "Grupo Ortopédico de Lancaster - Ciberataque - Undetermined",
+  "date": "2023-03-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Lancaster Orthopedic Group",
+  "source": "nan",
+  "summary": "Lancaster Orthopedic Group revela un acceso no autorizado a su red.",
+  "color": "#a78bfa"
+}

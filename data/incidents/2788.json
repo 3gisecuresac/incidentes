@@ -1,0 +1,13 @@
+{
+  "id": 2788,
+  "title": "NutriBullet - Data leak - Undetermined",
+  "date": "2020-03-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en NutriBullet",
+  "source": "https://www.zdnet.com/article/skimming-code-lurking-on-nutribullet-website-puts-customer-credit-card-data-at-risk/",
+  "summary": "NutriBullet es víctima de un ataque Magrcart.",
+  "color": "#a78bfa"
+}

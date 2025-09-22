@@ -1,0 +1,13 @@
+{
+  "id": 3911,
+  "title": "UF Health Central Florida - Ransomware - Undetermined",
+  "date": "2021-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en TI",
+  "source": "nan",
+  "summary": "UF Health Central Florida sufrió un ataque de ransomware que obligó a dos hospitales a cerrar partes de su red de TI.",
+  "color": "#ef4444"
+}

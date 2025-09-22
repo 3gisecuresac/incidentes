@@ -1,0 +1,13 @@
+{
+  "id": 7234,
+  "title": "Meliá Hoteles Internacional - Ransomware - Undetermined",
+  "date": "2021-10-04",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware",
+  "source": "nan",
+  "summary": "Una gran cadena hotelera internacional sufre un ataque de ransomware que paraliza sus operaciones.",
+  "color": "#ef4444"
+}

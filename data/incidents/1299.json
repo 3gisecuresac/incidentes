@@ -1,0 +1,13 @@
+{
+  "id": 1299,
+  "title": "Universidad Tufts - Data leak - TuftsLeaks",
+  "date": "2017-05-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "TuftsLeaks",
+  "impact": "Filtración de datos en Tufts",
+  "source": "https://www.databreaches.net/illinois-elections-board-offers-more-information-on-hacking-incident/",
+  "summary": "Un grupo autodenominado TuftsLeaks publica documentos en línea que contienen información financiera confidencial de Tufts. La filtración incluye presupuestos departamentales, los salarios de miles de empleados y profesores, y los números de identificación de estudiantes empleados con salarios registrados.",
+  "color": "#ef4444"
+}

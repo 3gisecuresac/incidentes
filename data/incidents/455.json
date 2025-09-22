@@ -1,0 +1,13 @@
+{
+  "id": 455,
+  "title": "Integración de recursos sinérgicos - Data leak - Undetermined",
+  "date": "2015-04-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Synergistic Resources Integration",
+  "source": "http://news.softpedia.com/news/SRI-Inc-s-Website-Hacked-Tax-IDs-and-SSNs-Exposed-477605.shtml",
+  "summary": "Se descubre un acceso no autorizado al servidor de Synergistic Resources Integration (SRI), exponiendo información de identificación personal almacenada por la empresa, incluidos números de seguridad social y de identificación fiscal.",
+  "color": "#a78bfa"
+}

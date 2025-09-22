@@ -1,0 +1,13 @@
+{
+  "id": 5714,
+  "title": "Hospital General de Tampa - Ransomware - Snatch",
+  "date": "2023-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Snatch",
+  "impact": "Filtración de datos en Tampa revela",
+  "source": "nan",
+  "summary": "El Hospital General de Tampa revela que los datos confidenciales de 1,2 millones de personas fueron robados en un fallido ataque de ransomware.",
+  "color": "#ef4444"
+}

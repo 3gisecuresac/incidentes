@@ -1,0 +1,13 @@
+{
+  "id": 3698,
+  "title": "Captify Salud - Data leak - Undetermined",
+  "date": "2021-03-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Your Patient Advisor",
+  "source": "nan",
+  "summary": "Captify Health comienza a notificar a los usuarios de su servicio en línea Your Patient Advisor que su información confidencial ha sido expuesta y obtenida por personas no autorizadas.",
+  "color": "#ef4444"
+}

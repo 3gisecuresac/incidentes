@@ -1,0 +1,13 @@
+{
+  "id": 4340,
+  "title": "Universidad Martín - DoS - Undetermined",
+  "date": "2022-03-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en La Universidad Martin",
+  "source": "nan",
+  "summary": "La Universidad Martin revela haber sido víctima de un incidente de ransomware.",
+  "color": "#ef4444"
+}

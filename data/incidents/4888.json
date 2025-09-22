@@ -1,0 +1,13 @@
+{
+  "id": 4888,
+  "title": "Hospital de Regiones - Data leak - Undetermined",
+  "date": "2022-08-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en El Hospital Regions",
+  "source": "nan",
+  "summary": "El Hospital Regions notifica a 980 pacientes que parte de su información personal se ha visto comprometida después de que un individuo obtuviera acceso indebido a su red segura con el objetivo de robar pagos a una aseguradora de salud.",
+  "color": "#3b82f6"
+}

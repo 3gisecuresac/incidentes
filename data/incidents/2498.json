@@ -1,0 +1,13 @@
+{
+  "id": 2498,
+  "title": "Macy's - Data leak - Undetermined",
+  "date": "2019-11-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Magecart en su",
+  "source": "https://www.zdnet.com/article/macys-suffers-online-magecart-card-skimming-attack/",
+  "summary": "Macy's anuncia una filtración de datos causada por la implantación de un código de clonación de tarjetas Magecart en su portal de pagos en línea. El incidente se detectó el 15 de octubre y estuvo activo desde el 7 de octubre.",
+  "color": "#ef4444"
+}

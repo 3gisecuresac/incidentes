@@ -1,0 +1,13 @@
+{
+  "id": 6155,
+  "title": "Wells Fargo - DoS - Anonymous Sudan",
+  "date": "2023-09-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Anonymous Sudan",
+  "impact": "Interrupción por DDoS en Wells Fargo",
+  "source": "nan",
+  "summary": "Anonymous Sudan se atribuye la responsabilidad de un ataque DDoS al sitio web de Wells Fargo",
+  "color": "#f59e0b"
+}

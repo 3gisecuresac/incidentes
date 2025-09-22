@@ -1,0 +1,13 @@
+{
+  "id": 374,
+  "title": "Alojamiento blanco - Infección Dispositivos - Undetermined",
+  "date": "2015-02-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Marriott administradas",
+  "source": "http://krebsonsecurity.com/2015/02/banks-card-thieves-hit-white-lodging-again/",
+  "summary": "Varias instituciones financieras se quejan de fraude en tarjetas de crédito y débito de clientes que fueron utilizadas recientemente en una serie de propiedades de Marriott administradas por la franquicia hotelera White Lodging Services Corporation.",
+  "color": "#a78bfa"
+}

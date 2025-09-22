@@ -1,0 +1,13 @@
+{
+  "id": 4749,
+  "title": "Red de salud de Allegheny - Data leak - Undetermined",
+  "date": "2022-07-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Allegheny Health Network podrían haberse filtrado en una violación de datos después de",
+  "source": "nan",
+  "summary": "Los nombres e historiales médicos de 8.000 pacientes de Allegheny Health Network podrían haberse filtrado en una violación de datos después de que un empleado abrió un correo electrónico de phishing que comprometió su cuenta.",
+  "color": "#ef4444"
+}

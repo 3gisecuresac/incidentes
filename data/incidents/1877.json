@@ -1,0 +1,13 @@
+{
+  "id": 1877,
+  "title": "Clínica Oftalmológica y Centro de Cirugía Jones - Ransomware - Undetermined",
+  "date": "2018-10-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Jones Eye Clinic and Surgery Center",
+  "source": "https://news.softpedia.com/news/40k-customers-affected-after-jones-eye-clinic-and-surgery-center-attack-523447.shtml",
+  "summary": "40.000 usuarios se vieron afectados por un ataque de ransomware, ocurrido el 23 de agosto, dirigido a Jones Eye Clinic and Surgery Center.",
+  "color": "#ef4444"
+}

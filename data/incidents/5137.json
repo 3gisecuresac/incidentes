@@ -1,0 +1,13 @@
+{
+  "id": 5137,
+  "title": "Hospicio Legacy - Data leak - Undetermined",
+  "date": "2022-11-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Alabama notificó a 21",
+  "source": "nan",
+  "summary": "Legacy Hospice en Alabama notificó a 21.202 personas sobre una violación que surgió del acceso no autorizado a un número limitado de cuentas de correo electrónico de empleados.",
+  "color": "#a78bfa"
+}

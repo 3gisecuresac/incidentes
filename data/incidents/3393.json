@@ -1,0 +1,13 @@
+{
+  "id": 3393,
+  "title": "Atención médica Jefferson - Data leak - Undetermined",
+  "date": "2020-11-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Jefferson Healthcare",
+  "source": "https://www.ptleader.com/stories/jefferson-healthcare-hit-by-phishing-cyber-attack,73154",
+  "summary": "La información personal de aproximadamente 2.550 personas se vio comprometida por un ataque de phishing en la cuenta de correo electrónico de un empleado de Jefferson Healthcare.",
+  "color": "#ef4444"
+}

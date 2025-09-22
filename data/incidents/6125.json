@@ -1,0 +1,13 @@
+{
+  "id": 6125,
+  "title": "Hospital del área de Carthage - Ransomware - LockBit 3.0",
+  "date": "2023-09-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Área de Carthage a su lista de víctimas",
+  "source": "nan",
+  "summary": "La banda de ransomware LockBit agrega el Hospital del Área de Carthage a su lista de víctimas.",
+  "color": "#ef4444"
+}

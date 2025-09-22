@@ -1,0 +1,13 @@
+{
+  "id": 4685,
+  "title": "Servicios Urológicos Aliados - Data leak - Undetermined",
+  "date": "2022-07-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Servicios Urol",
+  "source": "nan",
+  "summary": "Servicios Urológicos Aliados revela haber sufrido un ataque de phishing por correo electrónico.",
+  "color": "#ef4444"
+}

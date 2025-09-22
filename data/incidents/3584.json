@@ -1,0 +1,13 @@
+{
+  "id": 3584,
+  "title": "Oficina del Auditor del Estado de Washington - Data leak - TA505",
+  "date": "2021-01-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "TA505",
+  "impact": "Filtración de datos en Auditor del Estado de Washington sufre una violación de datos",
+  "source": "nan",
+  "summary": "La Oficina del Auditor del Estado de Washington sufre una violación de datos que expone la información personal de 1,6 millones de reclamos de empleo después de que un actor de amenazas explotara una vulnerabilidad en un servicio seguro de transferencia de archivos de Accellion.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4245,
+  "title": "FlexBooker - Data leak - Uawrongteam",
+  "date": "2021-12-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Uawrongteam",
+  "impact": "Sistema o cuenta comprometida",
+  "source": "nan",
+  "summary": "La información de las cuentas de más de tres millones de usuarios es robada de los servidores comprometidos de un popular programa de gestión de agenda.",
+  "color": "#3b82f6"
+}

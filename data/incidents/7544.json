@@ -1,0 +1,13 @@
+{
+  "id": 7544,
+  "title": "Asociación de Ingenieros Profesionales y Geocientíficos - Data leak - Undetermined",
+  "date": "2015-09-21",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Alberta",
+  "source": "nan",
+  "summary": "APEGA, el organismo que regula a los ingenieros y geólogos en Alberta, informa de una violación de datos significativa cuando todos los nombres y direcciones de correo electrónico de sus 75.000 miembros se entregan a una parte desconocida como resultado de un evento de phishing.",
+  "color": "#ef4444"
+}

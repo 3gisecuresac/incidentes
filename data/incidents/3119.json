@@ -1,0 +1,13 @@
+{
+  "id": 3119,
+  "title": "Universidad de Utah - Ransomware - Undetermined",
+  "date": "2020-08-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Utah ha pagado casi medio millón de dólares",
+  "source": "https://news.softpedia.com/news/university-of-utah-pays-hackers-half-a-million-dollars-after-ransomware-attack-530879.shtml",
+  "summary": "La Universidad de Utah ha pagado casi medio millón de dólares tras sucumbir a un ataque de ransomware.",
+  "color": "#ef4444"
+}

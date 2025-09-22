@@ -1,0 +1,13 @@
+{
+  "id": 1290,
+  "title": "Netflix - Data leak - The Dark Overlord",
+  "date": "2017-04-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "The Dark Overlord",
+  "impact": "Filtración de datos en Orange is the New Black después de",
+  "source": "https://www.databreaches.net/thedarkoverlord-leaks-upcoming-episode-of-orange-is-the-new-black-after-netflix-doesnt-pay-extortion-demand/",
+  "summary": "TheDarkOverlord filtra el próximo episodio de Orange is the New Black después de que Netflix no pagara la extorsión. El hackeo se produjo a través de un proveedor de producción.",
+  "color": "#ef4444"
+}

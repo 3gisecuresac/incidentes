@@ -1,0 +1,13 @@
+{
+  "id": 6851,
+  "title": "Alianza para el Cuidado Comunitario - Ransomware - Rhysida",
+  "date": "2024-07-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Rhysida",
+  "impact": "Filtración de datos en Community Care Alliance",
+  "source": "nan",
+  "summary": "Community Care Alliance figura en el sitio de filtración de ransomware Rhysida.",
+  "color": "#ef4444"
+}

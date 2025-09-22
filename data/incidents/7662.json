@@ -1,0 +1,13 @@
+{
+  "id": 7662,
+  "title": "Centro de investigación médica canadiense - Ransomware - Undetermined",
+  "date": "2020-04-14",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Palo Alto descubren un ataque de ransomware contra un centro de investigación médica canadiense aprovechando la pandemia de COVID-19",
+  "source": "nan",
+  "summary": "Investigadores de Palo Alto descubren un ataque de ransomware contra un centro de investigación médica canadiense aprovechando la pandemia de COVID-19.",
+  "color": "#ef4444"
+}

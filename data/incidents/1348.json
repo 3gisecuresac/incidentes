@@ -1,0 +1,13 @@
+{
+  "id": 1348,
+  "title": "Asociados médicos de Cleveland - Ransomware - Undetermined",
+  "date": "2017-06-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Cleveland Medical Associates",
+  "source": "https://www.databreaches.net/cleveland-medical-associates-tells-patients-of-ransomware-incident/",
+  "summary": "Cleveland Medical Associates revela los detalles de un ataque de ransomware que ocurrió el 21 de abril de 2017.",
+  "color": "#ef4444"
+}

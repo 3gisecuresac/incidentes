@@ -1,0 +1,13 @@
+{
+  "id": 3041,
+  "title": "Recuperar nuestra juventud - Data leak - Undetermined",
+  "date": "2020-07-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Recover Our Youth",
+  "source": "https://www.databreaches.net/recover-our-youth-notifies-clients-and-guardians-of-data-security-incident/",
+  "summary": "Recover Our Youth notifica a los clientes y tutores sobre un incidente de seguridad de datos.",
+  "color": "#ef4444"
+}

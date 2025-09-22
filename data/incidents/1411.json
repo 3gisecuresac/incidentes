@@ -1,0 +1,13 @@
+{
+  "id": 1411,
+  "title": "Zazzle - Data leak - Undetermined",
+  "date": "2017-08-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Zazzle",
+  "source": "http://www.zdnet.com/article/zazzle-resets-password-after-brute-force-login-attacks/",
+  "summary": "Zazzle envía un correo electrónico a sus clientes revelando que en junio los piratas informáticos utilizaron técnicas de fuerza bruta para acceder a los nombres de usuario y contraseñas de las cuentas que fueron robadas de una violación de otro sitio anónimo.",
+  "color": "#a78bfa"
+}

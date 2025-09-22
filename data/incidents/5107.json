@@ -1,0 +1,13 @@
+{
+  "id": 5107,
+  "title": "Centro de rehabilitación Gateway - Ciberataque - Undetermined",
+  "date": "2022-11-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Gateway Rehabilitation Center",
+  "source": "nan",
+  "summary": "Gateway Rehabilitation Center informa sobre una violación de datos después de que la empresa se enteró de que una parte no autorizada pudo acceder a información confidencial de los consumidores contenida en su red informática.",
+  "color": "#ef4444"
+}

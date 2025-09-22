@@ -1,0 +1,13 @@
+{
+  "id": 5570,
+  "title": "Nuevos Horizontes Médicos - Ciberataque - Undetermined",
+  "date": "2023-04-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en New Horizons",
+  "source": "nan",
+  "summary": "New Horizons Medical presenta un aviso de violación de datos después de enterarse de que un reciente incidente de seguridad de datos comprometió la información personal de 12,317 pacientes de New Horizons.",
+  "color": "#ef4444"
+}

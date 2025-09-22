@@ -1,0 +1,13 @@
+{
+  "id": 1069,
+  "title": "WestPark Capital - Data leak - The Dark Overlord",
+  "date": "2016-09-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "The Dark Overlord",
+  "impact": "Filtración de datos en WestPark Capital",
+  "source": "http://www.ibtimes.co.uk/hackers-steal-internal-data-los-angeles-investment-bank-hold-it-ransom-1583515",
+  "summary": "The Dark Overlord filtró alrededor de 20 archivos internos en línea de WestPark Capital, con sede en Los Ángeles, como represalia porque el CEO del banco no aceptó su atractiva propuesta.",
+  "color": "#ef4444"
+}

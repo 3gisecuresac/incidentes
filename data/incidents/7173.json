@@ -1,0 +1,13 @@
+{
+  "id": 7173,
+  "title": "Administración de Tránsito de Maryland (MTA) - Ciberataque - Undetermined",
+  "date": "2025-08-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en MTA a desconectar los sistemas de programación de paratránsito de Mobility",
+  "source": "nan",
+  "summary": "Un incidente de ciberseguridad obligó a la MTA a desconectar los sistemas de programación de paratránsito de Mobility, el seguimiento en tiempo real y el centro de llamadas como medida de precaución. Los principales servicios de transporte público continuaron funcionando. Causa específica e i",
+  "color": "#a78bfa"
+}

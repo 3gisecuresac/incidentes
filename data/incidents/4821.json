@@ -1,0 +1,13 @@
+{
+  "id": 4821,
+  "title": "Grupo Automotriz Morries - Data leak - Undetermined",
+  "date": "2022-08-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Morries Auto Group",
+  "source": "nan",
+  "summary": "Morries Auto Group informa sobre una violación de datos después de detectar actividad sospechosa dentro de su sistema informático.",
+  "color": "#ef4444"
+}

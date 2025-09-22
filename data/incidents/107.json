@@ -1,0 +1,13 @@
+{
+  "id": 107,
+  "title": "Hospital Valley View - Data leak - Undetermined",
+  "date": "2014-03-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Seguro Social",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/virus-compromises-sensitive-info-on-5400-colorado-hospital-patients/",
+  "summary": "Los números de Seguro Social y los datos de tarjetas de pago se encuentran entre la información personal que puede haber sido comprometida para aproximadamente 5.400 pacientes del Valley View Hospital con sede en Colorado después de que se identificara un virus informático en algunas computadoras del hospital.",
+  "color": "#ef4444"
+}

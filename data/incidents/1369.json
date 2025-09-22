@@ -1,0 +1,13 @@
+{
+  "id": 1369,
+  "title": "Mercados Avanti - Infección Dispositivos - Undetermined",
+  "date": "2017-07-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Avanti Markets un",
+  "source": "https://krebsonsecurity.com/2017/07/self-service-food-kiosk-vendor-avanti-hacked/",
+  "summary": "Avanti Markets, un proveedor de quioscos de pago de autoservicio, reconoce haber sufrido una vulneración en sus redes internas en la que los piratas informáticos pudieron introducir software malicioso en los dispositivos de pago.",
+  "color": "#a78bfa"
+}

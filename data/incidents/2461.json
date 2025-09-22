@@ -1,0 +1,13 @@
+{
+  "id": 2461,
+  "title": "Asociados Veterinarios Nacionales (NVA) - Ransomware - Undetermined",
+  "date": "2019-10-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en California",
+  "source": "https://krebsonsecurity.com/2019/11/ransomware-bites-400-veterinary-hospitals/",
+  "summary": "National Veterinary Associates (NVA), una empresa de California que posee más de 700 instalaciones de cuidado de animales en todo el mundo, es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

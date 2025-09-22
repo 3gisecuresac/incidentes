@@ -1,0 +1,13 @@
+{
+  "id": 4810,
+  "title": "Servicios de cadena de suministro heredados - Data leak - Undetermined",
+  "date": "2022-08-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Legacy Supply Chain Services",
+  "source": "nan",
+  "summary": "Legacy Supply Chain Services confirma que la empresa sufrió una violación de datos después de que una parte no autorizada obtuviera acceso a datos confidenciales de consumidores contenidos en su red.",
+  "color": "#ef4444"
+}

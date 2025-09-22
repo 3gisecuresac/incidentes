@@ -1,0 +1,13 @@
+{
+  "id": 4674,
+  "title": "Rehabilitación Gateway - Ransomware - BlackByte",
+  "date": "2022-07-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "BlackByte",
+  "impact": "Cifrado por ransomware en Gateway Rehab",
+  "source": "nan",
+  "summary": "Gateway Rehab es víctima de un ataque de ransomware BlackByte.",
+  "color": "#ef4444"
+}

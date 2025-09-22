@@ -1,0 +1,13 @@
+{
+  "id": 4032,
+  "title": "Accenture - Ransomware - LockBit 2.0",
+  "date": "2021-08-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 2.0",
+  "impact": "Filtración de datos en TB de",
+  "source": "nan",
+  "summary": "Accenture sufre un ataque de ransomware que parece provenir de una computadora de un empleado comprometida, los piratas informáticos afirman haber robado 6 TB de datos.",
+  "color": "#ef4444"
+}

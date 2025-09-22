@@ -1,0 +1,13 @@
+{
+  "id": 136,
+  "title": "Centro Médico de la Universidad de Pittsburgh - Data leak - Undetermined",
+  "date": "2014-04-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Pittsburgh",
+  "source": "http://triblive.com/news/adminpage/5965156-74/upmc-workers-affected",
+  "summary": "El UPMC (Centro Médico de la Universidad de Pittsburgh) revela la verdadera magnitud de la filtración de datos que sufrió. La información personal de hasta 27.000 trabajadores podría haberse visto comprometida.",
+  "color": "#ef4444"
+}

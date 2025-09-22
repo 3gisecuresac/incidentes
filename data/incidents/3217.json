@@ -1,0 +1,13 @@
+{
+  "id": 3217,
+  "title": "Activisión - Data leak - Undetermined",
+  "date": "2020-09-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Activision podrían haber sido hackeadas",
+  "source": "https://www.forbes.com/sites/daveywinder/2020/09/21/activision-accounts-hacked-500000-call-of-duty-players-could-be-affected-report/?sh=73105bd07bbe",
+  "summary": "Según informes, más de 500.000 cuentas de Activision podrían haber sido hackeadas, con datos de inicio de sesión comprometidos. Sin embargo, la compañía niega cualquier vulneración.",
+  "color": "#ef4444"
+}

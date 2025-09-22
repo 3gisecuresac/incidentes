@@ -1,0 +1,13 @@
+{
+  "id": 6015,
+  "title": "Prospect Medical Holdings - Ransomware - Rhysida",
+  "date": "2023-08-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Rhysida",
+  "impact": "Cifrado por ransomware en Prospect Medical Holdings una",
+  "source": "nan",
+  "summary": "Prospect Medical Holdings, una importante red hospitalaria con oficinas en varios estados, enfrenta cortes generalizados de la red debido a un ciberataque que, según confirmó el FBI, se trata de un ransomware.",
+  "color": "#ef4444"
+}

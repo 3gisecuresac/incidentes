@@ -1,0 +1,13 @@
+{
+  "id": 4947,
+  "title": "Departamento de bomberos de Reidville - Data leak - Undetermined",
+  "date": "2022-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Departamento de Bomberos de Reidville",
+  "source": "nan",
+  "summary": "Los atacantes presuntamente roban más de $8,000 en cheques de pago luego de un hackeo de correo electrónico del Departamento de Bomberos de Reidville.",
+  "color": "#3b82f6"
+}

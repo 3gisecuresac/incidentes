@@ -1,0 +1,13 @@
+{
+  "id": 1569,
+  "title": "Universidad del Norte de Colorado - Data leak - Undetermined",
+  "date": "2018-02-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Norte de Colorado se vio comprometida después de",
+  "source": "https://www.databreaches.net/12-unc-employees-personal-information-comprised-in-cybersecurity-breach/",
+  "summary": "La información privada de 12 empleados de la Universidad del Norte de Colorado se vio comprometida después de que una persona o grupo desconocido accediera a sus perfiles en Ursa, el portal en línea de la UNC.",
+  "color": "#3b82f6"
+}

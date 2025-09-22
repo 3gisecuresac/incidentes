@@ -1,0 +1,13 @@
+{
+  "id": 2921,
+  "title": "Gestión Digital Inc. (DMI) - Ransomware - INDRIK SPIDER",
+  "date": "2020-06-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Cifrado por ransomware en Digital Management Inc",
+  "source": "https://www.zdnet.com/article/ransomware-gang-says-it-breached-one-of-nasas-it-contractors/",
+  "summary": "La banda de ransomware DoppelPaymer dice haber violado con éxito la red de Digital Management Inc. (DMI), un contratista de la NASA que ofrece servicios de TI administrados y ciberseguridad a pedido.",
+  "color": "#ef4444"
+}

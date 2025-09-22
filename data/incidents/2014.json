@@ -1,0 +1,13 @@
+{
+  "id": 2014,
+  "title": "El Fondo Marshall Alemán - Phishing - GRU 85th Main Special Service Center (Unit 26165) (FANCYBEAR)",
+  "date": "2019-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Phishing",
+  "actor": "GRU 85th Main Special Service Center (Unit 26165) (FANCYBEAR)",
+  "impact": "Incidente de seguridad en German Marshall Fund en un",
+  "source": "https://www.washingtonpost.com/technology/2019/02/20/microsoft-says-it-has-found-another-russian-operation-targeting-prominent-think-tanks/",
+  "summary": "Los piratas informáticos enviaron correos electrónicos falsos a personas que trabajan con el German Marshall Fund en un intento de engañarlos para que entregaran información, como contraseñas.",
+  "color": "#a78bfa"
+}

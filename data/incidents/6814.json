@@ -1,0 +1,13 @@
+{
+  "id": 6814,
+  "title": "Sav-Rx - Data leak - Undetermined",
+  "date": "2023-10-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Estados Unidos",
+  "source": "nan",
+  "summary": "La empresa de gestión de recetas Sav-Rx advierte a más de 2,8 millones de personas en los Estados Unidos que sufrió una violación de datos, afirmando que sus datos personales fueron robados en un ciberataque de 2023.",
+  "color": "#ef4444"
+}

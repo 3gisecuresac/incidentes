@@ -1,0 +1,13 @@
+{
+  "id": 4514,
+  "title": "WellDyneRx - Data leak - Undetermined",
+  "date": "2022-05-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en WellDyneRx un",
+  "source": "nan",
+  "summary": "WellDyneRx, un proveedor de servicios de beneficios farmacéuticos, revela haber sido víctima de un ataque de phishing.",
+  "color": "#ef4444"
+}

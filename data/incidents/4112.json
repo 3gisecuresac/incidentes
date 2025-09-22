@@ -1,0 +1,13 @@
+{
+  "id": 4112,
+  "title": "Servicios Temporales de Calidad, Inc. (también conocidos como Personal Calificado) - Ransomware - Undetermined",
+  "date": "2021-10-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Quality Temporary Services Inc. Qualified Staffing",
+  "source": "nan",
+  "summary": "Quality Temporary Services, Inc. (Qualified Staffing) informó una violación de datos después de que la empresa fuera víctima de un ataque de ransomware en 2021. 81.000 cuentas están comprometidas.",
+  "color": "#ef4444"
+}

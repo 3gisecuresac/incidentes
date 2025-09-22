@@ -1,0 +1,13 @@
+{
+  "id": 6440,
+  "title": "LivaNova - Ransomware - LockBit 3.0",
+  "date": "2023-11-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en LockBit 3.0",
+  "source": "nan",
+  "summary": "LivaNova, empresa de tecnología médica que vende dispositivos de cirugía cardíaca y neuromodulación, revela que un incidente de ciberseguridad ha interrumpido partes de sus sistemas de tecnología de la información y continúa causando problemas. Pocos días después, el grupo de ransomware LockBit 3.0 se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

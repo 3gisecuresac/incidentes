@@ -1,0 +1,13 @@
+{
+  "id": 5757,
+  "title": "Ciudad de Franklin - Ransomware - Trigona",
+  "date": "2023-06-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Trigona",
+  "impact": "Cifrado por ransomware en Franklin",
+  "source": "nan",
+  "summary": "La banda de ransomware Trigona afirma haber violado la ciudad de Franklin, Tennessee.",
+  "color": "#ef4444"
+}

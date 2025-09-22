@@ -1,0 +1,13 @@
+{
+  "id": 4559,
+  "title": "Colegios y universidades con sede en los EE.UU. - Data leak - Undetermined",
+  "date": "2022-05-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estados Unidos",
+  "source": "nan",
+  "summary": "El FBI emite una alerta sobre nombres de usuario y contraseñas que dan acceso a colegios y universidades con sede en Estados Unidos, disponibles para la venta en foros cibercriminales rusos.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5704,
+  "title": "Centros de Servicios de Medicare y Medicaid - Data leak - cl0p",
+  "date": "2023-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Servicios de Medicare",
+  "source": "nan",
+  "summary": "Los Centros de Servicios de Medicare y Medicaid (CMS) notificaron a 612.000 beneficiarios de Medicare sobre una violación de datos derivada de una vulnerabilidad en el software MOVEit Transfer de Progress Software.",
+  "color": "#ef4444"
+}

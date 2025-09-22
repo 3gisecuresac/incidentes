@@ -1,0 +1,13 @@
+{
+  "id": 6452,
+  "title": "Centro Charles Lea - Ransomware - Undetermined",
+  "date": "2023-11-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Centro Charles Lea",
+  "source": "nan",
+  "summary": "El Centro Charles Lea notifica a 1.250 personas que parte de su información personal se vio comprometida en un ataque de ransomware.",
+  "color": "#ef4444"
+}

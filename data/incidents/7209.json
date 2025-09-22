@@ -1,0 +1,13 @@
+{
+  "id": 7209,
+  "title": "Puerto de Barcelona - Ransomware - Undetermined",
+  "date": "2018-09-20",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Puerto de Barcelona se ven afectadas",
+  "source": "nan",
+  "summary": "Las operaciones terrestres del Puerto de Barcelona se ven afectadas por un ataque de ransomware.",
+  "color": "#ef4444"
+}

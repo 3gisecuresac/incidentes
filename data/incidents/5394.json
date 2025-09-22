@@ -1,0 +1,13 @@
+{
+  "id": 5394,
+  "title": "Enlace de salud de DC - Data leak - IntelBroker",
+  "date": "2023-03-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "IntelBroker",
+  "impact": "Filtración de datos en Representantes de EE",
+  "source": "nan",
+  "summary": "El FBI está investigando una violación de datos que afecta a miembros y personal de la Cámara de Representantes de EE. UU. después de que su cuenta e información personal confidencial fueran robadas de los servidores de DC Health Link.",
+  "color": "#ef4444"
+}

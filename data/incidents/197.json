@@ -1,0 +1,13 @@
+{
+  "id": 197,
+  "title": "Astros de Houston - Data leak - Undetermined",
+  "date": "2014-07-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Houston Astros",
+  "source": "http://news.softpedia.com/news/Houston-Astros-Systems-Breached-Trade-Talks-Revealed-449040.shtml",
+  "summary": "Los sistemas del equipo de béisbol Houston Astros fueron accedidos por una persona no autorizada, quien extrajo contenido que revela conversaciones comerciales internas.",
+  "color": "#a78bfa"
+}

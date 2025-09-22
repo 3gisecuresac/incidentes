@@ -1,0 +1,13 @@
+{
+  "id": 5117,
+  "title": "Asfalto Albina - Ransomware - Lorenz",
+  "date": "2022-11-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Lorenz",
+  "impact": "Filtración de datos en Albina Asphalt a su sitio web oscuro",
+  "source": "nan",
+  "summary": "Lorenz cifró y filtró datos robados de Albina Asphalt a su sitio web oscuro",
+  "color": "#ef4444"
+}

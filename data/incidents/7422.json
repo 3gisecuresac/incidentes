@@ -1,0 +1,13 @@
+{
+  "id": 7422,
+  "title": "Asamblea Nacional del Ecuador (asambleanacional.gob.ec) - Data leak - Kapustkiy",
+  "date": "2016-12-04",
+  "country": "Ecuador",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Kapustkiy",
+  "impact": "Filtración de datos en Ecuador",
+  "source": "nan",
+  "summary": "Kapustkiy viola la Asamblea Nacional del Ecuador y filtra datos vía PasteBin.",
+  "color": "#ef4444"
+}

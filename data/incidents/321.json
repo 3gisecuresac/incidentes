@@ -1,0 +1,13 @@
+{
+  "id": 321,
+  "title": "ActualC - Data leak - Undetermined",
+  "date": "2014-10-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en CurrentC un",
+  "source": "http://www.techrepublic.com/article/apple-pay-competitor-currentc-hacked-before-service-launch/",
+  "summary": "CurrentC, un sistema de pago basado en teléfonos diseñado para competir con el recientemente lanzado Apple Pay, sufre una importante violación de datos, ya que las direcciones de correo electrónico de los evaluadores beta y los usuarios potenciales interesados ​​se extraen de una base de datos.",
+  "color": "#ef4444"
+}

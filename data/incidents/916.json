@@ -1,0 +1,13 @@
+{
+  "id": 916,
+  "title": "scrum.org - Data leak - Undetermined",
+  "date": "2016-05-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Scrum.org",
+  "source": "http://www.theregister.co.uk/2016/06/01/scrumorg_hacked_may_have_lost_crypto_keys_and_some_user_data/",
+  "summary": "Scrum.org, el sitio de capacitación y certificación Scrum, contacta a los usuarios para advertirles sobre una violación de seguridad.",
+  "color": "#a78bfa"
+}

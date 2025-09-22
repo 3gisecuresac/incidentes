@@ -1,0 +1,13 @@
+{
+  "id": 911,
+  "title": "Condado de San Juan - Data leak - Undetermined",
+  "date": "2016-05-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en San Juan informa",
+  "source": "https://www.krqe.com/news/san-juan-county-warns-of-patient-data-breach/",
+  "summary": "El condado de San Juan informa que la información de los pacientes en el programa de tratamiento DWI del condado puede haberse visto comprometida después de que un atacante obtuvo acceso remoto a una de sus computadoras.",
+  "color": "#3b82f6"
+}

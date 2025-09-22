@@ -1,0 +1,13 @@
+{
+  "id": 1559,
+  "title": "Aperio - Data leak - Undetermined",
+  "date": "2018-02-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Aperio",
+  "source": "https://www.databreaches.net/aperio-group-client-account-data-breached-by-successful-phishing-attack/",
+  "summary": "Aperio informa sobre una violación de datos que ocurrió cuando las cuentas de correo electrónico de dos empleados se vieron comprometidas por ataques de phishing exitosos que resultaron en el reenvío automático de correos electrónicos desde esas cuentas a dos cuentas externas.",
+  "color": "#ef4444"
+}

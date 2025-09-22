@@ -1,0 +1,13 @@
+{
+  "id": 5367,
+  "title": "Ciudad de Oregón - Ransomware - Undetermined",
+  "date": "2023-02-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Oregon City",
+  "source": "nan",
+  "summary": "Oregon City revela haber sido víctima de un sofisticado ataque de ransomware.",
+  "color": "#ef4444"
+}

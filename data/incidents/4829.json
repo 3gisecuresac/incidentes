@@ -1,0 +1,13 @@
+{
+  "id": 4829,
+  "title": "Ciudad de Eagle Mountain - Data leak - Undetermined",
+  "date": "2022-08-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Eagle Mountain City",
+  "source": "nan",
+  "summary": "Eagle Mountain City es víctima de una estafa BEC que resultó en la pérdida de casi $1,13 millones.",
+  "color": "#a78bfa"
+}

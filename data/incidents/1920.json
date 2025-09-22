@@ -1,0 +1,13 @@
+{
+  "id": 1920,
+  "title": "Ciudad de Christiansburg - Data leak - Undetermined",
+  "date": "2018-11-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Christiansburg está comprometida en una estafa de phishing",
+  "source": "https://www.wdbj7.com/content/news/900-residents-501601722.html",
+  "summary": "La información de 900 personas de Christiansburg está comprometida en una estafa de phishing.",
+  "color": "#ef4444"
+}

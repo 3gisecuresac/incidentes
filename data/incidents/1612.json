@@ -1,0 +1,13 @@
+{
+  "id": 1612,
+  "title": "NIS América - Data leak - Undetermined",
+  "date": "2018-03-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Nippon Ichi Software",
+  "source": "https://www.ibtimes.co.uk/nis-america-hacked-customer-payment-card-data-stolen-5-off-next-purchase-offered-apology-gift-1665152",
+  "summary": "El desarrollador japonés de videojuegos Nippon Ichi Software revela que su filial estadounidense, NIS America, ha sufrido una importante filtración de datos que compromete los datos personales y financieros de sus clientes en línea. La filtración, causada por malware implantado en la página de pago, tuvo lugar entre el 23 de enero y el 26 de febrero.",
+  "color": "#ef4444"
+}

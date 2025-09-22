@@ -1,0 +1,13 @@
+{
+  "id": 7686,
+  "title": "Clave GC - Data leak - Undetermined",
+  "date": "2020-08-17",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Consejo del Tesoro de Canadá",
+  "source": "nan",
+  "summary": "Según un comunicado de prensa emitido por la Secretaría del Consejo del Tesoro de Canadá, miles de cuentas de usuarios de servicios gubernamentales en línea fueron pirateadas recientemente. Los hackers atacaron GCKey, un servicio utilizado por unos 30 departamentos federales, con robo de credenciales.",
+  "color": "#3b82f6"
+}

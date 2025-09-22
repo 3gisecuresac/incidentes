@@ -1,0 +1,13 @@
+{
+  "id": 84,
+  "title": "Corporación Las Vegas Sands - Defacement - Anti WMD Team",
+  "date": "2014-02-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Defacement",
+  "actor": "Anti WMD Team",
+  "impact": "Filtración de datos en Las Vegas Sands Corp",
+  "source": "https://web.archive.org/web/20170518141232/https://www.bloomberg.com/news/articles/2014-12-11/nuke-remark-stirred-hack-on-sands-casinos-that-foreshadowed-sony",
+  "summary": "Algunos sitios web propiedad de Las Vegas Sands Corp, uno de los operadores de casinos más grandes del mundo, han sido hackeados y alterados por un grupo llamado Equipo Anti ADM. La página alterada también contiene información personal de empleados de Sands, incluyendo correos electrónicos y números de la seguridad social. Además, los atacantes implementaron malware de borrado de datos en las redes de Sands, lo que interrumpió gravemente sus operaciones. El ataque fue presuntamente perpetrado por hackers iraníes en represalia por un comentario del director ejecutivo de Sands Corp, Sheldon Adelson.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3019,
+  "title": "Beaumont Health - Data leak - Undetermined",
+  "date": "2020-07-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Michigan",
+  "source": "https://www.infosecurity-magazine.com/news/michigan-healthcare-provider/",
+  "summary": "Beaumont Health, el proveedor de atención médica más grande de Michigan, advierte a alrededor de 6.000 pacientes que sus datos pueden haber sido expuestos luego de un ataque de phishing que ocurrió entre el 3 y el 29 de enero de 2020.",
+  "color": "#ef4444"
+}

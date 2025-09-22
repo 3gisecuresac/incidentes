@@ -1,0 +1,13 @@
+{
+  "id": 5659,
+  "title": "Solicitud de Elegibilidad para Beneficios de Illinois (ABE) - Data leak - Undetermined",
+  "date": "2023-05-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Atención Médica",
+  "source": "nan",
+  "summary": "El Departamento de Atención Médica y Servicios Familiares de Illinois (HFS) y el Departamento de Servicios Humanos (IDHS) revelan una violación de datos dentro del portal Administrar mi caso (MMC) del sistema de Solicitud de Elegibilidad para Beneficios (ABE) del Estado de Illinois.",
+  "color": "#ef4444"
+}

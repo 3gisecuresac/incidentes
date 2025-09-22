@@ -1,0 +1,13 @@
+{
+  "id": 2063,
+  "title": "Citrix - Data leak - Undetermined",
+  "date": "2019-03-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Citrix sobre una violación de datos",
+  "source": "https://www.darkreading.com/application-security/citrix-hacked-by-international-cybercriminals/d/d-id/1334122",
+  "summary": "El FBI informa a Citrix sobre una violación de datos que parece haber comenzado con un ataque de rociado de contraseñas destinado a robar credenciales débiles para acceder a la red de la empresa.",
+  "color": "#ef4444"
+}

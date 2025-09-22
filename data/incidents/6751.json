@@ -1,0 +1,13 @@
+{
+  "id": 6751,
+  "title": "Ciudad de Arlington - Data leak - Undetermined",
+  "date": "2024-06-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Arlington revela",
+  "source": "nan",
+  "summary": "La ciudad de Arlington revela que perdió casi $446,000 en una estafa de compromiso de correo electrónico comercial (BEC) que duró meses.",
+  "color": "#3b82f6"
+}

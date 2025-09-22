@@ -1,0 +1,13 @@
+{
+  "id": 509,
+  "title": "copart.com - Data leak - Undetermined",
+  "date": "2015-05-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Copart.com",
+  "source": "http://news.softpedia.com/news/Copart-com-Breached-Driver-s-License-Numbers-Exposed-482625.shtml",
+  "summary": "El sitio web de subastas de automóviles Copart.com, notifica a sus usuarios que sus sistemas informáticos fueron violados por un atacante desconocido, quien obtuvo acceso a información confidencial perteneciente a sus miembros.",
+  "color": "#a78bfa"
+}

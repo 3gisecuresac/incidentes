@@ -1,0 +1,13 @@
+{
+  "id": 1642,
+  "title": "Under Armour - Data leak - Undetermined",
+  "date": "2018-03-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en MyFitnessPal",
+  "source": "http://investor.underarmour.com/releasedetail.cfm?ReleaseID=1062368",
+  "summary": "Under Armour, Inc. anuncia que notifica a los usuarios de MyFitnessPal, su aplicación y sitio web de alimentación y nutrición, sobre un problema de seguridad de datos. El 25 de marzo, el equipo de MyFitnessPal tuvo conocimiento de que un tercero no autorizado obtuvo datos asociados a las cuentas de usuario de MyFitnessPal a finales de febrero de 2018.",
+  "color": "#ef4444"
+}

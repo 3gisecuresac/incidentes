@@ -1,0 +1,13 @@
+{
+  "id": 6345,
+  "title": "Servicios de gestión de SBM - Ciberataque - Undetermined",
+  "date": "2023-10-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en SBM Management Services",
+  "source": "nan",
+  "summary": "SBM Management Services presenta un aviso de violación de datos después de enterarse de que una parte no autorizada podría haber accedido y adquirido información de la red informática de la empresa.",
+  "color": "#ef4444"
+}

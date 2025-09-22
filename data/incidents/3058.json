@@ -1,0 +1,13 @@
+{
+  "id": 3058,
+  "title": "Planes de salud académicos - Data leak - Undetermined",
+  "date": "2020-08-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Academic HealthPlans un",
+  "source": "https://www.beckershospitalreview.com/cybersecurity/2-330-unitedhealthcare-patients-exposed-after-broker-breached-in-phishing-attack.html",
+  "summary": "Academic HealthPlans, un proveedor de seguros de salud para estudiantes, sufre un ciberataque que resulta en la vulneración de dos cuentas de correo electrónico de empleados.",
+  "color": "#a78bfa"
+}

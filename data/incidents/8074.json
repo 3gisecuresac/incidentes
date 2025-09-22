@@ -1,0 +1,13 @@
+{
+  "id": 8074,
+  "title": "El Instituto Nacional de Estadística y Censos de Argentina (INDEC) - Ransomware - Undetermined",
+  "date": "2022-12-05",
+  "country": "Argentina",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estadística",
+  "source": "nan",
+  "summary": "El 5 de diciembre, el Instituto Nacional de Estadística y Censos (INDEC) anunció en sus redes sociales que había sufrido un contagio de virus.",
+  "color": "#a78bfa"
+}

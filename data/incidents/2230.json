@@ -1,0 +1,13 @@
+{
+  "id": 2230,
+  "title": "Playa Riviera - Ransomware - Undetermined",
+  "date": "2019-06-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Riviera Beach",
+  "source": "https://www.cbsnews.com/news/riviera-beach-florida-ransomware-attack-city-council-pays-600000-to-hackers-who-seized-its-computer-system/",
+  "summary": "Riviera Beach acepta pagar 600.000 dólares en rescate a los piratas informáticos que se apoderaron de su sistema informático en un ataque de ransomware.",
+  "color": "#ef4444"
+}

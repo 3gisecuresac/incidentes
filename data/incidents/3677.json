@@ -1,0 +1,13 @@
+{
+  "id": 3677,
+  "title": "Atención de piedra angular - Data leak - Undetermined",
+  "date": "2021-02-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Cornerstone Care",
+  "source": "nan",
+  "summary": "Cornerstone Care revela que ocurrió un ataque de phishing en junio de 2020.",
+  "color": "#ef4444"
+}

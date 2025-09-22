@@ -1,0 +1,13 @@
+{
+  "id": 7061,
+  "title": "Guardian Healthcare - Ransomware - Stornous",
+  "date": "2024-11-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Stornous",
+  "impact": "Filtración de datos en Stormous",
+  "source": "nan",
+  "summary": "Guardian Healthcare fue víctima de un ataque de ransomware de Stormous. Los cibercriminales filtraron 3 GB de archivos, muchos de los cuales contienen información médica protegida (PHI) de los pacientes.",
+  "color": "#ef4444"
+}

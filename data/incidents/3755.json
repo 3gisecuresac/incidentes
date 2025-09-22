@@ -1,0 +1,13 @@
+{
+  "id": 3755,
+  "title": "Remmers - Ransomware - Undetermined",
+  "date": "2021-03-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Remmers",
+  "source": "nan",
+  "summary": "La empresa química Remmers sufre un ciberataque.",
+  "color": "#a78bfa"
+}

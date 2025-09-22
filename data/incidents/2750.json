@@ -1,0 +1,13 @@
+{
+  "id": 2750,
+  "title": "Grupo de atención médica Munson - Data leak - Undetermined",
+  "date": "2020-02-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Munson Healthcare Group",
+  "source": "https://www.infosecurity-magazine.com/news/munson-healthcare-data-breach/",
+  "summary": "Munson Healthcare Group revela que hackers accedieron a datos de pacientes al comprometer las cuentas de correo electrónico de al menos dos empleados. Se accedió a los historiales de pacientes entre el 31 de julio y el 22 de octubre de 2019, pero la filtración pasó desapercibida hasta el 16 de enero de 2020.",
+  "color": "#ef4444"
+}

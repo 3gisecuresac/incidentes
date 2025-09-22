@@ -1,0 +1,13 @@
+{
+  "id": 5453,
+  "title": "Universidad de la ciudad de Oklahoma (OCU) - Ransomware - Undetermined",
+  "date": "2023-03-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Oklahoma",
+  "source": "nan",
+  "summary": "La Universidad de la Ciudad de Oklahoma (OCU) presenta un aviso de violación de datos después de enterarse de que un ciberataque comprometió la seguridad de estudiantes y empleados actuales y anteriores.",
+  "color": "#ef4444"
+}

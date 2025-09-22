@@ -1,0 +1,13 @@
+{
+  "id": 7066,
+  "title": "Cumplimiento del Formulario I-9 - Data leak - Undetermined",
+  "date": "2024-04-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Form I-9 Compliance",
+  "source": "nan",
+  "summary": "El proveedor de soluciones de verificación de elegibilidad de empleados Form I-9 Compliance sufre una violación de datos y su impacto es mucho mayor de lo que se creía inicialmente, llegando a 190.000 personas.",
+  "color": "#ef4444"
+}

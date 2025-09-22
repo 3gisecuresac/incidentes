@@ -1,0 +1,13 @@
+{
+  "id": 1485,
+  "title": "Café a prueba de balas - Data leak - Undetermined",
+  "date": "2017-11-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Bulletproof Coffee la",
+  "source": "http://www.ibtimes.co.uk/bulletproof-coffee-hacked-customers-personal-credit-card-details-stolen-data-breach-1649162",
+  "summary": "Bulletproof Coffee, la empresa creadora del popular café energizante con infusión de mantequilla, afirma haber sufrido una filtración de datos que comprometió la información personal y financiera de sus clientes. La empresa descubrió un código informático no autorizado añadido al software que gestiona la página de pago de su sitio web.",
+  "color": "#ef4444"
+}

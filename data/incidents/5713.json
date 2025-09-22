@@ -1,0 +1,13 @@
+{
+  "id": 5713,
+  "title": "¿De quién es el Crédito Federal? - Data leak - cl0p",
+  "date": "2023-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Quorum Federal Credit Union",
+  "source": "nan",
+  "summary": "Quorum Federal Credit Union presenta un aviso de violación de datos después de descubrir que una vulnerabilidad dentro del software de transferencia de archivos MOVEit resultó en que una parte no autorizada pudiera acceder a datos confidenciales de clientes.",
+  "color": "#ef4444"
+}

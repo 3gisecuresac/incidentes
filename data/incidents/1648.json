@@ -1,0 +1,13 @@
+{
+  "id": 1648,
+  "title": "Oneok Inc - DoS - Undetermined",
+  "date": "2018-04-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estados Unidos han visto sus sistemas electrónicos de comunicación con los clientes apagados",
+  "source": "https://www.bloomberg.com/news/articles/2018-04-03/day-after-cyber-attack-a-third-gas-pipeline-data-system-shuts",
+  "summary": "Al menos cuatro compañías de oleoductos de Estados Unidos han visto sus sistemas electrónicos de comunicación con los clientes apagados, y tres de ellas confirmaron que fue resultado de un ciberataque a Latitude Technology, un proveedor externo.",
+  "color": "#a78bfa"
+}

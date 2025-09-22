@@ -1,0 +1,13 @@
+{
+  "id": 7143,
+  "title": "Operación PAR, Inc. - Ransomware - World Leaks",
+  "date": "2025-06-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "World Leaks",
+  "impact": "Filtración de datos en Florida",
+  "source": "nan",
+  "summary": "El 10 de junio de 2025, Operation PAR, Inc., una organización sin fines de lucro de Florida que ofrece servicios de salud mental y para la adicción, fue atacada por el grupo de ransomware Worldleaks. El atacante extrajo alrededor de 485 GB de datos (casi 900 000 archivos con información personal identificable y de salud protegida) y posteriormente los publicó en un sitio de filtraciones de la dark web. No se confirmó ningún cifrado ni interrupción del servicio.",
+  "color": "#ef4444"
+}

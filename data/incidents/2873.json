@@ -1,0 +1,13 @@
+{
+  "id": 2873,
+  "title": "Servicios ProPath, LLC - Data leak - Undetermined",
+  "date": "2020-05-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Texas notificó a sus pacientes sobre una vulneración de seguridad de datos derivada de la vulneración de las cuentas de correo electrónico de dos empleados",
+  "source": "https://www.databreaches.net/tx-propath-notifies-patients-of-data-security-incident/",
+  "summary": "ProPath Services, LLC en Texas notificó a sus pacientes sobre una vulneración de seguridad de datos derivada de la vulneración de las cuentas de correo electrónico de dos empleados. El incidente ocurrió en 2020, pero ProPath no indica exactamente cuándo la descubrió.",
+  "color": "#ef4444"
+}

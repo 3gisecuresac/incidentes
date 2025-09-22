@@ -1,0 +1,13 @@
+{
+  "id": 2139,
+  "title": "El canal del tiempo - Ransomware - Undetermined",
+  "date": "2019-04-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Weather Channel",
+  "source": "https://www.engadget.com/2019/04/18/the-weather-channel-ransomware/",
+  "summary": "El Weather Channel es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

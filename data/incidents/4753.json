@@ -1,0 +1,13 @@
+{
+  "id": 4753,
+  "title": "Podología de Goldsboro - Ransomware - Undetermined",
+  "date": "2022-07-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Goldsboro Podiatry",
+  "source": "nan",
+  "summary": "Goldsboro Podiatry anuncia que personas no autorizadas potencialmente obtuvieron la información médica protegida (PHI) de 30,669 personas, después de que una empresa anónima que administra los registros médicos electrónicos de los pacientes sufriera un ataque de ransomware.",
+  "color": "#ef4444"
+}

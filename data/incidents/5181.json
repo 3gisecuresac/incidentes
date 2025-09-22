@@ -1,0 +1,13 @@
+{
+  "id": 5181,
+  "title": "Ciudad de Mount Vernon - Ransomware - LockBit 3.0",
+  "date": "2022-12-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Mount Vernon",
+  "source": "nan",
+  "summary": "La ciudad de Mount Vernon, Ohio, dijo que su departamento de policía, tribunal municipal y otras oficinas gubernamentales se vieron afectadas por un ataque de ransomware.",
+  "color": "#ef4444"
+}

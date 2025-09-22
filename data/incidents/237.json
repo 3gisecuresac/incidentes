@@ -1,0 +1,13 @@
+{
+  "id": 237,
+  "title": "Conóceme - Data leak - Undetermined",
+  "date": "2014-08-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en MeetMe",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/hackers-breach-social-network-meetme/",
+  "summary": "A los usuarios de MeetMe que iniciaron sesión en la red social entre el 5 y el 7 de agosto se les pidió que cambiaran su contraseña después de que piratas informáticos desconocidos violaran la red MeetMe y comprometieran cierta información de los usuarios.",
+  "color": "#3b82f6"
+}

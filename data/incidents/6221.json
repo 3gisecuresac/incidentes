@@ -1,0 +1,13 @@
+{
+  "id": 6221,
+  "title": "Cooperativa - Data leak - Undetermined",
+  "date": "2023-09-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad",
+  "source": "nan",
+  "summary": "Los atacantes roban 7,9 millones de dólares del exchange de criptomonedas HTX, pero la empresa resolvió todos los problemas relacionados ya que cubrió completamente las pérdidas sufridas por el ataque.",
+  "color": "#a78bfa"
+}

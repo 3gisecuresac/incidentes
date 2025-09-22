@@ -1,0 +1,13 @@
+{
+  "id": 913,
+  "title": "NS1 - DoS - Undetermined",
+  "date": "2016-05-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en NS1",
+  "source": "http://arstechnica.com/information-technology/2016/05/major-dns-provider-hit-by-mysterious-focused-ddos-attack/",
+  "summary": "Atacantes desconocidos han estado dirigiendo un ejército de bots en constante cambio en un ataque de denegación de servicio distribuido (DDoS) contra NS1, un importante proveedor de gestión de tráfico y DNS.",
+  "color": "#f59e0b"
+}

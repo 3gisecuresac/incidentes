@@ -1,0 +1,13 @@
+{
+  "id": 7602,
+  "title": "Colegio Algonquin - Data leak - Undetermined",
+  "date": "2018-06-29",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en El Algonquin College",
+  "source": "nan",
+  "summary": "El Algonquin College publica una nota indicando que la comunidad educativa aún no está segura de cuántos estudiantes y empleados actuales y anteriores podrían verse afectados por un ciberataque ocurrido semanas antes.",
+  "color": "#a78bfa"
+}

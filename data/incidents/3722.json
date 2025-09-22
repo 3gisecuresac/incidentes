@@ -1,0 +1,13 @@
+{
+  "id": 3722,
+  "title": "Equinoccio - Infección Dispositivos - Undetermined",
+  "date": "2021-03-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Tesla",
+  "source": "nan",
+  "summary": "Los hackers obtuvieron acceso a cámaras de vigilancia en vivo instaladas en Tesla, Equinox, clínicas de salud, cárceles y bancos, incluido el Banco de Utah. Además de las imágenes capturadas por las cámaras, el hacker también compartió capturas de pantalla que muestran cómo logró obtener acceso root a los sistemas de vigilancia utilizados por Cloudflare y en la sede de Tesla.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2191,
+  "title": "Distrito escolar local de Coventry - Malware Attack - Undetermined",
+  "date": "2019-05-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Coventry se ve obligado a enviar a los estudiantes",
+  "source": "https://www.zdnet.com/article/ohio-school-sends-students-home-because-of-trickbot-malware-infection/",
+  "summary": "El Distrito Escolar Local de Coventry se ve obligado a enviar a los estudiantes y a parte de su personal a casa después de que una infección de malware Trickbot causara problemas importantes en su infraestructura de TI.",
+  "color": "#a78bfa"
+}

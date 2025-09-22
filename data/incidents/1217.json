@@ -1,0 +1,13 @@
+{
+  "id": 1217,
+  "title": "Distrito Escolar del Condado de Manatee - Data leak - Undetermined",
+  "date": "2017-02-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Condado de Manatee es víctima de una estafa de phishing",
+  "source": "https://www.wfla.com/news/8000-manatee-co-school-employees-victimized-in-email-scam/",
+  "summary": "El Distrito Escolar del Condado de Manatee es víctima de una estafa de phishing que compromete la información de casi 8.000 empleados.",
+  "color": "#ef4444"
+}

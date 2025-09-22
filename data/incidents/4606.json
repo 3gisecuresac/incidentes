@@ -1,0 +1,13 @@
+{
+  "id": 4606,
+  "title": "Socios de fisioterapia de Alliance - Data leak - Undetermined",
+  "date": "2022-06-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Alliance Physical Therapy Partners",
+  "source": "nan",
+  "summary": "Alliance Physical Therapy Partners confirma que un tercero no autorizado accedió a ciertos sistemas dentro de su red que contenían información médica protegida de los pacientes.",
+  "color": "#a78bfa"
+}

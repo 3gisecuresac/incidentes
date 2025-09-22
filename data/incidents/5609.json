@@ -1,0 +1,13 @@
+{
+  "id": 5609,
+  "title": "Universidad Estatal de Montana - Ransomware - Royal",
+  "date": "2023-04-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Royal",
+  "impact": "Cifrado por ransomware en Montana publica un aviso informando a estudiantes",
+  "source": "nan",
+  "summary": "La Universidad Estatal de Montana publica un aviso informando a estudiantes y empleados sobre una interrupción del sistema. El grupo de ransomware Royal se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

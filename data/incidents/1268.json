@@ -1,0 +1,13 @@
+{
+  "id": 1268,
+  "title": "Sierra Tel - DoS - Janitor",
+  "date": "2017-04-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Janitor",
+  "impact": "Incidente de seguridad en Sierra Tel",
+  "source": "https://www.bleepingcomputer.com/news/security/us-isp-goes-down-as-two-malware-families-go-to-war-over-its-modems/",
+  "summary": "El Bricker Bot derriba el módem Zyxel HN-51 perteneciente a Sierra Tel, un ISP de California.",
+  "color": "#a78bfa"
+}

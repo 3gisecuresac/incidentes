@@ -1,0 +1,13 @@
+{
+  "id": 1875,
+  "title": "Sucursal del condado de Orange de las Girl Scouts of America - Data leak - Undetermined",
+  "date": "2018-10-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Orange",
+  "source": "https://securityaffairs.co/wordpress/77512/data-breach/girl-scouts-data-breach.html",
+  "summary": "Los piratas informáticos violan la sucursal del condado de Orange, California, de las Girl Scouts of America, exponiendo potencialmente información personal de 2.800 miembros y sus familias.",
+  "color": "#a78bfa"
+}

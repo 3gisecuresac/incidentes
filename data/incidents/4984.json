@@ -1,0 +1,13 @@
+{
+  "id": 4984,
+  "title": "Seguros Amerigroup - Data leak - Undetermined",
+  "date": "2022-10-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Seguro Social e información de seguro médico pertenecientes a ciertas personas",
+  "source": "nan",
+  "summary": "Amerigroup Insurance informa sobre una violación de datos que puso en riesgo los nombres, direcciones, números de Seguro Social e información de seguro médico pertenecientes a ciertas personas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7430,
+  "title": "Seguros Equinoccial - Ransomware - Vice Society",
+  "date": "2022-12-28",
+  "country": "Ecuador",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Vice Society",
+  "impact": "Filtración de datos en Seguros Equinoccial aparecen en el sitio de filtración del ransomware Vice Society",
+  "source": "nan",
+  "summary": "Datos de Seguros Equinoccial aparecen en el sitio de filtración del ransomware Vice Society.",
+  "color": "#ef4444"
+}

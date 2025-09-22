@@ -1,0 +1,13 @@
+{
+  "id": 1230,
+  "title": "Centro médico de Lexington - Data leak - Undetermined",
+  "date": "2017-02-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El Centro M",
+  "source": "https://www.databreaches.net/sc-lexington-medical-center-notifies-employees-of-breach/",
+  "summary": "El Centro Médico Lexington notifica a sus empleados sobre una violación que afecta su base de datos.",
+  "color": "#ef4444"
+}

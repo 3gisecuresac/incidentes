@@ -1,0 +1,13 @@
+{
+  "id": 7642,
+  "title": "TransUnión - Data leak - Undetermined",
+  "date": "2019-10-09",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TransUnion",
+  "source": "nan",
+  "summary": "La información personal de unos 37.000 canadienses se vio comprometida tras el uso fraudulento de las credenciales de acceso de un cliente comercial legítimo de TransUnion. La filtración ocurrió entre junio y julio.",
+  "color": "#ef4444"
+}

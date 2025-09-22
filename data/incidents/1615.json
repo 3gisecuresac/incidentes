@@ -1,0 +1,13 @@
+{
+  "id": 1615,
+  "title": "Junta de Educación de la Ciudad de Scottsboro - Data leak - Undetermined",
+  "date": "2018-03-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Nóminas de la Junta de Educación de la Ciudad de Scottsboro es víctima de una estafa de phishing",
+  "source": "https://blog.knowbe4.com/w-2-information-of-scottsboro-city-schools-employees-compromised-in-phishing-incident",
+  "summary": "El Departamento de Nóminas de la Junta de Educación de la Ciudad de Scottsboro es víctima de una estafa de phishing. Los atacantes solicitaron información del formulario W-2 a todos los empleados.",
+  "color": "#ef4444"
+}

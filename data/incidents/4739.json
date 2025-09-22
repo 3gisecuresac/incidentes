@@ -1,0 +1,13 @@
+{
+  "id": 4739,
+  "title": "Antorcha - Ciberataque - Undetermined",
+  "date": "2022-07-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Flambeau",
+  "source": "nan",
+  "summary": "Flambeau informa sobre una violación de datos después de que la empresa experimentara lo que parece ser un ciberataque dirigido a sus sistemas informáticos.",
+  "color": "#ef4444"
+}

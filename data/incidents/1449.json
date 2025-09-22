@@ -1,0 +1,13 @@
+{
+  "id": 1449,
+  "title": "Salud de Rivermend - Data leak - Undetermined",
+  "date": "2017-10-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Rivermend Health",
+  "source": "https://www.databreaches.net/rivermend-health-notifies-1300-after-employees-email-account-compromised/",
+  "summary": "Rivermend Health notifica a 1.300 pacientes que tenían información en la cuenta de correo electrónico de un empleado que estaba comprometida.",
+  "color": "#3b82f6"
+}

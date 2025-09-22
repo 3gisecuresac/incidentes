@@ -1,0 +1,13 @@
+{
+  "id": 2983,
+  "title": "Recursos de gestión tecnológica, Inc. (TMR) - Data leak - Undetermined",
+  "date": "2020-07-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Technology Management Resources Inc",
+  "source": "https://www.databreaches.net/arkansas-methodist-medical-center-notification-of-technology-management-resources-security-incide/",
+  "summary": "Technology Management Resources, Inc. sufre un ataque de phishing. Muchas organizaciones se ven afectadas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2521,
+  "title": "Adobe - Data leak - Undetermined",
+  "date": "2019-11-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Magento Marketplace",
+  "source": "https://www.zdnet.com/article/adobe-discloses-security-breach-impacting-magento-marketplace-users/",
+  "summary": "Adobe revela una brecha de seguridad que afecta a los usuarios registrados en Magento Marketplace. La vulnerabilidad en el sitio web de Magento Marketplace permitió a un tercero no autorizado acceder a la información de las cuentas de los usuarios registrados.",
+  "color": "#a78bfa"
+}

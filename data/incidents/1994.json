@@ -1,0 +1,13 @@
+{
+  "id": 1994,
+  "title": "Ciudad de Del Río - Ransomware - Undetermined",
+  "date": "2019-01-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Del Río",
+  "source": "https://www.zdnet.com/article/ransomware-attack-sends-city-of-del-rio-back-to-the-days-of-pen-and-paper/",
+  "summary": "Los funcionarios de la ciudad de Del Río, en Texas, se ven obligados a abandonar los servicios electrónicos y pasarse al lápiz y el papel después de que un ataque de ransomware cerrara efectivamente los servidores del Ayuntamiento.",
+  "color": "#ef4444"
+}

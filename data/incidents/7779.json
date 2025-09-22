@@ -1,0 +1,13 @@
+{
+  "id": 7779,
+  "title": "Colegio de MontMorency - Ransomware - Avos Locker",
+  "date": "2022-07-15",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Avos Locker",
+  "impact": "Cifrado por ransomware en MontMorency se ve afectado",
+  "source": "nan",
+  "summary": "El Colegio Canadiense de MontMorency se ve afectado por un ataque de ransomware Avos Locker.",
+  "color": "#ef4444"
+}

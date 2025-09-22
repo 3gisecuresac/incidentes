@@ -1,0 +1,13 @@
+{
+  "id": 7191,
+  "title": "Naranja España - Data leak - Linker Squad",
+  "date": "2015-01-05",
+  "country": "España",
+  "region": "Europa",
+  "type": "Data leak",
+  "actor": "Linker Squad",
+  "impact": "Sistema o cuenta comprometida en Orange España",
+  "source": "nan",
+  "summary": "Linker Squad afirma haber hackeado 10 millones de registros de usuarios de Orange España.",
+  "color": "#3b82f6"
+}

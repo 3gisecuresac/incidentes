@@ -1,0 +1,13 @@
+{
+  "id": 2721,
+  "title": "Instalación de compresión de gas natural no revelada - Ransomware - Undetermined",
+  "date": "2020-02-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Seguridad Cibernética",
+  "source": "https://www.bleepingcomputer.com/news/security/us-govt-warns-of-ransomware-attacks-on-pipeline-operations/",
+  "summary": "La Agencia de Seguridad Cibernética y de Infraestructura (CISA) alerta a las organizaciones de todos los sectores de infraestructura críticos de EE. UU. sobre un reciente ataque de ransomware que afectó una instalación de compresión de gas natural.",
+  "color": "#ef4444"
+}

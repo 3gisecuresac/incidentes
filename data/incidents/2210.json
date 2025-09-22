@@ -1,0 +1,13 @@
+{
+  "id": 2210,
+  "title": "Telegrama - DoS - Undetermined",
+  "date": "2019-06-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en China",
+  "source": "https://www.bleepingcomputer.com/news/security/ddos-attack-on-telegram-messenger-leaves-users-hanging/",
+  "summary": "Telegram sufre un ataque DDoS. El ataque parece tener su origen en China y estar relacionado con las protestas en Hong Kong contra un controvertido proyecto de ley de extradición.",
+  "color": "#f59e0b"
+}

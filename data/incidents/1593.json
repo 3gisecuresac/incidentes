@@ -1,0 +1,13 @@
+{
+  "id": 1593,
+  "title": "El Departamento de Transporte de Colorado (CDOT) - Ransomware - Undetermined",
+  "date": "2018-02-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en SamSam",
+  "source": "https://www.scmagazine.com/colorado-dot-allentown-pa-in-recovery-mode-after-costly-cyberattacks/article/746109/",
+  "summary": "CDOT es víctima de un ataque de ransomware, atribuido a SamSam, que obliga a la organización a apagar 2.000 computadoras.",
+  "color": "#ef4444"
+}

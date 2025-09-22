@@ -1,0 +1,13 @@
+{
+  "id": 456,
+  "title": "Colegio Wellesley - Data leak - Chief AKA @Puttied",
+  "date": "2015-04-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Chief AKA @Puttied",
+  "impact": "Sistema o cuenta comprometida en @Puttied",
+  "source": "http://www.databreaches.net/wellesley-college-data-dumped-server-vulnerable-to-sqli/",
+  "summary": "4/2o Cell, también conocido como @Puttied, hackea un subdominio de wellesley.edu (mobius.wellesley.edu) y afirma haber obtenido 700 registros.",
+  "color": "#3b82f6"
+}

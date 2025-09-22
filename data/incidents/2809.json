@@ -1,0 +1,13 @@
+{
+  "id": 2809,
+  "title": "10x Genómica - Ransomware - REvil",
+  "date": "2020-04-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Cifrado por ransomware en Genomics",
+  "source": "https://www.databreaches.net/another-covid-19-research-firm-targeted-by-ransomware-attack/",
+  "summary": "10x Genomics notifica sobre un ataque de ransomware Sodinokibi.",
+  "color": "#ef4444"
+}

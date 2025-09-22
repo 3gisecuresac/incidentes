@@ -1,0 +1,13 @@
+{
+  "id": 629,
+  "title": "LoopPay - Data leak - Ministry of State Security's (MSS) (APT19)",
+  "date": "2015-10-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Ministry of State Security's (MSS) (APT19)",
+  "impact": "Incidente de seguridad en Samsung",
+  "source": "http://www.nytimes.com/2015/10/08/technology/chinese-hackers-breached-looppay-a-contributor-to-samsung-pay.html?_r=0",
+  "summary": "El New York Times revela que meses antes de que su tecnología se convirtiera en la pieza central del nuevo sistema de pagos móviles de Samsung, LoopPay, una pequeña subsidiaria en Massachusetts del gigante de la electrónica surcoreano, fue el objetivo de un sofisticado ataque por parte de un grupo conocido como Codoso Group.",
+  "color": "#a78bfa"
+}

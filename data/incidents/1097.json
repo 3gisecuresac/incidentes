@@ -1,0 +1,13 @@
+{
+  "id": 1097,
+  "title": "Fundación Bradley - Data leak - Anonymous (Poland)",
+  "date": "2016-10-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Anonymous (Poland)",
+  "impact": "Filtración de datos en Clinton",
+  "source": "https://www.databreaches.net/bradley-foundation-hacked-to-expose-contribution-to-clinton-campaign/",
+  "summary": "Anonymous Poland afirma haber hackeado la Fundación Bradley y haber filtrado más de 30 GB de datos, incluyendo una carta falsa de una donación de 150 millones de dólares a la campaña de Clinton.",
+  "color": "#ef4444"
+}

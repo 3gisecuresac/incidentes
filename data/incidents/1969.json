@@ -1,0 +1,13 @@
+{
+  "id": 1969,
+  "title": "Tribune Publishing del Sur de California - Ransomware - Undetermined",
+  "date": "2018-12-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Tribune Publishing en el sur de California",
+  "source": "https://www.cnet.com/news/malware-suspected-of-hobbling-newspapers-production/",
+  "summary": "Se sospecha que un ataque de ransomware Ryuk impidió la producción de varios periódicos, entre ellos el Wall Street Journal y Los Angeles Times. El ataque afectó los sistemas de la planta de impresión de Tribune Publishing en el sur de California.",
+  "color": "#ef4444"
+}

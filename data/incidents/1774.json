@@ -1,0 +1,13 @@
+{
+  "id": 1774,
+  "title": "Profesionales Administrativos de Golden Heart - Ransomware - Undetermined",
+  "date": "2018-07-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Alaska",
+  "source": "https://www.hipaajournal.com/golden-heart-administrative-professionals-ransomware-attack-impacts-44600-patients/",
+  "summary": "Golden Heart Administrative Professionals, una empresa de facturación y socio comercial de varios proveedores de atención médica en Alaska, notifica a 44.600 personas que parte de su información médica protegida potencialmente ha sido accedida por personas no autorizadas.",
+  "color": "#a78bfa"
+}

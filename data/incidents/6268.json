@@ -1,0 +1,13 @@
+{
+  "id": 6268,
+  "title": "Junta Electoral del Distrito de Columbia - Ransomware - RansomedVC",
+  "date": "2023-10-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "RansomedVC",
+  "impact": "Filtración de datos en Distrito de Columbia",
+  "source": "nan",
+  "summary": "La Junta Electoral del Distrito de Columbia (DCBOE) investiga una fuga de datos que involucra un número desconocido de registros de votantes luego de reclamos de violación por parte del actor de amenazas conocido como RansomedVC.",
+  "color": "#ef4444"
+}

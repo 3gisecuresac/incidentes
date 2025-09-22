@@ -1,0 +1,13 @@
+{
+  "id": 5398,
+  "title": "Grupo Quirúrgico del Noreste (NSG) - Ransomware - BianLian",
+  "date": "2023-03-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "BianLian",
+  "impact": "Cifrado por ransomware en HIPAA",
+  "source": "nan",
+  "summary": "Northeast Surgical Group notifica a 15.298 pacientes sobre una violación de HIPAA, derivada de un ataque de ransomware BianLian.",
+  "color": "#ef4444"
+}

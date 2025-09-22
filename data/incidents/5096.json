@@ -1,0 +1,13 @@
+{
+  "id": 5096,
+  "title": "Distrito Escolar del Área de Adams-Friendship (AFASD) - Data leak - Undetermined",
+  "date": "2022-11-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en El 15 de",
+  "source": "nan",
+  "summary": "El 15 de noviembre de 2022, les notificamos que nuestra red y nuestros servicios de internet sufrieron una interrupción. Recientemente, nos enteramos de que se detectó actividad no autorizada en nuestro entorno alrededor del 15 de noviembre de 2022.",
+  "color": "#a78bfa"
+}

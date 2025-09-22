@@ -1,0 +1,13 @@
+{
+  "id": 5387,
+  "title": "Atención médica administrada de América del Norte (MCNA) - Ransomware - LockBit 3.0",
+  "date": "2023-03-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Managed Care of North America",
+  "source": "nan",
+  "summary": "Un ataque de ransomware LockBit a Managed Care of North America (MCNA), un importante proveedor de seguros dentales, compromete la información personal de casi nueve millones de personas en los Estados Unidos, según documentos presentados ante los reguladores estatales.",
+  "color": "#ef4444"
+}

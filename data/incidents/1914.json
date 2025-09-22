@@ -1,0 +1,13 @@
+{
+  "id": 1914,
+  "title": "Atrium Health - Data leak - Undetermined",
+  "date": "2018-11-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en AccuDoc Solutions. La",
+  "source": "https://www.healthcareitnews.com/news/atrium-health-breach-data-265m-patients-potentially-exposed",
+  "summary": "Atrium Health afirma que los datos de aproximadamente 2,65 millones de pacientes, incluyendo direcciones, fechas de nacimiento y números de seguro social, podrían haberse visto comprometidos en una filtración de datos en su proveedor externo, AccuDoc Solutions. La filtración ocurrió entre el 22 y el 29 de septiembre.",
+  "color": "#ef4444"
+}

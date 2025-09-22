@@ -1,0 +1,13 @@
+{
+  "id": 1724,
+  "title": "Ciudad de Wellington - Data leak - Undetermined",
+  "date": "2018-06-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Wellington revelaron",
+  "source": "https://www.databreaches.net/wellington-fla-breach-larger-than-initially-thought/",
+  "summary": "Los funcionarios de Wellington revelaron que recientemente fueron notificados por Superion, su proveedor de software, sobre posibles cargos no autorizados en tarjetas de crédito utilizadas por los clientes para pagar sus facturas de servicios públicos.",
+  "color": "#a78bfa"
+}

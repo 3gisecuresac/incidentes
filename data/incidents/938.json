@@ -1,0 +1,13 @@
+{
+  "id": 938,
+  "title": "iMesh - Data leak - Undetermined",
+  "date": "2016-06-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad",
+  "source": "http://www.zdnet.com/article/51-million-imesh-file-sharing-accounts-for-sale-dark-web/",
+  "summary": "51 millones de cuentas de usuario de iMesh, un servicio de intercambio de archivos ahora desaparecido, se ponen a la venta en la dark web.",
+  "color": "#a78bfa"
+}

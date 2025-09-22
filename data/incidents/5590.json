@@ -1,0 +1,13 @@
+{
+  "id": 5590,
+  "title": "Gestión de médicos del desierto - Ciberataque - Undetermined",
+  "date": "2023-04-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Desert Physicians Management DPM",
+  "source": "nan",
+  "summary": "Desert Physicians Management (DPM) presenta un aviso de violación de datos después de determinar que un reciente incidente de ciberseguridad comprometió la información confidencial de los pacientes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1253,
+  "title": "Verifone - Data leak - Undetermined",
+  "date": "2017-03-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Verifone",
+  "source": "https://krebsonsecurity.com/2017/03/payments-giant-verifone-investigating-breach/",
+  "summary": "El gigante de pagos con tarjetas de crédito y débito Verifone investiga una violación de sus redes informáticas internas que parece haber afectado a varias empresas que utilizan sus soluciones de punto de venta.",
+  "color": "#a78bfa"
+}

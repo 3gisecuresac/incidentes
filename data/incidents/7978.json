@@ -1,0 +1,13 @@
+{
+  "id": 7978,
+  "title": "Grupo Fleury - Ransomware - REvil",
+  "date": "2021-06-22",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Cifrado por ransomware en Grupo Fleury",
+  "source": "nan",
+  "summary": "La empresa brasileña de diagnóstico médico, Grupo Fleury, es el objetivo de un ataque de ransomware REvil que la obliga a desconectar sus sistemas.",
+  "color": "#ef4444"
+}

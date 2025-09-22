@@ -1,0 +1,13 @@
+{
+  "id": 2564,
+  "title": "Wawa - Infección Dispositivos - Undetermined",
+  "date": "2019-12-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Wawa",
+  "source": "https://www.zdnet.com/article/wawa-says-pos-malware-incident-impacts-potentially-all-locations/",
+  "summary": "La cadena de tiendas de conveniencia Wawa revela hoy una filtración de datos de tarjetas después de que su equipo de seguridad encontrara malware instalado en sus sistemas de procesamiento de pagos. El malware se instaló el 4 de marzo de este año y podría afectar a todas sus sucursales.",
+  "color": "#ef4444"
+}

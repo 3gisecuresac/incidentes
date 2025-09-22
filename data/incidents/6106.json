@@ -1,0 +1,13 @@
+{
+  "id": 6106,
+  "title": "Reequipar - Data leak - Undetermined",
+  "date": "2023-08-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Retool",
+  "source": "nan",
+  "summary": "La empresa de software Retool afirma que las cuentas de 27 clientes de la nube se vieron comprometidas tras un ataque de ingeniería social dirigido y de múltiples etapas.",
+  "color": "#3b82f6"
+}

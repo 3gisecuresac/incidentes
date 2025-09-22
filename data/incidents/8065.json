@@ -1,0 +1,13 @@
+{
+  "id": 8065,
+  "title": "Poder Judicial de Córdoba, Argentina - Ransomware - Play",
+  "date": "2022-08-15",
+  "country": "Argentina",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Play",
+  "impact": "Cifrado por ransomware en Córdoba de Argentina cierra sus sistemas informáticos",
+  "source": "nan",
+  "summary": "El Poder Judicial de Córdoba de Argentina cierra sus sistemas informáticos tras sufrir un ataque de ransomware, presuntamente a manos de la nueva operación de ransomware 'Play'.",
+  "color": "#ef4444"
+}

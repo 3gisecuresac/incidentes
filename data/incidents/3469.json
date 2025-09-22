@@ -1,0 +1,13 @@
+{
+  "id": 3469,
+  "title": "Departamento del Tesoro de los Estados Unidos - Data leak - SVR (COZYBEAR)",
+  "date": "2020-12-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (COZYBEAR)",
+  "impact": "Sistema o cuenta comprometida en Tesoro es víctima del hackeo a SolarWinds",
+  "source": "nan",
+  "summary": "El Departamento del Tesoro es víctima del hackeo a SolarWinds. Los hackers, respaldados por un gobierno extranjero, robaron información de sus redes.",
+  "color": "#3b82f6"
+}

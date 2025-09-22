@@ -1,0 +1,13 @@
+{
+  "id": 5333,
+  "title": "Corporación de atención médica Robeson - Data leak - Undetermined",
+  "date": "2023-02-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Robeson Health Care Corporation",
+  "source": "nan",
+  "summary": "Robeson Health Care Corporation afirma que ha detectado malware en sus sistemas informáticos.",
+  "color": "#a78bfa"
+}

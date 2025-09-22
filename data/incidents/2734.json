@@ -1,0 +1,13 @@
+{
+  "id": 2734,
+  "title": "Socios de alergia - Ransomware - Undetermined",
+  "date": "2020-02-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Allergy Partners en las montañas",
+  "source": "https://www.databreaches.net/nc-fbi-investigating-8-day-cyber-attack-after-ransomware-attack-on-allergy-partners/",
+  "summary": "Las autoridades federales investigan el ataque de ransomware que provocó una interrupción de la red en las instalaciones de Allergy Partners en las montañas.\n\nEl ataque ocurrió el 23 de febrero y se prolongó durante ocho días, mientras los hackers exigían un rescate exorbitante de 1,75 millones de dólares, según un informe presentado ante el Departamento de Policía de Asheville.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5755,
+  "title": "SaltarConducir - Data leak - Undetermined",
+  "date": "2023-06-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en HopSkipDrive una",
+  "source": "nan",
+  "summary": "HopSkipDrive, una startup de viajes compartidos para estudiantes, confirma una filtración de datos que involucra los datos personales de más de 155.000 conductores.",
+  "color": "#ef4444"
+}

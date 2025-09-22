@@ -1,0 +1,13 @@
+{
+  "id": 6734,
+  "title": "Keytronic - Ransomware - Black Basta",
+  "date": "2024-06-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Black Basta",
+  "impact": "Filtración de datos en PCBA",
+  "source": "nan",
+  "summary": "El gigante de fabricación de PCBA, Keytronic, advierte que sufrió una violación de datos después de que la banda de ransomware Black Basta filtró 530 GB de datos robados de la empresa hace dos semanas.",
+  "color": "#ef4444"
+}

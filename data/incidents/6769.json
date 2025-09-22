@@ -1,0 +1,13 @@
+{
+  "id": 6769,
+  "title": "Corporación Mitre - Data leak - UNC5221",
+  "date": "2024-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "UNC5221",
+  "impact": "Incidente de seguridad en MITRE - NERVE",
+  "source": "nan",
+  "summary": "La Corporación MITRE afirma que actores de amenazas respaldados por el estado violaron sus sistemas (Entorno de experimentación, investigación y virtualización en red de MITRE - NERVE) en enero de 2024 al encadenar los dos días cero de Ivanti VPN CVE-2023-46805 y CVE-2024-21887.",
+  "color": "#a78bfa"
+}

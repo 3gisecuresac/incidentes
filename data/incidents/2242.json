@@ -1,0 +1,13 @@
+{
+  "id": 2242,
+  "title": "Departamento de Policía de las Islas Vírgenes de los Estados Unidos - Ransomware - Undetermined",
+  "date": "2019-06-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Policía de las Islas Vírgenes de EE",
+  "source": "https://www.govtech.com/security/FBI-Works-to-Counter-the-Effects-of-Virgin-Island-PD-Hack.html",
+  "summary": "El Departamento de Policía de las Islas Vírgenes de EE. UU. todavía está luchando contra un ataque de ransomware ocurrido en abril.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2996,
+  "title": "Colaboración - Ransomware - MAZE",
+  "date": "2020-07-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "MAZE",
+  "impact": "Cifrado por ransomware en Collabera",
+  "source": "https://www.theregister.com/2020/07/14/collabera_ransomware/",
+  "summary": "Collabera revela un ataque de ransomware que ocurrió el 8 de junio.",
+  "color": "#ef4444"
+}

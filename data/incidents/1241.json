@@ -1,0 +1,13 @@
+{
+  "id": 1241,
+  "title": "Residentes de EE. UU. en 20 estados - Data leak - Undetermined",
+  "date": "2017-02-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Colorado",
+  "source": "https://www.databreaches.net/russian-computer-hackers-in-colorado-sold-stolen-credit-card-numbers-for-3-6-million/",
+  "summary": "Según documentos judiciales federales, piratas informáticos rusos que operan en Colorado y otros 15 estados utilizaron virus de minería de datos para robar miles de números de tarjetas de crédito de residentes estadounidenses en 20 estados y los vendieron en la red oscura por más de 3,6 millones de dólares.",
+  "color": "#ef4444"
+}

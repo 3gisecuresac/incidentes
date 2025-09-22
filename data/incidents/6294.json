@@ -1,0 +1,13 @@
+{
+  "id": 6294,
+  "title": "Oeste - Data leak - cl0p",
+  "date": "2023-10-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit",
+  "source": "nan",
+  "summary": "Westat revela una violación de datos luego de un ciberataque que explotó la vulnerabilidad CVE-2023-34362 de MOVEit.",
+  "color": "#ef4444"
+}

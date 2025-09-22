@@ -1,0 +1,13 @@
+{
+  "id": 3231,
+  "title": "Salud Trinity - Ransomware - Undetermined",
+  "date": "2020-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Trinity Health",
+  "source": "https://www.msn.com/en-us/news/us/parent-company-to-mercy-health-and-st-joe-e2-80-99s-systems-sends-data-breach-letter-to-clients/ar-BB19k2t2",
+  "summary": "Trinity Health notifica a los donantes y a ciertos pacientes que se encuentran entre las víctimas del ataque de ransomware Blackbaud.",
+  "color": "#ef4444"
+}

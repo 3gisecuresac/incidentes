@@ -1,0 +1,13 @@
+{
+  "id": 1691,
+  "title": "Chocolates Malley - Data leak - Undetermined",
+  "date": "2018-05-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Malley",
+  "source": "https://www.databreaches.net/malleys-chocolates-website-hacked-3400-online-customers-card-information-breached/",
+  "summary": "Malley's Chocolates revela que su sitio web ha sido hackeado y que se ha violado la información de las tarjetas de 3.400 clientes en línea.",
+  "color": "#3b82f6"
+}

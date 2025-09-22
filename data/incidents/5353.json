@@ -1,0 +1,13 @@
+{
+  "id": 5353,
+  "title": "Organizaciones de atención médica en los EE.UU. - Ransomware - Medusa",
+  "date": "2023-02-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Medusa",
+  "impact": "Cifrado por ransomware en Coordinación de Ciberseguridad del Sector Salud",
+  "source": "nan",
+  "summary": "El Centro de Coordinación de Ciberseguridad del Sector Salud (HC3) advierte a las organizaciones del sector salud sobre el ransomware MedusaLocker.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 194,
+  "title": "Centro de Washington de la Universidad de California - Data leak - Undetermined",
+  "date": "2014-06-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en GoSignMeUp.com",
+  "source": "http://www.databreaches.net/university-of-california-washington-center-notifies-alumni-of-vendor-breach/",
+  "summary": "El Centro de la Universidad de California en Washington (UCDC) notifica a sus exalumnos sobre una vulneración de seguridad que afecta a su sistema de preinscripción de cursos. El ataque afectó a GoSignMeUp.com, el proveedor en la nube de la UCDC.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1670,
+  "title": "Clínica Billings - Data leak - Undetermined",
+  "date": "2018-04-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en La Cl",
+  "source": "https://billingsgazette.com/news/local/data-breach-affects-billings-clinic-patients-who-used-pharmacy-at-downtown-location/article_b8704016-b8a9-5aa1-8fd7-fd74a7ebeb29.html",
+  "summary": "La Clínica Billings notifica a 949 pacientes sobre una violación que afectó a su sistema de seguridad de correo electrónico y provocó que un individuo desconocido accediera a la información de los pacientes en febrero.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2949,
+  "title": "Servicios MEDNAX, Inc. - Data leak - Undetermined",
+  "date": "2020-06-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en MEDNAX",
+  "source": "https://www.databreaches.net/mednax-services-notifies-patients-of-data-breach/",
+  "summary": "MEDNAX Services, Inc. ha revelado que un tercero no autorizado obtuvo acceso a algunas cuentas de correo electrónico comerciales de MEDNAX.",
+  "color": "#a78bfa"
+}

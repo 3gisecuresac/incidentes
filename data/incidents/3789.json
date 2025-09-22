@@ -1,0 +1,13 @@
+{
+  "id": 3789,
+  "title": "Compañía operadora Healthgrades - Data leak - Undetermined",
+  "date": "2021-03-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Lexington Medical Center",
+  "source": "nan",
+  "summary": "La empresa operativa Healthgrades sufre una brecha de seguridad en su plataforma y varias empresas se ven afectadas, incluido Lexington Medical Center.",
+  "color": "#a78bfa"
+}

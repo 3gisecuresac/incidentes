@@ -1,0 +1,13 @@
+{
+  "id": 2895,
+  "title": "Condado de Wright - Data leak - Undetermined",
+  "date": "2020-05-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Wright notifica a los residentes sobre un ataque de phishing",
+  "source": "https://www.databreaches.net/wright-county-notifies-residents-of-2019-email-hack-covid-19-response-somewhat-delayed-notification/",
+  "summary": "El condado de Wright notifica a los residentes sobre un ataque de phishing que ocurrió el 31 de enero de 2019.",
+  "color": "#ef4444"
+}

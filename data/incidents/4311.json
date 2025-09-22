@@ -1,0 +1,13 @@
+{
+  "id": 4311,
+  "title": "Cash Express - Data leak - Undetermined",
+  "date": "2022-02-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Cash Express",
+  "source": "nan",
+  "summary": "Cash Express informa sobre una violación de datos luego de que la empresa experimentara una violación de datos que involucró a una parte no autorizada que obtuvo acceso a datos confidenciales de los consumidores.",
+  "color": "#ef4444"
+}

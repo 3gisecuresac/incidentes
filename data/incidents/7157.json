@@ -1,0 +1,13 @@
+{
+  "id": 7157,
+  "title": "Farmers Insurance (a través de un proveedor externo) - Data leak - ShinyHunters and Scattered Spider",
+  "date": "2025-05-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters and Scattered Spider",
+  "impact": "Filtración de datos en Salesforce",
+  "source": "nan",
+  "summary": "Más de 1,1 millones de clientes se vieron afectados por una filtración de datos a través de una filtración de datos de proveedores vinculada a Salesforce. La exfiltración involucró ingeniería social/vishing y aplicaciones OAuth maliciosas, con ShinyHunters y Scattered Spider proporcionando acceso y exfiltración. Se ofrecieron dos años de protección de identidad.",
+  "color": "#ef4444"
+}

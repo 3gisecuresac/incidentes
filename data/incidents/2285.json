@@ -1,0 +1,13 @@
+{
+  "id": 2285,
+  "title": "Distrito Escolar Público de New Haven - Ransomware - Undetermined",
+  "date": "2019-07-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en New Haven se vio afectado recientemente",
+  "source": "https://www.databreaches.net/new-haven-public-schools-hit-by-ransomware-attack/",
+  "summary": "El distrito escolar público de New Haven se vio afectado recientemente por un ataque de ransomware.",
+  "color": "#ef4444"
+}

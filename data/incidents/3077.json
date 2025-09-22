@@ -1,0 +1,13 @@
+{
+  "id": 3077,
+  "title": "Rehabilitación de Olympia House - Ransomware - NetWalker",
+  "date": "2020-08-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "NetWalker",
+  "impact": "Cifrado por ransomware en Olympia House Rehab",
+  "source": "https://www.databreaches.net/three-more-medical-practices-hit-by-ransomware/",
+  "summary": "Olympia House Rehab se ve afectado por el ransomware Netwalker.",
+  "color": "#ef4444"
+}

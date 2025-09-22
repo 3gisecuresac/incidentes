@@ -1,0 +1,13 @@
+{
+  "id": 2665,
+  "title": "Asociados de Guerra Electrónica (EWA) - Ransomware - Undetermined",
+  "date": "2020-01-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en EE",
+  "source": "https://www.zdnet.com/article/dod-contractor-suffers-ransomware-infection/",
+  "summary": "Electronic Warfare Associates (EWA), una empresa de electrónica de 40 años de antigüedad y un conocido contratista del gobierno de EE. UU., es atacado por el ransomware Ryuk.",
+  "color": "#ef4444"
+}

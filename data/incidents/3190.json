@@ -1,0 +1,13 @@
+{
+  "id": 3190,
+  "title": "Colegio Comunitario Técnico de Guilford - Ransomware - INDRIK SPIDER",
+  "date": "2020-09-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Cifrado por ransomware en Guilford Technical Community College",
+  "source": "https://www.databreaches.net/nc-guilford-technical-community-college-hit-with-ransomware/",
+  "summary": "Guilford Technical Community College es atacado por ransomware.",
+  "color": "#ef4444"
+}

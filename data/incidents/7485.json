@@ -1,0 +1,13 @@
+{
+  "id": 7485,
+  "title": "Bancos en Chile - Data leak - Shadow Brokers",
+  "date": "2018-07-25",
+  "country": "Chile",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Shadow Brokers",
+  "impact": "Sistema o cuenta comprometida en Shadow Brokers obtienen acceso a unos 14",
+  "source": "nan",
+  "summary": "Los hackers de Shadow Brokers obtienen acceso a unos 14.000 números de tarjetas de crédito en Chile y los publican en las redes sociales.",
+  "color": "#3b82f6"
+}

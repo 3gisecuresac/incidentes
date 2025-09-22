@@ -1,0 +1,13 @@
+{
+  "id": 1246,
+  "title": "Colegio Estatal de Daytona - Data leak - Undetermined",
+  "date": "2017-03-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Daytona State College",
+  "source": "https://www.databreaches.net/daytona-state-college-notifies-staff-of-potential-w-2-incident/",
+  "summary": "Daytona State College notifica al personal sobre un posible incidente W-2.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7032,
+  "title": "Summit Pathology y Summit Pathology Laboratories - Ransomware - Medusa",
+  "date": "2024-04-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Medusa",
+  "impact": "Filtración de datos en Colorado notifican una vulneración de datos",
+  "source": "nan",
+  "summary": "Summit Pathology y Summit Pathology Laboratories (Summit) en Colorado notifican una vulneración de datos que afecta a 1.813.538 pacientes. El grupo de ransomware Medusa es presuntamente responsable de la vulneración.",
+  "color": "#ef4444"
+}

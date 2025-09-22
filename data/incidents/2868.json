@@ -1,0 +1,13 @@
+{
+  "id": 2868,
+  "title": "Universidad de la Costa del Golfo de Florida - DoS - Undetermined",
+  "date": "2020-05-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Florida Gulf Coast University",
+  "source": "https://www.infosecurity-magazine.com/news/cyberattack-delays-virtual/",
+  "summary": "Una ceremonia virtual de la Florida Gulf Coast University se ve interrumpida por un ataque DDoS.",
+  "color": "#f59e0b"
+}

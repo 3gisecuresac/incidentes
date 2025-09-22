@@ -1,0 +1,13 @@
+{
+  "id": 1025,
+  "title": "MICROS - Infección - Carbanak",
+  "date": "2016-08-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección",
+  "actor": "Carbanak",
+  "impact": "Sistema o cuenta comprometida en Oracle",
+  "source": "http://krebsonsecurity.com/2016/08/data-breach-at-oracles-micros-point-of-sale-division/",
+  "summary": "La banda Carbanak parece haber comprometido un portal de soporte al cliente para empresas que utilizan los sistemas de pago con tarjetas de crédito en puntos de venta MICROS de Oracle, y utilizó ese acceso para robar credenciales administrativas e implantar código malicioso en 700 terminales.",
+  "color": "#3b82f6"
+}

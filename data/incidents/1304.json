@@ -1,0 +1,13 @@
+{
+  "id": 1304,
+  "title": "Cedexis - DoS - Undetermined",
+  "date": "2017-05-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Cedexis destruye varios importantes sitios web de noticias franceses",
+  "source": "http://www.ibtimes.co.uk/ddos-attack-knocks-out-major-french-news-sites-including-le-monde-le-figaro-1621040",
+  "summary": "Un ataque DDos contra Cedexis destruye varios importantes sitios web de noticias franceses, incluidos Le Monde y Le Figaro.",
+  "color": "#f59e0b"
+}

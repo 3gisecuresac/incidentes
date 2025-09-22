@@ -1,0 +1,13 @@
+{
+  "id": 5538,
+  "title": "Manzana - Ransomware - Undetermined",
+  "date": "2023-04-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en CVE-2023-28205 y CVE-2023-28206",
+  "source": "nan",
+  "summary": "Apple lanza actualizaciones de seguridad de emergencia para abordar dos nuevas vulnerabilidades de día cero (CVE-2023-28205 y CVE-2023-28206) explotadas en ataques para comprometer iPhones, Mac y iPads.",
+  "color": "#3b82f6"
+}

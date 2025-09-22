@@ -1,0 +1,13 @@
+{
+  "id": 2695,
+  "title": "Altice USA Inc. - Data leak - Undetermined",
+  "date": "2020-02-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Seguro Social",
+  "source": "https://www.databreaches.net/data-breach-exposes-altice-employee-optimum-customer-information/",
+  "summary": "Altice USA Inc. expone los números de Seguro Social, fechas de nacimiento y otra información personal de todos sus 12.000 empleados actuales, así como de algunos ex empleados y una pequeña cantidad de clientes, después de un ataque de phishing en noviembre de 2019.",
+  "color": "#ef4444"
+}

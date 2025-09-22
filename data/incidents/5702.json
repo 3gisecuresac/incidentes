@@ -1,0 +1,13 @@
+{
+  "id": 5702,
+  "title": "Barrick Gold - Data leak - cl0p",
+  "date": "2023-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Barrick Gold",
+  "source": "nan",
+  "summary": "Barrick Gold presenta un aviso de violación de datos después de descubrir que los atacantes explotaron la vulnerabilidad en el software de transferencia segura de archivos MOVEit utilizado por la empresa.",
+  "color": "#ef4444"
+}

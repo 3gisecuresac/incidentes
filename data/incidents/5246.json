@@ -1,0 +1,13 @@
+{
+  "id": 5246,
+  "title": "Corporación Diligent - Data leak - Undetermined",
+  "date": "2023-01-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Colorado",
+  "source": "nan",
+  "summary": "La Autoridad Hospitalaria de la Universidad de Colorado (UCHealth) presenta un aviso de violación de datos después de enterarse de un incidente de ciberseguridad en uno de los proveedores de la organización, Diligent Corporation.",
+  "color": "#ef4444"
+}

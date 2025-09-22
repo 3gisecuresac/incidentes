@@ -1,0 +1,13 @@
+{
+  "id": 3576,
+  "title": "Manos - Data leak - FIN11",
+  "date": "2021-01-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "FIN11",
+  "impact": "Filtración de datos en Accellion FTA",
+  "source": "nan",
+  "summary": "El gigante de supermercados Kroger sufrió una filtración de datos tras el ataque informático a un servicio utilizado para transferir archivos de forma segura, que permitió a los cibercriminales robar archivos. Kroger reveló que fue la última empresa afectada por una vulnerabilidad de seguridad en el software Accellion FTA, que permitió a los cibercriminales robar datos de las empresas que utilizan el servicio.",
+  "color": "#ef4444"
+}

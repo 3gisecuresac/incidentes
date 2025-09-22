@@ -1,0 +1,13 @@
+{
+  "id": 5906,
+  "title": "Panorama Eyecare - Ransomware - LockBit 3.0",
+  "date": "2023-07-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en LockBit con la afirmación de",
+  "source": "nan",
+  "summary": "Panorama Eyecare se suma al sitio de filtraciones de LockBit con la afirmación de que se han exfiltrado 798 GB de datos de cuatro de los clientes de la empresa: Eye Center of Northern Colorado, Denver Eye Surgeons, Cheyenne Eye Clinic & Surgery Center; y 2020 Vision Center.",
+  "color": "#ef4444"
+}

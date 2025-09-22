@@ -1,0 +1,13 @@
+{
+  "id": 6161,
+  "title": "Sightpath Medical - Ciberataque - Undetermined",
+  "date": "2023-09-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Sutter North Surgery Center después de descubrir",
+  "source": "nan",
+  "summary": "Sightpath Medical presenta un aviso de violación de datos en nombre de Sutter North Surgery Center después de descubrir que un actor no autorizado accedió a ciertos archivos almacenados en sus sistemas.",
+  "color": "#ef4444"
+}

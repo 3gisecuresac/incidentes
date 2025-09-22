@@ -1,0 +1,13 @@
+{
+  "id": 1190,
+  "title": "Escuelas del condado de Tipton - Data leak - Undetermined",
+  "date": "2017-01-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Tipton se ven afectadas",
+  "source": "https://www.databreaches.net/tn-tipton-county-schools-employee-falls-for-phish-emails-employees-w-2-data-to-criminal/",
+  "summary": "Las escuelas del condado de Tipton se ven afectadas por una estafa de phishing destinada a robar los formularios W-2 personales de los empleados.",
+  "color": "#ef4444"
+}

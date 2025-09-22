@@ -1,0 +1,13 @@
+{
+  "id": 925,
+  "title": "CiCis Pizza - Infección Dispositivos - Undetermined",
+  "date": "2016-06-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Estados Unidos",
+  "source": "http://krebsonsecurity.com/2016/06/banks-credit-card-breach-at-cicis-pizza/",
+  "summary": "CiCis Pizza, una empresa estadounidense de comida rápida con más de 500 locales en 35 estados de Estados Unidos, parece ser la última cadena de restaurantes que sufre una violación de datos de tarjetas de crédito.",
+  "color": "#ef4444"
+}

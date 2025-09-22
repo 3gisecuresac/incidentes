@@ -1,0 +1,13 @@
+{
+  "id": 4004,
+  "title": "Suministros quirúrgicos ACE - Data leak - Undetermined",
+  "date": "2021-07-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en ACE Surgical Supply",
+  "source": "nan",
+  "summary": "ACE Surgical Supply sufre acceso no autorizado a la red, piratas informáticos podrían haber obtenido información de salud de 12.000 personas.",
+  "color": "#a78bfa"
+}

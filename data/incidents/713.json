@@ -1,0 +1,13 @@
+{
+  "id": 713,
+  "title": "battlefy.com - Data leak - @ciadotgov",
+  "date": "2016-01-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "@ciadotgov",
+  "impact": "Cifrado por ransomware en @ciadotgov",
+  "source": "http://siph0n.net/exploits.php?id=4364",
+  "summary": "root, también conocido como @ciadotgov, hackea battlefy.com y descarga 89.299 nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

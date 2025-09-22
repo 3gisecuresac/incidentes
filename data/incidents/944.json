@@ -1,0 +1,13 @@
+{
+  "id": 944,
+  "title": "Corporación Multicolor - Data leak - Undetermined",
+  "date": "2016-06-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Multi-Color",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/multi-color-employee-data-compromised/",
+  "summary": "Multi-Color, una empresa de soluciones de etiquetas, informa que un robo en una filial de terceros dio como resultado la violación de información de identificación personal de los empleados de Multi-Color.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6630,
+  "title": "El sistema judicial de Pensilvania - DoS - Undetermined",
+  "date": "2024-02-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Pensilvania sufre un ataque de denegación de servicio distribuido",
+  "source": "nan",
+  "summary": "El sistema judicial de Pensilvania sufre un ataque de denegación de servicio distribuido (DDoS) y sufre interrupciones.",
+  "color": "#f59e0b"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7863,
+  "title": "Zoológico de Toronto - Ransomware - Undetermined",
+  "date": "2024-01-05",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Toronto",
+  "source": "nan",
+  "summary": "El zoológico de Toronto, el más grande de Canadá, sufre un ataque de ransomware.",
+  "color": "#ef4444"
+}

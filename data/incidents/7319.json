@@ -1,0 +1,13 @@
+{
+  "id": 7319,
+  "title": "threedollarclick.com - Data leak - SonnySpooks",
+  "date": "2016-07-12",
+  "country": "Panama",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "SonnySpooks",
+  "impact": "Cifrado por ransomware en threedollarclick.com",
+  "source": "nan",
+  "summary": "En un ataque de piratería, SonnySpooks piratea threedollarclick.com, fourdollarclick.com y sevendollarclick.com y descarga más de 200.000 registros con nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1909,
+  "title": "Escuelas del Área de Johannesburgo-Lewiston (JLAS) - Ransomware - Undetermined",
+  "date": "2018-11-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Johannesburgo-Lewiston",
+  "source": "https://www.databreaches.net/mi-johannesburg-lewiston-area-schools-recovering-from-ransomware-attack/",
+  "summary": "Las escuelas del área de Johannesburgo-Lewiston (JLAS) son víctimas de un ataque de ransomware.",
+  "color": "#ef4444"
+}

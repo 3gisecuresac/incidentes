@@ -1,0 +1,13 @@
+{
+  "id": 1350,
+  "title": "Microsoft - Data leak - Undetermined",
+  "date": "2017-06-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Microsoft",
+  "source": "https://www.bleepingcomputer.com/news/security/two-men-arrested-for-hacking-microsoft/",
+  "summary": "La policía británica anuncia haber arrestado a dos sospechosos que forman parte de un grupo internacional que hackeó la red de Microsoft.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2008,
+  "title": "Centro comercial BenefitMall - Data leak - Undetermined",
+  "date": "2019-01-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Seguros de Delaware anuncia",
+  "source": "https://www.scmagazine.com/home/security-news/data-breach/hundreds-of-delaware-residents-among-the-victims-of-benefitmall-breach/",
+  "summary": "El Departamento de Seguros de Delaware anuncia que 650 residentes y 5 empresas del estado se vieron afectados por una filtración de datos de BenefitMall, una administradora de servicios de recursos humanos, en 2018. El correo electrónico de un empleado se vio comprometido entre junio de 2018 y el 11 de octubre.",
+  "color": "#ef4444"
+}

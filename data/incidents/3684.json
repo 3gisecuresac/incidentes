@@ -1,0 +1,13 @@
+{
+  "id": 3684,
+  "title": "Teatro Florida Studio - Ransomware - INDRIK SPIDER",
+  "date": "2021-02-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Cifrado por ransomware en Florida Studio Theatre",
+  "source": "nan",
+  "summary": "Florida Studio Theatre sufre un ataque de ransomware DoppelPaymer.",
+  "color": "#ef4444"
+}

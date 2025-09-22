@@ -1,0 +1,13 @@
+{
+  "id": 2392,
+  "title": "Salud del condado de Campbell - Ransomware - Undetermined",
+  "date": "2019-09-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Gillette",
+  "source": "https://www.databreaches.net/wy-gillette-hospital-targeted-in-ransomware-attack/",
+  "summary": "Campbell County Health en Gillette, Wyoming, se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

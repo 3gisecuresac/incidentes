@@ -1,0 +1,13 @@
+{
+  "id": 5426,
+  "title": "Farmacéutica - Data leak - Money Message",
+  "date": "2023-03-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Money Message",
+  "impact": "Filtración de datos en Estados Unidos",
+  "source": "nan",
+  "summary": "PharMerica, uno de los mayores proveedores de servicios farmacéuticos de Estados Unidos, ha confirmado que piratas informáticos accedieron a los datos personales de casi seis millones de pacientes.",
+  "color": "#ef4444"
+}

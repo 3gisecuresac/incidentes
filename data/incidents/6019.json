@@ -1,0 +1,13 @@
+{
+  "id": 6019,
+  "title": "Banco OZK - Data leak - cl0p",
+  "date": "2023-08-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit",
+  "source": "nan",
+  "summary": "El banco OZK presenta un aviso de violación de datos después de descubrir que uno de los socios comerciales de la empresa experimentó una violación de datos relacionada con una vulnerabilidad en MOVEit.",
+  "color": "#ef4444"
+}

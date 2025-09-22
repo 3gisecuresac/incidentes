@@ -1,0 +1,13 @@
+{
+  "id": 432,
+  "title": "csagameservs.com - Data leak - Ouch",
+  "date": "2015-03-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Ouch",
+  "impact": "Filtración de datos en csgameservs.com",
+  "source": "https://web.archive.org/web/20150326002103/http://pastebin.com/mL7pdLv6",
+  "summary": "Ouch hackea csgameservs.com y vuelca toda su base de datos en Pastebin (7661 registros). Para eliminar la base de datos, el hacker pide un rescate de 20 $ en bitcoins.",
+  "color": "#ef4444"
+}

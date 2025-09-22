@@ -1,0 +1,13 @@
+{
+  "id": 4825,
+  "title": "Clínica familiar sin cita previa de Dyersburg - Data leak - Undetermined",
+  "date": "2022-08-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Family Walk-In Clinic",
+  "source": "nan",
+  "summary": "Family Walk-In Clinic revela haber sufrido un incidente de seguridad de datos que resultó en la sustracción de información de sus sistemas.",
+  "color": "#ef4444"
+}

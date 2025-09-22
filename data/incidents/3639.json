@@ -1,0 +1,13 @@
+{
+  "id": 3639,
+  "title": "Atención médica cristiana Rehoboth McKinley - Ransomware - Undetermined",
+  "date": "2021-02-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Rehoboth robó archivos confidenciales de empleados",
+  "source": "nan",
+  "summary": "El grupo de hackers que irrumpió en Rehoboth robó archivos confidenciales de empleados, como solicitudes de empleo y autorizaciones de verificación de antecedentes que incluían números de Seguro Social, y los publicó en su sitio web en un aparente intento de extorsionar al hospital para obtener el pago.",
+  "color": "#3b82f6"
+}

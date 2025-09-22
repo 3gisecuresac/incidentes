@@ -1,0 +1,13 @@
+{
+  "id": 3935,
+  "title": "Instituto Woodruff - Ransomware - PayorGrief",
+  "date": "2021-06-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "PayorGrief",
+  "impact": "Filtración de datos en El Instituto Woodruff un",
+  "source": "nan",
+  "summary": "El Instituto Woodruff, un centro de dermatología y cirugía plástica, es atacado por el ransomware PayorGrief y se filtran algunos archivos que contienen información comercial y registros de pacientes.",
+  "color": "#ef4444"
+}

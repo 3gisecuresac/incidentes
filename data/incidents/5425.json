@@ -1,0 +1,13 @@
+{
+  "id": 5425,
+  "title": "Servicios médicos de emergencia NorthStar - Data leak - Undetermined",
+  "date": "2023-03-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en NorthStar Emergency Medical Services",
+  "source": "nan",
+  "summary": "NorthStar Emergency Medical Services revela una violación que podría haber dado a actores maliciosos acceso a los registros de más de 80.000 pacientes actuales y anteriores.",
+  "color": "#a78bfa"
+}

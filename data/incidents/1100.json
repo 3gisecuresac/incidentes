@@ -1,0 +1,13 @@
+{
+  "id": 1100,
+  "title": "City of El Paso - Data leak - Undetermined",
+  "date": "2016-11-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en El Paso fue robada de aproximadamente 3 millones de dólares destinados al proyecto del tranvía",
+  "source": "https://kvia.com/news/2016/11/02/city-of-el-paso-duped-out-of-3-3-million-in-phishing-scam/",
+  "summary": "La ciudad de El Paso fue robada de aproximadamente 3 millones de dólares destinados al proyecto del tranvía, cuando una persona o grupo que se hizo pasar por un vendedor estafó a la ciudad mediante un ataque de phishing.",
+  "color": "#ef4444"
+}

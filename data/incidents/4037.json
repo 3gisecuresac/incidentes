@@ -1,0 +1,13 @@
+{
+  "id": 4037,
+  "title": "Sistema de salud conmemorativo - Ransomware - Hive",
+  "date": "2021-08-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Filtración de datos",
+  "source": "nan",
+  "summary": "Un sistema hospitalario sin fines de lucro es atacado por un ransomware que cierra los sistemas del hospital y roba datos confidenciales de los pacientes.",
+  "color": "#ef4444"
+}

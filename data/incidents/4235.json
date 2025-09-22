@@ -1,0 +1,13 @@
+{
+  "id": 4235,
+  "title": "Salud Prioritaria - Data leak - Undetermined",
+  "date": "2021-12-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Priority Health es hackeado",
+  "source": "nan",
+  "summary": "El portal de pacientes de Priority Health es hackeado, comprometiendo la información de los pacientes y provocando interrupciones en el acceso.",
+  "color": "#3b82f6"
+}

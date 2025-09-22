@@ -1,0 +1,13 @@
+{
+  "id": 3548,
+  "title": "Asociación de Planes Dentales Delta - Ransomware - Egregor",
+  "date": "2021-01-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Egregor",
+  "impact": "Filtración de datos en Planes Dentales Delta tiene sus datos filtrados",
+  "source": "nan",
+  "summary": "La Asociación de Planes Dentales Delta tiene sus datos filtrados por el grupo ransomware Egregor.",
+  "color": "#ef4444"
+}

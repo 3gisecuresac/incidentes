@@ -1,0 +1,13 @@
+{
+  "id": 6553,
+  "title": "ProSmile Holdings - Ciberataque - Undetermined",
+  "date": "2023-12-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en ProSmile Holdings",
+  "source": "nan",
+  "summary": "ProSmile Holdings emite un comunicado de prensa que describe un reciente incidente de seguridad de datos que dio lugar a que una parte no autorizada pudiera acceder a la información confidencial de los consumidores.",
+  "color": "#ef4444"
+}

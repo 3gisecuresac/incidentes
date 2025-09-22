@@ -1,0 +1,13 @@
+{
+  "id": 4578,
+  "title": "Universidad Tecnológica de Tulsa - Data leak - Undetermined",
+  "date": "2022-06-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Tulsa Tech",
+  "source": "nan",
+  "summary": "Tulsa Tech revela que alguien robó datos pertenecientes a estudiantes que estuvieron inscritos en sus clases entre 1986 y 1999.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 193,
+  "title": "Lavado de autos Splash - Infección Dispositivos - Undetermined",
+  "date": "2014-06-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Splash Car Wash aprovechando una vulnerabilidad de pcAnywhere en los terminales de punto de venta",
+  "source": "http://nakedsecurity.sophos.com/2014/06/25/carwash-pos-systems-hacked-credit-card-data-drained/",
+  "summary": "Los datos de 1.400 tarjetas de crédito de clientes son robados por piratas informáticos de Splash Car Wash aprovechando una vulnerabilidad de pcAnywhere en los terminales de punto de venta.",
+  "color": "#ef4444"
+}

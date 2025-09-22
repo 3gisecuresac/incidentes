@@ -1,0 +1,13 @@
+{
+  "id": 2999,
+  "title": "Citrix de terceros - Data leak - Undetermined",
+  "date": "2020-07-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Citrix",
+  "source": "https://www.bleepingcomputer.com/news/security/citrix-no-breach-hacker-stole-business-info-from-third-party/",
+  "summary": "Un actor vende en la dark web lo que afirma ser una base de datos con información sobre 2 millones de clientes de Citrix. Un comunicado oficial de la compañía revela que la base de datos fue obtenida de un tercero.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 395,
+  "title": "El Instituto Urbano - Data leak - Undetermined",
+  "date": "2015-02-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Washington",
+  "source": "http://thehill.com/policy/cybersecurity/233641-prominent-dc-think-tank-hacked",
+  "summary": "El Urban Institute, un grupo de expertos de Washington, DC, alerta a organizaciones benéficas de todo el país que su sistema para presentar formularios de impuestos fue violado.",
+  "color": "#a78bfa"
+}

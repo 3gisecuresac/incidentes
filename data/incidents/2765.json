@@ -1,0 +1,13 @@
+{
+  "id": 2765,
+  "title": "Ciudad de Durham - Ransomware - WIZARD SPIDER",
+  "date": "2020-03-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Cifrado por ransomware en Durham",
+  "source": "https://www.forbes.com/sites/daveywinder/2020/03/10/two-russian-ransomware-attacks-take-down-north-carolina-city-and-county-government-systems/#55c26e4e588f",
+  "summary": "La ciudad de Durham y el condado de Durham se ven afectados por dos ataques separados de ransomware Ryuk.",
+  "color": "#ef4444"
+}

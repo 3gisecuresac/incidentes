@@ -1,0 +1,13 @@
+{
+  "id": 7840,
+  "title": "Comisión Mixta Internacional (CIJ) - Ransomware - NoEscape",
+  "date": "2023-09-11",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "NoEscape",
+  "impact": "Filtración de datos en Conjunta Internacional IJC la",
+  "source": "nan",
+  "summary": "La Comisión Conjunta Internacional (IJC), la organización encargada de gestionar los sistemas de lagos y ríos a lo largo de la frontera entre Estados Unidos y Canadá, anuncia que sufrió un ciberataque tras los informes de que la banda de ransomware NoEscape afirmó haber robado grandes cantidades de datos.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3200,
+  "title": "Salud de la Universidad Estatal de Luisiana - Data leak - Undetermined",
+  "date": "2020-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Servicios de Atención Médica de LSU Health Nueva Orleans informó haber detectado una intrusión cibernética en el buzón de correo electrónico de un empleado",
+  "source": "https://www.infosecurity-magazine.com/news/louisiana-hospitals-report-data/",
+  "summary": "La División de Servicios de Atención Médica de LSU Health Nueva Orleans informó haber detectado una intrusión cibernética en el buzón de correo electrónico de un empleado. Los correos electrónicos o archivos adjuntos contenían información limitada sobre los pacientes atendidos en el Centro Médico Regional Lallie Kemp en Independence; el Centro Médico Leonard J. Chabert en Houma; el Centro Médico Regional W. O. Moss en Lake Charles; y el antiguo Centro Médico Earl K. Long en Baton Rouge; el Centro Médico Bogalusa en Bogalusa; el Centro Médico Universitario en Lafayette; y el Hospital Interino LSU en Nueva Orleans.",
+  "color": "#3b82f6"
+}

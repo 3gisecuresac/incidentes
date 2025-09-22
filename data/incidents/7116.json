@@ -1,0 +1,13 @@
+{
+  "id": 7116,
+  "title": "Asociados oftalmológicos de Asheville - Ransomware - DragonForce",
+  "date": "2025-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "DragonForce",
+  "impact": "Filtración de datos en Asheville Eye Associates",
+  "source": "nan",
+  "summary": "Asheville Eye Associates afirma que la información personal y médica de un subgrupo de sus pacientes se vio comprometida como resultado de un incidente de ciberseguridad. DragonForce se atribuye la responsabilidad del ataque, alegando haber robado cientos de gigabytes de datos.",
+  "color": "#ef4444"
+}

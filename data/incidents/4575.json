@@ -1,0 +1,13 @@
+{
+  "id": 4575,
+  "title": "Medicina de la Universidad de Washington - Ransomware - Undetermined",
+  "date": "2022-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en UW Medicine",
+  "source": "nan",
+  "summary": "UW Medicine notifica a sus pacientes sobre un ataque de ransomware a su proveedor de servicios de correo Kaye-Smith, que ha comprometido la información médica protegida de 3.800 pacientes.",
+  "color": "#ef4444"
+}

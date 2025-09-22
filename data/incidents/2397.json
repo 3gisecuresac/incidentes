@@ -1,0 +1,13 @@
+{
+  "id": 2397,
+  "title": "Escuelas públicas del condado de Mobile - Ransomware - Undetermined",
+  "date": "2019-09-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Mobile se ven afectadas",
+  "source": "https://www.databreaches.net/mobile-county-public-schools-impacted-by-ransomware-attack-on-vendor-back-online-now/",
+  "summary": "Las escuelas públicas del condado de Mobile se ven afectadas por un ataque de ransomware.",
+  "color": "#ef4444"
+}

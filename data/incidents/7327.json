@@ -1,0 +1,13 @@
+{
+  "id": 7327,
+  "title": "La Prensa - Ransomware - LockBit 3.0",
+  "date": "2023-12-06",
+  "country": "Nicaragua",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en La Prensa a la lista de sus víctimas",
+  "source": "nan",
+  "summary": "La banda de ransomware LockBit 3.0 agrega a La Prensa a la lista de sus víctimas.",
+  "color": "#ef4444"
+}

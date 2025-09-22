@@ -1,0 +1,13 @@
+{
+  "id": 3437,
+  "title": "Stuller, Inc. - DoS - Undetermined",
+  "date": "2020-11-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Stuller Inc",
+  "source": "https://www.databreaches.net/la-stuller-hit-by-cyberattack/",
+  "summary": "Stuller, Inc. sufre un ciberataque que interrumpe sus operaciones.",
+  "color": "#a78bfa"
+}

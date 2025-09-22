@@ -1,0 +1,13 @@
+{
+  "id": 2319,
+  "title": "Cardpool - Data leak - Undetermined",
+  "date": "2019-08-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Cardpool.com",
+  "source": "https://www.bleepingcomputer.com/news/security/hacker-sells-38m-worth-of-gift-cards-from-thousands-of-shops/",
+  "summary": "Un hacker ruso vende cerca de 900.000 tarjetas de regalo en un foro clandestino de alto nivel, con un valor total estimado en 38 millones de dólares. Las tarjetas fueron presuntamente robadas de Cardpool.com.",
+  "color": "#3b82f6"
+}

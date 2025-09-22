@@ -1,0 +1,13 @@
+{
+  "id": 1799,
+  "title": "Moneda en vivo - Data leak - Undetermined",
+  "date": "2018-08-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Monero",
+  "source": "https://icobrothers.media/2018/08/04/livecoin-crypto-exchange-lost-more-than-18-million-because-of-monero-code-vulnerability/",
+  "summary": "La plataforma de intercambio de criptomonedas Livecoin anuncia pérdidas considerables debido a un fallo crucial en el código de Monero, que permite manipular los montos de las transacciones. El monto total perdido asciende a 15 108 XMR (más de 1,8 millones de dólares).",
+  "color": "#a78bfa"
+}

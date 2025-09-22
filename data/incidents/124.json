@@ -1,0 +1,13 @@
+{
+  "id": 124,
+  "title": "Mimi loca - DoS - Mark Nsd",
+  "date": "2014-04-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Mark Nsd",
+  "impact": "Interrupción por DDoS en DDoS. Poco",
+  "source": "http://news.softpedia.com/news/Email-Marketing-Service-Mad-Mimi-Hit-by-DDOS-Attacks-Blackmailed-435152.shtml",
+  "summary": "El servicio de email marketing Mad Mimi sufre un ataque DDoS. Poco después, reciben un correo electrónico de alguien que solicita 1,8 bitcoins para detener los ataques.",
+  "color": "#f59e0b"
+}

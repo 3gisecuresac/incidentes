@@ -1,0 +1,13 @@
+{
+  "id": 198,
+  "title": "Banco total - Data leak - Undetermined",
+  "date": "2014-07-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Total Bank",
+  "source": "https://www.amwins.com/insights/category/cyber-liability-insurance-coverage-for-financial-institutions_3-15",
+  "summary": "Total Bank notifica a sus usuarios luego de un compromiso de la red informática de la institución.",
+  "color": "#3b82f6"
+}

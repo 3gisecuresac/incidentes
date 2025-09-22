@@ -1,0 +1,13 @@
+{
+  "id": 7723,
+  "title": "Junta Escolar del Distrito de Peel - Ransomware - Undetermined",
+  "date": "2021-01-26",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Distrito de Peel dice",
+  "source": "nan",
+  "summary": "La Junta Escolar del Distrito de Peel dice que se está recuperando de un incidente de seguridad cibernética que resultó en el cifrado de archivos y sistemas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3171,
+  "title": "Departamento de Desarrollo del Empleo de California - Data leak - Undetermined",
+  "date": "2020-09-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Desarrollo del Empleo de California revela",
+  "source": "https://www.mercurynews.com/2020/09/10/crooks-data-breach-name-edd-fraud-unemployment-job-economy-tech/",
+  "summary": "El Departamento de Desarrollo del Empleo de California revela que los delincuentes cibernéticos han estado recopilando credenciales de violaciones de seguridad en todo el mundo para cobrar fraudulentamente los beneficios de desempleo de California.",
+  "color": "#a78bfa"
+}

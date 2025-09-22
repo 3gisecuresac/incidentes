@@ -1,0 +1,13 @@
+{
+  "id": 323,
+  "title": "Servicio Postal de los Estados Unidos - Data leak - Undetermined",
+  "date": "2014-11-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Servicio Postal de EE",
+  "source": "https://www.washingtonpost.com/news/federal-eye/wp/2014/11/10/china-suspected-of-breaching-u-s-postal-service-computer-networks/",
+  "summary": "Un actor de amenazas comprometió las redes del Servicio Postal de EE. UU. y obtuvo acceso a datos de sus empleados. Se cree que actores de amenazas chinos están detrás del ataque.",
+  "color": "#ef4444"
+}

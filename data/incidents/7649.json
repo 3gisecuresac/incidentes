@@ -1,0 +1,13 @@
+{
+  "id": 7649,
+  "title": "eSalud de Saskatchewan - Ransomware - Undetermined",
+  "date": "2020-01-04",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Saskatchewan",
+  "source": "nan",
+  "summary": "Los piratas informáticos atraviesan el primer nivel de seguridad del sistema de registros de salud electrónica de Saskatchewan, bloqueando el acceso del gobierno a algunos sistemas y pidiendo un rescate.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6615,
+  "title": "Atención BrightStar - Ransomware - ALPHVM",
+  "date": "2024-01-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Cifrado por ransomware en BrightStar Care",
+  "source": "nan",
+  "summary": "La banda de ransomware ALPHV/BlackCat se atribuye la responsabilidad del ataque a BrightStar Care. Ese mismo día, otro grupo, Sieged Sec, afirma haber vulnerado la misma organización.",
+  "color": "#ef4444"
+}

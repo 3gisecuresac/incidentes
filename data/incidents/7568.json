@@ -1,0 +1,13 @@
+{
+  "id": 7568,
+  "title": "Universidad de Alberta - Malware Attack - Undetermined",
+  "date": "2017-01-05",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Alberta revela los detalles de un ataque de malware",
+  "source": "nan",
+  "summary": "La Universidad de Alberta revela los detalles de un ataque de malware, ocurrido a finales del año pasado, que afectó a 300 computadoras y puso en riesgo a más de 3.000 estudiantes.",
+  "color": "#a78bfa"
+}

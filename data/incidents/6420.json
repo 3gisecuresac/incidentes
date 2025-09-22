@@ -1,0 +1,13 @@
+{
+  "id": 6420,
+  "title": "Penacho - Ransomware - FahriDinerPlume and Panic",
+  "date": "2023-11-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "FahriDinerPlume and Panic",
+  "impact": "Filtración de datos en Plume",
+  "source": "nan",
+  "summary": "El proveedor de servicios de wifi inteligente, Plume, aparentemente es víctima de una filtración de datos. Los autores, que se atribuyen la responsabilidad del incidente, publican su anuncio en los conocidos foros de filtraciones.",
+  "color": "#ef4444"
+}

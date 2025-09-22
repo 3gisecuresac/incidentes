@@ -1,0 +1,13 @@
+{
+  "id": 473,
+  "title": "Universidad Rutgers - DoS - Undetermined",
+  "date": "2015-04-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Internet",
+  "source": "https://www.nj.com/middlesex/2015/04/cyber_attack_against_rutgers_causes_internet_servi.html",
+  "summary": "Un ciberataque contra la red informática de la Universidad Rutgers es responsable de las interrupciones en el servicio de Internet.",
+  "color": "#a78bfa"
+}

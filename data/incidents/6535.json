@@ -1,0 +1,13 @@
+{
+  "id": 6535,
+  "title": "Centro de Neurología de Nevada - Ransomware - Qilin",
+  "date": "2023-12-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Qilin",
+  "impact": "Cifrado por ransomware en Neurología de Nevada habría sido atacado",
+  "source": "nan",
+  "summary": "El Centro de Neurología de Nevada habría sido atacado por la banda de ransomware Qilin.",
+  "color": "#ef4444"
+}

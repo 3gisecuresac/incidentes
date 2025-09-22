@@ -1,0 +1,13 @@
+{
+  "id": 6216,
+  "title": "Distribuidor autorizado de T-Mobile - Ciberataque - Undetermined",
+  "date": "2023-09-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en T-Mobile",
+  "source": "nan",
+  "summary": "T-Mobile niega haber sufrido otra violación de datos luego de informes de que un actor de amenazas denominado 'emo' filtró una gran base de datos (archivo ZIP de 89 GB) que supuestamente contenía datos de empleados de T-Mobile, señalando a un minorista autorizado.",
+  "color": "#ef4444"
+}

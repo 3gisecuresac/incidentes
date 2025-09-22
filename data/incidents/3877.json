@@ -1,0 +1,13 @@
+{
+  "id": 3877,
+  "title": "Distrito escolar de Tigerton - Ransomware - Undetermined",
+  "date": "2021-05-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Tigerton es atacado",
+  "source": "nan",
+  "summary": "El Distrito Escolar de Tigerton es atacado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

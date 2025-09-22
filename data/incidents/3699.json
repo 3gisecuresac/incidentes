@@ -1,0 +1,13 @@
+{
+  "id": 3699,
+  "title": "Sistema de agua y aguas residuales de Nevada - Ciberataque - Undetermined",
+  "date": "2021-03-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Nevada",
+  "source": "nan",
+  "summary": "WWS, con sede en Nevada, es víctima de una variante desconocida de ransomware que infectó su sistema SCADA.",
+  "color": "#ef4444"
+}

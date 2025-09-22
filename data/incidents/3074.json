@@ -1,0 +1,13 @@
+{
+  "id": 3074,
+  "title": "ProctorU - Data leak - Undetermined",
+  "date": "2020-08-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en ProctorU",
+  "source": "https://www.bleepingcomputer.com/news/security/proctoru-confirms-data-breach-after-database-leaked-online/",
+  "summary": "ProctorU confirma una violación de datos después de que un actor de amenazas publicara una base de datos robada de registros de usuarios en un foro de piratas informáticos.",
+  "color": "#ef4444"
+}

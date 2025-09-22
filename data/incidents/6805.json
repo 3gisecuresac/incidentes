@@ -1,0 +1,13 @@
+{
+  "id": 6805,
+  "title": "Centro Médico de la Universidad de Chicago - Data leak - Undetermined",
+  "date": "2024-01-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Chicago revela",
+  "source": "nan",
+  "summary": "El Centro Médico de la Universidad de Chicago revela que un incidente de phishing que involucró los correos electrónicos de trabajadores del Centro Médico de la Universidad de Chicago puede haber expuesto la información personal de aproximadamente 10.300 personas.",
+  "color": "#ef4444"
+}

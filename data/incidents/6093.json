@@ -1,0 +1,13 @@
+{
+  "id": 6093,
+  "title": "Conexión histórica de Ohio (OHC) - Ransomware - Undetermined",
+  "date": "2023-08-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Ohio",
+  "source": "nan",
+  "summary": "La Conexión Histórica de Ohio (OHC) sufre un ataque de ransomware.",
+  "color": "#ef4444"
+}

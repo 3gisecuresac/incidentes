@@ -1,0 +1,13 @@
+{
+  "id": 5628,
+  "title": "AvidXchange - Ransomware - RansomHouse",
+  "date": "2023-05-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "RansomHouse",
+  "impact": "Filtración de datos en RansomHouse",
+  "source": "nan",
+  "summary": "La banda de ransomware RansomHouse publica una gran cantidad de datos confidenciales robados de la empresa de software de pago AvidXchange después de que la empresa fuera víctima de ransomware por segunda vez este año.",
+  "color": "#ef4444"
+}

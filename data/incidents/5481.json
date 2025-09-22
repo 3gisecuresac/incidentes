@@ -1,0 +1,13 @@
+{
+  "id": 5481,
+  "title": "Colegio Comunitario River Parishes - Data leak - Undetermined",
+  "date": "2023-03-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Luisiana dijera",
+  "source": "nan",
+  "summary": "El River Parishes Community College restaura su red luego de que la Policía Estatal de Luisiana dijera que encontró evidencia de que sus sistemas habían sido comprometidos.",
+  "color": "#3b82f6"
+}

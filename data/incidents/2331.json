@@ -1,0 +1,13 @@
+{
+  "id": 2331,
+  "title": "Hy-Vee - Infección Dispositivos - Undetermined",
+  "date": "2019-08-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Hy-Vee",
+  "source": "https://www.zdnet.com/article/hy-vee-issues-warning-to-customers-after-discovering-point-of-sale-breach/",
+  "summary": "La cadena de supermercados Hy-Vee publica una advertencia a sus clientes, luego de que el personal descubriera una violación de seguridad en algunos de sus sistemas de punto de venta (PoS).",
+  "color": "#a78bfa"
+}

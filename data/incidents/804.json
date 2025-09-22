@@ -1,0 +1,13 @@
+{
+  "id": 804,
+  "title": "Quiropráctica Elliot J. Martin - Data leak - Undetermined",
+  "date": "2016-03-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Elliot J. Martin Chiropractic",
+  "source": "http://www.databreaches.net/elliot-j-martin-chiropractic-notification-to-patients-of-hipaa-breach/",
+  "summary": "Elliot J. Martin Chiropractic notifica a 1.200 pacientes sobre una violación de datos.",
+  "color": "#ef4444"
+}

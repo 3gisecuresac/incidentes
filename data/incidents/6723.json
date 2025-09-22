@@ -1,0 +1,13 @@
+{
+  "id": 6723,
+  "title": "Amtrak - Data leak - Undetermined",
+  "date": "2024-06-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Guest Rewards fueron hackeadas en ataques de robo de credenciales",
+  "source": "nan",
+  "summary": "Amtrak revela que las cuentas de Guest Rewards fueron hackeadas en ataques de robo de credenciales",
+  "color": "#3b82f6"
+}

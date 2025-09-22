@@ -1,0 +1,13 @@
+{
+  "id": 1173,
+  "title": "El Los Angeles Valley College (LAVC) - Ransomware - Undetermined",
+  "date": "2017-01-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Los Angeles Valley College LAVC",
+  "source": "http://www.ibtimes.co.uk/la-school-pays-hackers-28000-bitcoin-after-computer-systems-hit-ransomware-1600304",
+  "summary": "El Los Angeles Valley College (LAVC) se vio obligado a pagar 28.000 dólares en bitcoins después de que ciberdelincuentes infectaran con éxito sus redes informáticas, sistemas de correo electrónico y líneas de buzón de voz con ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4295,
+  "title": "Edgar - Ransomware - Cuba",
+  "date": "2022-01-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Cuba",
+  "impact": "Filtración de datos en Documentos",
+  "source": "nan",
+  "summary": "Documentos filtrados en un sitio de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6868,
+  "title": "Centros de salud comunitarios de Florida - Ransomware - Undetermined",
+  "date": "2024-07-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Salud Comunitarios de Florida",
+  "source": "nan",
+  "summary": "Los Centros de Salud Comunitarios de Florida (FCHC) revelan haber sufrido un ataque de ransomware que afectó a casi 300.000 personas.",
+  "color": "#ef4444"
+}

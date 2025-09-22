@@ -1,0 +1,13 @@
+{
+  "id": 7744,
+  "title": "Salud de Homewood - Data leak - Undetermined",
+  "date": "2021-07-27",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Proveedor",
+  "source": "nan",
+  "summary": "Proveedor canadiense de servicios de salud mental es hackeado y datos personales de pacientes son publicados para su venta online.",
+  "color": "#ef4444"
+}

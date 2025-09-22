@@ -1,0 +1,13 @@
+{
+  "id": 6919,
+  "title": "Centro Médico Horizon View - Ransomware - Everest",
+  "date": "2024-08-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Everest",
+  "impact": "Filtración de datos en Nevada",
+  "source": "nan",
+  "summary": "El equipo de ransomware Everest incluye en su sitio de filtración de datos el Horizon View Medical Center, con sede en Nevada, y afirma haber robado información de registros médicos, incluidos resultados de pruebas y otros datos confidenciales de pacientes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5015,
+  "title": "Dropbox - Data leak - Undetermined",
+  "date": "2022-10-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en GitHub utilizando credenciales de empleados robadas en un ataque de phishing",
+  "source": "nan",
+  "summary": "Dropbox revela una violación de seguridad después de que actores de amenazas robaran 130 repositorios de código después de obtener acceso a una de sus cuentas de GitHub utilizando credenciales de empleados robadas en un ataque de phishing.",
+  "color": "#ef4444"
+}

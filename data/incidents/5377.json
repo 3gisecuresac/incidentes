@@ -1,0 +1,13 @@
+{
+  "id": 5377,
+  "title": "Escuelas Públicas de Denver (DPS) - Data leak - Undetermined",
+  "date": "2023-03-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Denver",
+  "source": "nan",
+  "summary": "Información personal perteneciente a unos 15.000 empleados de las Escuelas Públicas de Denver (DPS) fue robada en lo que el distrito llama un incidente de ciberseguridad que duró un mes.",
+  "color": "#a78bfa"
+}

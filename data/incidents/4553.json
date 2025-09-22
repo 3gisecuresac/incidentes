@@ -1,0 +1,13 @@
+{
+  "id": 4553,
+  "title": "Condado de Somerset - DoS - Undetermined",
+  "date": "2022-05-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Somerset se ve afectado",
+  "source": "nan",
+  "summary": "El condado de Somerset se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

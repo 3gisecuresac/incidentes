@@ -1,0 +1,13 @@
+{
+  "id": 2839,
+  "title": "Especialistas en recuperación de beneficios, Inc. - Data leak - Undetermined",
+  "date": "2020-04-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Benefit Recovery Specialists",
+  "source": "https://www.infosecurity-magazine.com/news/data-breach-at-texas-benefits/",
+  "summary": "Los datos personales de 274.837 personas quedaron expuestos tras una filtración de datos en Benefit Recovery Specialists, Inc., una empresa de facturación y cobro con sede en Texas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2115,
+  "title": "Muebles Klaussner - Data leak - Undetermined",
+  "date": "2019-04-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Klaussner Furniture",
+  "source": "https://www.databreaches.net/klaussner-furniture-notified-more-than-9000-employees-and-their-dependents-of-a-data-security-incident-involving-health-plan-data/",
+  "summary": "Klaussner Furniture notifica a más de 9.000 empleados y sus dependientes sobre un incidente de seguridad de datos cuando un tercero no autorizado obtuvo acceso a dos computadoras de su red en febrero de 2019.",
+  "color": "#ef4444"
+}

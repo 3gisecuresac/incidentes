@@ -1,0 +1,13 @@
+{
+  "id": 4595,
+  "title": "Medicina para pacientes hospitalizados de Florida Central (CFIM) - Data leak - Undetermined",
+  "date": "2022-06-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Florida Central",
+  "source": "nan",
+  "summary": "Medicina Interna de Florida Central (CFIM) revela un incidente de seguridad de datos que afectó a 197,733 personas. El 5 de mayo de 2022, la clínica determinó que un agente no autorizado había accedido a la cuenta de correo electrónico de un empleado entre el 21 de agosto de 2021 y el 17 de septiembre de 2021.",
+  "color": "#ef4444"
+}

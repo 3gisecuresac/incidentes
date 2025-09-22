@@ -1,0 +1,13 @@
+{
+  "id": 5768,
+  "title": "Escuela secundaria de París - Ransomware - Rhysida",
+  "date": "2023-06-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Rhysida",
+  "impact": "Filtración de datos en Illinois a su sitio de filtraciones como un elemento de subasta",
+  "source": "nan",
+  "summary": "La banda de ransomware Rhysida agrega la escuela secundaria Paris en Illinois a su sitio de filtraciones como un elemento de subasta.",
+  "color": "#ef4444"
+}

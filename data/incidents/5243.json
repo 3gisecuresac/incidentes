@@ -1,0 +1,13 @@
+{
+  "id": 5243,
+  "title": "Juegos antidisturbios - DoS - Undetermined",
+  "date": "2023-01-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en League of Legends",
+  "source": "nan",
+  "summary": "Riot Games, el desarrollador y editor de videojuegos detrás de League of Legends y Valorant, dice que retrasará los parches del juego después de que su entorno de desarrollo se viera comprometido.",
+  "color": "#3b82f6"
+}

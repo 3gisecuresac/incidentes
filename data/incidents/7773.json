@@ -1,0 +1,13 @@
+{
+  "id": 7773,
+  "title": "Red de Salud de Scarborough (SHN) - Data leak - Undetermined",
+  "date": "2022-05-26",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Scarborough Health Network SHN",
+  "source": "nan",
+  "summary": "El proveedor canadiense de servicios de salud Scarborough Health Network (SHN) advierte que una violación de datos puede haber expuesto los registros médicos de los pacientes.",
+  "color": "#ef4444"
+}

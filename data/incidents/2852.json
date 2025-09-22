@@ -1,0 +1,13 @@
+{
+  "id": 2852,
+  "title": "CivicSmart - Ransomware - REvil",
+  "date": "2020-04-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Cifrado por ransomware en CivicSmart un",
+  "source": "https://www.databreaches.net/smart-parking-meter-vendor-had-data-stolen-in-ransomware-attack/",
+  "summary": "CivicSmart, un proveedor de parquímetros inteligentes, es víctima de un ataque de ransomware Sodinokibi.",
+  "color": "#ef4444"
+}

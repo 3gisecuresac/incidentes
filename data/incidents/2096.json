@@ -1,0 +1,13 @@
+{
+  "id": 2096,
+  "title": "Fundación Médica Verity - Data leak - Undetermined",
+  "date": "2019-03-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Verity Medical Foundation",
+  "source": "https://www.databreaches.net/verity-medical-foundation-discloses-third-incident-involving-access-to-employees-email-accounts/",
+  "summary": "Verity Medical Foundation revela un tercer incidente que involucra el acceso a las cuentas de correo electrónico de los empleados.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4406,
+  "title": "NuLife Med - Ransomware - Vice Society",
+  "date": "2022-03-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Vice Society",
+  "impact": "Filtración de datos en Vice Society",
+  "source": "nan",
+  "summary": "Vice Society encripta la red y amenaza con filtrar datos en su portal web oscuro que afectan a 81.244 personas.",
+  "color": "#ef4444"
+}

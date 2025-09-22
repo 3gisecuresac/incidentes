@@ -1,0 +1,13 @@
+{
+  "id": 1586,
+  "title": "Medicina interna de Jemison - Ransomware - Undetermined",
+  "date": "2018-02-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Jemison Internal Medicine",
+  "source": "https://www.databreaches.net/jemison-internal-medicine-discloses-ransomware-event/",
+  "summary": "Jemison Internal Medicine notifica a 6550 pacientes sobre un ataque de ransomware. Sin embargo, la investigación revela que los sistemas ya habían sido comprometidos.",
+  "color": "#ef4444"
+}

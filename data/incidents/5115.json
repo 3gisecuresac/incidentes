@@ -1,0 +1,13 @@
+{
+  "id": 5115,
+  "title": "Gestión del rendimiento de las cuentas por cobrar - Ransomware - Undetermined",
+  "date": "2022-11-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Receivables Performance Management",
+  "source": "nan",
+  "summary": "Receivables Performance Management informa sobre una violación de datos después de que la empresa se enterara de que había sido el objetivo de un ataque de ransomware en 2021 que comprometió información confidencial de los consumidores almacenada en su red informática.",
+  "color": "#ef4444"
+}

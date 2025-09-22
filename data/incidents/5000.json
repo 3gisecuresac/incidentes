@@ -1,0 +1,13 @@
+{
+  "id": 5000,
+  "title": "BBRG TR - Ciberataque - Undetermined",
+  "date": "2022-10-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en BBRG TR",
+  "source": "nan",
+  "summary": "BBRG TR presenta un aviso de violación de datos después de que una parte no autorizada pudo obtener acceso a las redes informáticas de las empresas.",
+  "color": "#ef4444"
+}

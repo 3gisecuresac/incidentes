@@ -1,0 +1,13 @@
+{
+  "id": 8059,
+  "title": "Municipio de San Pedro - Ciberataque - Undetermined",
+  "date": "2021-06-21",
+  "country": "Argentina",
+  "region": "Latinoamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Municipio de San Pedro",
+  "source": "nan",
+  "summary": "Se filtran en internet datos del sitio web del Municipio de San Pedro.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4328,
+  "title": "Autoridad de Tránsito del Área Metropolitana de Washington (WMATA) - Manipulación de mensajes - Undetermined",
+  "date": "2022-02-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en WMATA es hackeada",
+  "source": "nan",
+  "summary": "La cuenta Twitter de WMATA es hackeada y se publican mensajes obscenos.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4746,
+  "title": "Grupo Gaedeke - Data leak - Undetermined",
+  "date": "2022-07-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Gaedeke Group LLC",
+  "source": "nan",
+  "summary": "Gaedeke Group, LLC confirma que la empresa sufrió una violación de datos después de que una parte no autorizada obtuviera acceso a datos confidenciales de consumidores contenidos en varias cuentas de correo electrónico de empleados comprometidas.",
+  "color": "#ef4444"
+}

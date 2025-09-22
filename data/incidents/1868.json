@@ -1,0 +1,13 @@
+{
+  "id": 1868,
+  "title": "Autoridad de Agua y Alcantarillado de Onslow (ONWASA) - Ransomware - Undetermined",
+  "date": "2018-10-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Agua",
+  "source": "https://www.darkreading.com/endpoint/nc-water-utility-fights-post-hurricane-ransomware/d/d-id/1333049",
+  "summary": "La Autoridad de Agua y Alcantarillado de Onslow (ONWASA) se ve afectada por un ataque de ransomware dirigido llevado a cabo a través de Ryuk.",
+  "color": "#ef4444"
+}

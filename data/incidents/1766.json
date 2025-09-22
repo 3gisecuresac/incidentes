@@ -1,0 +1,13 @@
+{
+  "id": 1766,
+  "title": "LabCorp - Ransomware - Undetermined",
+  "date": "2018-07-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estados Unidos",
+  "source": "https://www.bleepingcomputer.com/news/security/hackers-breach-network-of-labcorp-us-biggest-blood-testing-laboratories/",
+  "summary": "LabCorp, la red de laboratorios de análisis de sangre más grande de Estados Unidos, anuncia que piratas informáticos violaron su red informática durante el fin de semana.",
+  "color": "#a78bfa"
+}

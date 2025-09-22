@@ -1,0 +1,13 @@
+{
+  "id": 1027,
+  "title": "Condado de Anderson - Data leak - Undetermined",
+  "date": "2016-08-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Anderson",
+  "source": "http://wate.com/2016/08/10/1800-possibly-affected-by-anderson-county-government-computer-breach/",
+  "summary": "Los funcionarios del gobierno del condado de Anderson y la oficina del sheriff investigan una posible violación de la seguridad informática (una posible violación de todo el sistema del servidor principal del tribunal) que involucra a 1.800 personas.",
+  "color": "#a78bfa"
+}

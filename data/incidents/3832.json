@@ -1,0 +1,13 @@
+{
+  "id": 3832,
+  "title": "Médicos de familia de Orlando - Data leak - Undetermined",
+  "date": "2021-04-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Orlando Health Physicians queda expuesta a través de la vulneración de cuatro cuentas de correo electrónico de empleados",
+  "source": "nan",
+  "summary": "La información personal de más de 400.000 pacientes de Orlando Health Physicians queda expuesta a través de la vulneración de cuatro cuentas de correo electrónico de empleados.",
+  "color": "#ef4444"
+}

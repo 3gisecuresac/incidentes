@@ -1,0 +1,13 @@
+{
+  "id": 5586,
+  "title": "Multiplan - Ransomware - cl0p",
+  "date": "2023-04-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Fortra GoAnywhere MFT",
+  "source": "nan",
+  "summary": "La banda de ransomware Cl0p afirma haber pirateado Multiplan, supuestamente exfiltrado explotando la vulnerabilidad CVE-2023-0669 de Fortra GoAnywhere MFT.",
+  "color": "#ef4444"
+}

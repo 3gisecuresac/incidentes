@@ -1,0 +1,13 @@
+{
+  "id": 1285,
+  "title": "Ciudad de Newark - Ransomware - Undetermined",
+  "date": "2017-04-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Nueva Jersey",
+  "source": "https://www.scmagazine.com/city-of-newark-reportedly-hit-in-ransomware-attack/article/652644/",
+  "summary": "Un ataque de ransomware afecta algunas computadoras municipales en la ciudad más poblada de Nueva Jersey, Newark.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4323,
+  "title": "Hays USD 489 - Ransomware - Undetermined",
+  "date": "2022-02-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Kansas sufre un ataque de ransomware",
+  "source": "nan",
+  "summary": "Distrito escolar de Kansas sufre un ataque de ransomware que interrumpe sus operaciones.",
+  "color": "#ef4444"
+}

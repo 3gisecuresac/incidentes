@@ -1,0 +1,13 @@
+{
+  "id": 1705,
+  "title": "Médicos aliados - Ransomware - Undetermined",
+  "date": "2018-05-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Allied Physicians",
+  "source": "https://www.scmagazine.com/allied-physicians-hit-with-samsam-ransomware/article/767654/",
+  "summary": "Allied Physicians informa que fue víctima de un ataque de ransomware SamSam a principios de este mes (17 de mayo).",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7716,
+  "title": "Tecnologías Sangoma - Ransomware - WIZARD SPIDER",
+  "date": "2020-12-24",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Filtración de datos en Sangoma",
+  "source": "nan",
+  "summary": "Sangoma reveló una violación de datos después de que los archivos robados por los actores de la amenaza del ransomware Conti se publicaran en línea después de un ataque.",
+  "color": "#ef4444"
+}

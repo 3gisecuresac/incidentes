@@ -1,0 +1,13 @@
+{
+  "id": 4823,
+  "title": "Centro médico y clínicas Overlake - Data leak - Undetermined",
+  "date": "2022-08-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Overlake Medical Center Clinics",
+  "source": "nan",
+  "summary": "Overlake Medical Center & Clinics notifica a 557 personas sobre un incidente de seguridad de correo electrónico que involucra cierta información de pacientes.",
+  "color": "#a78bfa"
+}

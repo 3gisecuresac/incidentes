@@ -1,0 +1,13 @@
+{
+  "id": 2555,
+  "title": "Salud del meridiano de Hackensack - Ransomware - Undetermined",
+  "date": "2019-12-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Nueva Jersey",
+  "source": "https://securityaffairs.co/wordpress/95152/cyber-crime/new-jersey-hospital-ransomware-attack.html",
+  "summary": "El hospital más grande de Nueva Jersey, el Hackensack Meridian Health, revela que fue víctima de un ataque de ransomware que interrumpió su red, y también que el personal de TI decidió pagar el rescate para restaurar los archivos.",
+  "color": "#ef4444"
+}

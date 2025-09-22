@@ -1,0 +1,13 @@
+{
+  "id": 1269,
+  "title": "eConcordia - Data leak - Undetermined",
+  "date": "2017-04-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Concordia",
+  "source": "https://thelinknewspaper.ca/article/econcordia-system-hacked",
+  "summary": "Los sistemas de cursos en línea de Concordia, eConcordia y KnowledgeOne, son hackeados y 9.000 usuarios están comprometidos.",
+  "color": "#3b82f6"
+}

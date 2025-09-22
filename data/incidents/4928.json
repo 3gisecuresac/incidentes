@@ -1,0 +1,13 @@
+{
+  "id": 4928,
+  "title": "Aerolíneas americanas - Data leak - Undetermined",
+  "date": "2022-09-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en American Airlines",
+  "source": "nan",
+  "summary": "American Airlines notifica a sus clientes sobre una violación de datos después de que los atacantes comprometieran un número no revelado de cuentas de correo electrónico de empleados y obtuvieran acceso a información personal confidencial.",
+  "color": "#ef4444"
+}

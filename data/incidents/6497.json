@@ -1,0 +1,13 @@
+{
+  "id": 6497,
+  "title": "Grapas - Data leak - Undetermined",
+  "date": "2023-11-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Staples",
+  "source": "nan",
+  "summary": "El minorista estadounidense de artículos de oficina Staples desactiva algunos de sus sistemas después de un ciberataque para contener el impacto de la violación y proteger los datos de los clientes.",
+  "color": "#ef4444"
+}

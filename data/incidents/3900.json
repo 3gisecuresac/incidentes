@@ -1,0 +1,13 @@
+{
+  "id": 3900,
+  "title": "WSSC Agua - Ransomware - Undetermined",
+  "date": "2021-05-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en WSSC Water",
+  "source": "nan",
+  "summary": "WSSC Water, que proporciona agua a 2 millones de clientes, sufre un ataque de ransomware en sus sistemas comerciales no esenciales.",
+  "color": "#ef4444"
+}

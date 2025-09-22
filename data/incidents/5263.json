@@ -1,0 +1,13 @@
+{
+  "id": 5263,
+  "title": "Proveedor externo no revelado - Data leak - Undetermined",
+  "date": "2023-01-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Charter Communications",
+  "source": "nan",
+  "summary": "La empresa de telecomunicaciones Charter Communications dice que uno de sus proveedores externos sufrió una violación de seguridad después de que datos de la compañía aparecieran en un foro de piratería.",
+  "color": "#ef4444"
+}

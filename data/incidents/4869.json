@@ -1,0 +1,13 @@
+{
+  "id": 4869,
+  "title": "Asociación de Carreras de Nueva York (NYRA) - Ransomware - Hive",
+  "date": "2022-08-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Cifrado por ransomware en Asociación de Carreras de Nueva York",
+  "source": "nan",
+  "summary": "La operación de ransomware Hive se atribuye la responsabilidad de un ataque a la Asociación de Carreras de Nueva York (NYRA).",
+  "color": "#ef4444"
+}

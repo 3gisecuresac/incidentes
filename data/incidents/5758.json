@@ -1,0 +1,13 @@
+{
+  "id": 5758,
+  "title": "Cooperativa de Crédito Federal Generations (GFCU) - Ciberataque - Undetermined",
+  "date": "2023-06-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Generations Federal Credit Union GFCU",
+  "source": "nan",
+  "summary": "Generations Federal Credit Union (GFCU) presenta un aviso de violación de datos después de enterarse de que la información confidencial del consumidor confiada a la empresa estuvo sujeta a acceso no autorizado.",
+  "color": "#ef4444"
+}

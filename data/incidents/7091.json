@@ -1,0 +1,13 @@
+{
+  "id": 7091,
+  "title": "Banco de América - Data leak - Undetermined",
+  "date": "2025-01-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Fiscal General de Massachusetts",
+  "source": "nan",
+  "summary": "El 3 de enero de 2025, Bank of America reportó una filtración de datos que afectó a uno de sus proveedores externos. Según un ejemplo de carta proporcionada al Fiscal General de Massachusetts (mostrado a continuación), el proveedor descubrió un acceso no autorizado a sus sistemas.",
+  "color": "#ef4444"
+}

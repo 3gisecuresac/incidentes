@@ -1,0 +1,13 @@
+{
+  "id": 3723,
+  "title": "Guns.com - Data leak - Undetermined",
+  "date": "2021-03-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Guns.com",
+  "source": "nan",
+  "summary": "Una base de datos aparentemente perteneciente a Guns.com fue publicada en un foro de hackers. Guns.com también reconoció haber sido víctima de un ciberataque disruptivo en enero.",
+  "color": "#ef4444"
+}

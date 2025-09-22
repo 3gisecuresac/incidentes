@@ -1,0 +1,13 @@
+{
+  "id": 3622,
+  "title": "No hay soporte para alojamiento Linux - Ciberataque - Undetermined",
+  "date": "2021-02-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en No Support Linux Hosting",
+  "source": "nan",
+  "summary": "Una empresa de alojamiento web llamada No Support Linux Hosting anuncia su cierre después de que un pirata informático violara sus sistemas internos y comprometiera toda su operación.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5535,
+  "title": "Corporación Asesora de la Industria Hipotecaria - Data leak - Undetermined",
+  "date": "2023-04-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Freedom Mortgage Corporation",
+  "source": "nan",
+  "summary": "Freedom Mortgage Corporation presenta un aviso de violación de datos después de enterarse de que los datos confidenciales de los consumidores confiados a la empresa estuvieron sujetos a acceso no autorizado a través de un ataque a un proveedor externo.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2791,
+  "title": "General Electric (GE) a través de Canon Business Process Services - Data leak - Undetermined",
+  "date": "2020-03-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Canon Business Process Services. Una de las",
+  "source": "https://www.bleepingcomputer.com/news/security/tech-giant-ge-discloses-data-breach-after-service-provider-hack/",
+  "summary": "General Electric (GE) revela que la información personal identificable de empleados actuales y anteriores, así como de sus beneficiarios, quedó expuesta en un incidente de seguridad sufrido por uno de sus proveedores de servicios, Canon Business Process Services. Una de las cuentas de correo electrónico de sus empleados fue vulnerada por un tercero no autorizado en febrero.",
+  "color": "#ef4444"
+}

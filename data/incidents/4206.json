@@ -1,0 +1,13 @@
+{
+  "id": 4206,
+  "title": "Departamento de Salud de Maryland - Data leak - Undetermined",
+  "date": "2021-12-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Salud de Maryland queda fuera de línea debido a un ciberataque no identificado",
+  "source": "nan",
+  "summary": "El Departamento de Salud de Maryland queda fuera de línea debido a un ciberataque no identificado.",
+  "color": "#a78bfa"
+}

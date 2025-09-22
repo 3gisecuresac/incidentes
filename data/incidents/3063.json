@@ -1,0 +1,13 @@
+{
+  "id": 3063,
+  "title": "Distrito Escolar Independiente de Hudson - DoS - Undetermined",
+  "date": "2020-08-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Distrito Escolar Independiente de Hudson está inactivo como resultado de un ataque DDoS contra un host de terceros",
+  "source": "https://www.databreaches.net/tx-cyber-attack-affects-hudson-isd-website/",
+  "summary": "El sitio web del Distrito Escolar Independiente de Hudson está inactivo como resultado de un ataque DDoS contra un host de terceros.",
+  "color": "#f59e0b"
+}

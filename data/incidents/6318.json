@@ -1,0 +1,13 @@
+{
+  "id": 6318,
+  "title": "Octa - Data leak - Undetermined",
+  "date": "2023-10-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Okta",
+  "source": "nan",
+  "summary": "Okta dice que los atacantes accedieron a archivos que contenían cookies y tokens de sesión cargados por los clientes a su sistema de gestión de soporte después de vulnerarlo utilizando credenciales robadas.",
+  "color": "#a78bfa"
+}

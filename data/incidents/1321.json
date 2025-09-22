@@ -1,0 +1,13 @@
+{
+  "id": 1321,
+  "title": "Universidad de Wisconsin Health - Data leak - Undetermined",
+  "date": "2017-05-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en UW Health",
+  "source": "http://www.wbay.com/content/news/UW-Health-information-on-2036-patients-compromised-424454484.html",
+  "summary": "UW Health dice que 2.036 pacientes tuvieron información comprometida después de que la cuenta de correo electrónico de un empleado fue utilizada por un usuario no autorizado el 28 de marzo de 2017.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 8021,
+  "title": "Correo web del gobierno brasileño - Ciberataque - GhostSec",
+  "date": "2023-01-10",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ciberataque",
+  "actor": "GhostSec",
+  "impact": "Filtración de datos en MB de",
+  "source": "nan",
+  "summary": "GhostSec filtra 845 MB de datos del webmail del gov.br.",
+  "color": "#ef4444"
+}

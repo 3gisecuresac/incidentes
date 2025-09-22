@@ -1,0 +1,13 @@
+{
+  "id": 3450,
+  "title": "Universidad de Memphis - Data leak - Undetermined",
+  "date": "2020-12-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Memphis envía un aviso después de",
+  "source": "nan",
+  "summary": "La Universidad de Memphis envía un aviso después de que un individuo pirateó una cuenta de correo electrónico de la universidad.",
+  "color": "#a78bfa"
+}

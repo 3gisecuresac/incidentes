@@ -1,0 +1,13 @@
+{
+  "id": 4776,
+  "title": "Recursos de práctica - Ransomware - Undetermined",
+  "date": "2022-08-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Practice Resources LLC PRL",
+  "source": "nan",
+  "summary": "La empresa de facturación médica y gestión de prácticas Practice Resources, LLC (PRL) notifica a 942.138 personas sobre un ataque de ransomware que afectó a 26 de sus clientes de organizaciones de atención médica.",
+  "color": "#ef4444"
+}

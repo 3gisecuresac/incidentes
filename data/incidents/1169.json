@@ -1,0 +1,13 @@
+{
+  "id": 1169,
+  "title": "Universidad de Princeton - Ransomware - Undetermined",
+  "date": "2017-01-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Princeton es una de las 27",
+  "source": "https://www.databreaches.net/princeton-university-becomes-victim-of-mongodb-ransom-attacks/",
+  "summary": "La Universidad de Princeton es una de las 27.000 víctimas cuyos datos fueron borrados por atacantes que aprovecharon un MongoDB vulnerable.",
+  "color": "#ef4444"
+}

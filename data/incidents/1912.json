@@ -1,0 +1,13 @@
+{
+  "id": 1912,
+  "title": "Centro Médico del Valle de Ohio - Ransomware - Undetermined",
+  "date": "2018-11-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Hospital Regional del Este de Ohio",
+  "source": "https://securityaffairs.co/wordpress/78441/breaking-news/ohio-hospital-system-ransomware.html",
+  "summary": "Un ataque de ransomware afecta los sistemas informáticos del Hospital Regional del Este de Ohio y del Centro Médico del Valle de Ohio, interrumpiendo según se informa el funcionamiento de las salas de emergencia de los hospitales.",
+  "color": "#ef4444"
+}

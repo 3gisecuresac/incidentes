@@ -1,0 +1,13 @@
+{
+  "id": 2861,
+  "title": "Hospital Metodista del Sur de California - Ransomware - Undetermined",
+  "date": "2020-05-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Sur de California se suma a la lista del ataque del ransomware Blackbaud",
+  "source": "https://www.pasadenastarnews.com/2020/12/29/arcadia-hospital-hacked-in-widespread-data-breach/",
+  "summary": "El Hospital Metodista del Sur de California se suma a la lista del ataque del ransomware Blackbaud.",
+  "color": "#ef4444"
+}

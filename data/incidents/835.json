@@ -1,0 +1,13 @@
+{
+  "id": 835,
+  "title": "Instituto Oftalmológico del Sureste - Data leak - Undetermined",
+  "date": "2016-03-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El Southeast Eye Institute",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/the-southeast-eye-institute-patient-information-compromised/",
+  "summary": "El Southeast Eye Institute informa sobre una posible violación de datos después de que una persona no autorizada obtuvo acceso a los datos de 87.000 pacientes a través de un afiliado externo.",
+  "color": "#ef4444"
+}

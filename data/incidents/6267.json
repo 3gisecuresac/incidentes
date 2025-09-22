@@ -1,0 +1,13 @@
+{
+  "id": 6267,
+  "title": "Distrito Escolar del Condado de Clark - Ciberataque - SingularityMD",
+  "date": "2023-10-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "SingularityMD",
+  "impact": "Filtración de datos en Condado de Clark",
+  "source": "nan",
+  "summary": "El Distrito Escolar del Condado de Clark (CCSD) sufrió un ciberataque reivindicado por el actor de amenazas SingularityMD. Tres semanas después, el atacante envió por correo electrónico a los padres los datos de sus hijos, presuntamente robados durante el ciberataque.",
+  "color": "#ef4444"
+}

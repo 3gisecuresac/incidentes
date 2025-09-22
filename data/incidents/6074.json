@@ -1,0 +1,13 @@
+{
+  "id": 6074,
+  "title": "Keenan y asociados - Ransomware - Undetermined",
+  "date": "2023-08-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Keenan Associates Kennan",
+  "source": "nan",
+  "summary": "Keenan & Associates (Kennan) presenta un aviso de violación de datos después de descubrir que fue víctima reciente de un ataque de ransomware.",
+  "color": "#ef4444"
+}

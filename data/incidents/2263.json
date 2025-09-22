@@ -1,0 +1,13 @@
+{
+  "id": 2263,
+  "title": "Distrito Escolar del Condado de Lyon - Ransomware - Undetermined",
+  "date": "2019-07-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Condado de Lyon se ve afectado",
+  "source": "https://www.databreaches.net/lyon-county-school-district-hacked-in-latest-cyber-attack-against-local-agencies/",
+  "summary": "El Distrito Escolar del Condado de Lyon se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

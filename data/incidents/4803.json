@@ -1,0 +1,13 @@
+{
+  "id": 4803,
+  "title": "Klaviyo - Data leak - Undetermined",
+  "date": "2022-08-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Klaviyo",
+  "source": "nan",
+  "summary": "La empresa de marketing por correo electrónico Klaviyo revela una violación de datos después de que actores de amenazas robaran las credenciales de inicio de sesión de un empleado en un ataque de phishing y obtuvieran acceso a sistemas internos y descargaran listas de marketing para clientes relacionados con criptomonedas.",
+  "color": "#ef4444"
+}

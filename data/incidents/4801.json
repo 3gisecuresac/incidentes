@@ -1,0 +1,13 @@
+{
+  "id": 4801,
+  "title": "HRSA - DoS - Killnet",
+  "date": "2022-08-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Killnet",
+  "impact": "Interrupción por DDoS en DDoS contra una",
+  "source": "nan",
+  "summary": "Killnet afirma haber llevado a cabo un ataque DDoS contra una agencia federal estadounidense del sector salud.",
+  "color": "#f59e0b"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6295,
+  "title": "Wishbone Medical - Data leak - Undetermined",
+  "date": "2023-10-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Wishbone Medical",
+  "source": "nan",
+  "summary": "Wishbone Medical presenta un aviso de violación de datos después de descubrir que ciertas cuentas de correo electrónico de empleados estaban sujetas a acceso no autorizado.",
+  "color": "#ef4444"
+}

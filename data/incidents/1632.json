@@ -1,0 +1,13 @@
+{
+  "id": 1632,
+  "title": "Hospitalidad Atrium - Ransomware - Undetermined",
+  "date": "2018-03-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Atrium Hospitality",
+  "source": "https://www.databreaches.net/atrium-hospitality-notifies-hotel-guests-of-ransomware-incident/",
+  "summary": "Atrium Hospitality notifica a 376 huéspedes del hotel sobre un ataque de ransomware ocurrido en diciembre de 2017.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6506,
+  "title": "Departamento Escolar de Hermon - Ransomware - HelloKitty?",
+  "date": "2023-12-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "HelloKitty?",
+  "impact": "Cifrado por ransomware en Apache ActiveMQ",
+  "source": "nan",
+  "summary": "El Departamento Escolar Hermon sufre un ataque de ransomware después de que los actores de amenazas explotaran la vulnerabilidad CVE-2023-46604 de Apache ActiveMQ,",
+  "color": "#ef4444"
+}

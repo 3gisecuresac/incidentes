@@ -1,0 +1,13 @@
+{
+  "id": 3026,
+  "title": "Centro de Salud Comunitario de Mattapan (MCHC) - Data leak - Undetermined",
+  "date": "2020-07-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Salud Comunitario Mattapan",
+  "source": "https://www.databreaches.net/ma-mattapan-community-health-center-notifies-patients-of-breach/",
+  "summary": "El Centro de Salud Comunitario Mattapan (MCHC) notifica un incidente de phishing que implica un posible acceso no autorizado a información personal.",
+  "color": "#ef4444"
+}

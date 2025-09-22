@@ -1,0 +1,13 @@
+{
+  "id": 4990,
+  "title": "Grupo GEE - Ransomware - Undetermined",
+  "date": "2022-10-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en GEE Group",
+  "source": "nan",
+  "summary": "GEE Group presenta un aviso oficial de una violación de datos después de que una parte no autorizada accedió y encriptó datos confidenciales ubicados en sus servidores informáticos.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4348,
+  "title": "PracticeMax - Ransomware - Undetermined",
+  "date": "2022-03-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en PracticeMax",
+  "source": "nan",
+  "summary": "El proveedor de soluciones de gestión empresarial y tecnología de la información PracticeMax revela un ataque de ransomware que afectó a 165.698 personas.",
+  "color": "#ef4444"
+}

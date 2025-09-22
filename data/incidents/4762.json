@@ -1,0 +1,13 @@
+{
+  "id": 4762,
+  "title": "Samsung - Data leak - Undetermined",
+  "date": "2022-07-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Estados Unidos fueran hackeados",
+  "source": "nan",
+  "summary": "Samsung confirma una nueva filtración de datos después de que algunos de sus sistemas en Estados Unidos fueran hackeados para robar datos de clientes.",
+  "color": "#ef4444"
+}

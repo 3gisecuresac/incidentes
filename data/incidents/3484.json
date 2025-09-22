@@ -1,0 +1,13 @@
+{
+  "id": 3484,
+  "title": "Microsoft - Supplychain attack - SVR (COZYBEAR)",
+  "date": "2020-12-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Supplychain attack",
+  "actor": "SVR (COZYBEAR)",
+  "impact": "Incidente de seguridad en SolarWinds",
+  "source": "nan",
+  "summary": "Microsoft afirma que su red interna fue violada por piratas informáticos de SolarWinds y luego utilizada para realizar otros ataques contra otras empresas.",
+  "color": "#a78bfa"
+}

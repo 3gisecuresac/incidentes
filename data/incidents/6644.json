@@ -1,0 +1,13 @@
+{
+  "id": 6644,
+  "title": "Flotador fijo - Data leak - Undetermined",
+  "date": "2024-02-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Bitcoin",
+  "source": "nan",
+  "summary": "FixedFloat, un intercambio de criptomonedas descentralizado, es hackeado a través de un drenador de criptomonedas, por al menos $26 millones en Bitcoin y Ethereum.",
+  "color": "#3b82f6"
+}

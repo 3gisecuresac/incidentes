@@ -1,0 +1,13 @@
+{
+  "id": 3475,
+  "title": "Aire de Avanzada - Ransomware - INDRIK SPIDER",
+  "date": "2020-12-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Cifrado por ransomware en Forward Air",
+  "source": "nan",
+  "summary": "Forward Air ha sido atacado por Hades, un nuevo actor de amenaza de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6160,
+  "title": "ProMach - Ciberataque - Undetermined",
+  "date": "2023-09-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI de la empresa",
+  "source": "nan",
+  "summary": "ProMach presenta un aviso de violación de datos después de descubrir que una parte no autorizada obtuvo acceso a la red de TI de la empresa.",
+  "color": "#ef4444"
+}

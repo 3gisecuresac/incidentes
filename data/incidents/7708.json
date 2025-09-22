@@ -1,0 +1,13 @@
+{
+  "id": 7708,
+  "title": "TransLink - Ransomware - Egregor",
+  "date": "2020-12-01",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Egregor",
+  "impact": "Cifrado por ransomware en TransLink",
+  "source": "nan",
+  "summary": "Un ataque de ransomware por parte de los actores de la amenaza Egregor ha paralizado las operaciones de TransLink, la agencia de transporte público de Vancouver, Canadá.",
+  "color": "#ef4444"
+}

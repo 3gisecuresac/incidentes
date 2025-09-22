@@ -1,0 +1,13 @@
+{
+  "id": 5128,
+  "title": "Colegio Técnico y Comunitario Estatal de Cincinnati - Ransomware - Vice Society",
+  "date": "2022-11-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Vice Society",
+  "impact": "Filtración de datos en Cincinnati State Technical and Community College",
+  "source": "nan",
+  "summary": "La operación de ransomware Vice Society se atribuye la responsabilidad de un ciberataque a Cincinnati State Technical and Community College, y los actores de la amenaza ahora filtran datos supuestamente robados durante el ataque.",
+  "color": "#ef4444"
+}

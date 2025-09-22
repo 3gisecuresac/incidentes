@@ -1,0 +1,13 @@
+{
+  "id": 6657,
+  "title": "Agencia de Ciberseguridad y Seguridad de Infraestructura de EE. UU. (CISA) - Data leak - Undetermined",
+  "date": "2024-02-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Seguridad de Infraestructura",
+  "source": "nan",
+  "summary": "La Agencia de Seguridad de Infraestructura y Ciberseguridad de EE. UU. (CISA) revela que los actores de amenazas violaron sus sistemas en febrero a través de vulnerabilidades en los productos de Ivanti.",
+  "color": "#a78bfa"
+}

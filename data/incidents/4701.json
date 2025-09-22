@@ -1,0 +1,13 @@
+{
+  "id": 4701,
+  "title": "Gas Sur - Data leak - Undetermined",
+  "date": "2022-07-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Gas South",
+  "source": "nan",
+  "summary": "Gas South informa que la empresa sufrió una violación de datos después de que una parte no autorizada obtuviera acceso a datos confidenciales de consumidores contenidos en su red.",
+  "color": "#ef4444"
+}

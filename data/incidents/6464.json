@@ -1,0 +1,13 @@
+{
+  "id": 6464,
+  "title": "General Electric - Ciberataque - IntelBroker",
+  "date": "2023-11-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "IntelBroker",
+  "impact": "Filtración de datos en General Electric",
+  "source": "nan",
+  "summary": "General Electric está investigando denuncias de que un actor de amenazas llamado IntelBroker violó el entorno de desarrollo de la empresa en un ciberataque y filtró datos supuestamente robados.",
+  "color": "#ef4444"
+}

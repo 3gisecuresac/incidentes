@@ -1,0 +1,13 @@
+{
+  "id": 5054,
+  "title": "Departamento del Tesoro de los Estados Unidos - DoS - Killnet",
+  "date": "2022-11-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Killnet",
+  "impact": "Interrupción por DDoS en Departamento Adjunto de Finanzas Federales de Estados Unidos anunció",
+  "source": "nan",
+  "summary": "El asesor de ciberseguridad del Departamento Adjunto de Finanzas Federales de Estados Unidos anunció que han frustrado un ataque DDoS de Killnet.",
+  "color": "#f59e0b"
+}

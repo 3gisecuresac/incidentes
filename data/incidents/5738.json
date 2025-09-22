@@ -1,0 +1,13 @@
+{
+  "id": 5738,
+  "title": "Tecnología de salud de alto rendimiento (PH Tech) - Data leak - cl0p",
+  "date": "2023-06-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit",
+  "source": "nan",
+  "summary": "Performance Health Technology (PH Tech), una empresa que brinda servicios de gestión de datos a aseguradoras de salud estadounidenses, confirma en un aviso que se vio afectada por los ataques masivos de MOVEit.",
+  "color": "#ef4444"
+}

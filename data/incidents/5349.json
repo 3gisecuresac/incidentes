@@ -1,0 +1,13 @@
+{
+  "id": 5349,
+  "title": "Medios de salud avanzados (AHM) - Data leak - Undetermined",
+  "date": "2023-02-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Advanced Health Media AHM",
+  "source": "nan",
+  "summary": "Advanced Health Media (AHM) presenta un aviso de violación de datos después de enterarse de que una parte no autorizada pudo acceder a ciertos servidores de la empresa que almacenaban datos confidenciales de los consumidores.",
+  "color": "#ef4444"
+}

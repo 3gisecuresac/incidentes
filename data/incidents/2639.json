@@ -1,0 +1,13 @@
+{
+  "id": 2639,
+  "title": "Tampa Bay Times - Ransomware - Undetermined",
+  "date": "2020-01-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Tampa Bay Times",
+  "source": "https://www.scmagazine.com/home/security-news/tampa-bay-times-hit-by-ryuk-new-variant-of-stealer-aimed-at-govt-finance/",
+  "summary": "El Tampa Bay Times sufre un ataque de ransomware Ryuk.",
+  "color": "#ef4444"
+}

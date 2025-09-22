@@ -1,0 +1,13 @@
+{
+  "id": 5701,
+  "title": "AlohaCare - Data leak - cl0p",
+  "date": "2023-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en AlohaCare",
+  "source": "nan",
+  "summary": "AlohaCare presenta un aviso de violación de datos después de confirmar que una vulnerabilidad en el programa de transferencia de archivos MOVEit resultó en que información confidencial del paciente fuera accesible a una parte no autorizada.",
+  "color": "#ef4444"
+}

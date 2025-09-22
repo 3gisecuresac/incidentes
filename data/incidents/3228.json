@@ -1,0 +1,13 @@
+{
+  "id": 3228,
+  "title": "Conservación de tierras del lago George - Ransomware - Undetermined",
+  "date": "2020-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Lake George Land Conservancy",
+  "source": "https://www.databreaches.net/lake-george-land-conservancy-reports-they-recovered-from-a-ransomware-attack-by-use-of-a-backup-no-ransom-paid/",
+  "summary": "La organización Lake George Land Conservancy está actualizando sus servidores tras sufrir un ataque de ransomware el mes pasado. La organización anunció la brecha de seguridad del 23 de septiembre en una carta publicada en su sitio web el miércoles.",
+  "color": "#ef4444"
+}

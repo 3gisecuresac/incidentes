@@ -1,0 +1,13 @@
+{
+  "id": 7215,
+  "title": "Auditoría de TEA - Ransomware - Undetermined",
+  "date": "2019-12-03",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Ryuk",
+  "source": "nan",
+  "summary": "ASD Audit, un proveedor de software para auditoría y análisis financiero, es otra víctima de Ryuk.",
+  "color": "#a78bfa"
+}

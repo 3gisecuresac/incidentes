@@ -1,0 +1,13 @@
+{
+  "id": 3781,
+  "title": "Colegio Comunitario Mott - Data leak - Undetermined",
+  "date": "2021-03-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Mott Community College",
+  "source": "nan",
+  "summary": "Mott Community College anuncia haber identificado y abordado una violación de seguridad de datos.",
+  "color": "#ef4444"
+}

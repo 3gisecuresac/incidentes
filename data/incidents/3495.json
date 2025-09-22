@@ -1,0 +1,13 @@
+{
+  "id": 3495,
+  "title": "Ciudad de Ellensburg - Ransomware - Undetermined",
+  "date": "2020-12-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Ellensburg es víctima de un ataque de ransomware",
+  "source": "nan",
+  "summary": "La ciudad de Ellensburg es víctima de un ataque de ransomware. No se puede acceder a la mayoría de las unidades de red ni a los datos de la ciudad.",
+  "color": "#ef4444"
+}

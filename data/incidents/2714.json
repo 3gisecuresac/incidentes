@@ -1,0 +1,13 @@
+{
+  "id": 2714,
+  "title": "Puerto Lavaca - Ransomware - Undetermined",
+  "date": "2020-02-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Port Lavaca sufre un ataque de ransomware Ryuk",
+  "source": "https://www.cisomag.com/ryuk-ransomware-campaign-targets-port-lavaca-city-hall/",
+  "summary": "El Ayuntamiento de Port Lavaca sufre un ataque de ransomware Ryuk,",
+  "color": "#ef4444"
+}

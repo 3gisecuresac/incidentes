@@ -1,0 +1,13 @@
+{
+  "id": 6715,
+  "title": "Cooperativa de Salud Grupal del Centro-Sur de Wisconsin (GHC-SCW) - Ransomware - Undetermined",
+  "date": "2024-04-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Group Health Cooperative of South Central Wisconsin GHC-SCW",
+  "source": "nan",
+  "summary": "El proveedor de servicios de atención médica sin fines de lucro Group Health Cooperative of South Central Wisconsin (GHC-SCW) revela que una banda de ransomware violó su red en enero y robó documentos que contenían información personal y médica de más de 500.000 personas.",
+  "color": "#ef4444"
+}

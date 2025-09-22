@@ -1,0 +1,13 @@
+{
+  "id": 6149,
+  "title": "Compañía de sistemas Lifeline - Ciberataque - Undetermined",
+  "date": "2023-09-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Lifeline Systems Company",
+  "source": "nan",
+  "summary": "Lifeline Systems Company presenta un aviso de violación de datos después de descubrir que una persona no autorizada accedió a documentos que contenían datos confidenciales en la red informática de la empresa.",
+  "color": "#ef4444"
+}

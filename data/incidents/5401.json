@@ -1,0 +1,13 @@
+{
+  "id": 5401,
+  "title": "Hospital Winslow Memorial, conocido como Centro Médico Little Colorado (LCMC) - Data leak - Undetermined",
+  "date": "2023-03-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Little Colorado Medical Center",
+  "source": "nan",
+  "summary": "El Winslow Memorial Hospital, que opera bajo el nombre de Little Colorado Medical Center (LCMC), presenta un aviso de violación de datos después de enterarse de que una parte no autorizada llevó a cabo un ciberataque que resultó en la filtración de datos de pacientes.",
+  "color": "#ef4444"
+}

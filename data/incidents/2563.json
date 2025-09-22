@@ -1,0 +1,13 @@
+{
+  "id": 2563,
+  "title": "Sistema de Salud del Sinaí - Data leak - Undetermined",
+  "date": "2019-12-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Sinai Health System",
+  "source": "https://www.securitymagazine.com/articles/91497-chicago-healthcare-provider-sinai-health-system-hit-with-data-breach",
+  "summary": "Sinai Health System descubre que las cuentas de correo electrónico de dos de sus empleados se han visto comprometidas como resultado de las respuestas a correos electrónicos de phishing descubiertos el 16 de octubre.",
+  "color": "#ef4444"
+}

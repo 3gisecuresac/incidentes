@@ -1,0 +1,13 @@
+{
+  "id": 480,
+  "title": "Policía de Baltimore - Data leak - Hagash Team",
+  "date": "2015-05-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Hagash Team",
+  "impact": "Filtración de datos en Baltimore a principios de este mes",
+  "source": "https://news.softpedia.com/news/Hackers-Leak-Passwords-for-Baltimore-Police-Emails-480182.shtml",
+  "summary": "Después de la filtración de las direcciones de correo electrónico de la policía de Baltimore a principios de este mes, varios oficiales son víctimas de un ataque de phishing y, en consecuencia, un equipo de hacktivistas (Hagash Team) filtra en Pastebin un conjunto de ocho direcciones de correo electrónico y las contraseñas para acceder a las cuentas.",
+  "color": "#ef4444"
+}

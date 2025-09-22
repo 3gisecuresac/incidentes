@@ -1,0 +1,13 @@
+{
+  "id": 3497,
+  "title": "Vientos solares - Supplychain attack - Undetermined",
+  "date": "2020-12-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Supplychain attack",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en SolarWinds",
+  "source": "nan",
+  "summary": "Un segundo ataque informático tuvo como objetivo a SolarWinds para plantar malware en redes corporativas y gubernamentales.",
+  "color": "#a78bfa"
+}

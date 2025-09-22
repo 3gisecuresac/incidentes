@@ -1,0 +1,13 @@
+{
+  "id": 2396,
+  "title": "Escuelas públicas de Guthrie - Ransomware - Undetermined",
+  "date": "2019-09-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Guthrie se ven afectadas",
+  "source": "https://www.databreaches.net/ok-guthrie-public-schools-hit-by-ransomware-attack/",
+  "summary": "Las escuelas públicas de Guthrie se ven afectadas por un ataque de ransomware.",
+  "color": "#ef4444"
+}

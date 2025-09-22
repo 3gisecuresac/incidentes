@@ -1,0 +1,13 @@
+{
+  "id": 3462,
+  "title": "Ayuntamiento de Ludlow - Ransomware - Undetermined",
+  "date": "2020-12-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Ludlow fue víctima de un ataque de ransomware",
+  "source": "nan",
+  "summary": "La ciudad de Ludlow fue víctima de un ataque de ransomware. Como resultado, se accedió a documentos relacionados con el sistema de nóminas del Ayuntamiento de Ludlow.",
+  "color": "#ef4444"
+}

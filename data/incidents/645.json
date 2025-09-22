@@ -1,0 +1,13 @@
+{
+  "id": 645,
+  "title": "https://www.amzreviewtrader.com/ - Data leak - Undetermined",
+  "date": "2015-10-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en amzreviewtrader.com",
+  "source": "https://web.archive.org/web/20160601034527/http://siph0n.net/exploits.php?id=4125",
+  "summary": "Un hacker anónimo piratea amzreviewtrader.com y filtra casi 2500 nombres de usuario y contraseñas de texto sin cifrar.",
+  "color": "#ef4444"
+}

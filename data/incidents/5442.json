@@ -1,0 +1,13 @@
+{
+  "id": 5442,
+  "title": "El Camino Health - Data leak - Undetermined",
+  "date": "2023-03-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El Camino Health",
+  "source": "nan",
+  "summary": "El Camino Health investiga denuncias de una posible violación de datos.",
+  "color": "#ef4444"
+}

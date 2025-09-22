@@ -1,0 +1,13 @@
+{
+  "id": 3554,
+  "title": "Avenida 360 Salud y Bienestar - Data leak - Undetermined",
+  "date": "2021-01-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Texas descubre un acceso no autorizado a la cuenta de correo electrónico de un empleado",
+  "source": "nan",
+  "summary": "Un proveedor de servicios comunitarios de Texas descubre un acceso no autorizado a la cuenta de correo electrónico de un empleado, lo que compromete la información sanitaria protegida de más de 12.000 personas.",
+  "color": "#3b82f6"
+}

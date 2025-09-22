@@ -1,0 +1,13 @@
+{
+  "id": 6478,
+  "title": "MooreCo - Ransomware - Play",
+  "date": "2023-11-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Play",
+  "impact": "Filtración de datos en MooreCo a su sitio de filtraciones",
+  "source": "nan",
+  "summary": "La banda de ransomware Play agrega a MooreCo a su sitio de filtraciones.",
+  "color": "#ef4444"
+}

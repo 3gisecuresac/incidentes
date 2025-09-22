@@ -1,0 +1,13 @@
+{
+  "id": 707,
+  "title": "Aduanas y Protección Fronteriza de los Estados Unidos - Ransomware - Mexican drug cartels",
+  "date": "2015-12-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Mexican drug cartels",
+  "impact": "Incidente de seguridad en Seguridad Nacional de Estados Unidos",
+  "source": "http://news.softpedia.com/news/drug-cartels-are-hacking-us-border-patrol-drones-498312.shtml",
+  "summary": "El Departamento de Seguridad Nacional de Estados Unidos (DHS) y la agencia de Aduanas y Protección Fronteriza (CBP) informan sobre incidentes en los que narcotraficantes han pirateado vehículos aéreos no tripulados (UAV, drones) para cruzar de forma ilegal y secreta la frontera entre Estados Unidos y México.",
+  "color": "#a78bfa"
+}

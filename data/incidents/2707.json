@@ -1,0 +1,13 @@
+{
+  "id": 2707,
+  "title": "Socios de lubricación de Charleston - Infección Dispositivos - Undetermined",
+  "date": "2020-02-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Charleston Lube Partners",
+  "source": "https://www.databreaches.net/wv-charleston-lube-partners-llc-provides-notice-of-a-payment-card-security-event/",
+  "summary": "Charleston Lube Partners revela haber sido atacado por un malware PoS entre el 14 de febrero de 2019 y el 19 de agosto de 2019.",
+  "color": "#a78bfa"
+}

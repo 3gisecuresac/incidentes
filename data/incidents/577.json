@@ -1,0 +1,13 @@
+{
+  "id": 577,
+  "title": "OneBookShelf - Data leak - Undetermined",
+  "date": "2015-08-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en OneBookShelf el",
+  "source": "http://icv2.com/articles/news/view/32291/credit-card-breach-onebookshelf",
+  "summary": "OneBookShelf, el operador de sitios web que venden juegos y cómics en formato PDF y publicaciones impresas bajo demanda, notifica a sus clientes que sufrió un ataque pirata que obtuvo información de sus tarjetas de crédito.",
+  "color": "#a78bfa"
+}

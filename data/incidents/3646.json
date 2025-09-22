@@ -1,0 +1,13 @@
+{
+  "id": 3646,
+  "title": "Servicios de Transferencia Automática de Fondos (AFTS) - Ransomware - Undetermined",
+  "date": "2021-02-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Washington",
+  "source": "nan",
+  "summary": "Automatic Funds Transfer Services (AFTS), un procesador de pagos utilizado por muchas ciudades y agencias en Washington y otros Estados Unidos, es afectado por un ataque de ransomware en Cuba.",
+  "color": "#ef4444"
+}

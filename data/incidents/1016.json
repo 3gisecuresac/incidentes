@@ -1,0 +1,13 @@
+{
+  "id": 1016,
+  "title": "Fosshub (fosshub.com) - Malware Attack - PeggleCrew",
+  "date": "2016-08-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "PeggleCrew",
+  "impact": "Sistema o cuenta comprometida en PeggleCrew",
+  "source": "http://news.softpedia.com/news/hacker-compromises-fosshub-to-distribute-mbr-hijacking-malware-506932.shtml",
+  "summary": "Un equipo de piratas informáticos llamado PeggleCrew compromete Fosshub e incorpora malware dentro de los archivos alojados en el sitio web y ofrecidos para descargar.",
+  "color": "#3b82f6"
+}

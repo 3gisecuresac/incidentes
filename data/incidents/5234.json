@@ -1,0 +1,13 @@
+{
+  "id": 5234,
+  "title": "SB Tactical - Ciberataque - Undetermined",
+  "date": "2023-01-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en SB Tactical uno de los",
+  "source": "nan",
+  "summary": "SB Tactical, uno de los fabricantes de soportes para pistolas AR-15 más populares, parece haber sido víctima de una violación de datos, donde datos de clientes, incluidos nombres, direcciones e información de tarjetas de crédito, se filtraron en línea.",
+  "color": "#ef4444"
+}

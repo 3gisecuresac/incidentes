@@ -1,0 +1,13 @@
+{
+  "id": 6936,
+  "title": "Dell - Data leak - grep'",
+  "date": "2024-09-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "grep'",
+  "impact": "Incidente de seguridad en Grep el",
+  "source": "nan",
+  "summary": "Grep, el actor de amenazas que afirmó haber violado Dell, ahora afirma haber violado nuevamente la misma empresa.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5472,
+  "title": "Sistema judicial de Wisconsin - DoS - Undetermined",
+  "date": "2023-03-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Wisconsin sufre un ataque DDoS",
+  "source": "nan",
+  "summary": "El sistema judicial de Wisconsin sufre un ataque DDoS.",
+  "color": "#f59e0b"
+}

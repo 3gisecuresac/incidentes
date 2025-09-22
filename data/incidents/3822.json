@@ -1,0 +1,13 @@
+{
+  "id": 3822,
+  "title": "Oficina del Fiscal General de Illinois - Ransomware - INDRIK SPIDER",
+  "date": "2021-04-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Filtración de datos en Fiscal General de Illinois",
+  "source": "nan",
+  "summary": "Los operadores del ransomware DoppelPaymer filtran una gran colección de archivos de la Oficina del Fiscal General de Illinois.",
+  "color": "#ef4444"
+}

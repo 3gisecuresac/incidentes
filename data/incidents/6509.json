@@ -1,0 +1,13 @@
+{
+  "id": 6509,
+  "title": "Servicios globales de HTC - Ransomware - ALPHVM",
+  "date": "2023-12-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en TI",
+  "source": "nan",
+  "summary": "La empresa de servicios de TI y consultoría empresarial HTC Global Services confirma que sufrió un ciberataque después de que la banda de ransomware ALPHV/BlackCat comenzara a filtrar capturas de pantalla de datos robados, supuestamente obtenidos explotando la vulnerabilidad CVE-2023-4966 de Citrixbleed.",
+  "color": "#ef4444"
+}

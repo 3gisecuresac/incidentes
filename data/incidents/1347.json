@@ -1,0 +1,13 @@
+{
+  "id": 1347,
+  "title": "Oxígeno de las vías respiratorias - Ransomware - Undetermined",
+  "date": "2017-06-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Airway Oxygen",
+  "source": "https://www.databreaches.net/airway-oxygen-notifies-500000-patients-after-ransomware-attack/",
+  "summary": "Airway Oxygen notifica que un ataque de ransomware a mediados de abril resultó en la vulneración de datos pertenecientes a 550.000 clientes y empleados.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7463,
+  "title": "Emtelco - Ransomware - Qilin",
+  "date": "2022-08-30",
+  "country": "Colombia",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Qilin",
+  "impact": "Cifrado por ransomware en Emtelco una",
+  "source": "nan",
+  "summary": "Emtelco, una empresa colombiana de experiencia del cliente, es víctima de un ataque de ransomware Qilin.",
+  "color": "#ef4444"
+}

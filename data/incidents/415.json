@@ -1,0 +1,13 @@
+{
+  "id": 415,
+  "title": "epicpr.com - Data leak - FRID4Y",
+  "date": "2015-03-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "FRID4Y",
+  "impact": "Sistema o cuenta comprometida en @_FRID4Y_",
+  "source": "https://www.elevenpaths.com/wp-content/uploads/2015/12/2015_the_year_of_information_leaks_EN.pdf",
+  "summary": "FRID4Y, también conocido como @_FRID4Y_, hackea epicpr.com y descarga 21.500 nombres de usuario y contraseñas de texto sin cifrar.",
+  "color": "#3b82f6"
+}

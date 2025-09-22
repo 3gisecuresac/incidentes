@@ -1,0 +1,13 @@
+{
+  "id": 8075,
+  "title": "Grupo albanés - Ransomware - LockBit 3.0",
+  "date": "2023-02-17",
+  "country": "Argentina",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en Argentina",
+  "source": "nan",
+  "summary": "Grupo Albanesi, empresa privada dedicada a la distribución de energía en Argentina, se suma al sitio de filtración de ransomware de LockBit3.0.",
+  "color": "#ef4444"
+}

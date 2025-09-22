@@ -1,0 +1,13 @@
+{
+  "id": 7801,
+  "title": "Junta de Control de Bebidas Alcohólicas de Ontario (LCBO) - Data leak - Undetermined",
+  "date": "2023-01-11",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Control de Licores de Ontario",
+  "source": "nan",
+  "summary": "La Junta de Control de Licores de Ontario (LCBO), una empresa del gobierno canadiense y el minorista de bebidas alcohólicas más grande del país, revela que atacantes desconocidos violaron su sitio web para inyectar código malicioso diseñado para robar información de clientes y tarjetas de crédito en el momento de pagar.",
+  "color": "#a78bfa"
+}

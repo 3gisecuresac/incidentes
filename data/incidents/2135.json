@@ -1,0 +1,13 @@
+{
+  "id": 2135,
+  "title": "Federación Estadounidense de Publicidad (AAF) - Data leak - Undetermined",
+  "date": "2019-04-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Publicidad",
+  "source": "https://www.bleepingcomputer.com/news/security/hackers-publish-aaf-member-data-claim-its-fbi-watchlist/",
+  "summary": "El mismo grupo que hackeó la FBINAA afirma haber publicado lo que parece ser información de decenas de miles de miembros de la Federación Americana de Publicidad (AAF), afirmando que se trata de una lista de vigilancia del FBI. Sin embargo, existen muchas dudas.",
+  "color": "#3b82f6"
+}

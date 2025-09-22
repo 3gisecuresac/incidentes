@@ -1,0 +1,13 @@
+{
+  "id": 7841,
+  "title": "Agencia de Servicios Fronterizos de Canadá (CBSA) - DoS - NoName057(16)",
+  "date": "2023-09-15",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "NoName057(16)",
+  "impact": "Interrupción por DDoS en Servicios Fronterizos de Canadá",
+  "source": "nan",
+  "summary": "La Agencia de Servicios Fronterizos de Canadá (ASFC) sufre un ataque DDoS. El colectivo prorruso NoName057(16) se atribuye la responsabilidad del ataque.",
+  "color": "#f59e0b"
+}

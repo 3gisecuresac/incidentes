@@ -1,0 +1,13 @@
+{
+  "id": 5430,
+  "title": "Asesores financieros de Voya (VFA) - Data leak - Undetermined",
+  "date": "2023-03-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Voya Financial Advisors VFA",
+  "source": "nan",
+  "summary": "Voya Financial Advisors (VFA) presenta un aviso de violación de datos después de enterarse de que la información confidencial del consumidor almacenada en el sistema informático de la empresa era accesible para una parte no autorizada.",
+  "color": "#ef4444"
+}

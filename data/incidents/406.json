@@ -1,0 +1,13 @@
+{
+  "id": 406,
+  "title": "Comerciantes naturales - Infección Dispositivos - Undetermined",
+  "date": "2015-03-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Natural Grocers",
+  "source": "https://krebsonsecurity.com/2015/03/natural-grocers-investigating-card-breach/",
+  "summary": "La cadena de supermercados Natural Grocers afirma que está investigando un posible incidente de seguridad de datos que involucra una intrusión no autorizada dirigida a datos limitados de tarjetas de pago de clientes.",
+  "color": "#ef4444"
+}

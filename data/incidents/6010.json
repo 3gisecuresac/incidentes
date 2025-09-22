@@ -1,0 +1,13 @@
+{
+  "id": 6010,
+  "title": "Paratón - Ransomware - Akira",
+  "date": "2023-08-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Akira",
+  "impact": "Filtración de datos en Parathon",
+  "source": "nan",
+  "summary": "El grupo de ransomware Akira añade a Parathon, empresa de software estadounidense, a su lista de víctimas. Los hackers afirmaron tener 560 GB de datos de empleados y otra información, exfiltrados tras el ciberataque a Parathon.",
+  "color": "#ef4444"
+}

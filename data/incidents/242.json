@@ -1,0 +1,13 @@
+{
+  "id": 242,
+  "title": "Battle.net - DoS - Undetermined",
+  "date": "2014-08-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Battle.net",
+  "source": "http://www.bbc.co.uk/news/technology-28925052",
+  "summary": "Sony admite que un ataque DDoS afectó a sus servicios en línea, PlayStation Network y Sony Entertainment Network. Otros servicios afectados incluyen Xbox Live, Battle.net de Blizzard y Grinding Gear Games.",
+  "color": "#f59e0b"
+}

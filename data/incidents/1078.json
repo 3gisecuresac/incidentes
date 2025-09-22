@@ -1,0 +1,13 @@
+{
+  "id": 1078,
+  "title": "La Fundación Clinton - Data leak - Undetermined",
+  "date": "2016-10-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en La Fundaci",
+  "source": "http://www.reuters.com/article/us-usa-election-clinton-foundation-idUSKCN1262IC",
+  "summary": "La Fundación Clinton advierte a los donantes sobre intentos de piratería informática dirigidos a robar su información personal.",
+  "color": "#a78bfa"
+}

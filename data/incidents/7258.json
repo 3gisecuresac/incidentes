@@ -1,0 +1,13 @@
+{
+  "id": 7258,
+  "title": "Consejo General del Poder Judicial (CGPJ) - Data leak - Undetermined",
+  "date": "2022-10-31",
+  "country": "España",
+  "region": "Europa",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Poder Judicial",
+  "source": "nan",
+  "summary": "El Consejo General del Poder Judicial (CGPJ) sufre un ciberataque en su plataforma Punto Neutro Judicial (PNJ), que conecta a los órganos judiciales con otros organismos gubernamentales, como la Policía Nacional, la Fiscalía General del Estado y la Secretaría General de Instituciones Penitenciarias. Medio millón de contribuyentes y 50.000 policías sufren el robo de su información.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7384,
+  "title": "Periodistas mexicanos y un defensor de derechos humanos - Data leak - Undetermined",
+  "date": "2022-10-02",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en NSO Group",
+  "source": "nan",
+  "summary": "Una investigación revela que periodistas mexicanos y un defensor de derechos humanos que investigaban vínculos entre ejecuciones extrajudiciales, cárteles de la droga y el ejército mexicano, fueron infectados con el software espía Pegasus de NSO Group.",
+  "color": "#a78bfa"
+}

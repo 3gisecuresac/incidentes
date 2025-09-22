@@ -1,0 +1,13 @@
+{
+  "id": 4584,
+  "title": "La promesa de Bergen - Data leak - Undetermined",
+  "date": "2022-06-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Bergen",
+  "source": "nan",
+  "summary": "Bergen's Promise revela un ataque de phishing que afectó a 6.948 personas.",
+  "color": "#ef4444"
+}

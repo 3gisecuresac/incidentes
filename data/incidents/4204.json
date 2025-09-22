@@ -1,0 +1,13 @@
+{
+  "id": 4204,
+  "title": "Colegio Lincoln - Ransomware - Undetermined",
+  "date": "2021-12-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Lincoln College",
+  "source": "nan",
+  "summary": "Lincoln College sufre un ataque de ransomware y se ve obligado a cerrar sus operaciones.",
+  "color": "#ef4444"
+}

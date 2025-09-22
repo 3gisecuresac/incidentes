@@ -1,0 +1,13 @@
+{
+  "id": 2609,
+  "title": "Salud PIH - Data leak - Undetermined",
+  "date": "2020-01-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en PIH Health",
+  "source": "https://www.databreaches.net/pih-health-notifies-almost-200000-patients-whose-protected-health-information-was-sitting-in-employee-email-accounts-that-were-compromised/",
+  "summary": "PIH Health notifica a casi 200.000 pacientes cuya información de salud protegida estaba en cuentas de correo electrónico de empleados que fueron comprometidas.",
+  "color": "#3b82f6"
+}

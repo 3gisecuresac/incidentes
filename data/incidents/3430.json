@@ -1,0 +1,13 @@
+{
+  "id": 3430,
+  "title": "Atención médica de por vida - Ransomware - Undetermined",
+  "date": "2020-11-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en California sufre un ataque de ransomware",
+  "source": "https://www.zdnet.com/article/healthcare-orgs-in-california-arizona-send-out-breach-notice-letters-for-nearly-150000-after-ssns-accessed-during-ransomware-attacks/",
+  "summary": "Centro médico de California sufre un ataque de ransomware y se accede a información personal y médica de más de 115.000 pacientes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 719,
+  "title": "Sistema judicial de Minnesota mncourts.gov - DoS - Undetermined",
+  "date": "2016-01-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en mncourts.gov",
+  "source": "http://news.softpedia.com/news/ddos-attack-on-minnesota-court-system-website-takes-website-offline-for-ten-days-498741.shtml",
+  "summary": "El sistema judicial de Minnesota anuncia que su sitio web (mncourts.gov) estuvo inactivo durante diez días en diciembre debido a una serie de graves ataques DDoS.",
+  "color": "#f59e0b"
+}

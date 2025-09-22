@@ -1,0 +1,13 @@
+{
+  "id": 2002,
+  "title": "Asociación de Anunciantes Nacionales - Phishing - Undetermined",
+  "date": "2019-01-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Phishing",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Anunciantes Nacionales admite",
+  "source": "https://www.databreaches.net/ana-suffers-phishing-attack-possible-theft-of-data/",
+  "summary": "La Asociación de Anunciantes Nacionales admite que sufrió un ataque de phishing el año pasado (octubre) que puede haber resultado en el robo de datos de empleados, incluidos nombres y números de seguridad social.",
+  "color": "#ef4444"
+}

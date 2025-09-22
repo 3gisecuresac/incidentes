@@ -1,0 +1,13 @@
+{
+  "id": 1555,
+  "title": "Condado de Harris - Data leak - Undetermined",
+  "date": "2018-01-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Harris perdió casi $900",
+  "source": "https://www.houstonchronicle.com/news/houston-texas/houston/article/Harris-County-looks-to-boost-cyber-security-after-12524738.php",
+  "summary": "El Condado de Harris perdió casi $900,000 en una estafa de phishing. El ataque data de septiembre de 2017.",
+  "color": "#ef4444"
+}

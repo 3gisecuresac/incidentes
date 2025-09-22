@@ -1,0 +1,13 @@
+{
+  "id": 5512,
+  "title": "Centro de Gestión de Vida del Noroeste de Florida - Ciberataque - Undetermined",
+  "date": "2023-03-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Noroeste de Florida experimenta un incidente de seguridad de datos",
+  "source": "nan",
+  "summary": "Life Management Center del Noroeste de Florida experimenta un incidente de seguridad de datos que puede haber involucrado información personal y/o información de salud protegida perteneciente a ciertos pacientes y empleados actuales y anteriores.",
+  "color": "#ef4444"
+}

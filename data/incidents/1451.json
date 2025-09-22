@@ -1,0 +1,13 @@
+{
+  "id": 1451,
+  "title": "Teléfonos Victory - Data leak - Undetermined",
+  "date": "2017-10-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Victory Phones una",
+  "source": "http://www.zdnet.com/article/republican-polling-firm-hacked-exposing-donor-records/",
+  "summary": "Victory Phones, una empresa de encuestas telefónicas, fue víctima de un ataque informático, lo que expuso varios archivos de bases de datos, uno de los cuales ocupaba un total de 223 gigabytes y contenía aproximadamente dos mil millones de líneas. Los datos fueron robados en enero.",
+  "color": "#ef4444"
+}

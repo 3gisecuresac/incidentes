@@ -1,0 +1,13 @@
+{
+  "id": 5528,
+  "title": "Imágenes únicas - Ransomware - Trigona",
+  "date": "2023-04-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Trigona",
+  "impact": "Filtración de datos en Unique Imaging",
+  "source": "nan",
+  "summary": "Unique Imaging aparece en el sitio de filtración del ransomware Trigona.",
+  "color": "#ef4444"
+}

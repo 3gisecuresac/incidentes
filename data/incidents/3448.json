@@ -1,0 +1,13 @@
+{
+  "id": 3448,
+  "title": "Maxim Healthcare - Data leak - Undetermined",
+  "date": "2020-12-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos",
+  "source": "nan",
+  "summary": "Un proveedor de atención médica y una agencia de contratación de personal revelan una filtración de datos pasada que comprometió la información personal del paciente.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2404,
+  "title": "Zynga - Data leak - Gnosticplayers",
+  "date": "2019-09-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Gnosticplayers",
+  "impact": "Incidente de seguridad en Words with Friends",
+  "source": "https://securityaffairs.co/wordpress/91850/data-breach/zynga-game-data-breach.html",
+  "summary": "Gnosticplayers afirma haber robado más de 218 millones de registros de Words with Friends, un popular juego social móvil de Zynga Inc.",
+  "color": "#a78bfa"
+}

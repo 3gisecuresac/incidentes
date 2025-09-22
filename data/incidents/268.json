@@ -1,0 +1,13 @@
+{
+  "id": 268,
+  "title": "Yandy.com - Data leak - Undetermined",
+  "date": "2014-09-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Yandy.com",
+  "source": "http://news.softpedia.com/news/Yandy-com-Hacked-Financial-Information-Exposed-458255.shtml",
+  "summary": "Yandy.com, un minorista en línea de lencería y ropa de mujer, anuncia haber descubierto una brecha de seguridad que dejó expuestos los datos de tarjetas de crédito y débito de sus clientes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1743,
+  "title": "Adidas - Data leak - Undetermined",
+  "date": "2018-06-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El 26 de",
+  "source": "https://www.bloomberg.com/news/articles/2018-06-28/adidas-says-millions-of-u-s-customers-being-alerted-of-breach",
+  "summary": "Adidas alerta a sus clientes sobre una posible filtración de datos en su sitio web estadounidense. El 26 de junio, la compañía tuvo conocimiento de que un tercero no autorizado afirmaba haber obtenido datos limitados de ciertos consumidores.",
+  "color": "#ef4444"
+}

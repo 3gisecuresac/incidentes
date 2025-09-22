@@ -1,0 +1,13 @@
+{
+  "id": 3898,
+  "title": "Municipio de Plumsted - Data leak - Undetermined",
+  "date": "2021-05-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Nueva Jersey sufre ataque de phishing contra correo electrónico de empleados",
+  "source": "nan",
+  "summary": "Ciudad de Nueva Jersey sufre ataque de phishing contra correo electrónico de empleados que resulta en acceso no autorizado.",
+  "color": "#ef4444"
+}

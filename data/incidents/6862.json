@@ -1,0 +1,13 @@
+{
+  "id": 6862,
+  "title": "Ciudad de Flint - Ransomware - Undetermined",
+  "date": "2024-08-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Flint",
+  "source": "nan",
+  "summary": "Los teléfonos y computadoras utilizados por los trabajadores del gobierno en Flint, Michigan, enfrentan cortes de servicio debido a un ataque de ransomware.",
+  "color": "#ef4444"
+}

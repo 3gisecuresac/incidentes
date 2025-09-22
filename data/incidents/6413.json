@@ -1,0 +1,13 @@
+{
+  "id": 6413,
+  "title": "Préstamos para el hogar Planet - Ransomware - LockBit 3.0",
+  "date": "2023-11-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en Planet Home Lending",
+  "source": "nan",
+  "summary": "Planet Home Lending presenta un aviso de violación de datos después de descubrir que la empresa fue recientemente el objetivo de un ataque de ransomware.",
+  "color": "#ef4444"
+}

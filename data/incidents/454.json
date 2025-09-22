@@ -1,0 +1,13 @@
+{
+  "id": 454,
+  "title": "Clínica del oeste de Montana - Data leak - Undetermined",
+  "date": "2015-04-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Clínica Western Montana",
+  "source": "http://missoulian.com/news/local/hackers-accessed-patients-credit-card-information-western-montana-clinic-says/article_a2410583-b3bd-5cf8-afcb-8d65828fc2c0.html",
+  "summary": "Piratas informáticos desconocidos roban información completa de las tarjetas de crédito de 44 pacientes y información parcial de las tarjetas de crédito de casi 7.000 pacientes, después de obtener acceso a la Clínica Western Montana.",
+  "color": "#a78bfa"
+}

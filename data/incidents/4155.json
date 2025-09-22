@@ -1,0 +1,13 @@
+{
+  "id": 4155,
+  "title": "Fabricación Meyer - Ransomware - WIZARD SPIDER",
+  "date": "2021-10-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Filtración de datos en Conti",
+  "source": "nan",
+  "summary": "Un fabricante de utensilios de cocina se ve afectado por el ransomware Conti, que compromete los datos de sus empleados.",
+  "color": "#ef4444"
+}

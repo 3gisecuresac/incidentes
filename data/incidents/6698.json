@@ -1,0 +1,13 @@
+{
+  "id": 6698,
+  "title": "Comestibles - Data leak - Undetermined",
+  "date": "2024-03-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Munchables",
+  "source": "nan",
+  "summary": "El juego Munchables, basado en blockchain, fue atacado y se robaron aproximadamente 62 millones de dólares en criptomonedas. Pocas horas después, el atacante accedió a devolver los fondos robados.",
+  "color": "#a78bfa"
+}

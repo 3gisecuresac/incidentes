@@ -1,0 +1,13 @@
+{
+  "id": 3532,
+  "title": "San Alfonso - Data leak - Undetermined",
+  "date": "2021-01-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Saint Alphonsus a través de una violación de seguridad del correo electrónico",
+  "source": "nan",
+  "summary": "Es posible que se haya accedido a la información personal de los pacientes de Saint Alphonsus a través de una violación de seguridad del correo electrónico, pero no se puede determinar a qué correos electrónicos se accedió.",
+  "color": "#a78bfa"
+}

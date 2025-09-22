@@ -1,0 +1,13 @@
+{
+  "id": 1326,
+  "title": "Salud rápida - Data leak - Undetermined",
+  "date": "2017-05-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Fast Health",
+  "source": "https://www.databreaches.net/fast-health-in-tehachapi-suffers-security-breach/",
+  "summary": "Fast Health informa sobre una violación de seguridad que podría afectar a más de 700 de sus pacientes, cuando un tercero alteró un código en su servidor, robando la información de las tarjetas de crédito de cerca de 700 clientes que pagaron facturas en línea del 14 de enero de 2016 al 20 de diciembre de 2016.",
+  "color": "#a78bfa"
+}

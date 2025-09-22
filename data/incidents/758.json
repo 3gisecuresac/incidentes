@@ -1,0 +1,13 @@
+{
+  "id": 758,
+  "title": "Tonos verdes - Data leak - Undetermined",
+  "date": "2016-02-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Greenshades provoca un aumento de fraudes en devoluciones de impuestos",
+  "source": "http://www.databreaches.net/wi-hackers-compromise-ozaukee-co-workers-tax-info/",
+  "summary": "Una violación al sitio web de Greenshades provoca un aumento de fraudes en devoluciones de impuestos.",
+  "color": "#a78bfa"
+}

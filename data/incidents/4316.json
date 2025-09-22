@@ -1,0 +1,13 @@
+{
+  "id": 4316,
+  "title": "Cerebro y columna vertebral de Nueva Jersey (NJBS) - Ransomware - Undetermined",
+  "date": "2022-02-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en New Jersey Brain",
+  "source": "nan",
+  "summary": "New Jersey Brain and Spine (NJBS) notifica a los pacientes sobre un ataque de ransomware de noviembre de 2021 que afectó a 92,453 personas.",
+  "color": "#ef4444"
+}

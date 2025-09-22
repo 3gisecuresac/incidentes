@@ -1,0 +1,13 @@
+{
+  "id": 3770,
+  "title": "Tecnologías Stratus - Ransomware - Undetermined",
+  "date": "2021-03-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Stratus Technologies",
+  "source": "nan",
+  "summary": "Stratus Technologies sufre un ataque de ransomware que requirió que los sistemas se desconectaran para evitar la propagación del ataque.",
+  "color": "#ef4444"
+}

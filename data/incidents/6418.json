@@ -1,0 +1,13 @@
+{
+  "id": 6418,
+  "title": "MeridianLink - Ransomware - ALPHVM",
+  "date": "2023-11-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Comisión de Bolsa",
+  "source": "nan",
+  "summary": "El grupo de ransomware AlphV/BlackCat agrega MeridianLink a su sitio de filtraciones y reporta su víctima a la Comisión de Bolsa y Valores (SEC).",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7159,
+  "title": "Municipio de West Chester - Data leak - Undetermined",
+  "date": "2025-08-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en FBI y el IC3",
+  "source": "nan",
+  "summary": "Los demandantes afirman que se robaron aproximadamente 2 TB de información personal (residentes y empleados), se apuntó y aisló un servidor de correo electrónico, se desconectaron los sistemas como precaución y los servicios críticos (por ejemplo, el 911) no se vieron afectados; el FBI y el IC3 participaron.",
+  "color": "#a78bfa"
+}

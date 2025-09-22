@@ -1,0 +1,13 @@
+{
+  "id": 2018,
+  "title": "Distrito Escolar Independiente de Crosby - Ransomware - Undetermined",
+  "date": "2019-02-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Crosby ISD notificaron a los padres",
+  "source": "https://www.databreaches.net/tx-crosby-isds-it-system-hacked-by-ransomware-virus/",
+  "summary": "Los funcionarios de Crosby ISD notificaron a los padres y al personal que un virus ransomware se ha infiltrado en el sistema de TI del distrito escolar.",
+  "color": "#ef4444"
+}

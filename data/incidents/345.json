@@ -1,0 +1,13 @@
+{
+  "id": 345,
+  "title": "Sony Pictures Entertainment - Ransomware - NGB 3rd Technical Surveillance Bureau",
+  "date": "2014-11-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "NGB 3rd Technical Surveillance Bureau",
+  "impact": "Filtración de datos en Sony Pictures Entertainment",
+  "source": "https://www.justice.gov/opa/press-release/file/1092091/download",
+  "summary": "Los actores de amenazas comprometieron las redes de Sony Pictures Entertainment, destruyeron datos y publicaron correos electrónicos de sus empleados. Estados Unidos atribuyó el incidente a Corea del Norte, que se cree que organizó el ataque para impedir que Sony estrenara la película The Interview, que describe un complot para asesinar al líder norcoreano Kim Jong-un.",
+  "color": "#ef4444"
+}

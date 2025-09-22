@@ -1,0 +1,13 @@
+{
+  "id": 3024,
+  "title": "La ciudad de Lafayette, Colorado - Ransomware - Undetermined",
+  "date": "2020-07-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Lafayette sufre un ataque de ransomware",
+  "source": "https://www.zdnet.com/article/ransomware-why-one-city-chose-to-the-pay-the-ransom-after-falling-victim/",
+  "summary": "La ciudad de Lafayette sufre un ataque de ransomware que afecta los servicios telefónicos, el correo electrónico y los sistemas de reserva de pagos en línea. La ciudad se ve obligada a pagar $45,000.",
+  "color": "#ef4444"
+}

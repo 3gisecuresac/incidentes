@@ -1,0 +1,13 @@
+{
+  "id": 202,
+  "title": "El Hotel Houstonian - Infección Dispositivos - Undetermined",
+  "date": "2014-07-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Hotel The Houstonian",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/thousands-notified-of-six-month-payment-card-breach-at-the-houstonian-hotel/",
+  "summary": "Más de 10.000 clientes son notificados de una violación de seguridad de tarjetas de pago que dura seis meses en el Hotel The Houstonian.",
+  "color": "#a78bfa"
+}

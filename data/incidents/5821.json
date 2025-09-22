@@ -1,0 +1,13 @@
+{
+  "id": 5821,
+  "title": "Seguro de vida nacional Jackson - Ransomware - cl0p",
+  "date": "2023-06-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Jackson National Life Insurance",
+  "source": "nan",
+  "summary": "Jackson National Life Insurance revela que entre 700.000 y 800.000 de sus clientes quedaron expuestos a una violación de datos derivada de la explotación de la vulnerabilidad MOVEit.",
+  "color": "#ef4444"
+}

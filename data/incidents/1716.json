@@ -1,0 +1,13 @@
+{
+  "id": 1716,
+  "title": "El Departamento de Atención Médica Conductual de Rhode Island - Data leak - Undetermined",
+  "date": "2018-06-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Rhode Island afirman",
+  "source": "https://www.washingtontimes.com/news/2018/jun/4/multiple-rhode-island-state-agencies-targeted-by-m/",
+  "summary": "Las autoridades de Rhode Island afirman que varias agencias estatales son blanco de malware. Entre las víctimas se incluyen el Departamento de Niños, Jóvenes y Familias, el Departamento de Servicios Humanos y el Departamento de Salud Conductual.",
+  "color": "#a78bfa"
+}

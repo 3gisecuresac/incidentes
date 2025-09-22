@@ -1,0 +1,13 @@
+{
+  "id": 1186,
+  "title": "Biblioteca Pública de San Luis - Ransomware - Undetermined",
+  "date": "2017-01-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en San Luis sufre un ataque de ransomware",
+  "source": "http://www.welivesecurity.com/2017/01/20/ransomware-attack-hits-st-louis-public-library/",
+  "summary": "La Biblioteca Pública de San Luis sufre un ataque de ransomware. Los atacantes exigen $35,000 en Bitcoin.",
+  "color": "#ef4444"
+}

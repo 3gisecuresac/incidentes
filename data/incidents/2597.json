@@ -1,0 +1,13 @@
+{
+  "id": 2597,
+  "title": "entidad financiera estadounidense - Data leak - Undetermined",
+  "date": "2020-01-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Pulse Secure VPN para explotar la red de investigación de una importante entidad financiera estadounidense desde agosto de 2019",
+  "source": "https://www.bleepingcomputer.com/news/security/fbi-says-state-actors-hacked-us-govt-network-with-pulse-vpn-flaw/",
+  "summary": "El FBI dice que actores de amenazas no identificados han utilizado la falla CVE-2019-11510 de Pulse Secure VPN para explotar la red de investigación de una importante entidad financiera estadounidense desde agosto de 2019.",
+  "color": "#a78bfa"
+}

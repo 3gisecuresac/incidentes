@@ -1,0 +1,13 @@
+{
+  "id": 392,
+  "title": "RedTube - Data leak - Undetermined",
+  "date": "2015-02-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Despu",
+  "source": "http://www.infosecurity-magazine.com/news/redtube-porn-site-to-serve-malware/",
+  "summary": "Después de xHamster, RedTube es el segundo sitio para adultos que está comprometido para redirigir al usuario al kit de explotación Angler.",
+  "color": "#3b82f6"
+}

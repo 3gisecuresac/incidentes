@@ -1,0 +1,13 @@
+{
+  "id": 4526,
+  "title": "Departamento de Elecciones del Condado de Cameron - Data leak - Undetermined",
+  "date": "2022-05-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Elecciones del Condado de Cameron reconoce una violación de seguridad en la",
+  "source": "nan",
+  "summary": "El Departamento de Elecciones del Condado de Cameron reconoce una violación de seguridad en la que alguien obtuvo acceso a archivos que contenían información de identificación personal de miembros del personal y trabajadores electorales manejados por Easy Vote, una empresa que proporciona software de gestión de trabajadores electorales.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2577,
+  "title": "Red activa - Data leak - Undetermined",
+  "date": "2019-12-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Active Network",
+  "source": "https://www.scmagazine.com/home/security-news/data-breach/school-software-vendor-active-network-suffers-data-breach/",
+  "summary": "El proveedor de software escolar Active Network notifica haber sufrido una violación entre el 1 de octubre de 2019 y el 13 de noviembre de 2019, cuando se produjo una actividad ilegal en su plataforma Blue Bear, durante la cual actores maliciosos accedieron o adquirieron información personal.",
+  "color": "#a78bfa"
+}

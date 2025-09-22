@@ -1,0 +1,13 @@
+{
+  "id": 7451,
+  "title": "Costa Rica Ministerio de Obras Publicas y Transportes (MOPT) - Ransomware - Undetermined",
+  "date": "2023-01-17",
+  "country": "Costa Rica",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Obras Públicas",
+  "source": "nan",
+  "summary": "El Ministerio de Obras Públicas y Transportes (MOPT) de Costa Rica dice en un comunicado que sufrió un ataque de ransomware que cifró 12 de sus servidores.",
+  "color": "#ef4444"
+}

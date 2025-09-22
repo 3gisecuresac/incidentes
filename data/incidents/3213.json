@@ -1,0 +1,13 @@
+{
+  "id": 3213,
+  "title": "Hospital de Regiones - Ransomware - Undetermined",
+  "date": "2020-09-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Hospital Regions",
+  "source": "https://www.securityweek.com/health-care-patient-donor-data-may-have-been-breached",
+  "summary": "El Hospital Regions revela que fue afectado por el ataque del ransomware Blackbaud.",
+  "color": "#ef4444"
+}

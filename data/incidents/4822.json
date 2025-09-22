@@ -1,0 +1,13 @@
+{
+  "id": 4822,
+  "title": "Tecnologías Onyx - Ransomware - Undetermined",
+  "date": "2022-08-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Onyx Technologies",
+  "source": "nan",
+  "summary": "Onyx Technologies notifica a los reguladores y otros sobre un ataque de ransomware que afectó a 96.814 personas.",
+  "color": "#ef4444"
+}

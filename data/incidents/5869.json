@@ -1,0 +1,13 @@
+{
+  "id": 5869,
+  "title": "ConsensioSalud - Ransomware - Undetermined",
+  "date": "2023-07-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en ConsensioHealth",
+  "source": "nan",
+  "summary": "ConsensioHealth presenta un aviso de violación de datos después de descubrir que partes de su red informática fueron encriptadas como resultado de un ciberataque.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3045,
+  "title": "Ortopedia Ventura - Ransomware - MAZE",
+  "date": "2020-08-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "MAZE",
+  "impact": "Filtración de datos en Ventura",
+  "source": "https://www.databreaches.net/ventura-orthopedics-hit-by-ransomware-weeks-ago-some-patient-data-dumped/",
+  "summary": "Ventura Orthopedics fue atacada por el ransomware Maze y sus datos fueron publicados. Conti-Ryuk también publicó los datos de Ventura. No está claro si Maze y Conti atacaron a Ventura por separado o como parte de una iniciativa conjunta.",
+  "color": "#ef4444"
+}

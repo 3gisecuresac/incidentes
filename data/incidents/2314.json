@@ -1,0 +1,13 @@
+{
+  "id": 2314,
+  "title": "StockX - Data leak - Undetermined",
+  "date": "2019-08-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en StockX un",
+  "source": "https://techcrunch.com/2019/08/03/stockx-hacked-millions-records/",
+  "summary": "StockX, un popular sitio web para comprar y vender zapatillas y otras prendas, restablece las contraseñas de sus clientes tras ser hackeado en mayo. Se robaron más de 6,8 millones de registros.",
+  "color": "#3b82f6"
+}

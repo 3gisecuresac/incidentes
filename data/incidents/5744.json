@@ -1,0 +1,13 @@
+{
+  "id": 5744,
+  "title": "Hospital Mount Desert - Ransomware - Snatch",
+  "date": "2023-06-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Snatch",
+  "impact": "Cifrado por ransomware en Maine",
+  "source": "nan",
+  "summary": "El grupo de ransomware Snatch afirma haber violado el Hospital Mount Desert en Maine.",
+  "color": "#ef4444"
+}

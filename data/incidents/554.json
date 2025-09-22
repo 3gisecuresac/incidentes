@@ -1,0 +1,13 @@
+{
+  "id": 554,
+  "title": "Pizzería y pub Village - Infección Dispositivos - Undetermined",
+  "date": "2015-07-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Elgin",
+  "source": "http://www.databreaches.net/il-village-pizza-pub-notifies-customers-of-data-security-breach-at-transformpos/",
+  "summary": "Village Pizza & Pub, una cadena de pizzas local con sede en Elgin, Illinois, es víctima indirecta de una violación de seguridad perpetrada contra TransformPOS, la empresa que proporciona su sistema de procesamiento de tarjetas de pago POS.",
+  "color": "#a78bfa"
+}

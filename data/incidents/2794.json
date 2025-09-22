@@ -1,0 +1,13 @@
+{
+  "id": 2794,
+  "title": "Salud de la Universidad de Utah - Malware Attack - Undetermined",
+  "date": "2020-03-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Salud de la Universidad de Utah revela una brecha de seguridad debido al acceso no autorizado a las cuentas de correo electrónico de algunos empleados",
+  "source": "https://securityaffairs.co/wordpress/100298/data-breach/university-of-utah-health-hack.html",
+  "summary": "El Departamento de Salud de la Universidad de Utah revela una brecha de seguridad debido al acceso no autorizado a las cuentas de correo electrónico de algunos empleados, junto con la presencia de malware en sus sistemas. La intrusión tuvo lugar entre el 7 de enero y el 21 de febrero de 2020.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2208,
+  "title": "Aduanas y Protección Fronteriza de los Estados Unidos - Data leak - Undetermined",
+  "date": "2019-06-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Aduanas",
+  "source": "https://threatpost.com/data-breach-exposes-100k-u-s-traveler-photos-license-plates/145557/",
+  "summary": "La Oficina de Aduanas y Protección Fronteriza de EE. UU. afirma que una filtración de datos expuso fotos de rostros y matrículas de más de 100,000 viajeros. Esta filtración está presuntamente relacionada con la sufrida por Perceptics a principios de este año.",
+  "color": "#ef4444"
+}

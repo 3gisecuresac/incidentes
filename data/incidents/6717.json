@@ -1,0 +1,13 @@
+{
+  "id": 6717,
+  "title": "CCM Salud - Ciberataque - Undetermined",
+  "date": "2024-04-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en CCM Health",
+  "source": "nan",
+  "summary": "CCM Health informa a los pacientes que es posible que se haya accedido y filtrado información médica protegida (PHI) durante un ataque que ocurrió entre el 3 y el 10 de abril de 2023.",
+  "color": "#ef4444"
+}

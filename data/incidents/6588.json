@@ -1,0 +1,13 @@
+{
+  "id": 6588,
+  "title": "Compañía de Seguros para Empleados del Gobierno (GEICO) - Data leak - ‘wangfei19860902055’",
+  "date": "2024-01-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "‘wangfei19860902055’",
+  "impact": "Filtración de datos en Government Employees Insurance Company GEICO en un",
+  "source": "nan",
+  "summary": "Un actor de amenazas identificado como ‘wangfei19860902055’ anuncia la venta de una base de datos relacionada con Government Employees Insurance Company (GEICO) en un popular foro de la dark web.",
+  "color": "#ef4444"
+}

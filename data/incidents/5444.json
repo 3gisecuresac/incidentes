@@ -1,0 +1,13 @@
+{
+  "id": 5444,
+  "title": "Sunland Asfalto y Construcción - Data leak - Undetermined",
+  "date": "2023-03-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Sunland",
+  "source": "nan",
+  "summary": "Sunland Asphalt and Construction presenta un aviso de violación de datos después de enterarse de que un actor desconocido había obtenido acceso a ciertas partes de la red de Sunland que almacenaban información confidencial de los consumidores.",
+  "color": "#ef4444"
+}

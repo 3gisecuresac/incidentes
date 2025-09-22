@@ -1,0 +1,13 @@
+{
+  "id": 4088,
+  "title": "Condado de Pottawatomie - Ransomware - Undetermined",
+  "date": "2021-09-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Kansas sufre un ataque de ransomware",
+  "source": "nan",
+  "summary": "Un condado de Kansas sufre un ataque de ransomware que interrumpe las operaciones del condado.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 113,
+  "title": "Tienda de vinos Rosenthal - Infección Dispositivos - Undetermined",
+  "date": "2014-03-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Rosenthal Wine Shop",
+  "source": "http://www.databreaches.net/rosenthal-wine-shop-discloses-malware-may-have-compromised-customers-payment-card-info/",
+  "summary": "Rosenthal Wine Shop notifica a los clientes que un malware puede haber comprometido la información de su tarjeta de pago.",
+  "color": "#3b82f6"
+}

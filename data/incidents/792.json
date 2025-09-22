@@ -1,0 +1,13 @@
+{
+  "id": 792,
+  "title": "Whiting-Turner - Data leak - Undetermined",
+  "date": "2016-03-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Whiting-Turner",
+  "source": "http://www.databreaches.net/whiting-turner-notifies-employees-of-potential-breach-at-vendor/",
+  "summary": "Whiting-Turner notifica a los empleados sobre una posible infracción a un proveedor.",
+  "color": "#a78bfa"
+}

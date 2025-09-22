@@ -1,0 +1,13 @@
+{
+  "id": 4905,
+  "title": "Pedido Express, Inc. - Ciberataque - Undetermined",
+  "date": "2022-09-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Order Express Inc",
+  "source": "nan",
+  "summary": "El 15 de diciembre de 2022, Order Express, Inc. informó una violación de datos a varias oficinas del fiscal general estatal después de que la empresa se enterara de un incidente de seguridad de datos que resultó en la filtración de información confidencial de más de 63.000 consumidores.",
+  "color": "#ef4444"
+}

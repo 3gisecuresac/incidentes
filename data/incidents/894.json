@@ -1,0 +1,13 @@
+{
+  "id": 894,
+  "title": "Fling.com - Data leak - Undetermined",
+  "date": "2016-05-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Fling.com",
+  "source": "https://www.vice.com/en_us/article/78kxa4/another-day-another-hack-passwords-and-sexual-desires-for-dating-site-fling",
+  "summary": "Un hacker llamado Peace afirma estar vendiendo decenas de millones de cuentas de usuarios del sitio de citas para adultos Fling.com en la red oscura, incluida información sobre deseos sexuales, preferencias y otros detalles personales.",
+  "color": "#3b82f6"
+}

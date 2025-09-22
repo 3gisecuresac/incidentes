@@ -1,0 +1,13 @@
+{
+  "id": 690,
+  "title": "Ciudad de Providence (https://www.providenceri.com/) - Data leak - g0tchack",
+  "date": "2015-12-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "g0tchack",
+  "impact": "Filtración de datos en Providence",
+  "source": "https://www.wpri.com/news/providence-officials-no-sensitive-information-stolen-during-website-hack/",
+  "summary": "Un hacker llamado g0tchack hackea el sitio web de la ciudad de Providence y pide un rescate de entre 1.500 y 2.000 dólares para devolver los datos.",
+  "color": "#ef4444"
+}

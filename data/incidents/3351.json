@@ -1,0 +1,13 @@
+{
+  "id": 3351,
+  "title": "Cuidado de los ojos de cinco puntos - Data leak - Undetermined",
+  "date": "2020-10-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Five Points Eye Care",
+  "source": "https://www.wgauradio.com/news/athens-optometrist-reports-data-breach/HJHNH2MMQNEDBLORXOY25UCOEM/",
+  "summary": "Five Points Eye Care informa sobre un ataque de phishing que ocurrió en octubre de 2020.",
+  "color": "#ef4444"
+}

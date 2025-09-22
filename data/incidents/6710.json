@@ -1,0 +1,13 @@
+{
+  "id": 6710,
+  "title": "Ernest Health - Ransomware - LockBit",
+  "date": "2024-04-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit",
+  "impact": "Cifrado por ransomware en Ernest Health",
+  "source": "nan",
+  "summary": "Los hospitales de rehabilitación Ernest Health notifican a los pacientes sobre un ataque de ransomware LockBit.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3512,
+  "title": "Torbellino - Ransomware - Water Roc",
+  "date": "2020-12-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Water Roc",
+  "impact": "Cifrado por ransomware en Whirlpool",
+  "source": "nan",
+  "summary": "Whirlpool ha sido atacado por los actores de amenazas del ransomware Nefilim.",
+  "color": "#ef4444"
+}

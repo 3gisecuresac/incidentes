@@ -1,0 +1,13 @@
+{
+  "id": 1081,
+  "title": "Sistemas empresariales modernos (MBS) - Data leak - 0x2Taylor",
+  "date": "2016-10-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "0x2Taylor",
+  "impact": "Filtración de datos en IP y",
+  "source": "http://www.theregister.co.uk/2016/10/13/us_data_aggregator_megabreach/",
+  "summary": "Más de 58 millones de registros de clientes son robados y filtrados en línea. Los datos incluyen nombres, direcciones de correo electrónico y postales, números de teléfono, direcciones IP y más.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3800,
+  "title": "Universidad Yeshiva - Data leak - TA505",
+  "date": "2021-03-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "TA505",
+  "impact": "Filtración de datos en Universidad Yeshiva robados explotando la vulnerabilidad Accellion",
+  "source": "nan",
+  "summary": "TA505 filtra los datos pertenecientes a la Universidad Yeshiva robados explotando la vulnerabilidad Accellion.",
+  "color": "#ef4444"
+}

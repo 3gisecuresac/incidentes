@@ -1,0 +1,13 @@
+{
+  "id": 1155,
+  "title": "ExtraTorrent - DoS - Undetermined",
+  "date": "2016-12-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Internet",
+  "source": "http://www.ibtimes.co.uk/extratorrent-hit-by-ddos-attacks-after-it-banned-unofficial-proxy-services-1598287",
+  "summary": "ExtraTorrent, uno de los sitios de torrents más grandes de Internet, sufrió varios ataques DDoS (denegación de servicio distribuido) importantes en los últimos días, principalmente porque el sitio prohibió recientemente los servicios proxy no oficiales.",
+  "color": "#f59e0b"
+}

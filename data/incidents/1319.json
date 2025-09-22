@@ -1,0 +1,13 @@
+{
+  "id": 1319,
+  "title": "Departamento de Agricultura y Servicios al Consumidor de Florida - Data leak - Undetermined",
+  "date": "2017-05-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Florida revelan",
+  "source": "http://www.ibtimes.co.uk/massive-data-breach-exposes-over-16000-concealed-weapons-permit-holders-florida-1622952",
+  "summary": "Funcionarios de Florida revelan que hackers podrían haber robado los nombres de más de 16,000 personas que ocultaban permisos de armas en el estado. La filtración ocurrió hace dos semanas a través de su sistema de pagos en línea, que procesa los pagos de permisos y otras solicitudes de los clientes.",
+  "color": "#ef4444"
+}

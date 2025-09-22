@@ -1,0 +1,13 @@
+{
+  "id": 4199,
+  "title": "Condado de Scott - Data leak - Undetermined",
+  "date": "2021-11-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Scott revela un ataque de phishing",
+  "source": "nan",
+  "summary": "El condado de Scott revela un ataque de phishing.",
+  "color": "#ef4444"
+}

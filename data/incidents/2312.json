@@ -1,0 +1,13 @@
+{
+  "id": 2312,
+  "title": "Escuelas públicas de Broken Arrow - Ransomware - Undetermined",
+  "date": "2019-08-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Broken Arrow se ven afectadas",
+  "source": "https://www.databreaches.net/broken-arrow-schools-victim-of-ransomware-attack/",
+  "summary": "Las escuelas públicas de Broken Arrow se ven afectadas por un ataque de ransomware.",
+  "color": "#ef4444"
+}

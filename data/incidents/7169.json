@@ -1,0 +1,13 @@
+{
+  "id": 7169,
+  "title": "Data I/O Corporation (fabricación de productos electrónicos) - Ransomware - Undetermined",
+  "date": "2025-08-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en USD de",
+  "source": "nan",
+  "summary": "El incidente de ransomware del 16 de agosto, debido a una vulnerabilidad en un firewall de terceros, interrumpió los sistemas internos y operativos. Se contuvo y se remedió por completo el 4 de septiembre, sin afectar a los clientes ni robar datos; el coste de la remediación fue de aproximadamente 180.000 USD frente a los 300.000 USD de ahorro anual. Se desconoce quién fue el responsable.",
+  "color": "#ef4444"
+}

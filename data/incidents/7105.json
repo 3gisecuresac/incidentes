@@ -1,0 +1,13 @@
+{
+  "id": 7105,
+  "title": "Conducto - Data leak - Undetermined",
+  "date": "2025-01-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Conduent",
+  "source": "nan",
+  "summary": "Conduent, contratista estadounidense de servicios empresariales y gubernamentales, confirma que una reciente interrupción del servicio fue resultado de lo que describió como un incidente de seguridad cibernética.",
+  "color": "#a78bfa"
+}

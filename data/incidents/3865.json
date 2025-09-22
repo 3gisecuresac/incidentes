@@ -1,0 +1,13 @@
+{
+  "id": 3865,
+  "title": "Salud de la Universidad de Nuevo México - Data leak - Undetermined",
+  "date": "2021-05-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en UNM Health",
+  "source": "nan",
+  "summary": "UNM Health es víctima de una violación de datos en curso que revela información perteneciente a 637.252 pacientes.",
+  "color": "#ef4444"
+}

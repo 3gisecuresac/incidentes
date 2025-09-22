@@ -1,0 +1,13 @@
+{
+  "id": 3021,
+  "title": "Dave.com - Data leak - ShinyHunters",
+  "date": "2020-07-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Filtración de datos en Dave.com",
+  "source": "https://www.zdnet.com/article/tech-unicorn-dave-admits-to-security-breach-impacting-7-5-million-users/",
+  "summary": "La aplicación de préstamos Dave.com tiene 7,5 millones de registros filtrados, y los atacantes atribuyen la filtración a los tokens OAuth robados de Waydev.",
+  "color": "#ef4444"
+}

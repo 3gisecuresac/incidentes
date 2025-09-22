@@ -1,0 +1,13 @@
+{
+  "id": 1066,
+  "title": "¡Yahoo! - Data leak - Undetermined",
+  "date": "2016-09-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Yahoo Inc. NASDAQ YHOO",
+  "source": "https://www.businesswire.com/news/home/20160922006198/en/Important-Message-Yahoo-Users-Security",
+  "summary": "Yahoo! Inc. (NASDAQ:YHOO) confirma que una copia de cierta información de cuentas de usuario fue robada por un actor patrocinado por un estado de la red de la compañía a finales de 2014. La información de la cuenta podría haber incluido nombres, direcciones de correo electrónico, números de teléfono, fechas de nacimiento, contraseñas cifradas (la gran mayoría con bcrypt) y, en algunos casos, preguntas y respuestas de seguridad cifradas o no.",
+  "color": "#ef4444"
+}

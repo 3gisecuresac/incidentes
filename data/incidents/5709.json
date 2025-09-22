@@ -1,0 +1,13 @@
+{
+  "id": 5709,
+  "title": "Instituto Kennedy Krieger - Data leak - cl0p",
+  "date": "2023-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Sistema de Salud Johns Hopkins",
+  "source": "nan",
+  "summary": "La Universidad Johns Hopkins y la Corporación del Sistema de Salud Johns Hopkins (colectivamente Johns Hopkins) presentan un aviso de violación de datos en nombre del Instituto Kennedy Krieger después de enterarse de que una vulnerabilidad de software provocó la filtración de información confidencial de los consumidores.",
+  "color": "#ef4444"
+}

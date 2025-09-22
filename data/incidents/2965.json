@@ -1,0 +1,13 @@
+{
+  "id": 2965,
+  "title": "Oficina del Recaudador de Impuestos del Condado de Polk - Malware Attack - Undetermined",
+  "date": "2020-06-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Recaudador de Impuestos del Condado de Polk atribuye el malware encontrado en la computadora de un empleado a una filtración de datos",
+  "source": "https://www.infosecurity-magazine.com/news/florida-tax-office-blames-data/",
+  "summary": "La Oficina del Recaudador de Impuestos del Condado de Polk atribuye el malware encontrado en la computadora de un empleado a una filtración de datos que afectó a unos 450,000 residentes del Condado de Polk. La filtración ocurrió en junio.",
+  "color": "#ef4444"
+}

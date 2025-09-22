@@ -1,0 +1,13 @@
+{
+  "id": 5900,
+  "title": "Hotel Choice - Data leak - cl0p",
+  "date": "2023-07-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit",
+  "source": "nan",
+  "summary": "Choice Hotel confirma haber sufrido una filtración de datos aprovechando la vulnerabilidad CVE-2023-34362 de MOVEit. La filtración también afectó a otras empresas del grupo, incluyendo Radisson Hotels.",
+  "color": "#ef4444"
+}

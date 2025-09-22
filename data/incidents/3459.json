@@ -1,0 +1,13 @@
+{
+  "id": 3459,
+  "title": "FireEye - Data leak - SVR (COZYBEAR)",
+  "date": "2020-12-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (COZYBEAR)",
+  "impact": "Sistema o cuenta comprometida en SolarWinds",
+  "source": "nan",
+  "summary": "FireEye ha revelado que un grupo de hackers de un estado-nación accedió a sus sistemas y robó las herramientas que utiliza para pruebas de penetración. Posteriormente, se reveló que FireEye sufrió una vulneración de seguridad como resultado del ataque a SolarWinds.",
+  "color": "#3b82f6"
+}

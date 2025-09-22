@@ -1,0 +1,13 @@
+{
+  "id": 772,
+  "title": "duelyst.com - Data leak - TheFamily",
+  "date": "2016-02-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "TheFamily",
+  "impact": "Filtración de datos en duelyst.com",
+  "source": "https://hacked-emails.com/leak/siph0n-4522",
+  "summary": "TheFamily hackea duelyst.com y filtra 13.732 nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

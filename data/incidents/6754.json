@@ -1,0 +1,13 @@
+{
+  "id": 6754,
+  "title": "Distrito Escolar de Richland - DoS - Undetermined",
+  "date": "2024-06-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Richland se queda sin teléfonos e Internet",
+  "source": "nan",
+  "summary": "El Distrito Escolar de Richland se queda sin teléfonos e Internet, luego de que alguien obtuviera acceso no autorizado a la red.",
+  "color": "#a78bfa"
+}

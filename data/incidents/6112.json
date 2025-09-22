@@ -1,0 +1,13 @@
+{
+  "id": 6112,
+  "title": "Monitor lógico - Ransomware - Undetermined",
+  "date": "2023-08-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en LogicMonitor",
+  "source": "nan",
+  "summary": "La empresa de monitorización de redes LogicMonitor confirma hoy que algunos usuarios de su plataforma SaaS han sido víctimas de un presunto ataque de ransomware.",
+  "color": "#ef4444"
+}

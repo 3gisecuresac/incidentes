@@ -1,0 +1,13 @@
+{
+  "id": 6776,
+  "title": "Departamento de Servicios de Salud del Condado de Los Ángeles - Data leak - Undetermined",
+  "date": "2024-02-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Servicios de Salud del Condado de Los Ángeles revela una violación de datos después de",
+  "source": "nan",
+  "summary": "El Departamento de Servicios de Salud del Condado de Los Ángeles revela una violación de datos después de que la información personal y de salud de miles de pacientes fuera expuesta en un ataque de phishing que afectó a más de dos docenas de empleados.",
+  "color": "#ef4444"
+}

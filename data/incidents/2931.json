@@ -1,0 +1,13 @@
+{
+  "id": 2931,
+  "title": "Ciudad de Keizer - Ransomware - Undetermined",
+  "date": "2020-06-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Keizer sufre un ataque de ransomware",
+  "source": "https://www.databreaches.net/or-keizer-city-computers-hacked-and-ransomed-for-48000/",
+  "summary": "La ciudad de Keizer sufre un ataque de ransomware y logra restaurar los datos pagando a los perpetradores un rescate de 48.000 dólares.",
+  "color": "#ef4444"
+}

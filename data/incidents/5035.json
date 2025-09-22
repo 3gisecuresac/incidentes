@@ -1,0 +1,13 @@
+{
+  "id": 5035,
+  "title": "Zendesk - Data leak - Undetermined",
+  "date": "2022-10-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Zendesk",
+  "source": "nan",
+  "summary": "El proveedor de soluciones de servicio al cliente Zendesk sufre una violación de datos que resultó de que los piratas informáticos robaran las credenciales de las cuentas de sus empleados.",
+  "color": "#ef4444"
+}

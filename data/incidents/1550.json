@@ -1,0 +1,13 @@
+{
+  "id": 1550,
+  "title": "Autoridad de Vivienda de Charlotte - Data leak - Undetermined",
+  "date": "2018-01-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Vivienda de Charlotte tienen sus formularios W-2 comprometidos después de",
+  "source": "http://www.fox46charlotte.com/news/local-news/exclusive-charlotte-housing-authority-suffers-data-breach-341-employees-impacted",
+  "summary": "341 empleados de la Autoridad de Vivienda de Charlotte tienen sus formularios W-2 comprometidos después de que estafadores enviaran al personal de CHA un correo electrónico pretendiendo ser del CEO.",
+  "color": "#3b82f6"
+}

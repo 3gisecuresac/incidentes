@@ -1,0 +1,13 @@
+{
+  "id": 4646,
+  "title": "Editorial Macmillan - Data leak - Undetermined",
+  "date": "2022-06-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Fiscal General de Texas después de",
+  "source": "nan",
+  "summary": "El 5 de diciembre de 2022, Macmillan informó una violación de datos al Fiscal General de Texas después de que una parte no autorizada pudiera eludir su sistema de seguridad de datos y obtener acceso a información confidencial de los consumidores en el sistema informático de la empresa.",
+  "color": "#ef4444"
+}

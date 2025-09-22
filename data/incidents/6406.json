@@ -1,0 +1,13 @@
+{
+  "id": 6406,
+  "title": "Hospital Memorial de Otsego - Ransomware - Undetermined",
+  "date": "2023-11-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en El Hospital Otsego Memorial",
+  "source": "nan",
+  "summary": "El Hospital Otsego Memorial sufre un incidente cibernético.",
+  "color": "#a78bfa"
+}

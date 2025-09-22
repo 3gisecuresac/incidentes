@@ -1,0 +1,13 @@
+{
+  "id": 1110,
+  "title": "24luv.com - Data leak - ElSurveillance",
+  "date": "2016-11-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ElSurveillance",
+  "impact": "Filtración de datos en 24luv.com",
+  "source": "https://www.databreaches.net/elsurveillance-hacks-and-dumps-two-more-dating-sites-warns-users-about-russian-black-hats/",
+  "summary": "El hacktivista conocido como ElSurveillance está de vuelta con su operación #EscortsOffline y dos volcados de datos más de dos sitios de citas: 24luv.com (92.937 direcciones de correo electrónico de usuarios y contraseñas de texto sin formato) y freedateusa.com (127.395 direcciones de correo electrónico y contraseñas de texto sin formato).",
+  "color": "#ef4444"
+}

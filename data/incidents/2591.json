@@ -1,0 +1,13 @@
+{
+  "id": 2591,
+  "title": "Distrito Escolar Unificado de Pittsburg - Ransomware - Undetermined",
+  "date": "2020-01-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Distrito Escolar Unificado de Pittsburg de Pensilvania se quedaron sin acceso a Internet como resultado de un ataque de ransomware",
+  "source": "https://www.infosecurity-magazine.com/news/cyberattack-pennsylvania-schools/",
+  "summary": "Los estudiantes del Distrito Escolar Unificado de Pittsburg de Pensilvania se quedaron sin acceso a Internet como resultado de un ataque de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7085,
+  "title": "Consultoría de cumplimiento de Carruth, Inc. - Data leak - Undetermined",
+  "date": "2025-01-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Carruth Compliance Consulting CCC",
+  "source": "nan",
+  "summary": "El 13 de enero de 2025, Carruth Compliance Consulting (“CCC”) publicó un aviso en su sitio web titulado “Aviso de incidente de seguridad de datos” después de descubrir que...",
+  "color": "#ef4444"
+}

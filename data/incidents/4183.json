@@ -1,0 +1,13 @@
+{
+  "id": 4183,
+  "title": "Soluciones de ADN - Data leak - Undetermined",
+  "date": "2021-11-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Oklahoma",
+  "source": "nan",
+  "summary": "Oklahoma DNA Solutions, que procesa kits de violación para la policía de Oklahoma, se ve comprometida por un acceso no autorizado a su red, exponiendo información personal de las víctimas.",
+  "color": "#3b82f6"
+}

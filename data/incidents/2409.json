@@ -1,0 +1,13 @@
+{
+  "id": 2409,
+  "title": "Hospital Wood Ranch - Ransomware - Undetermined",
+  "date": "2019-09-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Wood Ranch Medical",
+  "source": "https://healthitsecurity.com/news/california-provider-to-close-after-ransomware-attack-damages-system",
+  "summary": "Wood Ranch Medical cierra sus puertas permanentemente, luego de que el proveedor no pudiera recuperar sus registros de pacientes cifrados por ransomware en agosto.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4314,
+  "title": "Dializar directamente - Data leak - Undetermined",
+  "date": "2022-02-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Dialyze Direct",
+  "source": "nan",
+  "summary": "Dialyze Direct revela haber sufrido una violación de datos de correo electrónico que afectó a 14.203 personas.",
+  "color": "#ef4444"
+}

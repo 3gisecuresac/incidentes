@@ -1,0 +1,13 @@
+{
+  "id": 6378,
+  "title": "Grupo de Farmacia de Mississippi - Data leak - Undetermined",
+  "date": "2023-11-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Pharmacy Group of Mississippi",
+  "source": "nan",
+  "summary": "Pharmacy Group of Mississippi presenta un aviso de violación de datos después de descubrir que la información que había sido confiada a la empresa estaba sujeta a acceso no autorizado.",
+  "color": "#ef4444"
+}

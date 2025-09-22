@@ -1,0 +1,13 @@
+{
+  "id": 700,
+  "title": "EA - DoS - Phantom Squad",
+  "date": "2015-12-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Phantom Squad",
+  "impact": "Sistema o cuenta comprometida en Electronic Arts",
+  "source": "http://news.softpedia.com/news/phantom-squad-starts-christmas-ddos-attacks-by-taking-down-ea-servers-498078.shtml",
+  "summary": "Phantom Squad, el grupo de hackers que amenazó con arruinar la Navidad a los jugadores, decide cumplir su promesa y derribar los servidores de Electronic Arts.",
+  "color": "#3b82f6"
+}

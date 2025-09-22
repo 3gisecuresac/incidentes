@@ -1,0 +1,13 @@
+{
+  "id": 4079,
+  "title": "Instituto del Dolor del Desierto - Ciberataque - Undetermined",
+  "date": "2021-09-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Desert Pain Institute",
+  "source": "nan",
+  "summary": "Desert Pain Institute sufre violación de datos, acceso no autorizado a información personal de pacientes y empleados.",
+  "color": "#ef4444"
+}

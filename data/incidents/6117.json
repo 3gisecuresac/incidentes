@@ -1,0 +1,13 @@
+{
+  "id": 6117,
+  "title": "Píldora verdadera - Ciberataque - Undetermined",
+  "date": "2023-08-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Postmeds",
+  "source": "nan",
+  "summary": "Postmeds, que opera como 'Truepill', envía notificaciones de una violación de datos informando a los destinatarios que los actores de amenazas accedieron a su información personal confidencial. 2,3 millones de clientes están afectados.",
+  "color": "#ef4444"
+}

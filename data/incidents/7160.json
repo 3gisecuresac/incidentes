@@ -1,0 +1,13 @@
+{
+  "id": 7160,
+  "title": "Gobierno del estado de Nevada (varias agencias) - Ransomware - Undetermined",
+  "date": "2025-08-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos",
+  "source": "nan",
+  "summary": "El estado describió un ataque “basado en ransomware” descubierto el 24 de agosto que obligó al cierre de oficinas durante dos días y dejó fuera de servicio varios sitios web y teléfonos de agencias; el CIO confirmó que se exfiltraron algunos datos estatales, pero se desconoce su naturaleza y volumen; ningún actor se ha atribuido la responsabilidad.",
+  "color": "#ef4444"
+}

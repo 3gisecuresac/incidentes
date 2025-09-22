@@ -1,0 +1,13 @@
+{
+  "id": 4717,
+  "title": "Red de Atención Médica Responsable del Bronx - Data leak - Undetermined",
+  "date": "2022-07-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Atención Médica Responsable del Bronx notifica sobre un incidente de piratería",
+  "source": "nan",
+  "summary": "La Red de Atención Médica Responsable del Bronx notifica sobre un incidente de piratería que involucró correo electrónico que afectó a 17.161 pacientes.",
+  "color": "#a78bfa"
+}

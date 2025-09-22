@@ -1,0 +1,13 @@
+{
+  "id": 2379,
+  "title": "Sistemas milagrosos - Data leak - Undetermined",
+  "date": "2019-09-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estados Unidos investiga una violación de seguridad en Miracle Systems",
+  "source": "https://krebsonsecurity.com/2019/09/secret-service-investigates-breach-at-u-s-govt-it-contractor/",
+  "summary": "El Servicio Secreto de Estados Unidos investiga una violación de seguridad en Miracle Systems, un contratista de tecnología del gobierno que vio el acceso a varios de sus sistemas puestos a la venta en el mundo clandestino del cibercrimen.",
+  "color": "#a78bfa"
+}

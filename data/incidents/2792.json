@@ -1,0 +1,13 @@
+{
+  "id": 2792,
+  "title": "Centros de salud de Golden Valley - Data leak - Undetermined",
+  "date": "2020-03-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Golden Valley Health Centers",
+  "source": "https://www.databreaches.net/golden-valley-health-centers-notifies-patients-after-employee-email-account-comprised/",
+  "summary": "Golden Valley Health Centers notifica a los pacientes después de que una cuenta de correo electrónico de un empleado se vio comprometida el 3 de marzo.",
+  "color": "#3b82f6"
+}

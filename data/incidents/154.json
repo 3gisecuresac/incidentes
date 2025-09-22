@@ -1,0 +1,13 @@
+{
+  "id": 154,
+  "title": "Corporación Gingerbread Shed - Data leak - Undetermined",
+  "date": "2014-05-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Arizona",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/about-50k-transactions-other-data-compromised-in-three-month-breach/",
+  "summary": "Gingerbread Shed Corporation, con sede en Arizona, notifica a sus clientes que un individuo no autorizado obtuvo acceso a sus sistemas durante aproximadamente tres meses y puede haber comprometido alrededor de 50.000 transacciones, así como otros datos.",
+  "color": "#ef4444"
+}

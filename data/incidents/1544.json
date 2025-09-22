@@ -1,0 +1,13 @@
+{
+  "id": 1544,
+  "title": "Distrito estricto central de Monticello - Data leak - Undetermined",
+  "date": "2018-01-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Monticello advierte sobre un sofisticado ataque de phishing",
+  "source": "https://www.databreaches.net/monticello-central-school-district-notifying-almost-2600-of-phishing-attack-last-year/",
+  "summary": "El Distrito Escolar Central de Monticello advierte sobre un sofisticado ataque de phishing por correo electrónico ocurrido el 1 de noviembre de 2017. Potencialmente, 2.598 personas se vieron afectadas.",
+  "color": "#ef4444"
+}

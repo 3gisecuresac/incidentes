@@ -1,0 +1,13 @@
+{
+  "id": 2053,
+  "title": "Zillow - Manipulación de mensajes - Undetermined",
+  "date": "2019-02-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Zillow",
+  "source": "https://www.grahamcluley.com/zillow-sued-for-60-million-after-mansion-listing-hijacked/",
+  "summary": "Zillow es demandado por 60 millones de dólares luego de que un pirata informático lograra acceder a la página de listado de una propiedad en Zillow y actualizar su información.",
+  "color": "#a78bfa"
+}

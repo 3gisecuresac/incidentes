@@ -1,0 +1,13 @@
+{
+  "id": 4688,
+  "title": "Uniswap - Data leak - Undetermined",
+  "date": "2022-07-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Ethereum en un sofisticado ataque de phishing",
+  "source": "nan",
+  "summary": "Uniswap, un popular intercambio de criptomonedas descentralizado, pierde cerca de 8 millones de dólares en Ethereum en un sofisticado ataque de phishing.",
+  "color": "#ef4444"
+}

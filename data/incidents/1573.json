@@ -1,0 +1,13 @@
+{
+  "id": 1573,
+  "title": "Smith Dental - Ransomware - Undetermined",
+  "date": "2018-02-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Smith Dental",
+  "source": "https://www.databreaches.net/tn-smith-dental-notifies-hhs-of-ransomware-attacking-affecting-1500/",
+  "summary": "Smith Dental notifica un ataque de ransomware que afecta a 1.500 pacientes.",
+  "color": "#ef4444"
+}

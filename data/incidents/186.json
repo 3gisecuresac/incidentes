@@ -1,0 +1,13 @@
+{
+  "id": 186,
+  "title": "Empresas Metropolitanas, Inc. - Data leak - Undetermined",
+  "date": "2014-06-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en The Metropolitan Companies Inc",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/nearly-8500-notification-letters-sent-out-in-metropolitan-companies-breach/",
+  "summary": "Se envían aproximadamente 8.500 cartas de notificación a personas empleadas por The Metropolitan Companies, Inc. o que presentaron una solicitud a la empresa, alertándolas de que un tercero no autorizado puede haber obtenido acceso a su información personal.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7608,
+  "title": "Ciudad de Regina - Phishing - Undetermined",
+  "date": "2018-10-02",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Phishing",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Regina es pirateado",
+  "source": "nan",
+  "summary": "Un correo electrónico de la ciudad de Regina es pirateado y utilizado como herramienta de phishing para intentar obtener contraseñas y correos electrónicos de otros miembros del personal de la ciudad de Regina, así como de grupos externos.",
+  "color": "#ef4444"
+}

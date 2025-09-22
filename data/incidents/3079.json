@@ -1,0 +1,13 @@
+{
+  "id": 3079,
+  "title": "El Centro de Fertilidad y Ginecología - Ransomware - NetWalker",
+  "date": "2020-08-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "NetWalker",
+  "impact": "Cifrado por ransomware en Fertilidad",
+  "source": "https://www.databreaches.net/three-more-medical-practices-hit-by-ransomware/",
+  "summary": "El Centro de Fertilidad y Ginecología es atacado por el ransomware Netwalker.",
+  "color": "#ef4444"
+}

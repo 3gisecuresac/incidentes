@@ -1,0 +1,13 @@
+{
+  "id": 533,
+  "title": "Centro de procesamiento de donaciones de vehículos - Data leak - Undetermined",
+  "date": "2015-07-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Centro de",
+  "source": "http://www.databreaches.net/charitable-car-donors-learn-their-personal-information-was-hacked/",
+  "summary": "Los donantes de automóviles de caridad que utilizan el Centro de procesamiento de donación de vehículos descubren que su información personal fue pirateada.",
+  "color": "#a78bfa"
+}

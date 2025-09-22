@@ -1,0 +1,13 @@
+{
+  "id": 2043,
+  "title": "Centro médico regional de Rutland - Data leak - Undetermined",
+  "date": "2019-02-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Regional Rutland",
+  "source": "https://www.databreaches.net/vt-rutland-regional-medical-center-notifies-patients-after-employee-email-accounts-hacked/",
+  "summary": "El Centro Médico Regional Rutland notifica a los pacientes después de que las cuentas de correo electrónico de un empleado fueran pirateadas en diciembre de 2018.",
+  "color": "#a78bfa"
+}

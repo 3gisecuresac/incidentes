@@ -1,0 +1,13 @@
+{
+  "id": 7466,
+  "title": "Quintal - Ransomware - LockBit 3.0",
+  "date": "2022-09-16",
+  "country": "Colombia",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en Quintal",
+  "source": "nan",
+  "summary": "Las bandas de ransomware LockBit 3.0 afirman haber exfiltrado información de Quintal, una empresa colombiana que se dedica a la fabricación y distribución de productos químicos a base de manganeso.",
+  "color": "#ef4444"
+}

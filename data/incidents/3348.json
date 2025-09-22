@@ -1,0 +1,13 @@
+{
+  "id": 3348,
+  "title": "Piedra central - Data leak - Undetermined",
+  "date": "2020-10-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Centerstone of Tennessee",
+  "source": "https://www.databreaches.net/centerstone-patients-employees-impacted-by-data-breach/",
+  "summary": "Centerstone, proveedor de servicios de salud mental y abuso de sustancias, notifica a sus empleados y pacientes sobre una filtración de datos. La investigación del incidente de seguridad informática comenzó después de que un empleado de Centerstone of Tennessee, Inc. detectara actividad inusual en su cuenta de correo electrónico.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1910,
+  "title": "Salón de cola alta - Data leak - Undetermined",
+  "date": "2018-11-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en High Tail Hall",
+  "source": "https://www.bbc.com/news/technology-46289639",
+  "summary": "El sitio web de High Tail Hall, un videojuego para adultos, fue hackeado y se robó la información de casi medio millón de suscriptores. La filtración ocurrió en agosto.",
+  "color": "#ef4444"
+}

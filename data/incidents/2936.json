@@ -1,0 +1,13 @@
+{
+  "id": 2936,
+  "title": "Torres TAIT - Data leak - Undetermined",
+  "date": "2020-06-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TAIT Towers uno de los",
+  "source": "https://www.bleepingcomputer.com/news/security/live-event-solutions-leader-tait-discloses-data-breach/",
+  "summary": "TAIT Towers, uno de los principales proveedores de soluciones para eventos en vivo del mundo, revela una violación de datos que provocó la exposición de información personal y financiera almacenada en un servidor y en las cuentas de correo electrónico de algunos de sus empleados.",
+  "color": "#ef4444"
+}

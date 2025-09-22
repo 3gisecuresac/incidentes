@@ -1,0 +1,13 @@
+{
+  "id": 7942,
+  "title": "SCPC de Boa Vista - Data leak - Fatal Error",
+  "date": "2018-09-04",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Fatal Error",
+  "impact": "Filtración de datos en Boa Vista SCPC",
+  "source": "nan",
+  "summary": "La agencia de crédito brasileña Boa Vista SCPC investiga un posible hackeo, luego de que un grupo de hackers llamado Fatal Error afirmara haber accedido a la base de datos de la empresa que tiene más de 350 millones de datos personales.",
+  "color": "#ef4444"
+}

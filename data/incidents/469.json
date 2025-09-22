@@ -1,0 +1,13 @@
+{
+  "id": 469,
+  "title": "Mi libertad fuma - Data leak - Undetermined",
+  "date": "2015-04-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en My Freedom Smokes",
+  "source": "https://news.softpedia.com/news/My-Freedom-Smokes-Website-Burnt-By-Malware-479314.shtml",
+  "summary": "Un código malicioso instalado en el sitio web de My Freedom Smokes, minorista de cigarrillos electrónicos y accesorios, podría haber sido utilizado para acceder a la información del cliente necesaria al realizar un pedido en línea.",
+  "color": "#a78bfa"
+}

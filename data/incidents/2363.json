@@ -1,0 +1,13 @@
+{
+  "id": 2363,
+  "title": "Distrito Escolar Central Monroe-Woodbury - Ransomware - Undetermined",
+  "date": "2019-09-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Nueva York retrasa el primer día de clases debido a un ataque de ransomware",
+  "source": "https://www.darkreading.com/risk/back-to-school-not-so-fast-cybercriminals-say/d/d-id/1335728",
+  "summary": "El Distrito Escolar Central Monroe-Woodbury de Nueva York retrasa el primer día de clases debido a un ataque de ransomware.",
+  "color": "#ef4444"
+}

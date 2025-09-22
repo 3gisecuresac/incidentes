@@ -1,0 +1,13 @@
+{
+  "id": 7129,
+  "title": "Palo Alto Networks (investigador) - Ransomware - Storm-2603 (CL-CRI-1040)",
+  "date": "2025-07-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Storm-2603 (CL-CRI-1040)",
+  "impact": "Cifrado por ransomware en Microsoft SharePoint ToolShell",
+  "source": "nan",
+  "summary": "Implementación de ransomware (4L4MD4R) mediante la explotación de vulnerabilidades de Microsoft SharePoint ToolShell; los atacantes deshabilitaron las defensas, omitieron la validación de certificados y cifraron los archivos; la nota de rescate amenazó con eliminarse si se intentaba descifrar.",
+  "color": "#ef4444"
+}

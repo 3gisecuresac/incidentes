@@ -1,0 +1,13 @@
+{
+  "id": 6812,
+  "title": "Soluciones clínicas americanas - Ransomware - RansomHub",
+  "date": "2024-05-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "RansomHub",
+  "impact": "Filtración de datos en American Clinical Solutions",
+  "source": "nan",
+  "summary": "American Clinical Solutions es víctima de un ataque de ransomware RansomHub, lo que provoca la posible exfiltración de un total de más de 700 GB de datos, de los cuales más de 35 GB pertenecen a más de 400 000 registros médicos.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5790,
+  "title": "Departamento de Agricultura de los Estados Unidos - Ransomware - cl0p",
+  "date": "2023-06-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Incidente de seguridad en Agricultura de EE",
+  "source": "nan",
+  "summary": "El Departamento de Agricultura de EE. UU. confirma haber sufrido un ciberataque que explota la vulnerabilidad CVE-2023-34362 de MOVEit.",
+  "color": "#a78bfa"
+}

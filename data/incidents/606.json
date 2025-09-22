@@ -1,0 +1,13 @@
+{
+  "id": 606,
+  "title": "Servicios Familiares de Oakland - Data leak - Undetermined",
+  "date": "2015-09-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Oakland revela los detalles de una vulneración de seguridad",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/oakland-family-services-notifies-16k-clients-of-information-breach/",
+  "summary": "Servicios Familiares de Oakland revela los detalles de una vulneración de seguridad que podría haber afectado a 16,000 clientes de la zona. Un desconocido accedió a la cuenta de correo electrónico de un empleado en julio, lo que potencialmente permitió el acceso a información médica protegida.",
+  "color": "#a78bfa"
+}

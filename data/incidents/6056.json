@@ -1,0 +1,13 @@
+{
+  "id": 6056,
+  "title": "Medicina Centro Médico Camden Clark - Data leak - cl0p",
+  "date": "2023-08-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Incidente de seguridad en MOVEit",
+  "source": "nan",
+  "summary": "El Centro Médico Camden Clark se suma a la lista de víctimas de vulnerabilidades de MOVEit.",
+  "color": "#a78bfa"
+}

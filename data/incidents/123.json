@@ -1,0 +1,13 @@
+{
+  "id": 123,
+  "title": "Boxee.tv - Data leak - Undetermined",
+  "date": "2014-04-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Boxee",
+  "source": "http://arstechnica.com/security/2014/04/hack-of-boxee-tv-exposes-password-data-messages-for-158000-users/",
+  "summary": "Los piratas informáticos publican nombres, direcciones de correo electrónico, historiales de mensajes y credenciales de inicio de sesión parcialmente protegidas de más de 158.000 usuarios del foro de Boxee.tv, el servicio de televisión basado en la Web que fue adquirido por Samsung el año pasado.",
+  "color": "#a78bfa"
+}

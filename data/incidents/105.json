@@ -1,0 +1,13 @@
+{
+  "id": 105,
+  "title": "Conceptos de vida asistida - Data leak - Undetermined",
+  "date": "2014-03-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Assisted Living Concepts",
+  "source": "http://www.esecurityplanet.com/network-security/assisted-living-concepts-data-breach-exposes-43600-employees-payroll-info.html",
+  "summary": "Assisted Living Concepts notifica a aproximadamente 43.600 empleados actuales y anteriores que su información personal puede haber sido expuesta después de un acceso no autorizado.",
+  "color": "#ef4444"
+}

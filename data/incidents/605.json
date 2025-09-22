@@ -1,0 +1,13 @@
+{
+  "id": 605,
+  "title": "Gestión hotelera Milestone - Data leak - Undetermined",
+  "date": "2015-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Milestone Hospitality Management",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/malware-targets-credit-cards-used-at-pennsylvania-holiday-inn/",
+  "summary": "Milestone Hospitality Management notifica a un número no revelado de huéspedes que se hospedaron en el Holiday Inn Harrisburg/Hershey que un malware puede haber comprometido la información de su tarjeta de crédito.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7625,
+  "title": "McDonald's Canadá - Data leak - Undetermined",
+  "date": "2019-04-29",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en McDonald's en Canadá están teniendo sus cuentas secuestradas",
+  "source": "nan",
+  "summary": "Los usuarios de una aplicación de McDonald's en Canadá están teniendo sus cuentas secuestradas por piratas informáticos que las utilizan para pedir comida para sí mismos, acumulando facturas que superan los 2.000 dólares canadienses.",
+  "color": "#a78bfa"
+}

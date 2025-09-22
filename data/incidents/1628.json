@@ -1,0 +1,13 @@
+{
+  "id": 1628,
+  "title": "Puerto de Longview - Ciberataque - Undetermined",
+  "date": "2018-03-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Longview se ve afectado",
+  "source": "https://www.databreaches.net/wa-port-of-longview-hit-with-major-cyberattack/",
+  "summary": "El puerto de Longview se ve afectado por un ciberataque que puede haber afectado a cientos de empleados anteriores y actuales y a docenas de proveedores.",
+  "color": "#a78bfa"
+}

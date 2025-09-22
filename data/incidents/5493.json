@@ -1,0 +1,13 @@
+{
+  "id": 5493,
+  "title": "Centro médico del condado de Mountrail - Ciberataque - Undetermined",
+  "date": "2023-03-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Condado de Mountrail se ve afectado",
+  "source": "nan",
+  "summary": "El Centro Médico del Condado de Mountrail se ve afectado por un incidente de ciberseguridad en su proveedor de imágenes, DMS Health Technologies.",
+  "color": "#a78bfa"
+}

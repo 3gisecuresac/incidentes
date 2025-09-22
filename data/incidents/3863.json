@@ -1,0 +1,13 @@
+{
+  "id": 3863,
+  "title": "Servicios de integridad de LineStar - Ransomware - Xing Team",
+  "date": "2021-05-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Xing Team",
+  "impact": "Filtración de datos en LineStar Integrity Services",
+  "source": "nan",
+  "summary": "LineStar Integrity Services, que brinda servicios de cumplimiento, mantenimiento y tecnología a clientes de oleoductos, es víctima de un ataque de ransomware; se filtran 70 GB de datos de la empresa.",
+  "color": "#ef4444"
+}

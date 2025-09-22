@@ -1,0 +1,13 @@
+{
+  "id": 1278,
+  "title": "Distrito Escolar Metropolitano de Cleveland - Data leak - Undetermined",
+  "date": "2017-04-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Cleveland revela un incidente relacionado con phishing",
+  "source": "https://www.databreaches.net/cleveland-metropolitan-school-district-discloses-phishing-related-incident/",
+  "summary": "El Distrito Escolar Metropolitano de Cleveland revela un incidente relacionado con phishing.",
+  "color": "#ef4444"
+}

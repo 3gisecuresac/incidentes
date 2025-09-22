@@ -1,0 +1,13 @@
+{
+  "id": 6047,
+  "title": "Compañía de servicios de seguros HCSC - Data leak - cl0p",
+  "date": "2023-08-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en HCSC Insurance Services Company",
+  "source": "nan",
+  "summary": "Blue Cross and Blue Shield of Illinois presenta un aviso que describe una filtración de datos de terceros ocurrida en HCSC Insurance Services Company. El incidente permitió que una entidad no autorizada accediera a la información confidencial de los consumidores, como sus nombres, direcciones, correos electrónicos, números de teléfono, fechas de nacimiento, números de Seguro Social, números de reclamaciones, números de cuentas bancarias e información sobre servicios médicos.",
+  "color": "#ef4444"
+}

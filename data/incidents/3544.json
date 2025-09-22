@@ -1,0 +1,13 @@
+{
+  "id": 3544,
+  "title": "Hablar - Data leak - Crash Override",
+  "date": "2021-01-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Crash Override",
+  "impact": "Filtración de datos en Twitter como Crash Override afirma haber encontrado una dirección web",
+  "source": "nan",
+  "summary": "Una hacker conocida en Twitter como Crash Override afirma haber encontrado una dirección web que Parler usaba internamente para recuperar datos. Hizo una lista de todas las publicaciones, vídeos e imágenes subidas a Parler, incluyendo las que los usuarios habían eliminado, como las que hacían referencia al ataque al Capitolio del 6 de enero.",
+  "color": "#ef4444"
+}

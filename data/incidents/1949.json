@@ -1,0 +1,13 @@
+{
+  "id": 1949,
+  "title": "Click2Gov - Data leak - Undetermined",
+  "date": "2018-12-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Click2Gov",
+  "source": "http://fortune.com/2018/12/18/click2gov-local-government-portals-hackers-credit-card-breach/",
+  "summary": "Según un nuevo informe publicado por Gemini Advisory, a raíz de la violación de Click2Gov, al menos 294.929 registros de pago se vieron comprometidos en 46 ciudades de EE. UU. y se vendieron en la Dark Web.",
+  "color": "#3b82f6"
+}

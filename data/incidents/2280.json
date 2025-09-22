@@ -1,0 +1,13 @@
+{
+  "id": 2280,
+  "title": "Comisión de Educación Superior de Tennessee - Data leak - Undetermined",
+  "date": "2019-07-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Educación Superior de Tennessee investiga una posible violación de datos de un proveedor externo",
+  "source": "https://www.databreaches.net/tn-data-breach-of-vendor-puts-personal-info-of-tn-high-school-students-at-risk/",
+  "summary": "La Comisión de Educación Superior de Tennessee investiga una posible violación de datos de un proveedor externo, que potencialmente ha expuesto información personal de miles de estudiantes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3309,
+  "title": "WildWorks - Data leak - ShinyHunters",
+  "date": "2020-10-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Filtración de datos en WildWorks",
+  "source": "https://www.bleepingcomputer.com/news/security/animal-jam-kids-virtual-world-hit-by-data-breach-impacts-46m-accounts/",
+  "summary": "Un actor de amenazas ha compartido dos bases de datos pertenecientes al juego en línea Animal Jam en un foro de hackers. Las bases de datos fueron robadas por ShinyHunters tras comprometer a WildWorks, el creador del juego.",
+  "color": "#ef4444"
+}

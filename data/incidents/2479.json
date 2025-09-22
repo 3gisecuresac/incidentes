@@ -1,0 +1,13 @@
+{
+  "id": 2479,
+  "title": "Genética Veritas - Data leak - Undetermined",
+  "date": "2019-11-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en ADN Veritas Genetics sufre una vulneración de seguridad",
+  "source": "https://www.bloomberg.com/news/articles/2019-11-06/breach-at-dna-test-firm-veritas-exposed-customer-information",
+  "summary": "La empresa de pruebas de ADN Veritas Genetics sufre una vulneración de seguridad que afecta a información de sus clientes cuando un usuario no autorizado accede a un portal de atención al cliente.",
+  "color": "#a78bfa"
+}

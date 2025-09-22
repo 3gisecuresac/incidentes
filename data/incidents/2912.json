@@ -1,0 +1,13 @@
+{
+  "id": 2912,
+  "title": "Departamento de Policía de Minneapolis - DoS - Anonymous",
+  "date": "2020-05-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Anonymous",
+  "impact": "Incidente de seguridad en Departamento de Policía de Minneapolis en represalia",
+  "source": "https://variety.com/2020/digital/news/anonymous-hackers-minneapolis-police-department-website-george-floyd-1234621332/",
+  "summary": "Anonymous elimina el sitio web del Departamento de Policía de Minneapolis en represalia por el asesinato de George Floyd.",
+  "color": "#a78bfa"
+}

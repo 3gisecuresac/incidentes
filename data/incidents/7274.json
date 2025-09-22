@@ -1,0 +1,13 @@
+{
+  "id": 7274,
+  "title": "Hospital Clnic de Barcelona - Ransomware - RansomHouse",
+  "date": "2023-03-06",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "RansomHouse",
+  "impact": "Cifrado por ransomware en Barcelona sufre un ataque del ransomware RansomHouse",
+  "source": "nan",
+  "summary": "El Hospital Clínico de Barcelona sufre un ataque del ransomware RansomHouse, interrumpiendo gravemente sus servicios sanitarios después de que las máquinas virtuales de la institución fueran el objetivo de los ataques.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3482,
+  "title": "Ciudad de Austin - Data leak - SVR (COZYBEAR)",
+  "date": "2020-12-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (COZYBEAR)",
+  "impact": "Incidente de seguridad en Austin ha sido violada",
+  "source": "nan",
+  "summary": "La ciudad de Austin ha sido violada por los piratas informáticos de SolarWinds.",
+  "color": "#a78bfa"
+}

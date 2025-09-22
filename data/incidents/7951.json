@@ -1,0 +1,13 @@
+{
+  "id": 7951,
+  "title": "Hapvida - Data leak - Undetermined",
+  "date": "2020-07-06",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Hapvida",
+  "source": "nan",
+  "summary": "La aseguradora de salud brasileña Hapvida revela haber sufrido un ciberataque que potencialmente implicó acceso a información personal de sus clientes.",
+  "color": "#a78bfa"
+}

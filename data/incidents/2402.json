@@ -1,0 +1,13 @@
+{
+  "id": 2402,
+  "title": "Iniciativa de Salud Católica (CHI) en el Hospital Lakeside - Ransomware - Undetermined",
+  "date": "2019-09-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Hospital Lakeside informa a los pacientes",
+  "source": "https://www.databreaches.net/ne-chi-health-says-ransomware-incident-may-have-exposed-info-of-patients-at-lakeside-hospitals-orthopedic-clinic/",
+  "summary": "La clínica CHI Health del Hospital Lakeside informa a los pacientes que su información personal puede haber sido expuesta durante un incidente de ransomware, ocurrido el 1 de agosto.",
+  "color": "#ef4444"
+}

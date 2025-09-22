@@ -1,0 +1,13 @@
+{
+  "id": 2328,
+  "title": "Bayview Dental - Data leak - Undetermined",
+  "date": "2019-08-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Bayview Dental",
+  "source": "https://www.databreaches.net/healthcare-entities-continue-to-be-targeted-eye-care-provider-in-ohio-hit-with-ransomware-dental-practice-in-minnesota-reports-cyberattack/",
+  "summary": "Bayview Dental sufre un ciberataque no especificado. El ataque se descubrió el 4 de julio.",
+  "color": "#a78bfa"
+}

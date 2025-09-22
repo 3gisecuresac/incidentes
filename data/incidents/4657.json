@@ -1,0 +1,13 @@
+{
+  "id": 4657,
+  "title": "Compañía Financiera Profesional Inc. (PFC) - Ransomware - Quantum",
+  "date": "2022-07-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Quantum",
+  "impact": "Filtración de datos en Professional Finance Company Inc. PFC una",
+  "source": "nan",
+  "summary": "Professional Finance Company Inc. (PFC), una empresa de gestión de cuentas por cobrar de servicio completo, dice que un ataque de ransomware Quantum a fines de febrero provocó una violación de datos que afectó a más de 600 organizaciones de atención médica. 1,9 millones de personas están afectadas.",
+  "color": "#ef4444"
+}

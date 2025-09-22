@@ -1,0 +1,13 @@
+{
+  "id": 8033,
+  "title": "Logística Integrada Sudamericana (LISA) - Ransomware - ALPHVM",
+  "date": "2023-04-21",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Integrada Sulamericana LISA",
+  "source": "nan",
+  "summary": "Logística Integrada Sulamericana (LISA) figura en el sitio de filtración de ransomware BlackCat.",
+  "color": "#ef4444"
+}

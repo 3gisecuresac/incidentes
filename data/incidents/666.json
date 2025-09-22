@@ -1,0 +1,13 @@
+{
+  "id": 666,
+  "title": "Funcionarios de la administración Obama - Data leak - Islamic Revolutionary Guard Corps (APT 35 Charming Kitten)",
+  "date": "2015-11-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Islamic Revolutionary Guard Corps (APT 35 Charming Kitten)",
+  "impact": "Incidente de seguridad en Irán",
+  "source": "http://www.esecurityplanet.com/network-security/u.s.-government-officials-hacked-by-iranian-revolutionary-guard.html",
+  "summary": "El Wall Street Journal revela que las cuentas de correo electrónico y de redes sociales de funcionarios de la administración Obama fueron pirateadas recientemente por miembros de la Guardia Revolucionaria de Irán.",
+  "color": "#a78bfa"
+}

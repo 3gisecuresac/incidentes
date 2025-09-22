@@ -1,0 +1,13 @@
+{
+  "id": 6193,
+  "title": "Destino 2 - DoS - Undetermined",
+  "date": "2023-09-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Destiny 2 durante el fin de semana se debieron en realidad a un ataque DDoS",
+  "source": "nan",
+  "summary": "Bungie revela que los problemas de inicio de sesión que afectaron a los jugadores de Destiny 2 durante el fin de semana se debieron en realidad a un ataque DDoS que ralentizó el servicio.",
+  "color": "#f59e0b"
+}

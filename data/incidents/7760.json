@@ -1,0 +1,13 @@
+{
+  "id": 7760,
+  "title": "Proveedor de sistemas de aerolíneas no revelado - Ransomware - Undetermined",
+  "date": "2022-04-19",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Sunwing Airlines Inc",
+  "source": "nan",
+  "summary": "Un proveedor de sistemas de aerolíneas no revelado sufre una violación de seguridad y, como consecuencia, miles de pasajeros de la aerolínea de bajo coste canadiense, Sunwing Airlines Inc, enfrentan retrasos en sus vuelos.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2530,
+  "title": "Departamento de Agua de Fort Worth - Data leak - Undetermined",
+  "date": "2019-12-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Agua de Fort Worth notifica a unos 3000 clientes",
+  "source": "https://www.scmagazine.com/home/security-news/data-breach/3000-affected-by-fort-worth-water-utility-data-breach/",
+  "summary": "El Departamento de Agua de Fort Worth notifica a unos 3000 clientes que su información de pago podría haber sido expuesta durante una filtración de datos. Este es otro caso de la filtración de Click2Gov.",
+  "color": "#ef4444"
+}

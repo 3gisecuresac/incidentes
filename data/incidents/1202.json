@@ -1,0 +1,13 @@
+{
+  "id": 1202,
+  "title": "Sunrun - Data leak - Undetermined",
+  "date": "2017-01-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Lynn Jurich",
+  "source": "http://www.sfgate.com/business/article/Sunrun-hack-nabs-employee-W-2-tax-forms-10889441.php",
+  "summary": "El fabricante de paneles solares Sunrun es víctima de un ataque de phishing, haciéndose pasar por el director ejecutivo Lynn Jurich, que logra obtener información del formulario W-2 de los empleados de la empresa.",
+  "color": "#ef4444"
+}

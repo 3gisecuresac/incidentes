@@ -1,0 +1,13 @@
+{
+  "id": 3001,
+  "title": "Sistema Universitario de Carolina del Norte - Data leak - Undetermined",
+  "date": "2020-07-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Carolina del Norte es otra víctima del hackeo de Blackbaud",
+  "source": "https://www.northcarolina.edu/blackbaud-information-security-incident/",
+  "summary": "El Sistema Universitario de Carolina del Norte es otra víctima del hackeo de Blackbaud.",
+  "color": "#3b82f6"
+}

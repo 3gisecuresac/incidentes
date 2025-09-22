@@ -1,0 +1,13 @@
+{
+  "id": 7101,
+  "title": "Universidad de Oklahoma - Ransomware - Fog",
+  "date": "2025-01-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Fog",
+  "impact": "Cifrado por ransomware en Oklahoma afirma estar tomando medidas",
+  "source": "nan",
+  "summary": "La Universidad de Oklahoma afirma estar tomando medidas para abordar la actividad cibernética inusual que descubrió en su red. El grupo de ransomware Fog se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

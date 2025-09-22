@@ -1,0 +1,13 @@
+{
+  "id": 1613,
+  "title": "Atención Primaria de Salud - Data leak - Undetermined",
+  "date": "2018-03-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Salud notifica a pacientes",
+  "source": "https://www.databreaches.net/ia-primary-health-care-notifies-patients-after-discovering-hack-of-employee-email-accounts/",
+  "summary": "Atención Primaria de Salud notifica a pacientes tras descubrir hackeo de cuentas de correo electrónico de empleados.",
+  "color": "#3b82f6"
+}

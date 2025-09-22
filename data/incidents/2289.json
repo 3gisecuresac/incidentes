@@ -1,0 +1,13 @@
+{
+  "id": 2289,
+  "title": "Condado de Vigo - Ransomware - Undetermined",
+  "date": "2019-07-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Vigo se ve afectado",
+  "source": "https://securityaffairs.co/wordpress/88860/malware/indiana-county-ransomware-attacks.html",
+  "summary": "El condado de Vigo se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

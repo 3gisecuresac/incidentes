@@ -1,0 +1,13 @@
+{
+  "id": 5536,
+  "title": "Sentimiento - Ransomware - Undetermined",
+  "date": "2023-04-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Sentiment",
+  "source": "nan",
+  "summary": "El protocolo de préstamos Sentiment logra recuperar los fondos robados de un hack reciente al ofrecerle al hacker una recompensa de 95.000 dólares.",
+  "color": "#3b82f6"
+}

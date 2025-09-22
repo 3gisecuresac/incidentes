@@ -1,0 +1,13 @@
+{
+  "id": 4730,
+  "title": "Cooperativa de Crédito para Empleados de Boeing (BECU) - Data leak - Undetermined",
+  "date": "2022-07-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Boeing Employees Credit Union BECU",
+  "source": "nan",
+  "summary": "Boeing Employees' Credit Union (BECU) presenta un aviso oficial de una violación de datos a varias entidades gubernamentales después de que la empresa se enteró de un incidente de seguridad de red en un proveedor externo.",
+  "color": "#ef4444"
+}

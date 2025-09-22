@@ -1,0 +1,13 @@
+{
+  "id": 6297,
+  "title": "Banca QSI - Ransomware - ALPHVM",
+  "date": "2023-10-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en QSI Banking a su lista de víctimas",
+  "source": "nan",
+  "summary": "El grupo ransomware BlackCat agrega a QSI Banking a su lista de víctimas y afirma haber robado 5 TB de datos.",
+  "color": "#ef4444"
+}

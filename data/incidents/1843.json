@@ -1,0 +1,13 @@
+{
+  "id": 1843,
+  "title": "Aspire Health - Data leak - Undetermined",
+  "date": "2018-09-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Aspire Health",
+  "source": "https://www.databreaches.net/aspire-health-hacked-by-phishing-scheme-lost-protected-health-information/",
+  "summary": "Aspire Health fue hackeado a principios de este mes y perdió al menos parte de la información de sus pacientes a manos de un ciberatacante desconocido.",
+  "color": "#3b82f6"
+}

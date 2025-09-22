@@ -1,0 +1,13 @@
+{
+  "id": 527,
+  "title": "LastPass - Data leak - Undetermined",
+  "date": "2015-06-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en LastPass",
+  "source": "http://www.forbes.com/sites/katevinton/2015/06/15/password-manager-lastpass-hacked-exposing-encrypted-master-passwords/?ss=Security",
+  "summary": "El gestor de contraseñas LastPass revela que las direcciones de correo electrónico y las contraseñas maestras cifradas se vieron comprometidas en una brecha de seguridad. La compañía no cree que se haya accedido a las cuentas de usuario en el ataque, pero recomienda a los usuarios cambiar la contraseña maestra que utilizan para acceder a sus cuentas.",
+  "color": "#ef4444"
+}

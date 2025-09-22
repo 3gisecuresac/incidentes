@@ -1,0 +1,13 @@
+{
+  "id": 2250,
+  "title": "Departamento de Trabajo de Maryland - Data leak - Undetermined",
+  "date": "2019-07-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Trabajo de Maryland",
+  "source": "https://www.bleepingcomputer.com/news/security/maryland-govt-agency-breach-exposes-names-ssns-of-78k-people/",
+  "summary": "El Departamento de Trabajo de Maryland (Maryland DoL) publica un comunicado de prensa explicando que un tercero no autorizado accedió a información confidencial de aproximadamente 78.000 clientes, incluidos nombres y números de seguro social.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4409,
+  "title": "Stago - Ransomware - GOLD DUPONT",
+  "date": "2022-03-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "GOLD DUPONT",
+  "impact": "Filtración de datos en RansomEXX",
+  "source": "nan",
+  "summary": "El ransomware RansomEXX publica muestras de datos filtrados en su sitio TOR.",
+  "color": "#ef4444"
+}

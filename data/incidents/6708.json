@@ -1,0 +1,13 @@
+{
+  "id": 6708,
+  "title": "Servicios de asistencia informática en todo el sector sanitario y de salud pública (HPH). - Data leak - Multiple threat actors",
+  "date": "2024-04-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Multiple threat actors",
+  "impact": "Incidente de seguridad en Salud",
+  "source": "nan",
+  "summary": "El Departamento de Salud y Servicios Humanos de EE. UU. (HHS) advierte que los actores de amenazas ahora están utilizando tácticas de ingeniería social para atacar a las mesas de ayuda de TI en todo el sector de atención médica y salud pública (HPH).",
+  "color": "#a78bfa"
+}

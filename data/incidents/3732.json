@@ -1,0 +1,13 @@
+{
+  "id": 3732,
+  "title": "Plan de salud comunitario Trillium - Data leak - TA505",
+  "date": "2021-03-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "TA505",
+  "impact": "Incidente de seguridad en Oregon reveló",
+  "source": "nan",
+  "summary": "El 25 de febrero, Trillium Community Health Plan en Oregon reveló que Accellion les había notificado el 25 de enero sobre el ciberataque que afectó a docenas de clientes de Accellion.",
+  "color": "#a78bfa"
+}

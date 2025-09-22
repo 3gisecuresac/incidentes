@@ -1,0 +1,13 @@
+{
+  "id": 4547,
+  "title": "Oportunidades del Condado de Oswego (OCO) - Data leak - Undetermined",
+  "date": "2022-05-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Oswego County Opportunities OCO",
+  "source": "nan",
+  "summary": "Oswego County Opportunities (OCO) anuncia que un actor desconocido accedió a un número limitado de cuentas de correo electrónico de empleados, cuando se detectó actividad de correo electrónico sospechosa y las cuentas de correo electrónico se aseguraron de inmediato.",
+  "color": "#a78bfa"
+}

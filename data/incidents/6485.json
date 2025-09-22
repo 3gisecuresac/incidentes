@@ -1,0 +1,13 @@
+{
+  "id": 6485,
+  "title": "Ingeniería hidráulica de SC - Ransomware - Play",
+  "date": "2023-11-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Play",
+  "impact": "Filtración de datos en SC Hydraulic Engineering a su sitio de filtraciones",
+  "source": "nan",
+  "summary": "La banda de ransomware Play agrega a SC Hydraulic Engineering a su sitio de filtraciones.",
+  "color": "#ef4444"
+}

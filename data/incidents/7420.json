@@ -1,0 +1,13 @@
+{
+  "id": 7420,
+  "title": "Banco del Austro - Data leak - NGB 3rd Technical Surveillance Bureau",
+  "date": "2015-01-12",
+  "country": "Ecuador",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "NGB 3rd Technical Surveillance Bureau",
+  "impact": "Sistema o cuenta comprometida en SWIFT",
+  "source": "nan",
+  "summary": "Aquí está la tercera víctima del hackeo de SWIFT: el Banco del Austro en Ecuador también fue víctima de un ataque similar en 2015, donde los cibercriminales robaron alrededor de 12 millones de dólares.",
+  "color": "#3b82f6"
+}

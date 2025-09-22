@@ -1,0 +1,13 @@
+{
+  "id": 3354,
+  "title": "Amazonas - Data leak - Unnamed Amazon employee",
+  "date": "2020-10-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Unnamed Amazon employee",
+  "impact": "Incidente de seguridad en Amazon",
+  "source": "https://www.infosecurity-magazine.com:443/news/amazon-insider-disclosing/",
+  "summary": "Amazon despide a un empleado después de que revelara correos electrónicos de clientes a un tercero no autorizado.",
+  "color": "#a78bfa"
+}

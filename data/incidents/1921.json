@@ -1,0 +1,13 @@
+{
+  "id": 1921,
+  "title": "Sistema de pago de multas de estacionamiento de Ames - Data leak - Undetermined",
+  "date": "2018-11-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Ames",
+  "source": "https://www.scmagazine.com/home/security-news/ames-iowa-parking-ticket-payment-system-breached/",
+  "summary": "La violación de datos al sistema de pago en línea Click2Gov podría haber expuesto información sobre 4.600 personas que utilizaron el sistema de pago de boletos en línea de Ames, Iowa, entre el 10 de agosto y el 19 de noviembre de 2018.",
+  "color": "#ef4444"
+}

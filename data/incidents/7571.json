@@ -1,0 +1,13 @@
+{
+  "id": 7571,
+  "title": "PharmaNet - Data leak - Undetermined",
+  "date": "2017-02-15",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Columbia Británica podría haber sido comprometida a través del sistema PharmaNet del gobierno provincial",
+  "source": "nan",
+  "summary": "La información personal de aproximadamente 7.500 habitantes de Columbia Británica podría haber sido comprometida a través del sistema PharmaNet del gobierno provincial, cuando una persona desconocida/no autorizada obtuvo y utilizó los datos de acceso de un médico para acceder a PharmaNet.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5703,
+  "title": "Caso práctico - Ransomware - ALPHVM",
+  "date": "2023-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Casepoint",
+  "source": "nan",
+  "summary": "Casepoint dice que está investigando un posible incidente de ciberseguridad después de que el grupo de ransomware BlackCat afirma haber comprometido la plataforma tecnológica legal para robar terabytes de datos confidenciales.",
+  "color": "#ef4444"
+}

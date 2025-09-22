@@ -1,0 +1,13 @@
+{
+  "id": 3733,
+  "title": "Atención domiciliaria en el norte del estado - Ransomware - Pysa",
+  "date": "2021-03-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Pysa",
+  "impact": "Filtración de datos en Upstate Home Care aparecen en el sitio web de filtración de datos de PYSA",
+  "source": "nan",
+  "summary": "Los archivos de Upstate Home Care aparecen en el sitio web de filtración de datos de PYSA, los archivos no contienen datos significativos de los pacientes.",
+  "color": "#ef4444"
+}

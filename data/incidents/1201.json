@@ -1,0 +1,13 @@
+{
+  "id": 1201,
+  "title": "Manejo del dolor de Princeton - Data leak - Undetermined",
+  "date": "2017-01-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Princeton Pain Management",
+  "source": "https://www.databreaches.net/princeton-pain-management-notifies-patients-after-hacker-gains-access-to-phi/",
+  "summary": "Princeton Pain Management está notificando a 4.668 pacientes sobre un ataque informático que se detectó el 28 de noviembre. Aunque no encontraron evidencia de que se eliminaran datos de su sistema, se accedió a información médica protegida (PHI).",
+  "color": "#ef4444"
+}

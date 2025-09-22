@@ -1,0 +1,13 @@
+{
+  "id": 1256,
+  "title": "Dun & Bradstreet - Data leak - Undetermined",
+  "date": "2017-03-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Dun & Bradstreet",
+  "source": "http://www.zdnet.com/article/millions-of-records-leaked-from-huge-corporate-database/",
+  "summary": "Se expone una base de datos de 52 GB de Dun & Bradstreet que contiene alrededor de 33,6 millones de registros con detalles muy específicos sobre cada una de las personas involucradas, desde el puesto de trabajo hasta la dirección de correo electrónico.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 106,
+  "title": "Socios de JCM - Data leak - Undetermined",
+  "date": "2014-03-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en JCM Partners",
+  "source": "http://www.esecurityplanet.com/network-security/jcm-partners-acknowledges-data-breach.html",
+  "summary": "La empresa de gestión inmobiliaria JCM Partners notifica a un número no revelado de solicitantes de vivienda que su información personal ha sido expuesta en línea.",
+  "color": "#ef4444"
+}

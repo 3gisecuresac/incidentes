@@ -1,0 +1,13 @@
+{
+  "id": 6913,
+  "title": "Aviso - Data leak - Undetermined",
+  "date": "2024-08-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Avis",
+  "source": "nan",
+  "summary": "El gigante estadounidense de alquiler de automóviles Avis notifica a más de 299.000 clientes que atacantes desconocidos violaron una de sus aplicaciones comerciales el mes pasado y robaron parte de su información personal.",
+  "color": "#a78bfa"
+}

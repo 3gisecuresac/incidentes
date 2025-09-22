@@ -1,0 +1,13 @@
+{
+  "id": 4299,
+  "title": "Marcas Acuity - Ransomware - Conti",
+  "date": "2022-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Conti",
+  "impact": "Filtración de datos en Acuity Brands",
+  "source": "nan",
+  "summary": "El gigante de la iluminación y la gestión de edificios Acuity Brands ha revelado públicamente dos violaciones de datos que sufrió la empresa en los últimos años, incluida una que puede haber involucrado ransomware.",
+  "color": "#ef4444"
+}

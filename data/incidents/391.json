@@ -1,0 +1,13 @@
+{
+  "id": 391,
+  "title": "Juegos de BigFish - Data leak - Undetermined",
+  "date": "2015-02-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Big Fish Games",
+  "source": "http://www.net-security.org/secworld.php?id=17964",
+  "summary": "La empresa de juegos casuales Big Fish Games tuvo su sitio y la información personal y financiera de algunos de sus usuarios comprometidos en un ataque que comenzó en la pasada Nochebuena.",
+  "color": "#3b82f6"
+}

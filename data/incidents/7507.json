@@ -1,0 +1,13 @@
+{
+  "id": 7507,
+  "title": "AL FINAL - Ransomware - Medusa",
+  "date": "2023-03-31",
+  "country": "Chile",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Medusa",
+  "impact": "Filtración de datos en TI SONDA",
+  "source": "nan",
+  "summary": "La multinacional chilena de TI SONDA, con presencia en 11 países, se coloca en la página de filtraciones del actor de amenazas de ransomware Medusa Locker.",
+  "color": "#ef4444"
+}

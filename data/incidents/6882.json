@@ -1,0 +1,13 @@
+{
+  "id": 6882,
+  "title": "Condado de Clay - Ransomware - Undetermined",
+  "date": "2024-07-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Clay",
+  "source": "nan",
+  "summary": "El condado de Clay, Indiana, presenta una declaración de desastre local luego de un ataque de ransomware.",
+  "color": "#ef4444"
+}

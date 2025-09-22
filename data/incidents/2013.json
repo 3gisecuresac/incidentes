@@ -1,0 +1,13 @@
+{
+  "id": 2013,
+  "title": "Houzz - Data leak - Undetermined",
+  "date": "2019-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Houzz",
+  "source": "https://www.digitaltrends.com/home/houzz-data-breach-password-change/",
+  "summary": "La startup de mejoras para el hogar Houzz informa a sus usuarios que sufrió una violación de datos en diciembre de 2018. La empresa no ha proporcionado detalles sobre el suceso, pero se ha puesto en contacto con sus usuarios para animarlos a cambiar sus contraseñas como medida de precaución.",
+  "color": "#ef4444"
+}

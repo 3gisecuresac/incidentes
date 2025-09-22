@@ -1,0 +1,13 @@
+{
+  "id": 3682,
+  "title": "Clínica Altona - Ransomware - Undetermined",
+  "date": "2021-02-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en La Cl",
+  "source": "nan",
+  "summary": "La Clínica Altona sufre un ataque de ransomware.",
+  "color": "#ef4444"
+}

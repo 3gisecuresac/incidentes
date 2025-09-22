@@ -1,0 +1,13 @@
+{
+  "id": 1978,
+  "title": "Propiedades Silverstein - Data leak - The Dark Overlord",
+  "date": "2018-12-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "The Dark Overlord",
+  "impact": "Filtración de datos en Hiscox Syndicates Ltd Lloyds of London y Silverstein Properties. Como",
+  "source": "https://motherboard.vice.com/en_us/article/yw79k5/hacker-group-threatens-dump-911-insurance-files-dark-overlord",
+  "summary": "TheDarkOverlord anuncia haber pirateado los datos de un bufete de abogados que gestionaba casos relacionados con los atentados del 11-S y amenaza con publicar los archivos internos a menos que se cumplan sus exigencias de rescate. El grupo afirma haber pirateado varias aseguradoras y bufetes de abogados, como Hiscox Syndicates Ltd, Lloyds of London y Silverstein Properties. Como prueba, el grupo publica el enlace a un archivo de 10 GB.",
+  "color": "#ef4444"
+}

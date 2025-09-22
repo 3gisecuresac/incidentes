@@ -1,0 +1,13 @@
+{
+  "id": 7445,
+  "title": "Costa Rica's Junta De Proteccion Social - Ransomware - LockBit 3.0",
+  "date": "2022-04-24",
+  "country": "Costa Rica",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en Protección Social de Costa Rica se suma al sitio de filtraciones de LockBit 3",
+  "source": "nan",
+  "summary": "La Junta de Protección Social de Costa Rica se suma al sitio de filtraciones de LockBit 3.0, y la banda de ransomware afirma tener alrededor de 7,8 GB de información.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3010,
+  "title": "Productos farmacéuticos Amphastar - Ransomware - INDRIK SPIDER",
+  "date": "2020-07-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Filtración de datos en Amphastar Pharmaceuticals",
+  "source": "https://www.databreaches.net/amphastar-pharmaceuticals-discovers-that-threat-actors-had-exfiltrated-employee-data-in-may-ransomware-attack/",
+  "summary": "Los actores de la amenaza del ransomware DoppelPaymer publicaron datos de Amphastar Pharmaceuticals que habían sido robados en un ataque de mayo.",
+  "color": "#ef4444"
+}

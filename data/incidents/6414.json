@@ -1,0 +1,13 @@
+{
+  "id": 6414,
+  "title": "Acrisure - Ciberataque - Undetermined",
+  "date": "2023-11-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Acrisure",
+  "source": "nan",
+  "summary": "Acrisure presenta una notificación de filtración de datos tras descubrir que un tercero no autorizado accedió a una parte de la red informática de la empresa. El incidente permitió que un tercero no autorizado accediera a la información confidencial de los consumidores.",
+  "color": "#ef4444"
+}

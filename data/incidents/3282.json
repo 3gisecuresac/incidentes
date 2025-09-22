@@ -1,0 +1,13 @@
+{
+  "id": 3282,
+  "title": "Chowbus - Data leak - Undetermined",
+  "date": "2020-10-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Chicago 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ ''ÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â ''ÃÆÃ'Ãâ ''ÃÆÃ''ÃÆ'Ã'ÃÂ ChowbusÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ 'ÃÆÃ'Ãâ 'ÃÆÃÂ¢ÃÂ¢'ÃÂ¬Ã'ÃÂ 'ÃÆÃ'Ãâ 'ÃÆÃ¢â¬¬Â '''ÃÆÃ'Ãâ 'ÃÆÃ¢â¬¬Â 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ ''ÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â ''ÃÆÃ'Ãâ ''ÃÆÃ''ÃÆ'Ã'ÃÂ ha sufrido una violación de datos con más de 800",
+  "source": "https://www.bleepingcomputer.com/news/security/chowbus-delivery-service-breached-hacker-emails-data-to-users/",
+  "summary": "Servicio de entrega de comida asiática con sede en Chicago 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ ''ÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â ''ÃÆÃ'Ãâ ''ÃÆÃ''ÃÆ'Ã'ÃÂ ChowbusÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ 'ÃÆÃ'Ãâ 'ÃÆÃÂ¢ÃÂ¢'ÃÂ¬Ã'ÃÂ 'ÃÆÃ'Ãâ 'ÃÆÃ¢â¬¬Â '''ÃÆÃ'Ãâ 'ÃÆÃ¢â¬¬Â 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ ''ÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â ''ÃÆÃ'Ãâ ''ÃÆÃ''ÃÆ'Ã'ÃÂ ha sufrido una violación de datos con más de 800.000 registros de clientes y 444.000 direcciones de correo electrónico únicas expuestas.",
+  "color": "#ef4444"
+}

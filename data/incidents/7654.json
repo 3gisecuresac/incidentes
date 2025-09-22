@@ -1,0 +1,13 @@
+{
+  "id": 7654,
+  "title": "Compañía de seguros canadiense no revelada - Ransomware - Undetermined",
+  "date": "2020-01-30",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware",
+  "source": "nan",
+  "summary": "Una compañía de seguros canadiense pagó casi un millón de dólares estadounidenses (aproximadamente 1,3 millones de dólares canadienses) tras un ataque de ransomware.",
+  "color": "#ef4444"
+}

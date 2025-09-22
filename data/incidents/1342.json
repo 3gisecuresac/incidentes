@@ -1,0 +1,13 @@
+{
+  "id": 1342,
+  "title": "Escuelas públicas del condado de Miami-Dade - DoS - MoRo",
+  "date": "2017-06-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "MoRo",
+  "impact": "Sistema o cuenta comprometida en EE",
+  "source": "http://www.miamiherald.com/news/local/education/article156544589.html",
+  "summary": "Parece que faltan dos meses para las elecciones presidenciales de EE. UU. MoRo, un grupo de hackers marroquíes, supuestamente intentó hackear los sistemas de votación de EE. UU. En el intento, hackearon cuatro distritos escolares de Florida, incluido el de Miami-Dade.",
+  "color": "#3b82f6"
+}

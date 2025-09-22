@@ -1,0 +1,13 @@
+{
+  "id": 3775,
+  "title": "Grupo PDI - Ransomware - Babuk",
+  "date": "2021-03-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Babuk",
+  "impact": "Filtración de datos en PDI Group",
+  "source": "nan",
+  "summary": "La banda de ransomware Babuk filtra 700 GB de datos pertenecientes a PDI Group, un contratista militar estadounidense.",
+  "color": "#ef4444"
+}

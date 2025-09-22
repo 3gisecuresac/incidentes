@@ -1,0 +1,13 @@
+{
+  "id": 5116,
+  "title": "Distrito de Bomberos de South Walton (SWFD) - Ciberataque - Undetermined",
+  "date": "2022-11-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Bomberos de South Walton revela un acceso no autorizado a su red",
+  "source": "nan",
+  "summary": "El Distrito de Bomberos de South Walton revela un acceso no autorizado a su red, que podría afectar información confidencial como: nombres, direcciones, números de Seguro Social, fechas de nacimiento, fechas de tratamiento, información de diagnóstico y tratamiento médico e información del seguro médico.",
+  "color": "#a78bfa"
+}

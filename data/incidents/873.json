@@ -1,0 +1,13 @@
+{
+  "id": 873,
+  "title": "El Grand Sierra Resort - Infección Dispositivos - Undetermined",
+  "date": "2016-04-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El Grand Sierra Resort",
+  "source": "http://www.databreaches.net/grand-sierra-resort-guest-payment-cards-breached-in-2014-and-again-in-2015/",
+  "summary": "El Grand Sierra Resort es la última entidad hotelera en revelar una filtración de datos que afecta a la información de las tarjetas de crédito de sus clientes. En este caso, parece haber dos periodos en los que las tarjetas utilizadas en sus establecimientos de restauración y venta minorista podrían haber estado comprometidas: un mes en 2014 y cinco meses en 2015.",
+  "color": "#ef4444"
+}

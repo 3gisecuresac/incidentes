@@ -1,0 +1,13 @@
+{
+  "id": 6871,
+  "title": "Departamento de Educación del Estado de Alabama - Ransomware - Undetermined",
+  "date": "2024-07-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Educación del Estado de Alabama dice",
+  "source": "nan",
+  "summary": "El Departamento de Educación del Estado de Alabama dice que detuvo un ataque de ransomware el mes pasado, pero los actores de amenazas aún pudieron acceder a algunos datos e interrumpir los servicios.",
+  "color": "#ef4444"
+}

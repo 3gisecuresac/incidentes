@@ -1,0 +1,13 @@
+{
+  "id": 5221,
+  "title": "Centro de cirugía Live Oak - Data leak - Undetermined",
+  "date": "2023-01-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en El Centro Quir",
+  "source": "nan",
+  "summary": "El Centro Quirúrgico Live Oak revela que dos cuentas de correo electrónico de empleados fueron comprometidas por un tercero no autorizado, lo que a su vez potencialmente provocó que se viera o se robara la información de 5.264 pacientes.",
+  "color": "#3b82f6"
+}

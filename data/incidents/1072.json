@@ -1,0 +1,13 @@
+{
+  "id": 1072,
+  "title": "newseasims.com - Data leak - Websites Hunter",
+  "date": "2016-09-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Websites Hunter",
+  "impact": "Filtración de datos en newseasims.com",
+  "source": "https://www.hackread.com/gaming-custom-content-website-hacked/",
+  "summary": "Un hacker que se hace llamar Websites Hunter piratea newseasims.com, un sitio web que ofrece contenido personalizado para los videojuegos Sims de Electronic Arts, y filtra datos personales de 118.000 clientes/usuarios.",
+  "color": "#ef4444"
+}

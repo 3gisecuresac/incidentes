@@ -1,0 +1,13 @@
+{
+  "id": 7185,
+  "title": "Agencia Federal para el Manejo de Emergencias (FEMA) - Data leak - Undetermined",
+  "date": "2025-08-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en FEMA aprovechando vulnerabilidades sin parchear",
+  "source": "nan",
+  "summary": "El DHS reveló el 29 de agosto de 2025 que un agente de amenazas obtuvo acceso no autorizado a los sistemas informáticos de FEMA aprovechando vulnerabilidades sin parchear, protocolos obsoletos y la falta de autenticación multifactor. No se robaron ni se extrajeron datos de ciudadanos. Como resultado, 24 empleados de TI de FEMA, incluyendo al CIO y al CISO, fueron despedidos por negligencia en la supervisión de la ciberseguridad.",
+  "color": "#ef4444"
+}

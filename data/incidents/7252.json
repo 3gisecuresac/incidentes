@@ -1,0 +1,13 @@
+{
+  "id": 7252,
+  "title": "Consejo Superior de Investigaciones Científicas (CSIC) - Ransomware - Undetermined",
+  "date": "2022-07-16",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Investigaciones Científicas",
+  "source": "nan",
+  "summary": "El Consejo Superior de Investigaciones Científicas (CSIC) revela haber sido víctima de un ataque de ransomware que ahora atribuye a hackers rusos.",
+  "color": "#ef4444"
+}

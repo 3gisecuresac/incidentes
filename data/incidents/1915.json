@@ -1,0 +1,13 @@
+{
+  "id": 1915,
+  "title": "Dell - Data leak - Undetermined",
+  "date": "2018-11-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Dell",
+  "source": "http://www.nwfdailynews.com/news/20180312/okaloosa-water-and-sewer-warns-users-of-possible-security-breach",
+  "summary": "Dell publica una actualización en su sitio web en la que reconoce haber evitado un posible ataque informático ocurrido el 9 de noviembre. Según la compañía, es posible que se haya eliminado información de la red de Dell.",
+  "color": "#a78bfa"
+}

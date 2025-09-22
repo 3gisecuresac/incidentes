@@ -1,0 +1,13 @@
+{
+  "id": 3331,
+  "title": "Centro de piel Alamance - Ransomware - Undetermined",
+  "date": "2020-10-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Greensboro anunció",
+  "source": "https://www.databreaches.net/alamance-skin-center-reports-ransomware-attack/",
+  "summary": "El sistema de salud con sede en Greensboro anunció que el 21 de octubre, Alamance Skin Center en Burlington fue víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

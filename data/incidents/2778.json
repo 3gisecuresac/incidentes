@@ -1,0 +1,13 @@
+{
+  "id": 2778,
+  "title": "Centro Oftalmológico Randleman - Ransomware - Undetermined",
+  "date": "2020-03-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Randleman Eye Center",
+  "source": "https://www.databreaches.net/nc-randleman-eye-center-discloses-malware-attack/",
+  "summary": "Randleman Eye Center revela que ocurrió un ataque de malware el 13 de enero.",
+  "color": "#a78bfa"
+}

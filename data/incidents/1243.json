@@ -1,0 +1,13 @@
+{
+  "id": 1243,
+  "title": "Instituto Diamante para la Infertilidad y la Menopausia - Data leak - Undetermined",
+  "date": "2017-02-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en El Instituto Diamond para la Infertilidad y la Menopausia",
+  "source": "https://www.databreaches.net/diamond-institute-for-infertility-and-menopause-notifies-patients-after-hack/",
+  "summary": "El Instituto Diamond para la Infertilidad y la Menopausia notifica a sus pacientes sobre un incidente relacionado con su servidor de historiales médicos electrónicos, administrado por un tercero anónimo. El incidente ocurrió en febrero de 2017.",
+  "color": "#a78bfa"
+}

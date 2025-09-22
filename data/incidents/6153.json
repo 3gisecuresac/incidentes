@@ -1,0 +1,13 @@
+{
+  "id": 6153,
+  "title": "Servicios de salud unidos - Ciberataque - Undetermined",
+  "date": "2023-09-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en United Healthcare Services",
+  "source": "nan",
+  "summary": "United Healthcare Services presenta un aviso de violación de datos que involucra acceso/divulgación no autorizados de información confidencial que estaba almacenada en un servidor de red afectado.",
+  "color": "#ef4444"
+}

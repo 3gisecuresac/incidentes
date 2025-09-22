@@ -1,0 +1,13 @@
+{
+  "id": 848,
+  "title": "Ortodoncia Atique, P.A. - Data leak - Undetermined",
+  "date": "2016-04-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Atique Orthodontics P.A. AOPA",
+  "source": "http://www.databreaches.net/atique-orthodontics-p-a-notifies-patients-of-security-incident/",
+  "summary": "Atique Orthodontics, P.A. (AOPA) notifica a ciertos pacientes sobre un incidente de seguridad que involucra acceso no autorizado a una computadora en su consultorio.",
+  "color": "#a78bfa"
+}

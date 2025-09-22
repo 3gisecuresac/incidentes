@@ -1,0 +1,13 @@
+{
+  "id": 4430,
+  "title": "Condado de Contra Costa - Data leak - Undetermined",
+  "date": "2022-04-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Contra Costa revela una violación de las cuentas de correo electrónico de los empleados",
+  "source": "nan",
+  "summary": "El condado de Contra Costa revela una violación de las cuentas de correo electrónico de los empleados y la exposición de información personal confidencial.",
+  "color": "#a78bfa"
+}

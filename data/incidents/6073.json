@@ -1,0 +1,13 @@
+{
+  "id": 6073,
+  "title": "Procesamiento de datos del complejo turístico - Ciberataque - Undetermined",
+  "date": "2023-08-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Resort Data Processing RDP",
+  "source": "nan",
+  "summary": "Resort Data Processing (RDP) presenta un aviso de violación de datos después de descubrir que un ataque de inyección SQL permitió a un usuario no autorizado acceder a información confidencial en posesión de la empresa.",
+  "color": "#ef4444"
+}

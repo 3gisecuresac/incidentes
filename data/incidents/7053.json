@@ -1,0 +1,13 @@
+{
+  "id": 7053,
+  "title": "Montlick y asociados - Data leak - Undetermined",
+  "date": "2024-10-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Seguridad Social. La",
+  "source": "nan",
+  "summary": "El bufete de abogados Montlick & Associates informó sobre un incidente que involucró el acceso no autorizado a su red y la exfiltración de archivos con información personal, incluyendo números de la Seguridad Social. La compañía determinó que más de 138.000 personas se vieron afectadas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3326,
+  "title": "Distrito escolar de Yorktown - Ransomware - Undetermined",
+  "date": "2020-10-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Yorktown es víctima de un aparente ataque de ransomware",
+  "source": "https://www.databreaches.net/ny-yorktown-croton-harmon-schools-suffer-cybersecurity-attacks/",
+  "summary": "El Distrito Escolar de Yorktown es víctima de un aparente ataque de ransomware.",
+  "color": "#ef4444"
+}

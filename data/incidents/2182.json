@@ -1,0 +1,13 @@
+{
+  "id": 2182,
+  "title": "Impulsar el móvil - Data leak - Undetermined",
+  "date": "2019-05-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Boost Mobile",
+  "source": "https://www.scmagazine.com/home/security-news/data-breach/boost-mobile-was-hit-with-a-breach-which-affected-an-unknown-number-of-customer-accounts/",
+  "summary": "Boost Mobile sufrió una vulneración de seguridad que afectó a un número desconocido de cuentas de clientes. La compañía sufrió una violación de datos en línea no autorizada el 14 de marzo de 2019.",
+  "color": "#ef4444"
+}

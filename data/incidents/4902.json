@@ -1,0 +1,13 @@
+{
+  "id": 4902,
+  "title": "Servicios Familiares Alegría (AFS) - Ransomware - BianLian",
+  "date": "2022-09-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "BianLian",
+  "impact": "Cifrado por ransomware en Alegria Family Services",
+  "source": "nan",
+  "summary": "El grupo de ransomware BianLian ataca a Alegria Family Services (AFS), una organización de servicios comunitarios para adultos con discapacidades.",
+  "color": "#ef4444"
+}

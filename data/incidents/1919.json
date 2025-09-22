@@ -1,0 +1,13 @@
+{
+  "id": 1919,
+  "title": "Centro de Salud Thundermist - Ransomware - Undetermined",
+  "date": "2018-11-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Salud Thundermist de Rhode Island es atacado",
+  "source": "https://www.scmagazine.com/home/security-news/rhode-islands-thundermist-health-center-struck-by-ransomware/",
+  "summary": "El Centro de Salud Thundermist de Rhode Island es atacado por ransomware.",
+  "color": "#ef4444"
+}

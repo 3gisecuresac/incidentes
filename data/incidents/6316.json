@@ -1,0 +1,13 @@
+{
+  "id": 6316,
+  "title": "Comerciantes mayoristas asociados - Ransomware - Play",
+  "date": "2023-10-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Play",
+  "impact": "Cifrado por ransomware en Associated Wholesale Grocers",
+  "source": "nan",
+  "summary": "El grupo de ransomware PLAY agrega a Associated Wholesale Grocers (AWG) a la lista de sus víctimas.",
+  "color": "#ef4444"
+}

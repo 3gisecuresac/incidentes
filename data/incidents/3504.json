@@ -1,0 +1,13 @@
+{
+  "id": 3504,
+  "title": "OmniTRAX - Ransomware - WIZARD SPIDER",
+  "date": "2020-12-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Filtración de datos en Colorado",
+  "source": "nan",
+  "summary": "OmniTRAX, operador ferroviario de corta distancia y proveedor de logística con sede en Colorado, se vio afectado recientemente por un ataque de ransomware y un robo de datos que tuvo como objetivo a su empresa matriz, Broe Group.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7689,
+  "title": "Autoridad de Conservación de la Región de Essex (ERCA) - Data leak - Undetermined",
+  "date": "2020-09-04",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Conservación de la Región de Essex",
+  "source": "nan",
+  "summary": "La Autoridad de Conservación de la Región de Essex (ERCA) pierde $300,000 en una estafa de phishing.",
+  "color": "#ef4444"
+}

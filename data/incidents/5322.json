@@ -1,0 +1,13 @@
+{
+  "id": 5322,
+  "title": "Coinbase - Data leak - Undetermined",
+  "date": "2023-02-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Coinbase",
+  "source": "nan",
+  "summary": "La plataforma de intercambio de criptomonedas Coinbase ha revelado que un actor de amenazas desconocido robó las credenciales de inicio de sesión de uno de sus empleados en un intento de obtener acceso remoto a los sistemas de la empresa.",
+  "color": "#a78bfa"
+}

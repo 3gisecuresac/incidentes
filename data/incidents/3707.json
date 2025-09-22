@@ -1,0 +1,13 @@
+{
+  "id": 3707,
+  "title": "PrismaHR - Ransomware - Undetermined",
+  "date": "2021-03-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en PrismHR",
+  "source": "nan",
+  "summary": "La empresa líder en nóminas PrismHR está sufriendo una interrupción masiva después de sufrir un ciberataque este fin de semana que parece un ataque de ransomware a partir de conversaciones con clientes.",
+  "color": "#ef4444"
+}

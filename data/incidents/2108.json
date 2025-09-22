@@ -1,0 +1,13 @@
+{
+  "id": 2108,
+  "title": "Condado de Genesee - Ransomware - Undetermined",
+  "date": "2019-04-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Genesee se vio afectado",
+  "source": "https://www.bleepingcomputer.com/news/security/genesee-county-michigan-recovering-from-ransomware-attack/",
+  "summary": "El condado de Genesee se vio afectado por un ataque de ransomware y el condado ha estado trabajando sin parar para que sus sistemas vuelvan a estar en línea.",
+  "color": "#ef4444"
+}

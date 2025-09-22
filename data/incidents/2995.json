@@ -1,0 +1,13 @@
+{
+  "id": 2995,
+  "title": "Viper de datos - Data leak - NightLion",
+  "date": "2020-07-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "NightLion",
+  "impact": "Filtración de datos en DataViper",
+  "source": "https://www.zdnet.com/article/hacker-breaches-security-firm-in-act-of-revenge/",
+  "summary": "Un hacker que se hace llamar NightLion afirma haber violado los servidores backend pertenecientes a DataViper, una empresa de seguridad cibernética, y ha volcado 8.225 bases de datos.",
+  "color": "#ef4444"
+}

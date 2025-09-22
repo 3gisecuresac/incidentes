@@ -1,0 +1,13 @@
+{
+  "id": 3839,
+  "title": "Una Salud Comunitaria - Ransomware - Pysa",
+  "date": "2021-04-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Pysa",
+  "impact": "Filtración de datos en Oregón sufre un ataque de ransomware",
+  "source": "nan",
+  "summary": "Una clínica de salud de Oregón sufre un ataque de ransomware y los datos exfiltrados se vierten en el sitio de fugas de Pysa.",
+  "color": "#ef4444"
+}

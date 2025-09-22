@@ -1,0 +1,13 @@
+{
+  "id": 7099,
+  "title": "Corporación de productos Avery - Data leak - Undetermined",
+  "date": "2025-01-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Avery Products Corporation",
+  "source": "nan",
+  "summary": "Avery Products Corporation advierte que sufrió una violación de datos después de que su sitio web fuera pirateado para robar tarjetas de crédito e información personal de sus clientes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4046,
+  "title": "Salud ligera - Data leak - Undetermined",
+  "date": "2021-08-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Maryland sufre una violación del servidor de correo electrónico",
+  "source": "nan",
+  "summary": "Un hospital de Maryland sufre una violación del servidor de correo electrónico que compromete la información personal del paciente.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1639,
+  "title": "Ciudad de Atlanta - Ransomware - Undetermined",
+  "date": "2018-03-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en TI utilizados",
+  "source": "https://www.theregister.co.uk/2018/03/22/atlanta_pwned_by_ransomware_attack/",
+  "summary": "Los sistemas de TI utilizados por la ciudad de Atlanta se ven afectados por un ataque de ransomware SamSam, cortando algunos servicios en línea de la ciudad y poniendo potencialmente en riesgo la información personal de empleados y ciudadanos.",
+  "color": "#ef4444"
+}

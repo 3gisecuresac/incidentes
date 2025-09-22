@@ -1,0 +1,13 @@
+{
+  "id": 4405,
+  "title": "Atención médica comunitaria de primera opción - Ransomware - Hive",
+  "date": "2022-03-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Cifrado por ransomware en First Choice Community Healthcare",
+  "source": "nan",
+  "summary": "El grupo de ransomware Hive afirma haber pirateado First Choice Community Healthcare.",
+  "color": "#ef4444"
+}

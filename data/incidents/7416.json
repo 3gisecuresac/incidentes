@@ -1,0 +1,13 @@
+{
+  "id": 7416,
+  "title": "Organización desconocida en el sector salud - Data leak - FocaLeaks",
+  "date": "2023-08-21",
+  "country": "El Salvador",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "FocaLeaks",
+  "impact": "Filtración de datos en GB de",
+  "source": "nan",
+  "summary": "Una base de datos con 14 GB de archivos con fotografías faciales y 5,1 millones de registros con información personal de salvadoreños está a la venta en un popular foro de piratería.",
+  "color": "#ef4444"
+}

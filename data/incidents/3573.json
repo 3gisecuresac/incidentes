@@ -1,0 +1,13 @@
+{
+  "id": 3573,
+  "title": "Bonobos - Data leak - ShinyHunters",
+  "date": "2021-01-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Filtración de datos en Bonobos",
+  "source": "nan",
+  "summary": "La tienda de ropa masculina Bonobos sufrió una filtración masiva de datos que expuso la información personal de millones de clientes luego de que un actor de amenazas descargara una copia de seguridad en la nube de su base de datos.",
+  "color": "#ef4444"
+}

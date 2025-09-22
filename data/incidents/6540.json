@@ -1,0 +1,13 @@
+{
+  "id": 6540,
+  "title": "Terapéutica Viking - Ransomware - ALPHVM",
+  "date": "2023-12-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Cifrado por ransomware en Viking Therapeutics",
+  "source": "nan",
+  "summary": "El grupo de ransomware BlackCat afirma haber atacado a Viking Therapeutics.",
+  "color": "#ef4444"
+}

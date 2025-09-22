@@ -1,0 +1,13 @@
+{
+  "id": 7648,
+  "title": "Agencias Andrew - Ransomware - Undetermined",
+  "date": "2019-12-18",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Andrew Agencies",
+  "source": "nan",
+  "summary": "Andrew Agencies es otra víctima del ransomware Maze con supuestamente 245 computadoras cifradas durante un ciberataque en octubre.",
+  "color": "#ef4444"
+}

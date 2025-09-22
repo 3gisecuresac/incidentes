@@ -1,0 +1,13 @@
+{
+  "id": 3405,
+  "title": "Bayhealth - Ransomware - Undetermined",
+  "date": "2020-11-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Bayhealth",
+  "source": "https://www.govtech.com/security/Blackbaud-Breach-78K-Delaware-Hospital-Donors-Affected.html",
+  "summary": "Bayhealth notifica a 78.000 pacientes y donantes que su información estuvo involucrada en la violación de datos del ransomware Blackbaud.",
+  "color": "#ef4444"
+}

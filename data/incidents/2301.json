@@ -1,0 +1,13 @@
+{
+  "id": 2301,
+  "title": "Oficina del Sheriff del Condado de Lincoln - Ransomware - Undetermined",
+  "date": "2019-07-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Sheriff del Condado de Lincoln se ve afectada",
+  "source": "https://www.databreaches.net/hackers-attack-cabarrus-anson-lincoln-county-websites-computers/",
+  "summary": "La Oficina del Sheriff del Condado de Lincoln se ve afectada por un ataque de ransomware.",
+  "color": "#ef4444"
+}

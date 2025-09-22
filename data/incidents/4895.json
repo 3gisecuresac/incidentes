@@ -1,0 +1,13 @@
+{
+  "id": 4895,
+  "title": "Grupo CBC (CBC) - Data leak - Undetermined",
+  "date": "2022-09-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Seguro Social",
+  "source": "nan",
+  "summary": "CBC Group (CBC) informa sobre una violación de datos que dio como resultado que se vieran comprometidos los nombres, números de Seguro Social, licencias de conducir o números de tarjetas de identificación gubernamentales, números de cuentas financieras y números de pasaporte de ciertas personas.",
+  "color": "#ef4444"
+}

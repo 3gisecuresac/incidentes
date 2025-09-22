@@ -1,0 +1,13 @@
+{
+  "id": 6514,
+  "title": "Distrito Escolar del Condado de Campbell - Ransomware - Medusa",
+  "date": "2023-12-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Medusa",
+  "impact": "Filtración de datos en Condado de Campbell figura en el sitio de filtración de la banda de ransomware Medusa",
+  "source": "nan",
+  "summary": "El Distrito Escolar del Condado de Campbell figura en el sitio de filtración de la banda de ransomware Medusa.",
+  "color": "#ef4444"
+}

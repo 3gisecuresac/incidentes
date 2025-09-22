@@ -1,0 +1,13 @@
+{
+  "id": 6610,
+  "title": "Hewlett Packard Enterprise (HPE) - Data leak - SVR (COZYBEAR)",
+  "date": "2024-01-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (COZYBEAR)",
+  "impact": "Filtración de datos en Hewlett Packard Enterprise HPE",
+  "source": "nan",
+  "summary": "Hewlett Packard Enterprise (HPE) revela que presuntos piratas informáticos rusos conocidos como Midnight Blizzard obtuvieron acceso al entorno de correo electrónico Microsoft Office 365 de la empresa para robar datos de su equipo de ciberseguridad y otros departamentos.",
+  "color": "#ef4444"
+}

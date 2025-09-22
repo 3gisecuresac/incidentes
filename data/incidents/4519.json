@@ -1,0 +1,13 @@
+{
+  "id": 4519,
+  "title": "Opus interactivo - Ciberataque - Undetermined",
+  "date": "2022-05-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Opus Interactive un",
+  "source": "nan",
+  "summary": "Opus Interactive, un proveedor de alojamiento web, es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

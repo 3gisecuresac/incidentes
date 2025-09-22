@@ -1,0 +1,13 @@
+{
+  "id": 2441,
+  "title": "Centro de Salud de Monterey - Ransomware - Undetermined",
+  "date": "2019-10-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Monterey Health Center",
+  "source": "https://www.databreaches.net/monterey-health-center-in-oregon-central-valley-regional-center-in-california-both-announce-patient-data-breaches/",
+  "summary": "Monterey Health Center notifica que ocurrió un ataque de ransomware en agosto de 2019.",
+  "color": "#ef4444"
+}

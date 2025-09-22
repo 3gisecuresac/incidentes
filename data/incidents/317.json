@@ -1,0 +1,13 @@
+{
+  "id": 317,
+  "title": "Equipo para travesía - Infección Dispositivos - Undetermined",
+  "date": "2014-10-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Backcountry Gear",
+  "source": "http://www.databreaches.net/backcountrygear-com-notifies-consumers-of-second-malware-breach-in-three-months/",
+  "summary": "Por segunda vez en tres meses, Backcountry Gear notifica a sus clientes en línea que un malware puede haber comprometido la información de su tarjeta de pago.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6707,
+  "title": "Oficina del Sheriff de East Baton Rouge - Ransomware - Medusa",
+  "date": "2024-04-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Medusa",
+  "impact": "Cifrado por ransomware en Sheriff de East Baton Rouge sufre un ataque de ransomware",
+  "source": "nan",
+  "summary": "La Oficina del Sheriff de East Baton Rouge sufre un ataque de ransomware. El grupo Medusa se atribuye la responsabilidad.",
+  "color": "#ef4444"
+}

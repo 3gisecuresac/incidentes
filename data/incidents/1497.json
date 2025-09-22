@@ -1,0 +1,13 @@
+{
+  "id": 1497,
+  "title": "Escuela secundaria Tenafly - Ransomware - Undetermined",
+  "date": "2017-12-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en TI internos",
+  "source": "https://www.bleepingcomputer.com/news/security/student-hacks-high-school-changes-grades-and-sends-college-applications/",
+  "summary": "La escuela secundaria Tenafly informa a los padres que un estudiante obtuvo acceso a sus sistemas de TI internos, cambió sus calificaciones para mejorar su GPA y envió solicitudes universitarias inmediatamente después.",
+  "color": "#a78bfa"
+}

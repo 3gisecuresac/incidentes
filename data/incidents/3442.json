@@ -1,0 +1,13 @@
+{
+  "id": 3442,
+  "title": "MyFreeCams.com - Data leak - Undetermined",
+  "date": "2020-12-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en MyFreeCams.com",
+  "source": "https://hotforsecurity.bitdefender.com/blog/2-million-user-records-from-adult-streaming-website-myfreecams-com-sold-in-underground-forum-25178.html",
+  "summary": "Un corredor de datos que presuntamente hackeó el sitio web de chat y streaming para adultos MyFreeCams.com vendió casi 2 millones de registros de usuarios en un foro de la dark web. El hacker extrajo registros de los servidores de la compañía en diciembre de 2020 tras una inyección SQL.",
+  "color": "#ef4444"
+}

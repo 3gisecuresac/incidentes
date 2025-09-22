@@ -1,0 +1,13 @@
+{
+  "id": 7560,
+  "title": "Base de datos World-Check - Data leak - Undetermined",
+  "date": "2016-06-29",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Chris Vickery",
+  "source": "nan",
+  "summary": "El investigador Chris Vickery revela haber obtenido una copia de mediados de 2014 de la controvertida base de datos World-Check que contiene detalles de 2,2 millones de personas sospechosas de terrorismo.",
+  "color": "#ef4444"
+}

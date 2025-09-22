@@ -1,0 +1,13 @@
+{
+  "id": 6793,
+  "title": "Liga Americana de Retransmisiones de Radio - Ransomware - Embargo",
+  "date": "2024-05-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Embargo",
+  "impact": "Incidente de seguridad en TI",
+  "source": "nan",
+  "summary": "La American Radio Relay League (ARRL) advierte que sufrió un ciberataque que interrumpió sus sistemas de TI y operaciones en línea, incluido el correo electrónico y el Logbook of the World.",
+  "color": "#a78bfa"
+}

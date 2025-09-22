@@ -1,0 +1,13 @@
+{
+  "id": 6816,
+  "title": "Nissan Norteamérica - Data leak - Undetermined",
+  "date": "2023-11-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Nissan",
+  "source": "nan",
+  "summary": "Nissan ha confirmado que el ciberataque a su filial norteamericana provocó una violación de datos que afectó a más de 53.000 empleados actuales y anteriores. Nissan había determinado que el actor de la amenaza explotó una red privada virtual (VPN) externa, extrajo datos de recursos compartidos de la red local, cerró ciertos sistemas que no eran de producción y exigió un rescate sin cifrar los dispositivos.",
+  "color": "#ef4444"
+}

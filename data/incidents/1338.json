@@ -1,0 +1,13 @@
+{
+  "id": 1338,
+  "title": "Sistema electoral de EE. UU. - Ransomware - Undetermined",
+  "date": "2017-06-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Rusia al sistema electoral de Estados Unidos antes de la elección de Donald Trump fue mucho más amplio de lo",
+  "source": "https://www.bloomberg.com/news/articles/2017-06-13/russian-breach-of-39-states-threatens-future-u-s-elections",
+  "summary": "Nuevas investigaciones revelan que el ciberataque de Rusia al sistema electoral de Estados Unidos antes de la elección de Donald Trump fue mucho más amplio de lo que se reveló públicamente, incluyendo incursiones en bases de datos de votantes y sistemas de software en casi el doble de estados de lo que se informó anteriormente.",
+  "color": "#ef4444"
+}

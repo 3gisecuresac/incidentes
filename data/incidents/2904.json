@@ -1,0 +1,13 @@
+{
+  "id": 2904,
+  "title": "Mateo - Data leak - ShinyHunters",
+  "date": "2020-05-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Incidente de seguridad en Mathway una",
+  "source": "https://www.zdnet.com/article/25-million-user-records-leak-online-from-popular-math-app-mathway/",
+  "summary": "ShinyHunters vulnera Mathway, una popular aplicación de resolución de matemáticas, robando más de 25 millones de correos electrónicos y contraseñas.",
+  "color": "#a78bfa"
+}

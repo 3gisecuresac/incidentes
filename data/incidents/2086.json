@@ -1,0 +1,13 @@
+{
+  "id": 2086,
+  "title": "Condado de Orange - Ransomware - Undetermined",
+  "date": "2019-03-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Orange queda fuera de línea debido a un ataque de ransomware",
+  "source": "https://www.scmagazine.com/home/security-news/ransomware/orange-county-hit-and-taken-offline-with-ransomware/",
+  "summary": "El Condado de Orange queda fuera de línea debido a un ataque de ransomware.",
+  "color": "#ef4444"
+}

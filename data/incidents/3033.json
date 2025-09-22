@@ -1,0 +1,13 @@
+{
+  "id": 3033,
+  "title": "Distrito Escolar Independiente de Atenas - Ransomware - Undetermined",
+  "date": "2020-07-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Athens ISD",
+  "source": "https://www.easttexasmatters.com/news/education/athens-isd-pays-50k-for-release-of-data-in-ransomware-attack/",
+  "summary": "Athens ISD paga un rescate de $50,000 por datos escolares que fueron robados en un ataque de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5593,
+  "title": "Grupo CIC - Data leak - Undetermined",
+  "date": "2023-04-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en CIC Group",
+  "source": "nan",
+  "summary": "CIC Group presenta un aviso de violación de datos después de enterarse de que la información confidencial de los consumidores que había sido confiada a la empresa estaba sujeta a acceso no autorizado.",
+  "color": "#ef4444"
+}

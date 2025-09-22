@@ -1,0 +1,13 @@
+{
+  "id": 6977,
+  "title": "Más allá de la confianza - Data leak - Undetermined",
+  "date": "2024-12-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en SaaS de soporte remoto",
+  "source": "nan",
+  "summary": "La empresa de gestión de acceso privilegiado BeyondTrust sufre un ciberataque después de que actores de amenazas vulneraran algunas de sus instancias de SaaS de soporte remoto.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2176,
+  "title": "Picreel - Data leak - Undetermined",
+  "date": "2019-05-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Picreel",
+  "source": "https://www.zdnet.com/article/hackers-are-collecting-payment-details-user-passwords-from-4600-sites/",
+  "summary": "Los piratas informáticos violan el servicio de análisis Picreel e incorporan código malicioso en más de 1.200 sitios web.",
+  "color": "#a78bfa"
+}

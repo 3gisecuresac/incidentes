@@ -1,0 +1,13 @@
+{
+  "id": 1160,
+  "title": "Comité Nacional Demócrata - Phishing - FSB 18th Center for Information Security (Berserk Bear); GRU Unit 26165 (FANCY BEAR)",
+  "date": "2016-12-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Phishing",
+  "actor": "FSB 18th Center for Information Security (Berserk Bear); GRU Unit 26165 (FANCY BEAR)",
+  "impact": "Sistema o cuenta comprometida en Seguridad Nacional",
+  "source": "https://www.us-cert.gov/sites/default/files/publications/JAR_16-20296A_GRIZZLY%20STEPPE-2016-1229.pdf",
+  "summary": "El Departamento de Seguridad Nacional (DHS) y el Buró Federal de Investigaciones (FBI) revelan los detalles de Grizzly Steppe, la operación mediante la cual dos supuestas APT rusas (APT28 y APT29) hackearon al Comité Nacional Demócrata desde el verano de 2015.",
+  "color": "#3b82f6"
+}

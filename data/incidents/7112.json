@@ -1,0 +1,13 @@
+{
+  "id": 7112,
+  "title": "Mizuno Estados Unidos - Ransomware - BianLian",
+  "date": "2025-01-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "BianLian",
+  "impact": "Filtración de datos en Mizuno Corporation",
+  "source": "nan",
+  "summary": "Mizuno USA, una subsidiaria de Mizuno Corporation, uno de los fabricantes de artículos deportivos más grandes del mundo, confirma en cartas de notificación de violación de datos que atacantes desconocidos robaron archivos de su red entre agosto y octubre de 2024. BianLian se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

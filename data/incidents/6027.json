@@ -1,0 +1,13 @@
+{
+  "id": 6027,
+  "title": "Rapattoni - Ransomware - Undetermined",
+  "date": "2023-08-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Estados Unidos",
+  "source": "nan",
+  "summary": "Rapattoni, una empresa de listados de propiedades inmobiliarias en Estados Unidos, confirma haber sido víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

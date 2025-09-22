@@ -1,0 +1,13 @@
+{
+  "id": 3317,
+  "title": "Barbacoa de Dickey - Infección Dispositivos - Undetermined",
+  "date": "2020-10-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en EE",
+  "source": "https://www.zdnet.com/article/card-details-for-3-million-dickeys-customers-posted-on-carding-forum/",
+  "summary": "Dickey's Barbecue Pit, la cadena de restaurantes de barbacoa más grande de EE. UU., sufrió una violación de punto de venta entre julio de 2019 y agosto de 2020, que afectó a 3 millones de clientes.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3640,
+  "title": "Cochise Eye y láser - Ransomware - Undetermined",
+  "date": "2021-02-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Arizona publicó un aviso en su sitio web",
+  "source": "nan",
+  "summary": "El 17 de febrero, la entidad de Arizona publicó un aviso en su sitio web que revelaba que había sufrido un ataque de ransomware el 13 de enero. No se mencionó el tipo de ransomware, pero su software de programación y facturación de pacientes fue cifrado por el ataque.",
+  "color": "#ef4444"
+}

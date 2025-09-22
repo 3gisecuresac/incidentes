@@ -1,0 +1,13 @@
+{
+  "id": 2871,
+  "title": "Perro travieso - Data leak - Undetermined",
+  "date": "2020-05-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Amazon S3",
+  "source": "https://www.bleepingcomputer.com/news/security/game-patch-gives-hackers-access-to-development-content-on-amazon-s3/",
+  "summary": "Una falla de seguridad en los parches del desarrollador de juegos Naughty Dog dio a los piratas informáticos acceso a contenido inédito del próximo The Last of Us Part II que estaba almacenado en un bucket de Amazon S3.",
+  "color": "#a78bfa"
+}

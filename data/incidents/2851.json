@@ -1,0 +1,13 @@
+{
+  "id": 2851,
+  "title": "Sistemas de información para estudiantes de Aeries - Data leak - Undetermined",
+  "date": "2020-04-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Aeries",
+  "source": "https://www.databreaches.net/aeries-student-information-system-discloses-breach/",
+  "summary": "Varios distritos escolares se ven afectados por una violación de los sistemas de información estudiantil de Aeries que ocurrió en noviembre de 2019.",
+  "color": "#a78bfa"
+}

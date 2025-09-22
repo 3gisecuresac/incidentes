@@ -1,0 +1,13 @@
+{
+  "id": 6765,
+  "title": "El correo y la mensajería - Ransomware - BlackSuit",
+  "date": "2024-04-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "BlackSuit",
+  "impact": "Cifrado por ransomware en The Post",
+  "source": "nan",
+  "summary": "The Post and Courier es víctima de un ataque de ransomware BlackSuit.",
+  "color": "#ef4444"
+}

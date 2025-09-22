@@ -1,0 +1,13 @@
+{
+  "id": 3774,
+  "title": "Honeywell - Ransomware - Undetermined",
+  "date": "2021-03-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en TI se vieron interrumpidos como resultado de un reciente ataque de malware",
+  "source": "nan",
+  "summary": "El gigante industrial Honeywell revela que algunos de sus sistemas de TI se vieron interrumpidos como resultado de un reciente ataque de malware.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6120,
+  "title": "Préstamos para el hogar Planet - Data leak - cl0p",
+  "date": "2023-08-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit",
+  "source": "nan",
+  "summary": "Planet Home Lending presenta un aviso de violación de datos después de descubrir que los archivos que contenían información de identificación personal de algunos clientes se vieron comprometidos como resultado de la vulnerabilidad de MOVEit.",
+  "color": "#ef4444"
+}

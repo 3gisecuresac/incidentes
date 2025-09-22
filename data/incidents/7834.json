@@ -1,0 +1,13 @@
+{
+  "id": 7834,
+  "title": "Construcción CRD - Ransomware - LockBit 3.0",
+  "date": "2023-08-03",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Construction CRD a la",
+  "source": "nan",
+  "summary": "El grupo ransomware LockBit agrega Construction CRD a la lista de sus víctimas.",
+  "color": "#ef4444"
+}

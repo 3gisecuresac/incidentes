@@ -1,0 +1,13 @@
+{
+  "id": 6990,
+  "title": "empleados de Kaiser Permanente - Data leak - Undetermined",
+  "date": "2024-12-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Malwarebytes detectan una campaña maliciosa dirigida a los empleados de Kaiser Permanente a través de anuncios de búsqueda de Google",
+  "source": "nan",
+  "summary": "Los investigadores de Malwarebytes detectan una campaña maliciosa dirigida a los empleados de Kaiser Permanente a través de anuncios de búsqueda de Google.",
+  "color": "#a78bfa"
+}

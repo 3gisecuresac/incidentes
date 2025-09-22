@@ -1,0 +1,13 @@
+{
+  "id": 5337,
+  "title": "EpiSource - Data leak - Undetermined",
+  "date": "2023-02-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Amazon Web Services",
+  "source": "nan",
+  "summary": "EpiSource presenta un aviso de violación de datos después de enterarse de que una actividad sospechosa dentro del entorno de Amazon Web Services (AWS) de la empresa resultó en que una parte no autorizada pudiera acceder a datos confidenciales de los consumidores.",
+  "color": "#ef4444"
+}

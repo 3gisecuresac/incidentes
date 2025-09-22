@@ -1,0 +1,13 @@
+{
+  "id": 1658,
+  "title": "Configuración de servicios de restaurante - Ransomware - Undetermined",
+  "date": "2018-04-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Mise En Place Restaurant Services",
+  "source": "https://www.databreaches.net/mise-en-place-restaurant-services-inc-notifies-clients-individuals-following-cyberattack/",
+  "summary": "Mise En Place Restaurant Services anuncia que fue objeto de un ataque de ransomware, que potencialmente pudo haber expuesto cierta información de clientes e individuos.",
+  "color": "#ef4444"
+}

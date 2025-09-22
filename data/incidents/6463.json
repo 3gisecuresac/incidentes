@@ -1,0 +1,13 @@
+{
+  "id": 6463,
+  "title": "Servicios de salud Ardent - Ransomware - Undetermined",
+  "date": "2023-11-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en EE",
+  "source": "nan",
+  "summary": "Ardent Health Services, proveedor de servicios de salud que opera 30 hospitales en seis estados de EE. UU., revela que sus sistemas fueron atacados por ransomware. La brecha también afecta a Lovelace Health System, BSA Health System, Hillcrest HealthCare System, Hackensack Meridian Health y University of Kansas Health System, campus St. Francis.",
+  "color": "#ef4444"
+}

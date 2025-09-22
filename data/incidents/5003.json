@@ -1,0 +1,13 @@
+{
+  "id": 5003,
+  "title": "Centro Eggleston - Ciberataque - Undetermined",
+  "date": "2022-10-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Fiscal General de Maine después de",
+  "source": "nan",
+  "summary": "El 16 de diciembre de 2022, Louise W. Eggleston Center, Inc. (Eggleston Center, Eggleston) informó una violación de datos al Fiscal General de Maine después de que la empresa se enterara de que los piratas informáticos pudieron acceder a información confidencial de los consumidores en su posesión después de un ataque de ransomware.",
+  "color": "#ef4444"
+}

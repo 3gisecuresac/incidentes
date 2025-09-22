@@ -1,0 +1,13 @@
+{
+  "id": 6329,
+  "title": "Colegio Rao Hondo - Ransomware - LockBit 3.0",
+  "date": "2023-10-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en California",
+  "source": "nan",
+  "summary": "El Rï¿½ao Hondo College, en el sur de California, figura en el sitio de filtración del ransomware Lockbit.",
+  "color": "#ef4444"
+}

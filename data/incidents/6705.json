@@ -1,0 +1,13 @@
+{
+  "id": 6705,
+  "title": "Condado de Jackson - Ransomware - Undetermined",
+  "date": "2024-04-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Jackson",
+  "source": "nan",
+  "summary": "El condado de Jackson, Missouri, declara un estado de emergencia y cierra oficinas clave por tiempo indefinido mientras responde a lo que los funcionarios creen que es un ataque de ransomware que ha dejado inoperables algunos de sus sistemas de TI.",
+  "color": "#ef4444"
+}

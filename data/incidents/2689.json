@@ -1,0 +1,13 @@
+{
+  "id": 2689,
+  "title": "Condado de Rockdale - Ransomware - Undetermined",
+  "date": "2020-02-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Rockdale se vieron afectados después de",
+  "source": "https://www.ajc.com/news/breaking-news/ransomware-attack-hits-rockdale-county-servers-impacts-some-services/gfYVTZ93c1Sbr1UbObEqKP/",
+  "summary": "Algunos servicios del condado de Rockdale se vieron afectados después de que varios servidores del condado sufrieran un ataque de ransomware.",
+  "color": "#ef4444"
+}

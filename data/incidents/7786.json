@@ -1,0 +1,13 @@
+{
+  "id": 7786,
+  "title": "Centro St. Amant - Ransomware - Undetermined",
+  "date": "2022-08-23",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Centro St. Amant una",
+  "source": "nan",
+  "summary": "El Centro St. Amant, una organización que apoya a personas con discapacidad intelectual, revela que fue víctima de un intento de ataque de ransomware.",
+  "color": "#ef4444"
+}

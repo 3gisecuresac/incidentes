@@ -1,0 +1,13 @@
+{
+  "id": 7041,
+  "title": "Gobierno de los Estados Unidos - Ciberataque - Undetermined",
+  "date": "2024-10-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en EE",
+  "source": "nan",
+  "summary": "Un actor de amenazas parece haber robado aproximadamente 20 millones de dólares en monedas estables y ETH de billeteras pertenecientes al gobierno de EE. UU.",
+  "color": "#a78bfa"
+}

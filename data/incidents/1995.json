@@ -1,0 +1,13 @@
+{
+  "id": 1995,
+  "title": "bancos estadounidenses - Ciberrobo - NGB 3rd Technical Surveillance Bureau",
+  "date": "2018-10-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberrobo",
+  "actor": "NGB 3rd Technical Surveillance Bureau",
+  "impact": "Incidente de seguridad en DHS",
+  "source": "https://securityaffairs.co/wordpress/76798/hacking/fastcash-hidden-cobra-attacks.html",
+  "summary": "Una alerta técnica conjunta del DHS, el FBI y el Tesoro advierte sobre un nuevo esquema de retiro de efectivo en cajeros automáticos, denominado FASTCash, utilizado por la APT Hidden Cobra.",
+  "color": "#a78bfa"
+}

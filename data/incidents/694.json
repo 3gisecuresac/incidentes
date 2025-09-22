@@ -1,0 +1,13 @@
+{
+  "id": 694,
+  "title": "Ciudad de Boston - DoS - Undetermined",
+  "date": "2015-12-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Boston se vieron interrumpidos",
+  "source": "http://www.bostonherald.com/news/local_coverage/2015/12/officials_call_city_hall_cyberattack_minor",
+  "summary": "Varios servicios de internet en Boston se vieron interrumpidos por un ataque DDoS, definido como un acto menor de cibervandalismo. La interrupción afectó a las agencias municipales, así como a los departamentos de policía y bomberos.",
+  "color": "#f59e0b"
+}

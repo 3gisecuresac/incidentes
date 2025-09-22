@@ -1,0 +1,13 @@
+{
+  "id": 3887,
+  "title": "Navistar - Ransomware - Undetermined",
+  "date": "2021-05-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Navistar",
+  "source": "nan",
+  "summary": "Navistar, fabricante de camiones y vehículos militares, informa que se robaron datos de los sistemas de la empresa en un aparente ataque de ransomware.",
+  "color": "#ef4444"
+}

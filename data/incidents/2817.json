@@ -1,0 +1,13 @@
+{
+  "id": 2817,
+  "title": "¿Por qué? - Data leak - Protag",
+  "date": "2020-04-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Protag",
+  "impact": "Filtración de datos en Quidd un",
+  "source": "https://www.zdnet.com/article/account-details-for-4-million-quidd-users-shared-on-hacking-forum/",
+  "summary": "Quidd, un mercado en línea para intercambiar calcomanías, tarjetas, juguetes y otros artículos coleccionables, parece haber sufrido una violación de datos en 2019, y los detalles de alrededor de cuatro millones de usuarios ahora se comparten de forma gratuita en foros de piratería clandestinos.",
+  "color": "#ef4444"
+}

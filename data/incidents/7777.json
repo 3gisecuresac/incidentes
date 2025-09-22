@@ -1,0 +1,13 @@
+{
+  "id": 7777,
+  "title": "Comunicaciones Rogers - Data leak - Rektengle",
+  "date": "2022-07-09",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Rektengle",
+  "impact": "Filtración de datos en Rogers Communications",
+  "source": "nan",
+  "summary": "Los atacantes publican un anuncio en un foro de hackers mayoritariamente de habla rusa, poniendo a la venta una base de datos que supuestamente pertenece a Rogers Communications, una empresa canadiense que ofrece servicios inalámbricos, de cable e Internet.",
+  "color": "#ef4444"
+}

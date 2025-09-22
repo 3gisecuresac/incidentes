@@ -1,0 +1,13 @@
+{
+  "id": 72,
+  "title": "CNN - Manipulación de mensajes - Syrian Electronic Army",
+  "date": "2014-01-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "Syrian Electronic Army",
+  "impact": "Sistema o cuenta comprometida en CNN",
+  "source": "http://edition.cnn.com/2014/01/23/tech/cnn-accounts-hacked/",
+  "summary": "El Ejército Electrónico Sirio hackea varias cuentas de CNN. Los objetivos incluyen: la cuenta principal de Facebook de CNN, la cuenta de Facebook de CNN Politics y las páginas de Twitter de CNN y de Security Clearance de CNN. Los blogs de Political Ticker, The Lead, Security Clearance, The Situation Room y Crossfire también fueron hackeados.",
+  "color": "#3b82f6"
+}

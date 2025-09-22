@@ -1,0 +1,13 @@
+{
+  "id": 1462,
+  "title": "Cosméticos Tarte - Ransomware - Cru3lty",
+  "date": "2017-10-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Cru3lty",
+  "impact": "Filtración de datos en Desafortunadamente el",
+  "source": "http://www.ibtimes.co.uk/tarte-cosmetics-data-leak-hackers-get-hold-nearly-2-million-customers-data-left-exposed-1644433",
+  "summary": "Tarte Cosmetics expone los datos personales de casi dos millones de clientes al público a través de dos bases de datos MongoDB no seguras. Desafortunadamente, el grupo Cru3lty se hace con los datos y exige 0,2 Bitcoins para recuperarlos una vez borrados o cifrados.",
+  "color": "#ef4444"
+}

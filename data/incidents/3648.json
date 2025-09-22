@@ -1,0 +1,13 @@
+{
+  "id": 3648,
+  "title": "Atención comunitaria de Hackley - Data leak - Undetermined",
+  "date": "2021-02-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Hackley Community Care",
+  "source": "nan",
+  "summary": "Hackley Community Care notifica a alrededor de 2.500 pacientes que su información personal y de salud fue expuesta durante un ataque de phishing a las cuentas de correo electrónico de los empleados.",
+  "color": "#ef4444"
+}

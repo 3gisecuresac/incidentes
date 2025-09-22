@@ -1,0 +1,13 @@
+{
+  "id": 581,
+  "title": "Escuela secundaria autónoma Clayton Valley - Data leak - Anonymous",
+  "date": "2015-08-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Anonymous",
+  "impact": "Sistema o cuenta comprometida en Clayton Valley Charter High School y",
+  "source": "http://www.databreaches.net/ca-anonymous-responsible-for-clayton-valley-charter-high-computer-hack/",
+  "summary": "Un hacker supuestamente asociado con el colectivo Anonymous afirma haber pirateado la Clayton Valley Charter High School y envía varios documentos internos por correo electrónico.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1996,
+  "title": "ATLAS (juego en línea) - Manipulación de mensajes - Undetermined",
+  "date": "2019-01-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en STEAM",
+  "source": "https://www.zdnet.com/article/atlas-game-taken-offline-twice-after-users-hack-admin-account-find-server-exploit/",
+  "summary": "Los servidores en línea del recién lanzado juego ATLAS sufren algunas dificultades técnicas después de que los jugadores piratearan una cuenta de administrador de STEAM y enviaran spam a otros jugadores durante horas con mensajes de Suscríbete a PewDiePie.",
+  "color": "#a78bfa"
+}

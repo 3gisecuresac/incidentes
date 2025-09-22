@@ -1,0 +1,13 @@
+{
+  "id": 2421,
+  "title": "De Schlotzsky - Infección Dispositivos - Undetermined",
+  "date": "2019-10-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Focus Brands",
+  "source": "https://www.bleepingcomputer.com/news/security/four-us-food-chains-disclose-payment-card-theft-via-pos-malware/",
+  "summary": "McAlister's Deli, Moe's Southwest Grill y Schlotzsky's (todos ellos propiedad de Focus Brands) revelaron públicamente que sus redes fueron infectadas con malware de punto de venta.",
+  "color": "#a78bfa"
+}

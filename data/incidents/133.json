@@ -1,0 +1,13 @@
+{
+  "id": 133,
+  "title": "Clínica de Cardiología de Lubbock - Data leak - Undetermined",
+  "date": "2014-04-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Historia Clínica Electrónica utilizado",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/more-than-1400-medical-records-compromised-in-texas-breach/",
+  "summary": "Se obtiene acceso no autorizado al sistema de Historia Clínica Electrónica utilizado por la Clínica de Cardiología Lubbock (LCC) con sede en Texas, lo que resultó en la vulneración de más de 1.400 registros médicos.",
+  "color": "#a78bfa"
+}

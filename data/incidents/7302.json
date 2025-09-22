@@ -1,0 +1,13 @@
+{
+  "id": 7302,
+  "title": "Directorate General de Inteligencia (DIGIMIN) - Ciberataque - WIZARD SPIDER",
+  "date": "2022-05-08",
+  "country": "Peru",
+  "region": "Latinoamerica",
+  "type": "Ciberataque",
+  "actor": "WIZARD SPIDER",
+  "impact": "Cifrado por ransomware en Dirección General de Inteligencia",
+  "source": "nan",
+  "summary": "La banda de ransomware Conti agrega a la Dirección General de Inteligencia (DIGIMIN) del Ministerio de Finanzas del Perú a la lista de sus víctimas.",
+  "color": "#ef4444"
+}

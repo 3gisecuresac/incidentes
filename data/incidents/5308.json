@@ -1,0 +1,13 @@
+{
+  "id": 5308,
+  "title": "Orquesta de Filadelfia y el Centro Kimmel - DoS - Undetermined",
+  "date": "2023-02-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Filadelfia",
+  "source": "nan",
+  "summary": "Los sitios web de la Orquesta de Filadelfia y su sede, el Kimmel Center, están caídos días después de que publicaran un aviso diciendo que estaban lidiando con un ciberataque.",
+  "color": "#a78bfa"
+}

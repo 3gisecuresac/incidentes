@@ -1,0 +1,13 @@
+{
+  "id": 638,
+  "title": "Casino y spa del complejo Peppermill - Infección Dispositivos - Undetermined",
+  "date": "2015-10-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Peppermill Resort Spa Casino",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/payment-card-breach-at-peppermill-resort-spa-casino-in-reno/",
+  "summary": "Un número no revelado de personas ha sido notificado de que un ataque puede haber comprometido tarjetas de crédito y débito utilizadas entre octubre de 2014 y febrero de 2015 en la recepción del Peppermill Resort Spa Casino, con sede en Reno, Nevada.",
+  "color": "#3b82f6"
+}

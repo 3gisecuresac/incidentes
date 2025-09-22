@@ -1,0 +1,13 @@
+{
+  "id": 1839,
+  "title": "AdGuard - Data leak - Undetermined",
+  "date": "2018-09-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Windows y Mac",
+  "source": "https://www.zdnet.com/article/adguard-resets-all-user-passwords-after-credential-stuffing-attack/",
+  "summary": "AdGuard, un popular bloqueador de anuncios para Android, iOS, Windows y Mac, restablece todas las contraseñas de los usuarios, luego de sufrir un ataque de fuerza bruta durante el cual un atacante desconocido intentó iniciar sesión en las cuentas de los usuarios adivinando sus contraseñas.",
+  "color": "#a78bfa"
+}

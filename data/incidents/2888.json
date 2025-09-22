@@ -1,0 +1,13 @@
+{
+  "id": 2888,
+  "title": "Star Tribune - Data leak - ShinyHunters",
+  "date": "2020-05-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Filtración de datos en Star Tribune son filtradas",
+  "source": "https://www.bleepingcomputer.com/news/security/hacker-group-floods-dark-web-with-data-stolen-from-11-companies/",
+  "summary": "1 millón de cuentas del Star Tribune son filtradas por los ShinyHunters.",
+  "color": "#ef4444"
+}

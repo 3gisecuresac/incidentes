@@ -1,0 +1,13 @@
+{
+  "id": 1829,
+  "title": "Universidad de Louisville - Data leak - Undetermined",
+  "date": "2018-09-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Louisville matriculados entre 2007",
+  "source": "https://www.louisvillecardinal.com/2018/09/brief-uofl-faculty-and-staff-facing-data-breach/",
+  "summary": "Casi 250 profesores y personal de la Universidad de Louisville matriculados entre 2007 y 2014 sufren el robo de su información personal a través del programa Get Healthy Now.",
+  "color": "#a78bfa"
+}

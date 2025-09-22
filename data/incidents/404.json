@@ -1,0 +1,13 @@
+{
+  "id": 404,
+  "title": "Servicios de defensa del grupo Green - Data leak - CyberBerkut",
+  "date": "2015-03-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "CyberBerkut",
+  "impact": "Filtración de datos en Green Group Defense Services",
+  "source": "https://observer.com/2015/03/pro-russian-hackers-expose-u-s-military-contractor-activity-in-ukraine/",
+  "summary": "El hacktivista prorruso CyberBerkut filtra varios documentos supuestamente hackeados del dispositivo móvil de un funcionario de Green Group Defense Services, que visitó recientemente Kiev como miembro de una delegación militar estadounidense.",
+  "color": "#ef4444"
+}

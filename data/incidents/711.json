@@ -1,0 +1,13 @@
+{
+  "id": 711,
+  "title": "Linode - Data leak - Undetermined",
+  "date": "2016-01-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en DDoS de",
+  "source": "http://www.theregister.co.uk/2016/01/05/linode_resets_passwords_after_credential_leak/",
+  "summary": "Después de luchar contra un ataque DDoS de largo plazo, Linode informa una fuga de credenciales y ejecuta un restablecimiento de contraseña en todo el sistema en las cuentas de los clientes.",
+  "color": "#f59e0b"
+}

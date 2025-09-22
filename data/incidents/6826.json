@@ -1,0 +1,13 @@
+{
+  "id": 6826,
+  "title": "Red de Hospitales de Rehabilitación del Noreste - Ransomware - Hunters International",
+  "date": "2024-05-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hunters International",
+  "impact": "Filtración de datos en Hospitales de Rehabilitación del Noreste",
+  "source": "nan",
+  "summary": "La Red de Hospitales de Rehabilitación del Noreste (NRHN) sufre un ataque de ransomware de Hunters International. Afirman haber extraído más de 410 GB de datos, compuestos por más de 352 000 archivos.",
+  "color": "#ef4444"
+}

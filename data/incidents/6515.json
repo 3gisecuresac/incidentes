@@ -1,0 +1,13 @@
+{
+  "id": 6515,
+  "title": "Red de Salud Conductual del Corazón de Texas - Data leak - DragonForce",
+  "date": "2023-12-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "DragonForce",
+  "impact": "Incidente de seguridad en Heart of Texas Behavioral Health Network HOTBHN",
+  "source": "nan",
+  "summary": "Heart of Texas Behavioral Health Network (HOTBHN) notifica a ciertos pacientes actuales y anteriores que es posible que se haya accedido a su información personal como parte de un incidente de seguridad cibernética.",
+  "color": "#a78bfa"
+}

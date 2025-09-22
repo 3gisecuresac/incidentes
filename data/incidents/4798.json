@@ -1,0 +1,13 @@
+{
+  "id": 4798,
+  "title": "Servicios de Salud Mental del Río Columbia (CRMHS) - Data leak - Undetermined",
+  "date": "2022-08-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Columbia River Mental Health Services",
+  "source": "nan",
+  "summary": "Columbia River Mental Health Services revela una violación de seguridad de datos que involucra algunas cuentas de correo electrónico de empleados.",
+  "color": "#ef4444"
+}

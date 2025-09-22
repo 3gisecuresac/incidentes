@@ -1,0 +1,13 @@
+{
+  "id": 1126,
+  "title": "Distrito Escolar del Condado de Columbia - Data leak - Undetermined",
+  "date": "2016-11-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Condado de Columbia en Georgia se ve afectado",
+  "source": "http://www.wrdw.com/content/news/Possible-data-breach-affects-Columbia-County-School-district-employees-407785575.html",
+  "summary": "El Distrito Escolar del Condado de Columbia en Georgia se ve afectado por una violación que comprometió datos personales, incluidos los números de Seguro Social, del personal.",
+  "color": "#ef4444"
+}

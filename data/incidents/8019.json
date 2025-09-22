@@ -1,0 +1,13 @@
+{
+  "id": 8019,
+  "title": "Monte Cristalina S.A - Ransomware - LockBit 3.0",
+  "date": "2022-12-19",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en LockBit3",
+  "source": "nan",
+  "summary": "Monte Cristalina S.A. fue agregado al sitio de filtraciones de LockBit3.0 y se bloqueó el acceso al sitio web de Monte Cristalina.",
+  "color": "#ef4444"
+}

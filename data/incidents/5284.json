@@ -1,0 +1,13 @@
+{
+  "id": 5284,
+  "title": "Odontología familiar Jackson & Joyce - Ransomware - LockBit 3.0",
+  "date": "2023-02-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en Jackson Joyce Family Dentistry",
+  "source": "nan",
+  "summary": "Jackson & Joyce Family Dentistry se agrega al sitio de filtración de ransomware LockBit.",
+  "color": "#ef4444"
+}

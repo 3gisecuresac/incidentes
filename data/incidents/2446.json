@@ -1,0 +1,13 @@
+{
+  "id": 2446,
+  "title": "Condado de Jasper - Ransomware - Undetermined",
+  "date": "2019-10-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Jasper sufre un ataque de ransomware en sus sistemas de todo el condado",
+  "source": "https://www.databreaches.net/sc-ransomware-attack-may-be-affecting-911-emergency-dispatch-in-jasper-co/",
+  "summary": "El condado de Jasper sufre un ataque de ransomware en sus sistemas de todo el condado, incluidos el correo electrónico y los sistemas de respuesta a emergencias.",
+  "color": "#ef4444"
+}

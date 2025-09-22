@@ -1,0 +1,13 @@
+{
+  "id": 1073,
+  "title": "Newsweek - DoS - Russian hackers",
+  "date": "2016-09-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Russian hackers",
+  "impact": "Sistema o cuenta comprometida en Donald Trump realizó negocios secretos en Cuba en los años 90",
+  "source": "http://www.politico.com/media/story/2016/09/newsweek-suspects-hackers-crashed-website-because-of-negative-trump-article-004788",
+  "summary": "Newsweek sospecha que hackers rusos son los responsables del colapso de su sitio web, después de publicar un artículo sobre cómo la compañía de Donald Trump realizó negocios secretos en Cuba en los años 90.",
+  "color": "#3b82f6"
+}

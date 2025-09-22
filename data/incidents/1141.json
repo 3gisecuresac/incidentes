@@ -1,0 +1,13 @@
+{
+  "id": 1141,
+  "title": "Lynda.com - Data leak - Undetermined",
+  "date": "2016-12-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Lynda.com",
+  "source": "http://www.ibtimes.co.uk/linkedins-online-learning-platform-lynda-com-suffers-data-breach-affecting-55000-accounts-1597180",
+  "summary": "Lynda.com, la unidad de aprendizaje en línea de LinkedIn, notifica a sus 9,5 millones de usuarios sobre una filtración no autorizada de su base de datos que contenía la información de contacto y los cursos vistos por unos 55.000 usuarios. La compañía confirma el ataque y afirma haber restablecido las contraseñas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1786,
+  "title": "Universidad de Yale - Data leak - Undetermined",
+  "date": "2018-07-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Yale notifica a sus miembros sobre una filtración de datos ocurrida entre 2008",
+  "source": "https://www.zdnet.com/article/yale-discloses-old-school-data-breach/",
+  "summary": "La Universidad de Yale notifica a sus miembros sobre una filtración de datos ocurrida entre 2008 y 2009, cuando un atacante logró acceder a una base de datos y extraer nombres, números de la Seguridad Social y fechas de nacimiento. La filtración se descubrió el 16 de junio de este año.",
+  "color": "#ef4444"
+}

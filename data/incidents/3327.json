@@ -1,0 +1,13 @@
+{
+  "id": 3327,
+  "title": "Asociados de salud dental, P.A. - Ransomware - REvil",
+  "date": "2020-10-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Filtración de datos en Dental Health Associates P.A",
+  "source": "https://www.databreaches.net/without-undue-delay-part-2/",
+  "summary": "Dental Health Associates, P.A. tiene algunos datos filtrados del grupo de ransomware REvil.",
+  "color": "#ef4444"
+}

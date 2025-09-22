@@ -1,0 +1,13 @@
+{
+  "id": 7370,
+  "title": "iVoy - Data leak - Undetermined",
+  "date": "2020-07-28",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad",
+  "source": "nan",
+  "summary": "La startup de reparto iVoy sufre una vulneración de seguridad en la que se exponen los correos electrónicos y contraseñas de 127.432 usuarios de cuentas en un foro en línea.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2682,
+  "title": "Sitio de información y registro de votantes a nivel estatal no revelado - DoS - Undetermined",
+  "date": "2020-02-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Investigaciones",
+  "source": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-ddos-attack-on-state-voter-registration-site/",
+  "summary": "La Oficina Federal de Investigaciones (FBI) de Estados Unidos advierte sobre un posible ataque DDoS que tuvo como objetivo un sitio de información y registro de votantes a nivel estatal.",
+  "color": "#f59e0b"
+}

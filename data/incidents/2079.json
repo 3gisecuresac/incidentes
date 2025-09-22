@@ -1,0 +1,13 @@
+{
+  "id": 2079,
+  "title": "Clínicas Maffi - Ransomware - Undetermined",
+  "date": "2019-03-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Maffi",
+  "source": "https://www.hipaajournal.com/three-healthcare-ransomware-attacks-reported-70000-individuals-affected/",
+  "summary": "Clínicas Maffi alerta a 10,465 pacientes que parte de su información médica protegida se vio potencialmente comprometida como resultado de un ataque de ransomware del 11 de septiembre de 2018.",
+  "color": "#ef4444"
+}

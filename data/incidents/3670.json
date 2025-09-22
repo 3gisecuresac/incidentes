@@ -1,0 +1,13 @@
+{
+  "id": 3670,
+  "title": "Elara Caring - Data leak - Undetermined",
+  "date": "2021-02-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Elara Caring",
+  "source": "nan",
+  "summary": "Elara Caring notifica a más de 100.000 pacientes después de que se piratearan cuentas de correo electrónico corporativas.",
+  "color": "#a78bfa"
+}

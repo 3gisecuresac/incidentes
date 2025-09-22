@@ -1,0 +1,13 @@
+{
+  "id": 5569,
+  "title": "Grupo Financiero IMA - Data leak - Undetermined",
+  "date": "2023-04-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en IMA Financial Group",
+  "source": "nan",
+  "summary": "IMA Financial Group presenta un aviso de violación de datos después de experimentar un incidente de seguridad de datos que dio lugar a que datos confidenciales de consumidores quedaran accesibles a una parte no autorizada.",
+  "color": "#ef4444"
+}

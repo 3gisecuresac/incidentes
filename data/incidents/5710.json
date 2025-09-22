@@ -1,0 +1,13 @@
+{
+  "id": 5710,
+  "title": "Facultad de Medicina de Wisconsin - Ransomware - cl0p",
+  "date": "2023-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Sistema o cuenta comprometida en Wisconsin",
+  "source": "nan",
+  "summary": "El Colegio Médico de Wisconsin (MCW) confirma que la información sanitaria protegida de 240.667 personas fue robada por el grupo de hackers Clop, que explotó la vulnerabilidad de día cero en MOVEit Transfer de Progress Software.",
+  "color": "#3b82f6"
+}

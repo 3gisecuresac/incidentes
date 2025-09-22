@@ -1,0 +1,13 @@
+{
+  "id": 2197,
+  "title": "Junta de Obras Públicas de Lewes - Data leak - Undetermined",
+  "date": "2019-05-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Obras Públicas de Lewes anuncia a sus clientes",
+  "source": "https://www.databreaches.net/lewes-public-works-customers-may-have-had-their-information-stolen/",
+  "summary": "La Junta de Obras Públicas de Lewes anuncia a sus clientes que su información puede haber sido comprometida como parte de un intento de piratería.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3210,
+  "title": "Alianza para el cuidado dental - Data leak - Undetermined",
+  "date": "2020-09-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Dental Care Alliance",
+  "source": "https://www.infosecurity-magazine.com/news/1m-us-dental-patients-impacted-by/",
+  "summary": "Dental Care Alliance está notificando a más de un millón de pacientes que sus datos pueden haber sido expuestos durante un ciberataque.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 782,
+  "title": "Comunicaciones Cox - Data leak - Undetermined",
+  "date": "2016-03-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en The Real Deal Market",
+  "source": "https://www.vice.com/en_us/article/bmvmq5/cox-investigates-as-employee-data-appears-for-sale-on-the-dark-web",
+  "summary": "Cox Communications investiga una posible violación de datos después de que supuestos nombres, direcciones de correo electrónico, números de teléfono y otra información relacionada con unos 40.000 empleados se anunciaran actualmente en The Real Deal Market, un mercado especializado en datos robados.",
+  "color": "#ef4444"
+}

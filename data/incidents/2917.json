@@ -1,0 +1,13 @@
+{
+  "id": 2917,
+  "title": "Plan de Salud para Empleados de Kentucky (KEHP) - Data leak - Undetermined",
+  "date": "2020-06-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Plan de Salud de Empleados de Kentucky",
+  "source": "https://www.govtech.com/security/Two-Data-Breaches-Hit-Kentucky-Employees-Health-Plan.html",
+  "summary": "Casi mil miembros del Plan de Salud de Empleados de Kentucky (KEHP) son víctimas de dos violaciones de datos conectadas que tuvieron lugar a fines de abril y mediados de mayo.",
+  "color": "#ef4444"
+}

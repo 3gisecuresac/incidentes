@@ -1,0 +1,13 @@
+{
+  "id": 2035,
+  "title": "Centro de Cirugía Plástica AZ - Data leak - The Dark Overlord",
+  "date": "2019-02-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "The Dark Overlord",
+  "impact": "Sistema o cuenta comprometida en Cirugía Plástica de Arizona revela haber sido hackeado",
+  "source": "https://www.databreaches.net/az-plastic-surgery-center-refuses-thedarkoverlords-handsome-proposition-notifies-patients-and-hhs-of-hack/",
+  "summary": "El Centro de Cirugía Plástica de Arizona revela haber sido hackeado por TheDarkOverlord el 10 de diciembre de 2018.",
+  "color": "#3b82f6"
+}

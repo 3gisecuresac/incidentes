@@ -1,0 +1,13 @@
+{
+  "id": 3964,
+  "title": "Centro Médico Universitario - Ransomware - REvil",
+  "date": "2021-06-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Cifrado por ransomware en Utah es afectado",
+  "source": "nan",
+  "summary": "El Centro Médico Universitario de Utah es afectado por un ataque de ransomware REvil y se publican en línea archivos con información personal de pacientes.",
+  "color": "#ef4444"
+}

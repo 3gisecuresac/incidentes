@@ -1,0 +1,13 @@
+{
+  "id": 573,
+  "title": "Corporación Sabre - Data leak - Undetermined",
+  "date": "2015-08-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Anthem Inc. y al",
+  "source": "http://www.bloomberg.com/news/articles/2015-08-07/american-airlines-sabre-said-to-be-hit-in-hacks-backed-by-china",
+  "summary": "Sabre Corp., que procesa reservas para cientos de aerolíneas y miles de hoteles, confirma que sus sistemas fueron vulnerados recientemente. Es probable que la compañía haya sido hackeada como parte de la misma ola de ataques que tuvo como blanco a la aseguradora Anthem Inc. y al ejército estadounidense.",
+  "color": "#3b82f6"
+}

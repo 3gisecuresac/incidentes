@@ -1,0 +1,13 @@
+{
+  "id": 4026,
+  "title": "Ermenegildo Zegna Holding - Ransomware - GOLD DUPONT",
+  "date": "2021-08-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "GOLD DUPONT",
+  "impact": "Filtración de datos en RansomEXX",
+  "source": "nan",
+  "summary": "El ransomware RansomEXX publica muestras de datos filtrados en su sitio TOR.",
+  "color": "#ef4444"
+}

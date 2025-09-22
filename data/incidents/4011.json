@@ -1,0 +1,13 @@
+{
+  "id": 4011,
+  "title": "Sistemas ENE - Ransomware - Undetermined",
+  "date": "2021-08-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en HVAC de varios hospitales de Boston es el objetivo de un ataque de ransomware en la cadena de suministro",
+  "source": "nan",
+  "summary": "El proveedor de HVAC de varios hospitales de Boston es el objetivo de un ataque de ransomware en la cadena de suministro.",
+  "color": "#ef4444"
+}

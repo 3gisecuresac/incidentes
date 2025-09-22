@@ -1,0 +1,13 @@
+{
+  "id": 5916,
+  "title": "Cumplimiento de Sovos - Data leak - cl0p",
+  "date": "2023-07-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Sovos",
+  "source": "nan",
+  "summary": "Sovos Compliance presenta un aviso de violación de datos después de descubrir que MOVEit, el software de transferencia de archivos utilizado por Sovos, contenía una vulnerabilidad crítica que permitía a una parte no autorizada descargar datos confidenciales de consumidores proporcionados a Sovos.",
+  "color": "#ef4444"
+}

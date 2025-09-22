@@ -1,0 +1,13 @@
+{
+  "id": 5618,
+  "title": "Ciudad de Dallas - Ransomware - Royal",
+  "date": "2023-05-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Royal",
+  "impact": "Cifrado por ransomware en Dallas sufre un ataque de ransomware Royal",
+  "source": "nan",
+  "summary": "La ciudad de Dallas sufre un ataque de ransomware Royal, lo que provoca el cierre de algunos de sus sistemas de TI para evitar la propagación del ataque.",
+  "color": "#ef4444"
+}

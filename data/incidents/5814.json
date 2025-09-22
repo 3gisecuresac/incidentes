@@ -1,0 +1,13 @@
+{
+  "id": 5814,
+  "title": "Centros de salud Bloom - Data leak - Undetermined",
+  "date": "2023-06-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Microsoft 365",
+  "source": "nan",
+  "summary": "Bloom Health Centers identifica actividad sospechosa en su entorno de correo electrónico de Microsoft 365",
+  "color": "#a78bfa"
+}

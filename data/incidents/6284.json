@@ -1,0 +1,13 @@
+{
+  "id": 6284,
+  "title": "Red de salud CompleteCare - Ransomware - Undetermined",
+  "date": "2023-10-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en CompleteCare Health Network CCHN",
+  "source": "nan",
+  "summary": "CompleteCare Health Network (CCHN) presenta un aviso de violación de datos después de descubrir que la empresa fue víctima reciente de un ataque de ransomware.",
+  "color": "#ef4444"
+}

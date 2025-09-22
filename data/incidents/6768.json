@@ -1,0 +1,13 @@
+{
+  "id": 6768,
+  "title": "Tecnologías Tyler - Ransomware - LockBit",
+  "date": "2024-03-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit",
+  "impact": "Filtración de datos en Departamento de Seguros",
+  "source": "nan",
+  "summary": "La operación de ransomware LockBit afirma haber robado datos del Departamento de Seguros, Valores y Banca de D.C. (DISB), sin embargo las agencias niegan las afirmaciones y afirman que los datos filtrados provienen de un proveedor de tecnología externo.",
+  "color": "#ef4444"
+}

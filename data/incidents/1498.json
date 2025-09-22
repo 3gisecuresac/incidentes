@@ -1,0 +1,13 @@
+{
+  "id": 1498,
+  "title": "Redes TIO - Data leak - Undetermined",
+  "date": "2017-12-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en TIO Networks",
+  "source": "https://www.businesswire.com/news/home/20171201005719/en/TIO-Networks-Update-Suspension-Operations",
+  "summary": "PayPal Holdings suspende las operaciones de TIO Networks, un procesador de pagos que cotiza en bolsa y que PayPal adquirió en julio de 2017, después de que una revisión de la red de TIO identificara una posible vulneración de la información de identificación personal de aproximadamente 1,6 millones de clientes.",
+  "color": "#a78bfa"
+}

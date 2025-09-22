@@ -1,0 +1,13 @@
+{
+  "id": 4744,
+  "title": "Punto de contacto único - Ransomware - Undetermined",
+  "date": "2022-07-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en OneTouchPoint",
+  "source": "nan",
+  "summary": "Un ataque de ransomware a OneTouchPoint, un proveedor de servicios de impresión y correo, afecta al menos a 34 organizaciones de atención médica.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 291,
+  "title": "Supervalor - Infección Dispositivos - Undetermined",
+  "date": "2014-10-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Save Shoppers Food Pharmacy y Cub Foods",
+  "source": "http://www.esecurityplanet.com/network-security/supervalu-hacked-again.html",
+  "summary": "La cadena de supermercados Supervalu anunció recientemente que se descubrió un nuevo malware a finales de agosto o principios de septiembre de 2014 en la parte de su red que procesa transacciones con tarjetas de pago para algunas de sus tiendas Shop 'n Save, Shoppers Food & Pharmacy y Cub Foods.",
+  "color": "#a78bfa"
+}

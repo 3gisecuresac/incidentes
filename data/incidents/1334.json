@@ -1,0 +1,13 @@
+{
+  "id": 1334,
+  "title": "Un proveedor de software de votación de EE. UU. - Phishing - Undetermined",
+  "date": "2017-06-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Phishing",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing",
+  "source": "https://theintercept.com/2017/06/05/top-secret-nsa-report-details-russian-hacking-effort-days-before-2016-election/",
+  "summary": "Un nuevo informe revela que la inteligencia militar rusa ejecutó un ciberataque contra al menos un proveedor de software de votación estadounidense y envió correos electrónicos de phishing a 122 funcionarios electorales locales apenas unos días antes de las elecciones presidenciales de noviembre pasado.",
+  "color": "#ef4444"
+}

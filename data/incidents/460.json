@@ -1,0 +1,13 @@
+{
+  "id": 460,
+  "title": "Café Biggby - Data leak - Undetermined",
+  "date": "2015-04-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Biggby Coffee",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/biggby-coffee-announces-website-intrusion-access-gained-to-database/",
+  "summary": "Biggby Coffee anuncia que un intruso forzó su sistema y accedió a una base de datos que contenía información personal.",
+  "color": "#ef4444"
+}

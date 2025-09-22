@@ -1,0 +1,13 @@
+{
+  "id": 6094,
+  "title": "Compañía de seguros estándar - Data leak - cl0p",
+  "date": "2023-08-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Standard Insurance Company",
+  "source": "nan",
+  "summary": "Los datos personales de los clientes de Standard Insurance Company, guardados por NTT DATA Americas en los servidores de PBI Research Services, fueron expuestos por los ataques MOVEit Transfer y han afectado a más de 300.000 personas.",
+  "color": "#ef4444"
+}

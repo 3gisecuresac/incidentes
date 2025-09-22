@@ -1,0 +1,13 @@
+{
+  "id": 641,
+  "title": "Juan Brennan - Data leak - Crackas With Attitude",
+  "date": "2015-10-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Crackas With Attitude",
+  "impact": "Sistema o cuenta comprometida en AOL perteneciente a John Brennan",
+  "source": "http://nypost.com/2015/10/18/stoner-high-school-student-says-he-hacked-the-cia/",
+  "summary": "Un hacker adolescente, apodado CWA, afirma haber pirateado una cuenta de correo electrónico de AOL perteneciente a John Brennan, director de la CIA. El atacante afirma haber obtenido documentos confidenciales y publica una pequeña hoja de cálculo con presunta información personal.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5985,
+  "title": "Banco Nacional del Valle - Ciberataque - Undetermined",
+  "date": "2023-07-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Valley National Bank",
+  "source": "nan",
+  "summary": "Valley National Bank presenta un aviso de violación de datos después de descubrir que datos confidenciales que se habían proporcionado al banco estaban comprometidos.",
+  "color": "#ef4444"
+}

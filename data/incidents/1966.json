@@ -1,0 +1,13 @@
+{
+  "id": 1966,
+  "title": "Distrito Escolar Unificado de San Diego (SDUSD) - Data leak - Undetermined",
+  "date": "2018-12-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en San Diego",
+  "source": "https://www.scmagazine.com/home/security-news/san-diego-unified-school-district-data-breach-exposed-500000-students-staff-parents/",
+  "summary": "El Distrito Escolar Unificado de San Diego (SDUSD) revela que la información personal identificable (PII) de más de medio millón de estudiantes y personal se vio comprometida como resultado de un ataque de phishing que pudo haber ocurrido ya en enero de 2018.",
+  "color": "#ef4444"
+}

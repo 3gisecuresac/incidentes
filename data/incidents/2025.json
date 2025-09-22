@@ -1,0 +1,13 @@
+{
+  "id": 2025,
+  "title": "Hospital Memorial del Condado de Pawnee - Malware Attack - Undetermined",
+  "date": "2019-02-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Condado de Pawnee",
+  "source": "https://www.databreaches.net/pawnee-county-memorial-hospital-notifies-7038-patients-after-employee-email-account-compromised-by-phishing-attack/",
+  "summary": "El Hospital Memorial del Condado de Pawnee, en Nebraska, notificó a 7038 pacientes sobre un incidente de malware que afectó la información médica protegida. El ataque ocurrió el 29 de noviembre de 2018.",
+  "color": "#a78bfa"
+}

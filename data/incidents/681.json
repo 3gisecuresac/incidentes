@@ -1,0 +1,13 @@
+{
+  "id": 681,
+  "title": "TuneCore - Data leak - Undetermined",
+  "date": "2015-12-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Tunecore",
+  "source": "https://www.alertlogic.com/resources/threat-reports/tunecore-database-breached-offers-identity-theft-protection/",
+  "summary": "Tunecore ha sufrido una vulneración de seguridad. La empresa revela que los datos a los que se pudo haber accedido incluyen nombres, correos electrónicos, direcciones postales, números de cuenta y contraseñas.",
+  "color": "#ef4444"
+}

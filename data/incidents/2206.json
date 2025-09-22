@@ -1,0 +1,13 @@
+{
+  "id": 2206,
+  "title": "Ciudad del lago - Ransomware - Undetermined",
+  "date": "2019-06-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Lake City",
+  "source": "https://www.scmagazine.com/home/security-news/ransomware/lake-city-recovering-from-ransomware-attack/",
+  "summary": "Lake City se ve afectada por un ataque de ransomware que afecta a sus sistemas de correo electrónico y de pago en línea.",
+  "color": "#ef4444"
+}

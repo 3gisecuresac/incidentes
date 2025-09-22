@@ -1,0 +1,13 @@
+{
+  "id": 2681,
+  "title": "Colegio Comunitario de San Luis - Data leak - Undetermined",
+  "date": "2020-02-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en St",
+  "source": "https://www.databreaches.net/phishing-scam-targets-st-louis-community-college-private-information-exposed/",
+  "summary": "Más de 5.100 estudiantes y empleados del St. Louis Community College sufrieron acceso a su información personal a través de un ataque de phishing descubierto el 13 de enero.",
+  "color": "#ef4444"
+}

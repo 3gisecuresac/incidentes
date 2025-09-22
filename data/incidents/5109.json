@@ -1,0 +1,13 @@
+{
+  "id": 5109,
+  "title": "Wright y Phillips - Ransomware - Undetermined",
+  "date": "2022-11-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Wright Filippis",
+  "source": "nan",
+  "summary": "Wright & Filippis informa sobre una violación de datos después de que la empresa se enterara de que había sido el objetivo de un ataque de ransomware.",
+  "color": "#ef4444"
+}

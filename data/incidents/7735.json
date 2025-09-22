@@ -1,0 +1,13 @@
+{
+  "id": 7735,
+  "title": "Edsembli - Ransomware - Undetermined",
+  "date": "2021-02-26",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Educación de Nunavut ha confirmado un ataque de ransomware a Edsembli",
+  "source": "nan",
+  "summary": "El Departamento de Educación de Nunavut ha confirmado un ataque de ransomware a Edsembli, la empresa que mantiene el sistema de información escolar del territorio que almacena calificaciones, asistencia e inscripción.",
+  "color": "#ef4444"
+}

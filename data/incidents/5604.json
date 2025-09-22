@@ -1,0 +1,13 @@
+{
+  "id": 5604,
+  "title": "Colegio Emmanuel - Ransomware - Avos Locker",
+  "date": "2023-04-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Avos Locker",
+  "impact": "Filtración de datos en Boston parece haber sido víctima del ransomware Avos Locker",
+  "source": "nan",
+  "summary": "El Emmanuel College de Boston parece haber sido víctima del ransomware Avos Locker. La universidad se añadió ayer al sitio de filtraciones del actor de amenazas, y el atacante afirma haber exfiltrado 140 GB de datos.",
+  "color": "#ef4444"
+}

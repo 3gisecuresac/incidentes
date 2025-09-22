@@ -1,0 +1,13 @@
+{
+  "id": 2928,
+  "title": "Universidad de Utah - Data leak - Undetermined",
+  "date": "2020-06-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Utah notifica a sus pacientes después de",
+  "source": "https://www.databreaches.net/university-of-utah-patients-notified-after-phishing-incident-compromised-employee-email-accounts/",
+  "summary": "La Universidad de Utah notifica a sus pacientes después de que un incidente de phishing comprometiera las cuentas de correo electrónico de los empleados entre el 6 de abril y el 22 de mayo.",
+  "color": "#ef4444"
+}

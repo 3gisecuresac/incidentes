@@ -1,0 +1,13 @@
+{
+  "id": 6998,
+  "title": "Tránsito regional de Pittsburgh - Ransomware - Undetermined",
+  "date": "2024-12-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Pittsburgh Regional Transit PRT",
+  "source": "nan",
+  "summary": "Pittsburgh Regional Transit (PRT) es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

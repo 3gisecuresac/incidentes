@@ -1,0 +1,13 @@
+{
+  "id": 7457,
+  "title": "Viva Air - Ransomware - GOLD DUPONT",
+  "date": "2022-03-14",
+  "country": "Colombia",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "GOLD DUPONT",
+  "impact": "Filtración de datos en RansomEXX",
+  "source": "nan",
+  "summary": "El ransomware RansomEXX publica muestras de datos filtrados en su sitio TOR.",
+  "color": "#ef4444"
+}

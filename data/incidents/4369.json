@@ -1,0 +1,13 @@
+{
+  "id": 4369,
+  "title": "Centro Médico del Área de Charleston (CAMC) - Data leak - Undetermined",
+  "date": "2022-03-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Área de Charleston",
+  "source": "nan",
+  "summary": "El Centro Médico del Área de Charleston (CAMC) revela un ataque de phishing que afectó a 54.000 personas.",
+  "color": "#ef4444"
+}

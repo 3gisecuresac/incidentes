@@ -1,0 +1,13 @@
+{
+  "id": 6450,
+  "title": "Banco de los Tres Condados - Data leak - Undetermined",
+  "date": "2023-11-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Tri Counties Bank",
+  "source": "nan",
+  "summary": "Tri Counties Bank presenta un aviso de violación de datos después de descubrir que su sistema informático había sido infectado con malware.",
+  "color": "#ef4444"
+}

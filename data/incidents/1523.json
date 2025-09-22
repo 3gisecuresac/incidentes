@@ -1,0 +1,13 @@
+{
+  "id": 1523,
+  "title": "Instituto de Salud Mental de Colorado - Data leak - Undetermined",
+  "date": "2017-12-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Salud Mental de Colorado notifica a 650 pacientes después de un incidente de phishing",
+  "source": "https://www.databreaches.net/colorado-mental-health-institute-at-pueblo-notified-650-patients-after-phishing-incident/",
+  "summary": "El Instituto de Salud Mental de Colorado notifica a 650 pacientes después de un incidente de phishing.",
+  "color": "#ef4444"
+}

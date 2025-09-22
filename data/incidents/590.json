@@ -1,0 +1,13 @@
+{
+  "id": 590,
+  "title": "Totalmente promocional - Data leak - Undetermined",
+  "date": "2015-08-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Totally Promotional un",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/totally-promotional-attack-compromises-payment-cards-other-data/",
+  "summary": "Totally Promotional, un vendedor por Internet de productos promocionales impresos, notifica a un número no revelado de clientes que los atacantes ingresaron a sus sistemas y obtuvieron acceso a algunos datos de tarjetas de pago de clientes y otra información.",
+  "color": "#ef4444"
+}

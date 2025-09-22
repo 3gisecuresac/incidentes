@@ -1,0 +1,13 @@
+{
+  "id": 714,
+  "title": "Time Warner Cable - Data leak - Undetermined",
+  "date": "2016-01-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Time Warner Cable",
+  "source": "http://www.theregister.co.uk/2016/01/07/twc_customer_hack",
+  "summary": "Time Warner Cable advierte que las credenciales de acceso de 320.000 clientes podrían haber sido robadas. Sin embargo, el incidente parece más un ataque de phishing que un ataque informático directo.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 628,
+  "title": "Sistema telefónico del condado de Kennebec - DoS - Undetermined",
+  "date": "2015-10-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Kennebec fue pirateado",
+  "source": "https://www.centralmaine.com/2015/10/06/kennebec-countys-phone-system-hacked-over-weekend/",
+  "summary": "El sistema telefónico del condado de Kennebec fue pirateado y se registraron más de 2.100 llamadas en un fin de semana.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5756,
+  "title": "Grupo de Salud de la Mujer de Atlanta (AWHG) - Ciberataque - Undetermined",
+  "date": "2023-06-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Health Group AWHG",
+  "source": "nan",
+  "summary": "Atlanta Women's Health Group (AWHG) presenta un aviso de violación de datos después de enterarse de un reciente incidente de ciberseguridad que puso información confidencial de pacientes a disposición de una parte no autorizada.",
+  "color": "#ef4444"
+}

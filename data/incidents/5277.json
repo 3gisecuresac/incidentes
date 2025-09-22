@@ -1,0 +1,13 @@
+{
+  "id": 5277,
+  "title": "Western Digital - Ransomware - Undetermined",
+  "date": "2023-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Western Digital",
+  "source": "nan",
+  "summary": "Western Digital anuncia que su red ha sido vulnerada y que un tercero no autorizado ha accedido a varios sistemas de la empresa. El comunicado sugiere un posible ataque de ransomware.",
+  "color": "#ef4444"
+}

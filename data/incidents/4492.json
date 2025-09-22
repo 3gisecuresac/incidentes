@@ -1,0 +1,13 @@
+{
+  "id": 4492,
+  "title": "Universidad Estatal Austin Peay (APSU) - Ransomware - Undetermined",
+  "date": "2022-04-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Austin Peay",
+  "source": "nan",
+  "summary": "La Universidad Estatal de Austin Peay (APSU) confirma haber sido víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

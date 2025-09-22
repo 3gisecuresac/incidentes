@@ -1,0 +1,13 @@
+{
+  "id": 2845,
+  "title": "Válvula - Data leak - Undetermined",
+  "date": "2020-04-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Valve",
+  "source": "https://www.bleepingcomputer.com/news/security/valve-reassures-gamers-after-cs-go-and-team-fortress-2-leaks/",
+  "summary": "Se filtró el código fuente de los juegos Team Fortress 2 y Counter-Strike: Global Offensive de Valve.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3780,
+  "title": "Hospital comunitario del condado de Harper - Ransomware - Undetermined",
+  "date": "2021-03-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Condado de Harper revela",
+  "source": "nan",
+  "summary": "El Hospital Comunitario del Condado de Harper revela que sufrió un ataque de ransomware.",
+  "color": "#ef4444"
+}

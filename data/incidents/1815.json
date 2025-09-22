@@ -1,0 +1,13 @@
+{
+  "id": 1815,
+  "title": "Animoto - Data leak - Undetermined",
+  "date": "2018-08-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en California",
+  "source": "https://techcrunch.com/2018/08/20/animoto-hack-exposes-personal-information-geolocation-data/",
+  "summary": "Animoto, un servicio de creación de videos en la nube para redes sociales, revela una filtración de datos. La filtración ocurrió el 10 de julio, pero la compañía la confirmó a principios de agosto y posteriormente la informó al fiscal general de California. Los hackers accedieron a nombres, fechas de nacimiento y direcciones de correo electrónico de los usuarios, pero la compañía afirmó desconocer si se habían exfiltrado datos.",
+  "color": "#ef4444"
+}

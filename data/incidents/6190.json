@@ -1,0 +1,13 @@
+{
+  "id": 6190,
+  "title": "WakeMed Salud y Hospitales - Data leak - cl0p",
+  "date": "2023-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en WakeMed Health & Hospitals como parte de la campaña Progress MOVEit Transfer",
+  "source": "nan",
+  "summary": "La empresa de tecnología sanitaria Nuance revela que la banda de extorsión Clop ha robado datos personales de WakeMed Health & Hospitals como parte de la campaña Progress MOVEit Transfer.",
+  "color": "#ef4444"
+}

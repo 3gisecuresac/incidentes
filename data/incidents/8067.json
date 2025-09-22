@@ -1,0 +1,13 @@
+{
+  "id": 8067,
+  "title": "Legislatura CABA (Legislature of Buenos Aires) - Ransomware - Undetermined",
+  "date": "2022-09-13",
+  "country": "Argentina",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Legislatura CABA",
+  "source": "nan",
+  "summary": "Legislatura CABA revela ataque de ransomware.",
+  "color": "#ef4444"
+}

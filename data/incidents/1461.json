@@ -1,0 +1,13 @@
+{
+  "id": 1461,
+  "title": "Dell - Data leak - Undetermined",
+  "date": "2017-10-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en DellBackupandRecoveryCloudStorage.com",
+  "source": "https://krebsonsecurity.com/2017/10/dell-lost-control-of-key-customer-support-domain-for-a-month-in-2017/",
+  "summary": "KrebsOnSecurity revela que un sitio web creado por el fabricante de PC Dell Inc. para ayudar a los clientes a recuperarse de software malicioso (DellBackupandRecoveryCloudStorage.com) puede haber sido secuestrado durante algunas semanas este verano.",
+  "color": "#a78bfa"
+}

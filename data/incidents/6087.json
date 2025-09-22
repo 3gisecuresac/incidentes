@@ -1,0 +1,13 @@
+{
+  "id": 6087,
+  "title": "Kroll - Ciberataque - Undetermined",
+  "date": "2023-08-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en SIM a un empleado",
+  "source": "nan",
+  "summary": "Una filtración de datos en la empresa de asesoría financiera y de riesgos Kroll, llevada a cabo mediante un ataque de intercambio de SIM a un empleado, tuvo como resultado la exposición de los datos personales de algunos solicitantes de crédito a un tercero no autorizado.",
+  "color": "#ef4444"
+}

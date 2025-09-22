@@ -1,0 +1,13 @@
+{
+  "id": 4490,
+  "title": "Coca-cola - Ransomware - Stormous",
+  "date": "2022-04-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Stormous",
+  "impact": "Filtración de datos en GB de",
+  "source": "nan",
+  "summary": "Coca-Cola investiga las denuncias de un ciberataque a su red después de que la banda de ransomware Stormous dijera que había violado con éxito algunos de los servidores de la compañía y robado 161 GB de datos.",
+  "color": "#ef4444"
+}

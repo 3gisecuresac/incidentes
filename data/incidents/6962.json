@@ -1,0 +1,13 @@
+{
+  "id": 6962,
+  "title": "Sistema de Salud Axis - Ransomware - Rhysida",
+  "date": "2024-10-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Rhysida",
+  "impact": "Cifrado por ransomware en Axis Health System",
+  "source": "nan",
+  "summary": "Axis Health System sufre un ataque de ransomware Rhysida.",
+  "color": "#ef4444"
+}

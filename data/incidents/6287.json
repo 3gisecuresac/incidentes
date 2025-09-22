@@ -1,0 +1,13 @@
+{
+  "id": 6287,
+  "title": "AvidXchange - Ciberataque - Undetermined",
+  "date": "2023-10-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI de la empresa",
+  "source": "nan",
+  "summary": "AvidXchange presenta un aviso de violación de datos después de descubrir que un reciente evento de ciberseguridad resultó en que una parte no autorizada pudiera acceder a la red de TI de la empresa.",
+  "color": "#ef4444"
+}

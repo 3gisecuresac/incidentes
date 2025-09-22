@@ -1,0 +1,13 @@
+{
+  "id": 4018,
+  "title": "Red de Niños del Suroeste de Florida - Ransomware - Pysa",
+  "date": "2021-08-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Pysa",
+  "impact": "Filtración de datos en Florida aparecen en el sitio web de filtración de datos de PYSA",
+  "source": "nan",
+  "summary": "Archivos de la agencia de acogida de Florida aparecen en el sitio web de filtración de datos de PYSA.",
+  "color": "#ef4444"
+}

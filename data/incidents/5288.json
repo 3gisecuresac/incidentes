@@ -1,0 +1,13 @@
+{
+  "id": 5288,
+  "title": "Reddit - Data leak - Undetermined",
+  "date": "2023-02-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Reddit",
+  "source": "nan",
+  "summary": "Reddit sufre un ataque de phishing, que permite a los piratas informáticos acceder a los sistemas internos de la empresa y robar documentos internos y códigos fuente.",
+  "color": "#ef4444"
+}

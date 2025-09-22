@@ -1,0 +1,13 @@
+{
+  "id": 4093,
+  "title": "Marketron - Ransomware - BlackMatter",
+  "date": "2021-09-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "BlackMatter",
+  "impact": "Cifrado por ransomware en BlackMatter",
+  "source": "nan",
+  "summary": "El proveedor de soluciones empresariales sufre un ataque de ransomware BlackMatter que cierra todos sus servicios.",
+  "color": "#ef4444"
+}

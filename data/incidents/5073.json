@@ -1,0 +1,13 @@
+{
+  "id": 5073,
+  "title": "Asociados Metropolitanos - Ciberataque - Undetermined",
+  "date": "2022-11-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Metropolitan Associates",
+  "source": "nan",
+  "summary": "Metropolitan Associates informa sobre una violación de datos después de que la empresa se enteró de que una parte no autorizada pudo acceder a información confidencial de consumidores almacenada en su red.",
+  "color": "#ef4444"
+}

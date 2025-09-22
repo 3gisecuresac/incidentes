@@ -1,0 +1,13 @@
+{
+  "id": 892,
+  "title": "Reddit - Defacement - @TehBVM",
+  "date": "2016-05-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Defacement",
+  "actor": "@TehBVM",
+  "impact": "Sistema o cuenta comprometida en @TehBVM",
+  "source": "http://news.softpedia.com/news/hacker-hijacks-and-defaces-countless-subreddits-just-for-fun-503951.shtml",
+  "summary": "Un hacker de sombrero negro llamado @TehBVM toma control de subreddits aleatorios, elimina moderadores y cambia el estilo CSS del subreddit, dejando un mensaje de desfiguración.",
+  "color": "#3b82f6"
+}

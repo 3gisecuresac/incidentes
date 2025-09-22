@@ -1,0 +1,13 @@
+{
+  "id": 7960,
+  "title": "Eventials.com - Data leak - Undetermined",
+  "date": "2020-12-31",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Eventials.com",
+  "source": "nan",
+  "summary": "Un corredor de datos vende 368,8 millones de registros de usuarios robados de veintiséis empresas en un foro de hackers. De estas víctimas, ocho son nuevas supuestas filtraciones de datos, incluyendo Eventials.com.",
+  "color": "#ef4444"
+}

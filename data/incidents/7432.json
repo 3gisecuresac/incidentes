@@ -1,0 +1,13 @@
+{
+  "id": 7432,
+  "title": "Fondo Genesis (MetLife) - Ransomware - RansomHub",
+  "date": "2024-12-31",
+  "country": "Ecuador",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "RansomHub",
+  "impact": "Filtración de datos en MetLife en Latinoamérica",
+  "source": "nan",
+  "summary": "El grupo de ransomware RansomHub se atribuye la responsabilidad de una vulneración de las operaciones de MetLife en Latinoamérica. MetLife niega las acusaciones y reconoce otro ciberincidente que involucró a Fondo Génesis, una filial que opera exclusivamente en Ecuador. Afirma haber extraído 1 TB de datos.",
+  "color": "#ef4444"
+}

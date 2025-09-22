@@ -1,0 +1,13 @@
+{
+  "id": 7606,
+  "title": "Receta ilimitada - Ransomware - Undetermined",
+  "date": "2018-09-28",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en TI durante el fin de semana debido a un incidente de ransomware",
+  "source": "nan",
+  "summary": "Recipe Unlimited, una cadena de restaurantes canadiense que opera más de 20 marcas de restaurantes, sufre una interrupción en todo el país de sus sistemas de TI durante el fin de semana debido a un incidente de ransomware.",
+  "color": "#ef4444"
+}

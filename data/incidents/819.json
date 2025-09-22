@@ -1,0 +1,13 @@
+{
+  "id": 819,
+  "title": "vbulletin.org - Data leak - Undetermined",
+  "date": "2016-03-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad",
+  "source": "http://news.softpedia.com/news/vbulletin-servers-hacked-admins-force-password-reset-for-all-users-502331.shtml",
+  "summary": "Los administradores de los foros de vBulletin inician una operación de restablecimiento de contraseña en todo el sitio después de que un atacante desconocido obtuvo acceso a uno de sus servidores.",
+  "color": "#a78bfa"
+}

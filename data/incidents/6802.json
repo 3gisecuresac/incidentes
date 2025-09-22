@@ -1,0 +1,13 @@
+{
+  "id": 6802,
+  "title": "Archivo de Internet - DoS - SN_Blackmeta",
+  "date": "2024-05-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "SN_Blackmeta",
+  "impact": "Interrupción por DDoS en El Internet Archive",
+  "source": "nan",
+  "summary": "El Internet Archive sufre un ataque DDoS prolongado.",
+  "color": "#f59e0b"
+}

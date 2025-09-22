@@ -1,0 +1,13 @@
+{
+  "id": 4962,
+  "title": "Grupo Médico Riverside - Data leak - Undetermined",
+  "date": "2022-09-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en West Orange",
+  "source": "nan",
+  "summary": "Riverside Medical Group revela que piratas informáticos obtuvieron acceso a un servidor heredado en su clínica en West Orange y podrían haber visto u obtenido archivos que contienen datos de pacientes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3387,
+  "title": "Gestión Médica, Inc. - Ransomware - MAZE",
+  "date": "2020-11-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "MAZE",
+  "impact": "Cifrado por ransomware en Medical Management",
+  "source": "https://www.databreaches.net/wp-content/uploads/Without_Undue_Delay.pdf",
+  "summary": "La banda de ransomware Maze agrega a Medical Management, Inc. a la lista de sus víctimas.",
+  "color": "#ef4444"
+}

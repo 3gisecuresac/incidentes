@@ -1,0 +1,13 @@
+{
+  "id": 4872,
+  "title": "Salud familiar de First Street - Ransomware - Undetermined",
+  "date": "2022-08-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en First Street Family Health",
+  "source": "nan",
+  "summary": "First Street Family Health revela haber sufrido un ciberataque destructivo, en el que se exfiltraron y luego eliminaron de sus sistemas archivos que contenían información de pacientes.",
+  "color": "#ef4444"
+}

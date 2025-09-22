@@ -1,0 +1,13 @@
+{
+  "id": 129,
+  "title": "Clase Telecom - Data leak - NullCrew",
+  "date": "2014-04-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "NullCrew",
+  "impact": "Filtración de datos en Klas Telecom y",
+  "source": "http://www.zdnet.com/govt-contractor-klas-telecom-responds-to-getting-hacked-by-nullcrew-7000028102/",
+  "summary": "NullCrew hackea un sistema de soporte técnico heredado del contratista gubernamental Klas Telecom y filtra varias cuentas y contraseñas.",
+  "color": "#ef4444"
+}

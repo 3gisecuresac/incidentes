@@ -1,0 +1,13 @@
+{
+  "id": 5922,
+  "title": "Seguridad de GuidePoint - Data leak - cl0p",
+  "date": "2023-07-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en GuidePoint Security después de descubrir",
+  "source": "nan",
+  "summary": "Vitality Group presenta un aviso de violación de datos en nombre de GuidePoint Security después de descubrir que el software de transferencia de archivos MOVEit utilizado por Vitality contenía una vulnerabilidad crítica que permitía a una parte no autorizada acceder a la información confidencial de ciertos empleados de GuidePoint Security.",
+  "color": "#ef4444"
+}

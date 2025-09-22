@@ -1,0 +1,13 @@
+{
+  "id": 1263,
+  "title": "GameStop - Data leak - Undetermined",
+  "date": "2017-04-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en gamestop.com",
+  "source": "https://krebsonsecurity.com/2017/04/gamestop-com-investigating-possible-breach/",
+  "summary": "El gigante de los videojuegos GameStop Corp dice que está investigando informes de que piratas informáticos podrían haber extraído datos de tarjetas de crédito y de clientes de su sitio web gamestop.com.",
+  "color": "#ef4444"
+}

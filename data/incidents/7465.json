@@ -1,0 +1,13 @@
+{
+  "id": 7465,
+  "title": "corredor - Ransomware - LockBit 3.0",
+  "date": "2022-09-16",
+  "country": "Colombia",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Makler",
+  "source": "nan",
+  "summary": "Las bandas de ransomware LockBit 3.0 afirman haber hackeado a Makler, una empresa de corretaje de seguros venezolana.",
+  "color": "#ef4444"
+}

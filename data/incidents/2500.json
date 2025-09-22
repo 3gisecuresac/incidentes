@@ -1,0 +1,13 @@
+{
+  "id": 2500,
+  "title": "Holdings de CAH - Data leak - Undetermined",
+  "date": "2019-11-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en CAH Holdings Inc",
+  "source": "https://www.databreaches.net/cah-holdings-issues-notice-after-employee-email-accounts-compromised/",
+  "summary": "CAH Holdings Inc. notifica un incidente de seguridad de datos que involucra algunas cuentas de correo electrónico de empleados que pueden haber afectado una cantidad limitada de información de identificación personal e información médica protegida (PHI).",
+  "color": "#ef4444"
+}

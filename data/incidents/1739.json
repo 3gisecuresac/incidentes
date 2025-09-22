@@ -1,0 +1,13 @@
+{
+  "id": 1739,
+  "title": "Ciudad del Medio Oeste - Data leak - Undetermined",
+  "date": "2018-06-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Superion",
+  "source": "https://www.databreaches.net/midwest-city-notifies-residents-of-incident-that-affected-numerous-municipalities/",
+  "summary": "Midwest City, Oklahoma, informa que alrededor de 2.300 clientes están potencialmente afectados por una violación de seguridad que involucra al software Click2Gov de Superion.",
+  "color": "#a78bfa"
+}

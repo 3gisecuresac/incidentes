@@ -1,0 +1,13 @@
+{
+  "id": 2244,
+  "title": "Summa Salud - Data leak - Undetermined",
+  "date": "2019-06-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Summa Health",
+  "source": "https://www.databreaches.net/oh-more-than-500-summa-health-patients-information-at-risk-after-possible-data-breach/",
+  "summary": "Más de 500 registros médicos de pacientes y otra información personal están en riesgo como resultado de un incidente de phishing por correo electrónico dirigido a empleados de Summa Health.",
+  "color": "#ef4444"
+}

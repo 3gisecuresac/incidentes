@@ -1,0 +1,13 @@
+{
+  "id": 3199,
+  "title": "Hospital Universitario de Nueva Jersey - Ransomware - SunCrypt",
+  "date": "2020-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "SunCrypt",
+  "impact": "Filtración de datos en Nueva Jersey",
+  "source": "https://www.bleepingcomputer.com/news/security/university-hospital-new-jersey-hit-by-suncrypt-ransomware-data-leaked/",
+  "summary": "El Hospital Universitario de Nueva Jersey (UHNJ) sufrió una fuga masiva de datos con más de 48.000 documentos flotando en la red oscura después de un ataque de ransomware.",
+  "color": "#ef4444"
+}

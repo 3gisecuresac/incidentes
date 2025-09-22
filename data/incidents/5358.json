@@ -1,0 +1,13 @@
+{
+  "id": 5358,
+  "title": "Universidad del Sureste de Luisiana (SLU) - Ransomware - BianLian",
+  "date": "2023-02-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "BianLian",
+  "impact": "Filtración de datos en Sureste de Luisiana",
+  "source": "nan",
+  "summary": "La Universidad del Sureste de Luisiana (SLU) publica un aviso sobre una posible filtración de datos tras la caída de ciertos sistemas de la SLU en respuesta a lo que la institución describió como una Interrupción Temporal de la Red y del Sistema. El grupo de ransomware BianLian se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

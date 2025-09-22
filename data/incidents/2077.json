@@ -1,0 +1,13 @@
+{
+  "id": 2077,
+  "title": "Servicios de Orientación para Niños y Jóvenes de Delaware (DGS) - Ransomware - Undetermined",
+  "date": "2019-03-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Orientación de Delaware",
+  "source": "https://www.hipaajournal.com/three-healthcare-ransomware-attacks-reported-70000-individuals-affected/",
+  "summary": "Los Servicios de Orientación de Delaware para Niños y Jóvenes (DGS) se ven obligados a pagar un rescate para recuperar archivos que habían sido cifrados en un ataque de ransomware el día de Navidad.",
+  "color": "#ef4444"
+}

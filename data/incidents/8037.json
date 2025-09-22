@@ -1,0 +1,13 @@
+{
+  "id": 8037,
+  "title": "WebDetetive - Ciberataque - Undetermined",
+  "date": "2023-08-25",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en América del Sur",
+  "source": "nan",
+  "summary": "WebDetetive, un proveedor de software espía en América del Sur, es atacado por piratas informáticos que logran extraer datos de los usuarios antes de eliminar los dispositivos de la red de la empresa.",
+  "color": "#ef4444"
+}

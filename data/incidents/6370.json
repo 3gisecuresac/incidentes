@@ -1,0 +1,13 @@
+{
+  "id": 6370,
+  "title": "Perry Johnson & Asociados - Ransomware - Undetermined",
+  "date": "2023-11-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Perry Johnson Associates PJ A",
+  "source": "nan",
+  "summary": "Perry Johnson & Associates (PJ&A) presenta un aviso de violación de datos después de descubrir que una parte no autorizada pudo acceder a los archivos almacenados en la red informática de la empresa.",
+  "color": "#ef4444"
+}

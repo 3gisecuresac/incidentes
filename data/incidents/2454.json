@@ -1,0 +1,13 @@
+{
+  "id": 2454,
+  "title": "Condado de Pine - Data leak - Undetermined",
+  "date": "2019-10-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Pine dice",
+  "source": "https://www.databreaches.net/mn-thousands-potentially-affected-in-pine-county-data-breach/",
+  "summary": "El condado de Pine dice que alrededor de 4.400 personas podrían haber sufrido una violación de sus datos luego de que personal no autorizado accediera a su cuenta de correo electrónico.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5304,
+  "title": "Pimienta Troutman - DoS - Undetermined",
+  "date": "2023-02-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Troutman Pepper",
+  "source": "nan",
+  "summary": "Un ciberataque derriba la red del bufete de abogados Troutman Pepper.",
+  "color": "#a78bfa"
+}

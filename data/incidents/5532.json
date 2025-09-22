@@ -1,0 +1,13 @@
+{
+  "id": 5532,
+  "title": "Asociados médicos de Essen - Ransomware - ALPHVM",
+  "date": "2023-04-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Essen Medical Associates en su sitio de filtraciones",
+  "source": "nan",
+  "summary": "La banda de ransomware ALPHV parece haber comenzado a filtrar datos de Essen Medical Associates en su sitio de filtraciones.",
+  "color": "#ef4444"
+}

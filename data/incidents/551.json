@@ -1,0 +1,13 @@
+{
+  "id": 551,
+  "title": "La salud primero - Data leak - Undetermined",
+  "date": "2015-07-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Nueva York",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/data-on-5300-healthfirst-members-caught-up-in-fraud-scheme/",
+  "summary": "Healthfirst, con sede en Nueva York, notifica a unos 5.300 miembros actuales y anteriores que su información personal puede haber sido comprometida en un plan de fraude criminal.",
+  "color": "#3b82f6"
+}

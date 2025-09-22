@@ -1,0 +1,13 @@
+{
+  "id": 7585,
+  "title": "Financiación de Nissan Canadá - Data leak - Undetermined",
+  "date": "2017-12-21",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Nissan Canadá ha sido hackeada",
+  "source": "nan",
+  "summary": "La división de financiación de vehículos de Nissan Canadá ha sido hackeada, poniendo en riesgo la información personal de hasta 1,13 millones de clientes. Los datos expuestos incluyen, al menos, nombres, direcciones, marcas y modelos de vehículos, números de identificación vehicular (VIN), calificaciones crediticias, montos de préstamos y pagos mensuales.",
+  "color": "#ef4444"
+}

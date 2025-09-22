@@ -1,0 +1,13 @@
+{
+  "id": 1284,
+  "title": "Tarjetas de reventón - Data leak - Undetermined",
+  "date": "2017-04-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Blowout Cards",
+  "source": "http://www.databreachtoday.com/blowout-cards-issues-card-skimming-breach-alert-a-9864",
+  "summary": "Blowout Cards emite una alerta de seguridad a sus clientes, advirtiendo que los detalles de sus tarjetas de pago pueden haber sido comprometidos después de que un atacante pirateara su sitio web y los clientes comenzaran a denunciar fraudes con tarjetas relacionados.",
+  "color": "#3b82f6"
+}

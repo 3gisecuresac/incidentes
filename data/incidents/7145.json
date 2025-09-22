@@ -1,0 +1,13 @@
+{
+  "id": 7145,
+  "title": "Atención médica en el centro de Maine - Data leak - Undetermined",
+  "date": "2025-03-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI de Central Maine Healthcare entre el 19 de marzo",
+  "source": "nan",
+  "summary": "Un actor no autorizado accedió al entorno de TI de Central Maine Healthcare entre el 19 de marzo y el 1 de junio de 2025, comprometiendo datos confidenciales de los pacientes; los sistemas se aseguraron de inmediato y las notificaciones a los pacientes comenzaron a fines de julio de 2025.",
+  "color": "#ef4444"
+}

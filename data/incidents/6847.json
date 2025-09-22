@@ -1,0 +1,13 @@
+{
+  "id": 6847,
+  "title": "TAD - Data leak - netnsher",
+  "date": "2024-07-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "netnsher",
+  "impact": "Filtración de datos",
+  "source": "nan",
+  "summary": "El gigante estadounidense de seguridad de edificios ADT confirma que sufrió una violación de datos después de que actores de amenazas filtraran datos de clientes supuestamente robados en un popular foro de piratería.",
+  "color": "#ef4444"
+}

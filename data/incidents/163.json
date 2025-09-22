@@ -1,0 +1,13 @@
+{
+  "id": 163,
+  "title": "Institutos Americanos de Investigación - Data leak - Undetermined",
+  "date": "2014-05-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Investigación",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/thousands-of-staffers-impacted-in-american-institutes-for-research-server-hack/",
+  "summary": "Aproximadamente 6.500 empleados actuales y anteriores de los Institutos Americanos de Investigación (AIR) podrían haber visto comprometida su información personal luego de obtener acceso no autorizado a uno de los servidores de la organización.",
+  "color": "#3b82f6"
+}

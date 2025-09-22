@@ -1,0 +1,13 @@
+{
+  "id": 5123,
+  "title": "Distrito Escolar Independiente 728 - Ransomware - Undetermined",
+  "date": "2022-11-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Minnesota fue atacado con un ransomware",
+  "source": "nan",
+  "summary": "El distrito escolar 728 en Minnesota fue atacado con un ransomware que involucró nombres y números de seguro social.",
+  "color": "#ef4444"
+}

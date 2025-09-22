@@ -1,0 +1,13 @@
+{
+  "id": 7875,
+  "title": "Drogas de Londres - Ransomware - LockBit",
+  "date": "2024-04-28",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit",
+  "impact": "Cifrado por ransomware en London Drugs",
+  "source": "nan",
+  "summary": "La cadena canadiense de farmacias London Drugs cierra todas sus tiendas para contener lo que describió como un incidente de ciberseguridad. Un mes después, la operación de ransomware LockBit se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1194,
+  "title": "Celular de EE. UU. - Data leak - Undetermined",
+  "date": "2017-01-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en U.S. Cellular. La",
+  "source": "https://www.hackread.com/hacker-selling-126-million-us-cellular-customers-data/",
+  "summary": "DoubleFlag ahora afirma vender una base de datos con 126 millones de registros de clientes de U.S. Cellular. La compañía niega el ataque.",
+  "color": "#ef4444"
+}

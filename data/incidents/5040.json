@@ -1,0 +1,13 @@
+{
+  "id": 5040,
+  "title": "Fondo Administrativo de la Asociación de Dotaciones de Detectives, Inc., Departamento de Policía de Nueva York (NYCDEA) - Data leak - Undetermined",
+  "date": "2022-10-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Dotaciones de Detectives",
+  "source": "nan",
+  "summary": "El Fondo Administrativo de la Asociación de Dotaciones de Detectives, Inc., del Departamento de Policía de Nueva York (NYCDEA) informa sobre una violación de datos después de que la organización confirmara que la información de los miembros se vio comprometida luego de que una parte no autorizada obtuviera acceso al sistema de correo electrónico de NYCDEA.",
+  "color": "#ef4444"
+}

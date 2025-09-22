@@ -1,0 +1,13 @@
+{
+  "id": 3137,
+  "title": "Colegio Técnico de Greenville - Ransomware - Avaddon",
+  "date": "2020-08-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Avaddon",
+  "impact": "Filtración de datos en El Greenville Technical College",
+  "source": "https://www.databreaches.net/greenville-technical-college-claims-no-personal-data-affected-by-ransomware-incident-threat-actors-claim-otherwise/",
+  "summary": "El Greenville Technical College afirma haberse recuperado de un ataque de ransomware y que ningún dato personal se vio afectado. Sin embargo, los hackers afirman haber robado 600 GB de datos confidenciales.",
+  "color": "#ef4444"
+}

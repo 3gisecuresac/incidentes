@@ -1,0 +1,13 @@
+{
+  "id": 1340,
+  "title": "Centro de salud Waverly - Ransomware - Undetermined",
+  "date": "2017-06-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Salud Waverly es atacado",
+  "source": "http://techtalk.pcpitstop.com/2017/06/19/iowan-hospital-infected-ransomware/",
+  "summary": "El Centro de Salud Waverly es atacado por ransomware, lo que provoca que el centro médico apague sus sistemas de TI.",
+  "color": "#ef4444"
+}

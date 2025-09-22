@@ -1,0 +1,13 @@
+{
+  "id": 1296,
+  "title": "Ciudad de Fitchburg - Data leak - Undetermined",
+  "date": "2017-05-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Fitchburg",
+  "source": "https://www.scmagazine.com/fitchburg-mass-officials-discover-three-year-old-breach-affecting-1800/article/654317/",
+  "summary": "Funcionarios de la ciudad de Fitchburg, Massachusetts, informan que los números de Seguro Social de 1.800 residentes se vieron comprometidos durante una violación de datos que se descubrió el 14 de abril, pero que tuvo lugar hace más de tres años.",
+  "color": "#ef4444"
+}

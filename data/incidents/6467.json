@@ -1,0 +1,13 @@
+{
+  "id": 6467,
+  "title": "Centros de salud de Crystal Lake - Ransomware - Hunters International",
+  "date": "2023-11-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hunters International",
+  "impact": "Filtración de datos en Crystal Lake Health Centers a su",
+  "source": "nan",
+  "summary": "La banda de ransomware Hunters International agrega Crystal Lake Health Centers a su sitio de filtraciones y afirma haber exfiltrado 120 GB de datos en total, incluida información de pacientes, como detalles de contacto, números de seguro social y datos de seguros.",
+  "color": "#ef4444"
+}

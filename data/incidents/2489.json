@@ -1,0 +1,13 @@
+{
+  "id": 2489,
+  "title": "Distrito Escolar Independiente de Port Neches-Groves - Ransomware - Undetermined",
+  "date": "2019-11-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Port Neches-Groves se ve afectado",
+  "source": "https://www.databreaches.net/tx-pngisd-technology-held-for-ransom/",
+  "summary": "El Distrito Escolar Independiente de Port Neches-Groves se ve afectado por un ransomware, lo que provoca la interrupción de todas las conexiones tecnológicas.",
+  "color": "#ef4444"
+}

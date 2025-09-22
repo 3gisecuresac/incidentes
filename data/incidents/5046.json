@@ -1,0 +1,13 @@
+{
+  "id": 5046,
+  "title": "Sistemas Administrativos de Beneficios - Data leak - Undetermined",
+  "date": "2022-11-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Benefit Administrative Systems",
+  "source": "nan",
+  "summary": "Benefit Administrative Systems notifica a ciertas personas sobre la exposición de un archivo electrónico que contenía información personal identificable confidencial y al que accedieron personas no autorizadas.",
+  "color": "#a78bfa"
+}

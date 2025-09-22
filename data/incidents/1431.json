@@ -1,0 +1,13 @@
+{
+  "id": 1431,
+  "title": "Comisión de Bolsa y Valores de Estados Unidos - Data leak - Undetermined",
+  "date": "2017-09-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Bolsa",
+  "source": "https://www.sec.gov/news/press-release/2017-170",
+  "summary": "La Comisión de Bolsa y Valores de EE. UU. revela que su sistema informático fue hackeado el año pasado, lo que proporcionó a los atacantes información privada que podría haber sido utilizada para fines comerciales. La brecha se descubrió en agosto.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2840,
+  "title": "Asesoramiento y servicios comunitarios de Brandywine - Ransomware - Undetermined",
+  "date": "2020-04-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Brandywine Counseling",
+  "source": "https://www.databreaches.net/brandywine-counseling-and-community-services-notifies-patients-of-ransomware-incident/",
+  "summary": "Brandywine Counseling and Community Services notifica a los pacientes sobre un incidente de ransomware que ocurrió en febrero de 2020.",
+  "color": "#ef4444"
+}

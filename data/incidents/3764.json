@@ -1,0 +1,13 @@
+{
+  "id": 3764,
+  "title": "Diálisis de médicos - Data leak - Undetermined",
+  "date": "2021-03-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Physicians Dialysis",
+  "source": "nan",
+  "summary": "Physicians Dialysis descubre acceso no autorizado a su base de datos que contiene información personal y de salud de pacientes actuales y anteriores.",
+  "color": "#ef4444"
+}

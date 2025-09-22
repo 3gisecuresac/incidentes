@@ -1,0 +1,13 @@
+{
+  "id": 2067,
+  "title": "Condado de Jackson - Ransomware - Undetermined",
+  "date": "2019-03-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Jackson",
+  "source": "https://www.bleepingcomputer.com/news/security/ransomware-attack-on-jackson-county-gets-cybercriminals-400-000/",
+  "summary": "Un ataque de ransomware Ryuk afecta a las computadoras del condado de Jackson, Georgia, reduciendo la actividad del gobierno hasta que los funcionarios deciden pagar a los cibercriminales 400.000 dólares a cambio de la clave de descifrado de archivos.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6306,
+  "title": "Red de salud del Centro Médico de Westchester - Ransomware - Undetermined",
+  "date": "2023-10-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en TI",
+  "source": "nan",
+  "summary": "Westchester Medical Center Health Network publica un comunicado en el que advierte que el HealthAlliance Hospital, el Margaretville Hospital y el Mountainside Residential Care Center están experimentando una posible amenaza de ciberseguridad y una interrupción del sistema de TI.",
+  "color": "#a78bfa"
+}

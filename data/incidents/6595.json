@@ -1,0 +1,13 @@
+{
+  "id": 6595,
+  "title": "Rendimiento característico - Ciberataque - Undetermined",
+  "date": "2024-01-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI de la empresa",
+  "source": "nan",
+  "summary": "Signature Performance presenta un aviso de violación de datos después de enterarse de que una parte no autorizada pudo acceder a la red de TI de la empresa.",
+  "color": "#ef4444"
+}

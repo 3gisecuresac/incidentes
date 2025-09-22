@@ -1,0 +1,13 @@
+{
+  "id": 1986,
+  "title": "Distrito Escolar de Bridgeport - Ransomware - Undetermined",
+  "date": "2019-01-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Bridgeport",
+  "source": "https://www.ctpost.com/local/article/Bridgeport-Schools-computer-network-hit-by-13515819.php",
+  "summary": "El Distrito Escolar de Bridgeport, Connecticut, es atacado por un ransomware",
+  "color": "#ef4444"
+}

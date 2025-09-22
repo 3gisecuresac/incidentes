@@ -1,0 +1,13 @@
+{
+  "id": 1890,
+  "title": "Escuelas públicas de Chesapeake - Ransomware - Undetermined",
+  "date": "2018-11-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Chesapeake",
+  "source": "https://www.databreaches.net/va-chesapeake-public-schools-computer-network-affected-by-malware-from-phishing-emails/",
+  "summary": "Un malware recibido a través de correos electrónicos de phishing afecta los sistemas de las Escuelas Públicas de Chesapeake.",
+  "color": "#ef4444"
+}

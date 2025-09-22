@@ -1,0 +1,13 @@
+{
+  "id": 2625,
+  "title": "Hanna Andersson - Data leak - Undetermined",
+  "date": "2020-01-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Hanna Andersson",
+  "source": "https://www.bleepingcomputer.com/news/security/us-retailer-hanna-andersson-hacked-to-steal-credit-cards/",
+  "summary": "El fabricante estadounidense de ropa infantil y minorista en línea Hanna Andersson revela que su plataforma de compras en línea fue pirateada y se implementó un código malicioso para robar información de pago de los clientes durante casi dos meses.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 926,
+  "title": "Universidad Estatal de Carolina del Norte - Data leak - Undetermined",
+  "date": "2016-06-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Carolina del Norte",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/nc-state-breach-affects-38000/",
+  "summary": "Un atacante externo utiliza una estafa de phishing para ingresar a una cuenta de correo electrónico de la Universidad Estatal de Carolina del Norte que contiene información de identificación personal de 38.000 personas.",
+  "color": "#ef4444"
+}

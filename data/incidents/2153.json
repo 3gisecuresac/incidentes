@@ -1,0 +1,13 @@
+{
+  "id": 2153,
+  "title": "Centro de Artes Woodruff - Ransomware - Undetermined",
+  "date": "2019-04-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Artes Woodruff dice",
+  "source": "https://www.databreaches.net/security-breach-shuts-down-network-for-woodruff-arts-center-high-museum/",
+  "summary": "El Centro de Artes Woodruff dice que está investigando una violación de seguridad después de una interrupción masiva de la red, supuestamente causada por ransomware.",
+  "color": "#ef4444"
+}

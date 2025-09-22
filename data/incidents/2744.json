@@ -1,0 +1,13 @@
+{
+  "id": 2744,
+  "title": "Hospital Infantil Rady - Data leak - Undetermined",
+  "date": "2020-02-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Niños Rady notifica a los pacientes cuyos datos fueron accedidos a través de un puerto abierto en junio de 2019",
+  "source": "https://www.databreaches.net/radys-childrens-hospital-notifies-patients-whose-data-were-accessed-via-an-open-port/",
+  "summary": "El Hospital de Niños Rady notifica a los pacientes cuyos datos fueron accedidos a través de un puerto abierto en junio de 2019 y enero de 2020.",
+  "color": "#ef4444"
+}

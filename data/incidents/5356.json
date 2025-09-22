@@ -1,0 +1,13 @@
+{
+  "id": 5356,
+  "title": "Red de platos - Ransomware - Black Basta",
+  "date": "2023-02-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Black Basta",
+  "impact": "Cifrado por ransomware en Dish Network",
+  "source": "nan",
+  "summary": "El gigante estadounidense de televisión y proveedor de transmisión satelital, Dish Network, confirma que un ataque de ransomware fue la causa de una interrupción del servicio y la red que duró varios días.",
+  "color": "#ef4444"
+}

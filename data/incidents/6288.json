@@ -1,0 +1,13 @@
+{
+  "id": 6288,
+  "title": "CDW - Ransomware - LockBit 3.0",
+  "date": "2023-10-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en Sirius Federal",
+  "source": "nan",
+  "summary": "La empresa multimillonaria de servicios tecnológicos CDW dice que está investigando las acusaciones hechas por la banda de ransomware LockBit de que se robaron datos durante un ciberataque a Sirius Federal, una pequeña subsidiaria estadounidense.",
+  "color": "#ef4444"
+}

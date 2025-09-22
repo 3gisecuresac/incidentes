@@ -1,0 +1,13 @@
+{
+  "id": 5912,
+  "title": "Compañía de seguros de vida Guarantee Trust - Ciberataque - Undetermined",
+  "date": "2023-07-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Guarantee Trust Life Insurance Company",
+  "source": "nan",
+  "summary": "Guarantee Trust Life Insurance Company presenta un aviso de violación de datos después de determinar que una parte no autorizada accedió a la cuenta de correo electrónico de un empleado que contenía información confidencial del consumidor.",
+  "color": "#ef4444"
+}

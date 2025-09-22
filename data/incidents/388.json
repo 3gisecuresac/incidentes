@@ -1,0 +1,13 @@
+{
+  "id": 388,
+  "title": "Juegos del amanecer - DoS - Lizard Squad",
+  "date": "2015-02-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Lizard Squad",
+  "impact": "Sistema o cuenta comprometida en Microsoft",
+  "source": "https://nakedsecurity.sophos.com/2015/02/17/lizard-squad-returns-claims-attack-on-xbox-live-and-daybreak-games/",
+  "summary": "El grupo de hackers Lizard Squad regresa con un par de supuestos nuevos ataques contra el servicio Xbox Live de Microsoft y el servicio Daybreak, el estudio anteriormente conocido como Sony Entertainment Online.",
+  "color": "#3b82f6"
+}

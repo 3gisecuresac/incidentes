@@ -1,0 +1,13 @@
+{
+  "id": 5443,
+  "title": "Plan de Salud de San Mateo (HPSM) - Data leak - Undetermined",
+  "date": "2023-03-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Salud de San Mateo presenta un aviso de violación de datos después de enterarse de",
+  "source": "nan",
+  "summary": "El Plan de Salud de San Mateo presenta un aviso de violación de datos después de enterarse de que una parte no autorizada pudo acceder a información confidencial de un miembro almacenada en la cuenta de correo electrónico de un empleado.",
+  "color": "#ef4444"
+}

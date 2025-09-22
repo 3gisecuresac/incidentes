@@ -1,0 +1,13 @@
+{
+  "id": 3174,
+  "title": "SCL Salud - Ransomware - Undetermined",
+  "date": "2020-09-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en SCL Health",
+  "source": "https://billingsgazette.com/news/local/medical-group-announces-data-breach-of-patient-information-at-montana-hospitals/article_6ab38cde-0fe6-5048-be6f-e97c68ff3677.html",
+  "summary": "SCL Health se suma a la lista de víctimas del ataque del ransomware Blackbaud.",
+  "color": "#ef4444"
+}

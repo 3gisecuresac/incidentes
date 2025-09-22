@@ -1,0 +1,13 @@
+{
+  "id": 3595,
+  "title": "US Cellular - Data leak - Undetermined",
+  "date": "2021-01-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en USCellular",
+  "source": "nan",
+  "summary": "USCellular sufrió una violación de datos después de que piratas informáticos obtuvieron acceso a una computadora en una tienda minorista y a su red CRM.",
+  "color": "#ef4444"
+}

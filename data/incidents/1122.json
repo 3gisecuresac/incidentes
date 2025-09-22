@@ -1,0 +1,13 @@
+{
+  "id": 1122,
+  "title": "Mailchimp - Malware Attack - Undetermined",
+  "date": "2016-11-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Mailchimp",
+  "source": "https://www.vice.com/en_us/article/53dqnz/hackers-are-using-mailchimp-to-spread-malware",
+  "summary": "Los hackers comprometen la base de datos de Mailchimp y logran enviar correos electrónicos con enlaces maliciosos a suscriptores de varias empresas diferentes.",
+  "color": "#ef4444"
+}

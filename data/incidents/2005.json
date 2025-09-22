@@ -1,0 +1,13 @@
+{
+  "id": 2005,
+  "title": "Dr. DeLuca y Dr. Marciano Eye Associates - Ransomware - Undetermined",
+  "date": "2019-01-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Dr. DeLuca Dr. Marciano Eye Associates",
+  "source": "https://www.databreaches.net/ct-dr-deluca-dr-marciano-eye-associates-notify-almost-24000-patients-after-ransomware-attack/",
+  "summary": "Dr. DeLuca & Dr. Marciano Eye Associates notifican a casi 24.000 pacientes después de un ataque de ransomware.",
+  "color": "#ef4444"
+}

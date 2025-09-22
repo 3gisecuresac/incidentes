@@ -1,0 +1,13 @@
+{
+  "id": 7652,
+  "title": "Construcción de aves - Ransomware - Undetermined",
+  "date": "2020-01-26",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Bird Construction",
+  "source": "nan",
+  "summary": "Bird Construction reconoce haber sido víctima recientemente de un ataque de ransomware Maze.",
+  "color": "#ef4444"
+}

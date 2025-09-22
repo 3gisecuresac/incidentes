@@ -1,0 +1,13 @@
+{
+  "id": 7080,
+  "title": "Tripletas - DoS - OpenAI’s GPTBot crawler (botnet across ~600+ IPs)",
+  "date": "2025-01-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "OpenAI’s GPTBot crawler (botnet across ~600+ IPs)",
+  "impact": "Incidente de seguridad en Triplegangers",
+  "source": "nan",
+  "summary": "OpenAI estaba enviando “decenas de miles” de solicitudes de servidor intentando descargar el sitio completo de Triplegangers, que alberga cientos de miles de fotos.",
+  "color": "#a78bfa"
+}

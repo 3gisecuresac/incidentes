@@ -1,0 +1,13 @@
+{
+  "id": 4085,
+  "title": "California Pizza Kitchen - Data leak - Undetermined",
+  "date": "2021-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Cadena de",
+  "source": "nan",
+  "summary": "Cadena de pizzerías sufre una filtración de datos que revela los números de seguridad social de más de 100.000 empleados actuales y anteriores.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7880,
+  "title": "Merck - Manipulación de mensajes - Undetermined",
+  "date": "2024-06-30",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Mercku",
+  "source": "nan",
+  "summary": "El portal de ayuda de Mercku, un fabricante de enrutadores, está enviando correos electrónicos de phishing de MetaMask en respuesta a tickets de soporte recientemente presentados, en lo que parece ser una vulneración.",
+  "color": "#ef4444"
+}

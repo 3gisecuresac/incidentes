@@ -1,0 +1,13 @@
+{
+  "id": 6291,
+  "title": "Hospital Comunitario Morrison - Ransomware - ALPHVM",
+  "date": "2023-10-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Morrison Community Hospital a su sitio de filtraciones de la dark web",
+  "source": "nan",
+  "summary": "El grupo de ransomware ALPHV/BlackCat agrega al Morrison Community Hospital a su sitio de filtraciones de la dark web y afirma haber robado 5 TB de información de pacientes y empleados.",
+  "color": "#ef4444"
+}

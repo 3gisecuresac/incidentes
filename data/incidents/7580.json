@@ -1,0 +1,13 @@
+{
+  "id": 7580,
+  "title": "Canoa.ca - Data leak - Undetermined",
+  "date": "2017-09-02",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Sun Media Corp",
+  "source": "nan",
+  "summary": "El portal gratuito de noticias y entretenimiento Canoe.ca, operado por MediaQMI Inc. y propiedad de Sun Media Corp. antes de 2015, desea informar a los usuarios que algunas de sus bases de datos que contienen registros del período de 1996 a 2008 han sido violadas.",
+  "color": "#ef4444"
+}

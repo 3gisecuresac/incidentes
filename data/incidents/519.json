@@ -1,0 +1,13 @@
+{
+  "id": 519,
+  "title": "Ejército de los Estados Unidos - Defacement - Syrian Electronic Army",
+  "date": "2015-06-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Defacement",
+  "actor": "Syrian Electronic Army",
+  "impact": "Incidente de seguridad en Ejército de EE",
+  "source": "http://arstechnica.com/security/2015/06/us-army-website-defaced-by-syrian-electronic-army/",
+  "summary": "El sitio web oficial del Ejército de EE. UU. (army.mil) fue atacado por atacantes que afirman estar asociados con el Ejército Electrónico Sirio. Además de un mensaje en la página que se atribuye la autoría, los atacantes también incluyen un mensaje emergente para cualquiera que lo visite: Sus comandantes admiten que están entrenando a quienes los han enviado a morir combatiendo.",
+  "color": "#a78bfa"
+}

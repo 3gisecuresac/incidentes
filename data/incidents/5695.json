@@ -1,0 +1,13 @@
+{
+  "id": 5695,
+  "title": "Grupo Financiero Global Atlantic - Data leak - cl0p",
+  "date": "2023-05-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Pension Benefit Information",
+  "source": "nan",
+  "summary": "Global Atlantic Financial Group presenta un aviso de violación de datos después de descubrir la violación de datos relacionada con MOVEit en Pension Benefit Information.",
+  "color": "#ef4444"
+}

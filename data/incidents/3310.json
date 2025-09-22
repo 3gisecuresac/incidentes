@@ -1,0 +1,13 @@
+{
+  "id": 3310,
+  "title": "Distrito escolar del condado de Yazoo - Ransomware - Undetermined",
+  "date": "2020-10-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Condado de Yazoo vota",
+  "source": "https://www.infosecurity-magazine.com/news/cyberattack-on-mississippi-schools/",
+  "summary": "El Distrito Escolar del Condado de Yazoo vota para pagarle a una empresa $300,000 para recuperar archivos cifrados por actores de amenazas de ransomware.",
+  "color": "#ef4444"
+}

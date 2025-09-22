@@ -1,0 +1,13 @@
+{
+  "id": 6921,
+  "title": "Aeropuerto Internacional de Seattle-Tacoma - DoS - Undetermined",
+  "date": "2024-08-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Seattle-Tacoma confirma",
+  "source": "nan",
+  "summary": "El Aeropuerto Internacional de Seattle-Tacoma confirma que es probable que un ciberataque esté detrás de la actual falla de los sistemas informáticos que interrumpió los sistemas de registro de reservas y retrasó los vuelos durante el fin de semana.",
+  "color": "#a78bfa"
+}

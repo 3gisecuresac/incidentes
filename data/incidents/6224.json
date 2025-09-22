@@ -1,0 +1,13 @@
+{
+  "id": 6224,
+  "title": "Centro Médico Comunitario Primero - Ciberataque - Undetermined",
+  "date": "2023-09-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Community First Medical Center CFMC",
+  "source": "nan",
+  "summary": "Community First Medical Center (CFMC) presenta un aviso de violación de datos después de descubrir que una parte no autorizada accedió al sistema informático de la empresa.",
+  "color": "#ef4444"
+}

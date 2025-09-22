@@ -1,0 +1,13 @@
+{
+  "id": 5799,
+  "title": "iOttie - Data leak - Undetermined",
+  "date": "2023-06-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida",
+  "source": "nan",
+  "summary": "El fabricante de soportes para automóviles y accesorios móviles iOttie advierte que su sitio estuvo comprometido durante casi dos meses para robar tarjetas de crédito e información personal de los compradores en línea.",
+  "color": "#3b82f6"
+}

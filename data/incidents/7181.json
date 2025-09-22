@@ -1,0 +1,13 @@
+{
+  "id": 7181,
+  "title": "Departamento de Seguridad Pública del Condado de Lycoming - Ransomware - Undetermined",
+  "date": "2025-08-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Departamento de Seguridad Pública del Condado de Lycoming durante un ataque de ransomware detectado el 12 de agosto de 2025",
+  "source": "nan",
+  "summary": "Números de licencia de conducir y otra información personal identificable (PII) fueron extraídos del Departamento de Seguridad Pública del Condado de Lycoming durante un ataque de ransomware detectado el 12 de agosto de 2025. Las autoridades confirmaron que los ciberdelincuentes robaron datos, pero no informaron de ningún cifrado. El número de personas afectadas sigue sin revelarse.",
+  "color": "#ef4444"
+}

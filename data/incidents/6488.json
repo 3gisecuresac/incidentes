@@ -1,0 +1,13 @@
+{
+  "id": 6488,
+  "title": "Alpes América del Norte Alpina - Ransomware - Undetermined",
+  "date": "2023-11-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Alps Alpine North America",
+  "source": "nan",
+  "summary": "Alps Alpine North America presenta un aviso de violación de datos después de descubrir que la empresa fue víctima de un ataque de ransomware en julio de 2023.",
+  "color": "#ef4444"
+}

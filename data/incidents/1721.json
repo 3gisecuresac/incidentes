@@ -1,0 +1,13 @@
+{
+  "id": 1721,
+  "title": "ZenCash - DoS - Undetermined",
+  "date": "2018-06-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en ZenCash una",
+  "source": "https://news.bitcoin.com/bitcoin-in-brief-monday-zencash-targeted-in-51-attack-ticketfly-hijacked-for-ransom/",
+  "summary": "ZenCash, una futura moneda de privacidad, es víctima de un ataque del 51%.",
+  "color": "#a78bfa"
+}

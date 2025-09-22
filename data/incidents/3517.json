@@ -1,0 +1,13 @@
+{
+  "id": 3517,
+  "title": "CrowdSurge - Data leak - Ticketmaster",
+  "date": "2020-12-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Ticketmaster",
+  "impact": "Incidente de seguridad en CrowdSurge",
+  "source": "nan",
+  "summary": "Ticketmaster ha sido multado con 10 millones de dólares por acceder ilegalmente a los sistemas de CrowdSurge, uno de sus competidores.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7800,
+  "title": "Colegio Okanagan - Ciberataque - Undetermined",
+  "date": "2023-01-09",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Okanagan College no pueden acceder a los servicios de red del campus después de un ciberataque",
+  "source": "nan",
+  "summary": "Casi 16.000 estudiantes y 1.200 empleados del Okanagan College no pueden acceder a los servicios de red del campus después de un ciberataque.",
+  "color": "#a78bfa"
+}

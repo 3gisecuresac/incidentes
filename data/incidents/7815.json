@@ -1,0 +1,13 @@
+{
+  "id": 7815,
+  "title": "Software de constelación - Ransomware - ALPHVM",
+  "date": "2023-04-03",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Constellation Software",
+  "source": "nan",
+  "summary": "La empresa canadiense de software diversificado Constellation Software confirma que algunos de sus sistemas fueron vulnerados por cibercriminales que también robaron información personal y datos empresariales. Los grupos de ransomware BlackCat se atribuyen la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

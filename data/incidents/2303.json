@@ -1,0 +1,13 @@
+{
+  "id": 2303,
+  "title": "Cómodo - Data leak - Undetermined",
+  "date": "2019-07-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Internet",
+  "source": "https://techcrunch.com/2019/07/27/comodo-password-access-data/",
+  "summary": "Un hacker obtiene acceso a archivos y documentos internos propiedad de la empresa de seguridad y antiguo emisor de certificados SSL Comodo utilizando una dirección de correo electrónico y una contraseña expuestas por error en Internet (GitHub).",
+  "color": "#ef4444"
+}

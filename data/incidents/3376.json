@@ -1,0 +1,13 @@
+{
+  "id": 3376,
+  "title": "Universidad de California, Davis - Malware Attack - Undetermined",
+  "date": "2020-10-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Inky revelan",
+  "source": "https://threatpost.com/university-email-hijacking-phishing-malwarephishing-malware/160735/",
+  "summary": "Investigadores de Inky revelan que los cibercriminales están secuestrando cuentas de correo electrónico legítimas de más de una docena de universidades 'ÃÆÃ¢â¬Â 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ 'ÃÆÃ'Ãâ ''ÃÆÃ''ÃÆ'Ã'ÃÂ¢ÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â ''ÃÆÃ'Ãâ 'ÃÆ'Ã'ÃÂ¢'ÃÆÃ''ÃÆ'Ã'ÃÂ¬ incluida la Universidad de California, Davis ÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ 'ÃÆÃ'Ãâ 'ÃÆÃÂ¢ÃÂ¢'ÃÂ¬Ã'ÃÂ 'ÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â '''ÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ 'ÃÆÃ'Ãâ ''ÃÆÃ''ÃÆ'Ã'ÃÂ¢ÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â ''ÃÆÃ'Ãâ 'ÃÆ'Ã'ÃÂ¢'ÃÆÃ''ÃÆ'Ã'ÃÂ¬ y usar las cuentas para evadir la detección y engañar a las víctimas para que entreguen sus credenciales de correo electrónico o instalen malware.",
+  "color": "#a78bfa"
+}

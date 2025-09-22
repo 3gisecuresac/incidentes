@@ -1,0 +1,13 @@
+{
+  "id": 817,
+  "title": "Mercado de agricultores de Sprouts - Data leak - Undetermined",
+  "date": "2016-03-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Sprouts Farmers Market",
+  "source": "https://www.scmagazine.com/home/security-news/w-2-data-breach-places-21k-sprouts-farmers-market-employees-at-risk/",
+  "summary": "Sprouts Farmers Market es víctima de una estafa de phishing W-2, y la empresa admite que un empleado envió los datos fiscales de todos sus trabajadores a una persona desconocida.",
+  "color": "#ef4444"
+}

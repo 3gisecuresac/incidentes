@@ -1,0 +1,13 @@
+{
+  "id": 3583,
+  "title": "Condado de Georgetown - Ransomware - Undetermined",
+  "date": "2021-01-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Georgetown",
+  "source": "nan",
+  "summary": "El condado de Georgetown, Carolina del Sur, ha sufrido una grave violación de infraestructura que está afectando a la mayoría de sus sistemas electrónicos.",
+  "color": "#a78bfa"
+}

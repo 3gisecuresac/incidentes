@@ -1,0 +1,13 @@
+{
+  "id": 103,
+  "title": "Kaiser Permanente - Data leak - Undetermined",
+  "date": "2014-02-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Investigación de Kaiser Permanente del Norte de California",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/malware-on-kaiser-permanente-server-since-2011-impacts-5100-members/",
+  "summary": "El proveedor de servicios de salud Kaiser Permanente notifica a aproximadamente 5.100 miembros que su información personal puede estar en riesgo después de que se descubriera malware en un servidor utilizado por la División de Investigación de Kaiser Permanente del Norte de California.",
+  "color": "#a78bfa"
+}

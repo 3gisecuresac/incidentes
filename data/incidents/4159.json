@@ -1,0 +1,13 @@
+{
+  "id": 4159,
+  "title": "Soluciones VPN LLC - Ransomware - Undetermined",
+  "date": "2021-10-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en VPN Solutions",
+  "source": "nan",
+  "summary": "VPN Solutions sufre un ataque de ransomware y varios clientes carecen de acceso a sus datos meses después del ataque.",
+  "color": "#ef4444"
+}

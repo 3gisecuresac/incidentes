@@ -1,0 +1,13 @@
+{
+  "id": 7400,
+  "title": "Aeropuerto Intercontinental de Querétaro - Ransomware - LockBit 3.0",
+  "date": "2023-10-30",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Querétaro confirma informes de un ataque",
+  "source": "nan",
+  "summary": "El Aeropuerto Intercontinental de Querétaro confirma informes de un ataque. La banda de ransomware LockBit se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

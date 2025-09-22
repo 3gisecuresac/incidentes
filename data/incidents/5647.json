@@ -1,0 +1,13 @@
+{
+  "id": 5647,
+  "title": "Universidad Mercer - Ransomware - Akira",
+  "date": "2023-05-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Akira",
+  "impact": "Cifrado por ransomware en La Universidad Mercer",
+  "source": "nan",
+  "summary": "La Universidad Mercer revela haber sufrido un incidente de ciberseguridad y anuncia que los atacantes robaron información confidencial de estudiantes, padres y empleados. El grupo de ransomware Akira se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

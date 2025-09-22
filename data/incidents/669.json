@@ -1,0 +1,13 @@
+{
+  "id": 669,
+  "title": "http://www.c4forums.com - Data leak - Eggfather",
+  "date": "2015-11-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Eggfather",
+  "impact": "Cifrado por ransomware en c4forums.com",
+  "source": "https://web.archive.org/web/20190118013142/http://siph0n.in/exploits.php?id=4194",
+  "summary": "Eggfather hackea c4forums.com y descarga 15.276 nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

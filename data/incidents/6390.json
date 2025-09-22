@@ -1,0 +1,13 @@
+{
+  "id": 6390,
+  "title": "Terapia de infusión Healix - Ciberataque - Undetermined",
+  "date": "2023-11-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Healix Infusion Therapy Healix",
+  "source": "nan",
+  "summary": "Healix Infusion Therapy (Healix) presenta un aviso de violación de datos después de descubrir que una parte no autorizada pudo acceder a información confidencial que se había proporcionado a la empresa.",
+  "color": "#ef4444"
+}

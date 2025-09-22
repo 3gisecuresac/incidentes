@@ -1,0 +1,13 @@
+{
+  "id": 5824,
+  "title": "Hipoteca AmeriSave - Ransomware - cl0p",
+  "date": "2023-06-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Cifrado por ransomware en MOVEit",
+  "source": "nan",
+  "summary": "AmeriSave Mortgage figura entre las víctimas de la campaña de la banda de ransomware Clop que explota la vulnerabilidad CVE-2023-34362 de MOVEit.",
+  "color": "#ef4444"
+}

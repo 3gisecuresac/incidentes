@@ -1,0 +1,13 @@
+{
+  "id": 2329,
+  "title": "Hoteles Choice - Data leak - Undetermined",
+  "date": "2019-08-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Choice Hotels",
+  "source": "https://www.comparitech.com/blog/vpn-privacy/choice-hotels-data-leak/",
+  "summary": "Hackers afirman haber robado 700.000 registros de huéspedes de Choice Hotels, una de las cadenas hoteleras más grandes del mundo. Los datos quedaron expuestos en una base de datos MongoDB no segura.",
+  "color": "#ef4444"
+}

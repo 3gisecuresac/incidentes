@@ -1,0 +1,13 @@
+{
+  "id": 7361,
+  "title": "No. 2 Banorte - Data leak - Undetermined",
+  "date": "2018-05-12",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Banorte",
+  "source": "nan",
+  "summary": "Los ladrones extrajeron 300 millones de pesos (15,4 millones de dólares) de cinco bancos mexicanos, incluido el número dos, Banorte, creando órdenes fantasma que transferían fondos a cuentas falsas y retiraban el dinero rápidamente.",
+  "color": "#a78bfa"
+}

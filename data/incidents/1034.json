@@ -1,0 +1,13 @@
+{
+  "id": 1034,
+  "title": "Uniwell - Data leak - Carbanak",
+  "date": "2016-08-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Carbanak",
+  "impact": "Incidente de seguridad en Forbes",
+  "source": "http://www.forbes.com/sites/thomasbrewster/2016/08/11/oracle-micros-hackers-breach-five-point-of-sale-providers/",
+  "summary": "Forbes revela que la banda Carbanak también atacó a cinco proveedores más de cajas registradoras.",
+  "color": "#a78bfa"
+}

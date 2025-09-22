@@ -1,0 +1,13 @@
+{
+  "id": 7088,
+  "title": "Grupo médico Frederick Health - Ransomware - Undetermined",
+  "date": "2025-01-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Frederick Health",
+  "source": "nan",
+  "summary": "Frederick Health desconectó sus sistemas tras un ataque de ransomware, lo que provocó retrasos en el servicio. La atención al paciente sigue siendo la máxima prioridad mientras continúa la investigación.",
+  "color": "#ef4444"
+}

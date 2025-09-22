@@ -1,0 +1,13 @@
+{
+  "id": 5541,
+  "title": "Departamento de Policía del Condado de Camden - Ransomware - Undetermined",
+  "date": "2023-04-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Camden",
+  "source": "nan",
+  "summary": "El departamento de policía del condado de Camden, Nueva Jersey, confirmó que fue víctima de un ataque de ransomware y todavía está investigando el incidente.",
+  "color": "#ef4444"
+}

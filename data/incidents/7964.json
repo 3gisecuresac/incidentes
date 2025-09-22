@@ -1,0 +1,13 @@
+{
+  "id": 7964,
+  "title": "Electronuclear - Ransomware - Undetermined",
+  "date": "2021-02-04",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Angra 1 y Angra 2",
+  "source": "nan",
+  "summary": "Una filial de energía nuclear de la brasileña Eletrobras sufrió un ataque de malware, pero sus operaciones no se vieron afectadas. La red atacada por el ransomware no está relacionada con los sistemas operativos de las centrales nucleares Angra 1 y Angra 2, según Electrobras.",
+  "color": "#ef4444"
+}

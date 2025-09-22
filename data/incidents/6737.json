@@ -1,0 +1,13 @@
+{
+  "id": 6737,
+  "title": "Administración de puntos de referencia - Ciberataque - Undetermined",
+  "date": "2024-06-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Landmark Admin",
+  "source": "nan",
+  "summary": "La compañía de seguros de vida Landmark Admin envía notificaciones a un número desconocido de personas sobre una violación de datos que afecta la información personal, médica y de seguros.",
+  "color": "#ef4444"
+}

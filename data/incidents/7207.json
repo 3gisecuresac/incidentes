@@ -1,0 +1,13 @@
+{
+  "id": 7207,
+  "title": "Typeform - Data leak - Undetermined",
+  "date": "2018-06-29",
+  "country": "España",
+  "region": "Europa",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Barcelona",
+  "source": "nan",
+  "summary": "Typeform, servicio de creación de encuestas y formularios en línea con sede en Barcelona, ​​anuncia una filtración de datos después de que un atacante desconocido descargara una copia de seguridad con información confidencial de sus clientes. Esta copia contenía datos recopilados por los clientes de Typeform mediante encuestas y formularios en línea hasta el 3 de mayo de 2018.",
+  "color": "#ef4444"
+}

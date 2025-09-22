@@ -1,0 +1,13 @@
+{
+  "id": 3037,
+  "title": "Asociación Dental Británica - Ransomware - Undetermined",
+  "date": "2020-07-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en La Asociaci",
+  "source": "https://www.databreaches.net/uk-dentists-may-have-had-bank-details-stolen-following-data-breach/",
+  "summary": "La Asociación Dental Británica sufre un ataque de ransomware y posiblemente tenga expuesta información sensible de sus miembros.",
+  "color": "#ef4444"
+}

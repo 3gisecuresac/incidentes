@@ -1,0 +1,13 @@
+{
+  "id": 2967,
+  "title": "Frost y Sullivan - Data leak - Kelvin Security",
+  "date": "2020-06-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Kelvin Security",
+  "impact": "Filtración de datos en Internet se vendieran en un foro de piratas informáticos",
+  "source": "https://www.bleepingcomputer.com/news/security/exposed-frost-and-sullivan-databases-for-sale-on-hacking-forum/",
+  "summary": "La consultora estadounidense Frost & Sullivan sufre una violación de seguridad después de que datos de una carpeta de respaldo no segura expuesta en Internet se vendieran en un foro de piratas informáticos.",
+  "color": "#ef4444"
+}

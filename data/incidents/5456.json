@@ -1,0 +1,13 @@
+{
+  "id": 5456,
+  "title": "Saks Fifth Avenue - Ransomware - cl0p",
+  "date": "2023-03-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Saks Fifth Avenue en su",
+  "source": "nan",
+  "summary": "La banda de ransomware Clop afirma haber atacado Saks Fifth Avenue en su sitio de filtraciones de la dark web.",
+  "color": "#ef4444"
+}

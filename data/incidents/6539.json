@@ -1,0 +1,13 @@
+{
+  "id": 6539,
+  "title": "Salud Bellin - Data leak - Undetermined",
+  "date": "2023-12-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Bellin Health",
+  "source": "nan",
+  "summary": "Bellin Health anuncia que un tercero no autorizado obtuvo acceso a sus sistemas internos y es posible que haya visto o adquirido la información de pacientes que compraron equipos de atención domiciliaria entre 2006 y 2013.",
+  "color": "#a78bfa"
+}

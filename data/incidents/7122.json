@@ -1,0 +1,13 @@
+{
+  "id": 7122,
+  "title": "Casino Rivers de Filadelfia - Ransomware - Cicada3301",
+  "date": "2024-10-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Cicada3301",
+  "impact": "Filtración de datos en Rivers Casino Philadelphia",
+  "source": "nan",
+  "summary": "Rivers Casino Philadelphia reveló que, entre el 14 y el 22 de octubre de 2024, un actor no autorizado accedió y extrajo datos de clientes, incluyendo nombres, números de seguro social, datos bancarios y números de licencia de conducir. Se emitieron notificaciones el 30 de diciembre de 2024 y se presentaron documentos públicos el 16 de febrero de 2025. El grupo de ransomware Cicada3301 se atribuyó la responsabilidad, afirmando haber robado 2,56 TB de datos. Rivers Casino ofreció servicios de protección de identidad a los clientes afectados.",
+  "color": "#ef4444"
+}

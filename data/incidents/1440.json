@@ -1,0 +1,13 @@
+{
+  "id": 1440,
+  "title": "Mercado de alimentos integrales - Infección Dispositivos - Undetermined",
+  "date": "2017-09-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Whole Foods Market",
+  "source": "https://www.reuters.com/article/us-amazon-com-cyber/whole-foods-says-taprooms-restaurants-hacked-idUSKCN1C33DF",
+  "summary": "Whole Foods Market afirma que se ha robado información de tarjetas de pago de bares, restaurantes y otros lugares ubicados dentro de algunas de sus tiendas.",
+  "color": "#a78bfa"
+}

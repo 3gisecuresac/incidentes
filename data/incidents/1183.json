@@ -1,0 +1,13 @@
+{
+  "id": 1183,
+  "title": "Estudiantes universitarios de todo Estados Unidos - Data leak - Undetermined",
+  "date": "2017-01-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Denuncias de Delitos en Internet del FBI publica una alerta contra una estafa",
+  "source": "https://www.ic3.gov/media/2017/170118.aspx",
+  "summary": "El Centro de Denuncias de Delitos en Internet del FBI publica una alerta contra una estafa que engaña a estudiantes universitarios para que depositen cheques fraudulentos en sus cuentas bancarias.",
+  "color": "#a78bfa"
+}

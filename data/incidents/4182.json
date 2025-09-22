@@ -1,0 +1,13 @@
+{
+  "id": 4182,
+  "title": "Voluntarios de América del Suroeste de California - Data leak - Undetermined",
+  "date": "2021-11-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en California sufre un ataque de phishing",
+  "source": "nan",
+  "summary": "Organización de servicios sociales de California sufre un ataque de phishing que compromete la información de sus clientes.",
+  "color": "#ef4444"
+}

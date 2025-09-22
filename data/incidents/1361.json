@@ -1,0 +1,13 @@
+{
+  "id": 1361,
+  "title": "Corporación Operativa Nuclear Wolf Creek - Data leak - SVR (COZYBEAR)",
+  "date": "2017-06-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (COZYBEAR)",
+  "impact": "Sistema o cuenta comprometida en Estados Unidos",
+  "source": "https://www.washingtonpost.com/world/national-security/us-officials-say-russian-government-hackers-have-penetrated-energy-and-nuclear-company-business-networks/2017/07/08/bbfde9a2-638b-11e7-8adc-fea80e32bf47_story.html",
+  "summary": "Un actor de amenazas atacó a empleados de empresas que operan centrales nucleares en Estados Unidos, lo que provocó que el Departamento de Seguridad Nacional y el FBI emitieran una alerta para la industria. Una red administrativa de Wolf Creek Nuclear Operating Corporation se vio comprometida.",
+  "color": "#3b82f6"
+}

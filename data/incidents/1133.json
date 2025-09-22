@@ -1,0 +1,13 @@
+{
+  "id": 1133,
+  "title": "Escuelas públicas del condado de Frederick - Data leak - Undetermined",
+  "date": "2016-12-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Condado de Frederick en Maryland hayan quedado expuestos en una filtración de datos",
+  "source": "https://www.scmagazine.com/ancient-breach-discovered-1k-former-maryland-public-students-affected/article/579311/",
+  "summary": "Es probable que los datos de aproximadamente 1.000 ex alumnos de las Escuelas Públicas del Condado de Frederick en Maryland hayan quedado expuestos en una filtración de datos que ocurrió antes de 2010, pero que recién se descubrió en septiembre de este año.",
+  "color": "#ef4444"
+}

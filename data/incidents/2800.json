@@ -1,0 +1,13 @@
+{
+  "id": 2800,
+  "title": "Kimchuk - Ransomware - INDRIK SPIDER",
+  "date": "2020-03-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Cifrado por ransomware en Kimchuk",
+  "source": "https://techcrunch.com/2020/03/26/kimchuk-medical-military-ransomware/",
+  "summary": "Kimchuk, fabricante de electrónica médica y militar, se ve afectado por el ransomware DoppelPaymer",
+  "color": "#ef4444"
+}

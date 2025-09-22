@@ -1,0 +1,13 @@
+{
+  "id": 3007,
+  "title": "GEDMatch - Data leak - Undetermined",
+  "date": "2020-07-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en ADN están disponibles",
+  "source": "https://www.buzzfeednews.com/article/peteraldhous/hackers-gedmatch-dna-privacy",
+  "summary": "Más de un millón de perfiles de ADN están disponibles para buscar en GEDMatch después de que el portal de genealogía fuera hackeado.",
+  "color": "#3b82f6"
+}

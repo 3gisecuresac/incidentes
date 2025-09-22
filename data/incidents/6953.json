@@ -1,0 +1,13 @@
+{
+  "id": 6953,
+  "title": "Capa propia - Data leak - Undetermined",
+  "date": "2024-10-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en EigenLayer afirma estar investigando una venta no autorizada de aproximadamente 1",
+  "source": "nan",
+  "summary": "El equipo de EigenLayer afirma estar investigando una venta no autorizada de aproximadamente 1,6 millones de tokens EIGEN de EigenLayer, con un valor aproximado de 5,7 millones de dólares. En una actualización posterior, la compañía revela que el incidente se debió a un ataque informático, después de que un atacante malicioso comprometiera un hilo de correo electrónico relacionado con la transferencia de tokens de un inversor.",
+  "color": "#3b82f6"
+}

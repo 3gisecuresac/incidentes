@@ -1,0 +1,13 @@
+{
+  "id": 5143,
+  "title": "Grupo de Tecnología del Oeste (WTG) - Data leak - Undetermined",
+  "date": "2022-12-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en West Technology Group WTG",
+  "source": "nan",
+  "summary": "West Technology Group (WTG) presenta un aviso de violación de datos después de confirmar que una parte no autorizada pudo acceder y eliminar información confidencial de los empleados de la red informática de la empresa.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2811,
+  "title": "Wolfe & Asociados - Data leak - Gordon Welterlen; Nicole Milan",
+  "date": "2020-04-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Gordon Welterlen; Nicole Milan",
+  "impact": "Filtración de datos en San Diego",
+  "source": "https://www.databreaches.net/ca-serious-prison-time-for-hackers-behind-wolf-associates-breach/",
+  "summary": "Wolfe & Associates, Servicios Inmobiliarios, revela que una base de datos en línea fue comprometida por ciberdelincuentes en una filtración de datos que podría haber ocurrido hace seis meses. En enero de 2021, Gordon Welterlen y Nicole Milan, residentes de San Diego, admitieron haber pirateado a Wolfe & Associates y haber robado la identidad de más de 9,000 clientes. Usaron esa información con fines fraudulentos.",
+  "color": "#ef4444"
+}

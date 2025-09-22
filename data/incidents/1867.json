@@ -1,0 +1,13 @@
+{
+  "id": 1867,
+  "title": "Distrito Escolar de Henderson - Data leak - Undetermined",
+  "date": "2018-10-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Henderson",
+  "source": "https://www.scmagazine.com/home/security-news/bec-attack-scamstexas-school-district-out-of-600000/",
+  "summary": "El distrito escolar de Henderson, Texas, sufrió un ataque de correo electrónico empresarial comprometido (BEC), lo que le ocasionó una pérdida de $600,000. El ataque tuvo lugar el 26 de septiembre.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7179,
+  "title": "Ciudad de Greenville (TX) - Ransomware - Undetermined",
+  "date": "2025-08-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Greenville",
+  "source": "nan",
+  "summary": "Los piratas informáticos implementaron ransomware dirigido a la infraestructura de servidores de Greenville, afectando los servicios de la ciudad y la facturación de servicios públicos en el condado de Hunt; el servicio de emergencia 911 no se vio afectado y no se informó de ninguna violación de datos personales.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2252,
+  "title": "Un buque en viaje internacional con destino al puerto de Nueva York. - Ransomware - Undetermined",
+  "date": "2019-07-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estados Unidos publica una alerta",
+  "source": "https://www.zdnet.com/article/us-coast-guard-warns-about-malware-designed-to-disrupt-ships-computer-systems/",
+  "summary": "La Guardia Costera de Estados Unidos publica una alerta tras conocerse un incidente de ciberseguridad que afectó a un buque en un viaje internacional con destino al Puerto de Nueva York.",
+  "color": "#a78bfa"
+}

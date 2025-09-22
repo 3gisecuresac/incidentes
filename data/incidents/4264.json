@@ -1,0 +1,13 @@
+{
+  "id": 4264,
+  "title": "Condado de Boulder - Data leak - Undetermined",
+  "date": "2022-01-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Boulder logró recuperar casi $238",
+  "source": "nan",
+  "summary": "El condado de Boulder logró recuperar casi $238,000 que envió por error a una cuenta fraudulenta después de una estafa de phishing en septiembre.",
+  "color": "#ef4444"
+}

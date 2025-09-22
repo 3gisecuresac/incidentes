@@ -1,0 +1,13 @@
+{
+  "id": 5150,
+  "title": "GitHub - Data leak - Undetermined",
+  "date": "2022-12-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Desktop y Atom",
+  "source": "nan",
+  "summary": "GitHub dice que atacantes desconocidos robaron certificados de firma de código cifrados para sus aplicaciones Desktop y Atom después de obtener acceso a algunos de sus repositorios de desarrollo y planificación de lanzamiento.",
+  "color": "#ef4444"
+}

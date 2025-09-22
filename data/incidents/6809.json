@@ -1,0 +1,13 @@
+{
+  "id": 6809,
+  "title": "Corriente de viento - DoS - Undetermined",
+  "date": "2023-10-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Lumen Technologies revelan los detalles de 'Pumpkin Eclipse'",
+  "source": "nan",
+  "summary": "Investigadores de Lumen Technologies revelan los detalles de 'Pumpkin Eclipse', un evento en el que atacantes desconocidos irrumpieron en más de 600.000 enrutadores pertenecientes a un solo ISP y desplegaron malware (un malware básico denominado Chalubo) en los dispositivos antes de deshabilitarlos por completo.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3148,
+  "title": "Sitio web del gobierno del condado de St. Louis - Data leak - Undetermined",
+  "date": "2020-09-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en St",
+  "source": "https://www.stltoday.com/news/local/govt-and-politics/hackers-tried-to-slip-trojan-viruses-into-st-louis-county-s-website-but-never-got/article_6a021642-0d7b-5f70-812e-125a67ff8b38.html",
+  "summary": "El personal de tecnología de la información del gobierno del condado de St. Louis desactivó el sitio web del condado el 1 de septiembre tras descubrir ataques a su servidor diseñados para tomar el control del sitio, según declaró el director de TI el lunes. Pudieron responder a la amenaza antes de que los hackers tuvieran éxito.",
+  "color": "#3b82f6"
+}

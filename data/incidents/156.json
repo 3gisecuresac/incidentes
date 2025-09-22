@@ -1,0 +1,13 @@
+{
+  "id": 156,
+  "title": "Universidad de California en Irvine - Data leak - Undetermined",
+  "date": "2014-05-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en California",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/keylogger-malware-found-on-three-uc-irvine-health-center-computers/",
+  "summary": "Más de 1.800 estudiantes de la Universidad de California (UC), Irvine, fueron notificados de que su información personal podría haber sido comprometida luego de que se descubriera malware keylogger en tres computadoras del Centro de Salud Estudiantil (SHC) durante aproximadamente seis semanas.",
+  "color": "#3b82f6"
+}

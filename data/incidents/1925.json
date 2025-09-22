@@ -1,0 +1,13 @@
+{
+  "id": 1925,
+  "title": "Centros de tratamiento del cáncer de América - Data leak - Undetermined",
+  "date": "2018-12-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Cancer Treatment Centers of America",
+  "source": "https://uk.reuters.com/article/us-usa-puertorico-cyberattack/puerto-rico-power-utility-hacked-but-customer-data-not-at-risk-idUKKBN1GV30A",
+  "summary": "Cancer Treatment Centers of America notifica a casi 42.000 pacientes sobre un posible acceso a su información médica protegida después de un ataque de phishing ocurrido el 2 de mayo y descubierto el 26 de septiembre.",
+  "color": "#ef4444"
+}

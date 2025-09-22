@@ -1,0 +1,13 @@
+{
+  "id": 3719,
+  "title": "University of Texas at El Paso - DoS - Undetermined",
+  "date": "2021-03-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Texas en El Paso se desconectó",
+  "source": "nan",
+  "summary": "La red informática de la Universidad de Texas en El Paso se desconectó tras detectarse una intrusión potencialmente maliciosa. El correo electrónico y el servidor que aloja el sitio web de la universidad se vieron afectados por el incidente, lo que obligó a profesores y estudiantes a comunicarse a través de Blackboard. El ciberataque también provocó el cierre de los centros de pruebas de COVID-19 sin cita previa de la universidad.",
+  "color": "#3b82f6"
+}

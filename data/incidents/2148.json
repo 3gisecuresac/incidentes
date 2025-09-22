@@ -1,0 +1,13 @@
+{
+  "id": 2148,
+  "title": "Escuelas del condado de Scott - Data leak - Undetermined",
+  "date": "2019-04-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Scott anuncian",
+  "source": "https://www.databreaches.net/ky-scott-county-schools-victim-of-3-7-million-scam/",
+  "summary": "Las escuelas del condado de Scott anuncian que el distrito fue víctima de una estafa en línea de $3,7 millones, cuando un proveedor no revelado le dijo al distrito que nunca le habían pagado una factura.",
+  "color": "#a78bfa"
+}

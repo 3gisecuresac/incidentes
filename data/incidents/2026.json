@@ -1,0 +1,13 @@
+{
+  "id": 2026,
+  "title": "Farmacia - Data leak - Undetermined",
+  "date": "2019-02-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Pharmaca",
+  "source": "https://www.databreaches.net/pharmaca-notifies-customers-of-payment-card-breach-affecting-brick-and-mortar-stores/",
+  "summary": "Pharmaca notifica a sus clientes sobre una filtración de datos de tarjetas de pago que afecta a varios establecimientos minoristas. El incidente ocurrió entre el 19 de julio y el 12 de diciembre de 2018.",
+  "color": "#ef4444"
+}

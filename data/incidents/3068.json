@@ -1,0 +1,13 @@
+{
+  "id": 3068,
+  "title": "Pulso seguro - Data leak - Undetermined",
+  "date": "2020-08-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Pulse Secure VPN",
+  "source": "https://www.databreaches.net/hacker-leaks-passwords-for-900-enterprise-vpn-servers/",
+  "summary": "Un hacker ha publicado hoy una lista de nombres de usuario y contraseñas en texto simple, junto con direcciones IP de más de 900 servidores empresariales Pulse Secure VPN.",
+  "color": "#3b82f6"
+}

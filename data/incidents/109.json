@@ -1,0 +1,13 @@
+{
+  "id": 109,
+  "title": "EA - Manipulación de mensajes - Undetermined",
+  "date": "2014-03-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Electronic Arts fue violado",
+  "source": "http://www.cnet.com/uk/news/hackers-transform-ea-web-page-into-apple-id-phishing-scheme/",
+  "summary": "Uno de los servidores de Electronic Arts fue violado, lo que permitió a los piratas informáticos crear una pantalla de inicio de sesión de Apple falsa que solicita a los usuarios información personal.",
+  "color": "#a78bfa"
+}

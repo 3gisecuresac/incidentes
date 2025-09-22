@@ -1,0 +1,13 @@
+{
+  "id": 3730,
+  "title": "Health Net LLC - Data leak - TA505",
+  "date": "2021-03-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "TA505",
+  "impact": "Incidente de seguridad en Health Net LLC",
+  "source": "nan",
+  "summary": "Health Net LLC se suma a la lista de víctimas afectadas por la vulnerabilidad Accellion.",
+  "color": "#a78bfa"
+}

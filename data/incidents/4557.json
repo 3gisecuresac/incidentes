@@ -1,0 +1,13 @@
+{
+  "id": 4557,
+  "title": "Condado de Linn - Ransomware - Conti",
+  "date": "2022-05-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Conti",
+  "impact": "Filtración de datos en Linn",
+  "source": "nan",
+  "summary": "La banda de ransomware Conti publica todos los datos que robó durante un ataque de enero a los servidores gubernamentales del condado de Linn.",
+  "color": "#ef4444"
+}

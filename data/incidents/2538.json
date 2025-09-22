@@ -1,0 +1,13 @@
+{
+  "id": 2538,
+  "title": "Ciudad de East Greenwich - Ransomware - Undetermined",
+  "date": "2019-12-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en East Greenwich se ve afectada",
+  "source": "https://www.databreaches.net/ri-east-greenwich-town-computers-fall-victim-to-ransomware-attack/",
+  "summary": "La ciudad de East Greenwich se ve afectada por un ataque de ransomware.",
+  "color": "#ef4444"
+}

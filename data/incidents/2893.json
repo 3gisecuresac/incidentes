@@ -1,0 +1,13 @@
+{
+  "id": 2893,
+  "title": "W&T Offshore - Ransomware - Water Roc",
+  "date": "2020-05-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Water Roc",
+  "impact": "Filtración de datos en W&T Offshore Inc",
+  "source": "https://www.databreaches.net/oil-and-gas-hackers-chase-bigger-pandemic-paydays/",
+  "summary": "Los piratas informáticos detrás del malware Nefilim afirman haber robado más de 800 gigabytes de datos personales y financieros de W&T Offshore Inc.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2344,
+  "title": "Fortnite - Ransomware - Undetermined",
+  "date": "2019-08-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Cyren descubren Syrk",
+  "source": "https://www.forbes.com/sites/daveywinder/2019/08/22/fortnite-hack-warning-issued-for-250-million-players/#3279d839ffd2",
+  "summary": "Investigadores de Cyren descubren Syrk, un ransomware disfrazado de herramienta de trampa aimbot, que ataca a los jugadores de Fortnite.",
+  "color": "#ef4444"
+}

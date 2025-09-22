@@ -1,0 +1,13 @@
+{
+  "id": 508,
+  "title": "Servicio de Impuestos Internos - Data leak - Undetermined",
+  "date": "2015-05-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en IRS",
+  "source": "https://www.usatoday.com/story/tech/2015/08/17/irs-hack-get-transcript/31864171/",
+  "summary": "Hackers desconocidos acceden ilegítimamente al servicio Get Transcript del IRS (Servicio de Impuestos Internos) y obtienen la información de más de 100.000 contribuyentes estadounidenses desde febrero hasta mediados de mayo.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3942,
+  "title": "SAC Inalámbrico - Ransomware - WIZARD SPIDER",
+  "date": "2021-06-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Filtración de datos en SAC Wireless",
+  "source": "nan",
+  "summary": "SAC Wireless sufre un ataque de ransomware Conti, se roban 250 GB de datos, incluida información personal de los empleados.",
+  "color": "#ef4444"
+}

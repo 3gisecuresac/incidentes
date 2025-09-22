@@ -1,0 +1,13 @@
+{
+  "id": 2615,
+  "title": "Ciudad de Detroit - Data leak - Undetermined",
+  "date": "2020-01-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Detroit advierten",
+  "source": "https://www.databreaches.net/detroit-officials-warn-data-breach-exposed-city-workers-residents/",
+  "summary": "Los funcionarios de la ciudad de Detroit advierten que una violación de datos expuso a los trabajadores y residentes de la ciudad después de que varias cuentas de correo electrónico se vieron comprometidas.",
+  "color": "#ef4444"
+}

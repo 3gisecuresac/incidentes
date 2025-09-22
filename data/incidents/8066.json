@@ -1,0 +1,13 @@
+{
+  "id": 8066,
+  "title": "Aceitera General Deheza (AGD) - Ransomware - Undetermined",
+  "date": "2022-08-16",
+  "country": "Argentina",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Aceitera General Deheza AGD",
+  "source": "nan",
+  "summary": "La agroindustria argentina Aceitera General Deheza (AGD) denuncia un ataque de ransomware.",
+  "color": "#ef4444"
+}

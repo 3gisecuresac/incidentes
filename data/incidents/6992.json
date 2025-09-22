@@ -1,0 +1,13 @@
+{
+  "id": 6992,
+  "title": "Atención regional - Data leak - Undetermined",
+  "date": "2024-09-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Nebraska",
+  "source": "nan",
+  "summary": "La empresa de seguros de salud con sede en Nebraska, Regional Care, revela una violación de datos que afectó a más de 225.000 personas como resultado de un incidente identificado a mediados de septiembre de 2024.",
+  "color": "#ef4444"
+}

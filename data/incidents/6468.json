@@ -1,0 +1,13 @@
+{
+  "id": 6468,
+  "title": "Hampton-Newport News CSB - Ransomware - ALPHVM",
+  "date": "2023-11-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Hampton-Newport News CSB",
+  "source": "nan",
+  "summary": "Hampton-Newport News CSB se agrega al sitio de filtración de ransomware ALPHV/BlackCat con un mensaje sobre cómo habían robado más de 800 GB de datos confidenciales.",
+  "color": "#ef4444"
+}

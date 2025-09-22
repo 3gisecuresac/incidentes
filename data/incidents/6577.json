@@ -1,0 +1,13 @@
+{
+  "id": 6577,
+  "title": "Banco Centenario - Data leak - Undetermined",
+  "date": "2024-01-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Centennial Bank",
+  "source": "nan",
+  "summary": "Centennial Bank presenta un aviso de violación de datos después de descubrir que la información que se había proporcionado a la empresa estaba sujeta a acceso no autorizado.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 8036,
+  "title": "Fundación Oswaldo Cruz (Fiocruz) - Ransomware - NoEscape",
+  "date": "2023-08-25",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "NoEscape",
+  "impact": "Cifrado por ransomware en Fundación Oswaldo Cruz",
+  "source": "nan",
+  "summary": "La banda de ransomware NoEscape se atribuye la responsabilidad de un ciberataque a la Fundación Oswaldo Cruz (Fiocruz).",
+  "color": "#ef4444"
+}

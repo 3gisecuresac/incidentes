@@ -1,0 +1,13 @@
+{
+  "id": 5359,
+  "title": "Universidad Estatal de Tennessee (TSU) - Ransomware - Undetermined",
+  "date": "2023-02-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Tennessee",
+  "source": "nan",
+  "summary": "La Universidad Estatal de Tennessee (TSU) publica un Aviso de actividad de red sospechosa después de que la institución experimentó lo que cree que fue un ataque de ransomware.",
+  "color": "#ef4444"
+}

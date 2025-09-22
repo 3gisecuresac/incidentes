@@ -1,0 +1,13 @@
+{
+  "id": 820,
+  "title": "Soluciones empresariales de Verizon - Data leak - Undetermined",
+  "date": "2016-03-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Verizon Enterprise se publica en un foro clandestino",
+  "source": "http://krebsonsecurity.com/2016/03/crooks-steal-sell-verizon-enterprise-customer-data/",
+  "summary": "La información de contacto de aproximadamente 1,5 millones de clientes de Verizon Enterprise se publica en un foro clandestino. La compañía confirma haber descubierto y solucionado recientemente una vulnerabilidad de seguridad en su portal empresarial.",
+  "color": "#a78bfa"
+}

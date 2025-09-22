@@ -1,0 +1,13 @@
+{
+  "id": 2541,
+  "title": "Universidad de Walla Walla - Ransomware - Undetermined",
+  "date": "2019-12-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Walla Walla se ve interrumpida",
+  "source": "https://www.databreaches.net/walla-walla-wash-university-disrupted-by-cyberattack/",
+  "summary": "La Universidad de Walla Walla se ve interrumpida por un ataque de ransomware.",
+  "color": "#ef4444"
+}

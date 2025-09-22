@@ -1,0 +1,13 @@
+{
+  "id": 6372,
+  "title": "Lógica de sumo - Data leak - Undetermined",
+  "date": "2023-11-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en AWS",
+  "source": "nan",
+  "summary": "La empresa de seguridad y análisis de datos Sumo Logic revela una violación de seguridad después de descubrir que su cuenta de AWS (Amazon Web Services) estaba comprometida.",
+  "color": "#ef4444"
+}

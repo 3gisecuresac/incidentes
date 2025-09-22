@@ -1,0 +1,13 @@
+{
+  "id": 2674,
+  "title": "Colegio Confederación - DoS - Undetermined",
+  "date": "2020-02-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Confederation College",
+  "source": "https://www.databreaches.net/ca-confederation-college-investigates-security-breach/",
+  "summary": "Confederation College sufre un ataque de malware.",
+  "color": "#a78bfa"
+}

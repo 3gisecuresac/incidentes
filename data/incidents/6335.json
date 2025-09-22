@@ -1,0 +1,13 @@
+{
+  "id": 6335,
+  "title": "Banco Kearny - Data leak - cl0p",
+  "date": "2023-10-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Incidente de seguridad en Kearny Bank",
+  "source": "nan",
+  "summary": "Kearny Bank se suma a la lista de víctimas del ataque masivo MOVEit.",
+  "color": "#a78bfa"
+}

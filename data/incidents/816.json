@@ -1,0 +1,13 @@
+{
+  "id": 816,
+  "title": "Propiedades de Ryman Hospitality - Data leak - Undetermined",
+  "date": "2016-03-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en IRS de los empleados",
+  "source": "http://www.billboard.com/articles/business/7311626/ryman-properties-grand-ole-opry-parent-company-victim-irs-phishing-data-breach",
+  "summary": "Ryman Hospitality Properties es víctima de una estafa de phishing fraudulenta que provocó que la información del formulario W-2 del IRS de los empleados, que incluye los números de Seguro Social, se divulgara externamente.",
+  "color": "#ef4444"
+}

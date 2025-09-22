@@ -1,0 +1,13 @@
+{
+  "id": 2092,
+  "title": "Distrito Escolar Municipal de Taos - Ransomware - Undetermined",
+  "date": "2019-03-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Taos lucha",
+  "source": "https://www.databreaches.net/everywhere-you-look-it-seems-schools-are-struggling-with-malware/",
+  "summary": "El Distrito Escolar Municipal de Taos lucha por recuperarse de un ataque de ransomware ocurrido hace tres semanas.",
+  "color": "#ef4444"
+}

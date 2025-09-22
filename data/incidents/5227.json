@@ -1,0 +1,13 @@
+{
+  "id": 5227,
+  "title": "Laboratorio Nuclear de Argonne (ANL) - Data leak - SVR (Calisto)",
+  "date": "2023-01-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (Calisto)",
+  "impact": "Cuentas comprometidas por phishing en Laboratorio Nuclear de Argonne con una campaña de phishing creando páginas de inicio de sesión falsas",
+  "source": "nan",
+  "summary": "El grupo ruso Cold River atacó al Laboratorio Nuclear de Argonne con una campaña de phishing creando páginas de inicio de sesión falsas.",
+  "color": "#ef4444"
+}

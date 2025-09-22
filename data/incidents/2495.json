@@ -1,0 +1,13 @@
+{
+  "id": 2495,
+  "title": "Seleccione Salud - Data leak - Undetermined",
+  "date": "2019-11-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Select Health",
+  "source": "https://www.bleepingcomputer.com/news/security/us-health-network-supplier-expose-pii-phi-data-in-breaches/",
+  "summary": "Select Health revela que una de las cuentas de correo electrónico de sus empleados fue accedida por un actor aún desconocido sin autorización desde el 22 de mayo de 2019 hasta el 13 de junio de 2019.",
+  "color": "#a78bfa"
+}

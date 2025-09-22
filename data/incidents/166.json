@@ -1,0 +1,13 @@
+{
+  "id": 166,
+  "title": "Universidad Estatal de Arkansas - Data leak - Undetermined",
+  "date": "2014-06-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Arkansas",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/arkansas-state-univ-notifies-50k-of-social-security-number-breach/",
+  "summary": "En la Universidad Estatal de Arkansas (A-State), los números de Seguro Social completos y parciales de aproximadamente 50.000 profesionales de la primera infancia se ven comprometidos después de que se obtiene acceso no autorizado a bases de datos relacionadas con Traveling Arkansas Professional Pathways (TAPP).",
+  "color": "#ef4444"
+}

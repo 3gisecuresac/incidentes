@@ -1,0 +1,13 @@
+{
+  "id": 6948,
+  "title": "Espacio de rack - Data leak - Undetermined",
+  "date": "2024-09-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en ScienceLogic",
+  "source": "nan",
+  "summary": "Rackspace informa a sus clientes que los actores de amenazas explotaron una vulnerabilidad de día cero en ScienceLogic, una aplicación de terceros que estaba utilizando, y abusaron de esa vulnerabilidad para ingresar a su entorno de monitoreo de rendimiento interno.",
+  "color": "#a78bfa"
+}

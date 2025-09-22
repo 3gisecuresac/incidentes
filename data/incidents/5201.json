@@ -1,0 +1,13 @@
+{
+  "id": 5201,
+  "title": "Sargent y Lundy - Ciberataque - Black Basta",
+  "date": "2022-12-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Black Basta",
+  "impact": "Cifrado por ransomware en Sargent & Lundy",
+  "source": "nan",
+  "summary": "Un ataque de ransomware afectó a Sargent & Lundy, con sede en Chicago, una empresa de ingeniería responsable del diseño de infraestructura energética.",
+  "color": "#ef4444"
+}

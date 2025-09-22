@@ -1,0 +1,13 @@
+{
+  "id": 1114,
+  "title": "Universidad Estatal de Michigan - Data leak - Undetermined",
+  "date": "2016-11-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Michigan anuncia",
+  "source": "https://www.helpnetsecurity.com/2016/11/21/michigan-state-university-breach/",
+  "summary": "La Universidad Estatal de Michigan anuncia que un tercero no autorizado ha accedido a un servidor universitario y a una base de datos que contiene información sobre unos 400.000 profesores, personal y estudiantes.",
+  "color": "#ef4444"
+}

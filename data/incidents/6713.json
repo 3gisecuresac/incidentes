@@ -1,0 +1,13 @@
+{
+  "id": 6713,
+  "title": "Home Depot - Data leak - IntelBroker",
+  "date": "2024-04-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "IntelBroker",
+  "impact": "Filtración de datos en SaaS expusiera",
+  "source": "nan",
+  "summary": "Home Depot confirma que sufrió una violación de datos después de que uno de sus proveedores de SaaS expusiera por error una pequeña muestra de datos limitados de sus empleados, que potencialmente podrían usarse en ataques de phishing dirigidos.",
+  "color": "#ef4444"
+}

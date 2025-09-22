@@ -1,0 +1,13 @@
+{
+  "id": 161,
+  "title": "Typepad - DoS - Undetermined",
+  "date": "2014-05-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Typepad la",
+  "source": "https://techcrunch.com/2014/05/19/typepad-claims-it-was-hit-by-another-ddos-attack/",
+  "summary": "Typepad, la famosa plataforma de blogs, está sufriendo un ataque DDoS sostenido.",
+  "color": "#f59e0b"
+}

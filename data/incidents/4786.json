@@ -1,0 +1,13 @@
+{
+  "id": 4786,
+  "title": "Grupo de ayuda para personas con discapacidad - Ransomware - Undetermined",
+  "date": "2022-08-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware",
+  "source": "nan",
+  "summary": "El grupo de ayuda para discapacitados se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

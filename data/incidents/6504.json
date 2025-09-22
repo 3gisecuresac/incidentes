@@ -1,0 +1,13 @@
+{
+  "id": 6504,
+  "title": "Escuelas parroquiales de St. Landry - Ransomware - Undetermined",
+  "date": "2023-12-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en St. Landry",
+  "source": "nan",
+  "summary": "El distrito escolar de la parroquia St. Landry es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

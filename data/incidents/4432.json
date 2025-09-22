@@ -1,0 +1,13 @@
+{
+  "id": 4432,
+  "title": "Atención médica Génesis - Data leak - Undetermined",
+  "date": "2022-04-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Genesis Health Care",
+  "source": "nan",
+  "summary": "Genesis Health Care informa sobre una violación de datos después de que la empresa descubriera que una parte no autorizada tuvo acceso a su sistema informático durante un período de casi tres meses.",
+  "color": "#ef4444"
+}

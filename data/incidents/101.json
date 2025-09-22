@@ -1,0 +1,13 @@
+{
+  "id": 101,
+  "title": "Comunicaciones de Alaska - Data leak - Undetermined",
+  "date": "2014-02-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Seguro Social pueden haber sido expuestos",
+  "source": "http://www.esecurityplanet.com/network-security/alaska-communications-acknowledges-data-breach.html",
+  "summary": "Alaska Communications notifica a un número no revelado de empleados actuales y anteriores que sus nombres, direcciones, fechas de nacimiento y números de Seguro Social pueden haber sido expuestos cuando una computadora de la empresa fue infectada con un malware.",
+  "color": "#ef4444"
+}

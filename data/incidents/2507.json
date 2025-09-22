@@ -1,0 +1,13 @@
+{
+  "id": 2507,
+  "title": "Grupo Médico Ferguson (FMG) - Ransomware - Undetermined",
+  "date": "2019-11-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Ferguson Medical Group FMG",
+  "source": "https://www.databreaches.net/mo-saint-francis-healthcare-announces-ransomware-incident-involving-ferguson-medical-group-not-all-records-recovered/",
+  "summary": "Ferguson Medical Group (FMG) revela haber sido víctima de un ataque de ransomware el 20 de septiembre.",
+  "color": "#ef4444"
+}

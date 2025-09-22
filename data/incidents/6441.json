@@ -1,0 +1,13 @@
+{
+  "id": 6441,
+  "title": "Autozone - Data leak - cl0p",
+  "date": "2023-11-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Clop MOVEit",
+  "source": "nan",
+  "summary": "AutoZone advierte a 184.995 clientes que sufrió una violación de datos como parte de los ataques de transferencia de archivos Clop MOVEit.",
+  "color": "#ef4444"
+}

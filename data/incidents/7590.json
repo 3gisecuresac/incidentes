@@ -1,0 +1,13 @@
+{
+  "id": 7590,
+  "title": "Partido Conservador Progresista de Ontario - Ransomware - Undetermined",
+  "date": "2018-01-28",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Partido Conservador Progresista de Ontario fue bloqueada",
+  "source": "nan",
+  "summary": "La base de datos interna del Partido Conservador Progresista de Ontario fue bloqueada por un ataque de ransomware a principios de noviembre. El incidente se está reconociendo ahora.",
+  "color": "#ef4444"
+}

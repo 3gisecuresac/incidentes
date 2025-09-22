@@ -1,0 +1,13 @@
+{
+  "id": 6975,
+  "title": "Cultura estadounidense - Ransomware - ThreeAM (aka 3AM)",
+  "date": "2024-11-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ThreeAM (aka 3AM)",
+  "impact": "Filtración de datos en Kurita Water",
+  "source": "nan",
+  "summary": "La filial estadounidense de Kurita Water, una empresa japonesa de tratamiento de agua, afirma que los actores de ransomware han robado datos de los sistemas y cifrado algunos servidores.",
+  "color": "#ef4444"
+}

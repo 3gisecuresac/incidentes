@@ -1,0 +1,13 @@
+{
+  "id": 5019,
+  "title": "Aeropuerto Internacional de Dallas-Fort Worth - Ciberataque - Undetermined",
+  "date": "2022-10-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Aviación investiga la causa de una misteriosa interferencia del GPS",
+  "source": "nan",
+  "summary": "La Administración Federal de Aviación investiga la causa de una misteriosa interferencia del GPS que, durante los últimos días, ha cerrado una pista del Aeropuerto Internacional de Dallas-Fort Worth y ha obligado a algunos aviones de la región a ser desviados a zonas donde las señales funcionaban correctamente.",
+  "color": "#a78bfa"
+}

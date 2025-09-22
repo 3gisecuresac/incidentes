@@ -1,0 +1,13 @@
+{
+  "id": 4173,
+  "title": "Corporación mayorista Costco - Infección Dispositivos - Undetermined",
+  "date": "2021-11-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Costco",
+  "source": "nan",
+  "summary": "Costco descubre un escáner de tarjetas de crédito instalado en una tienda y notifica a los clientes que es posible que se haya robado información de pago.",
+  "color": "#a78bfa"
+}

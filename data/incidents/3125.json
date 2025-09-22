@@ -1,0 +1,13 @@
+{
+  "id": 3125,
+  "title": "MoneyGram - DoS - Undetermined",
+  "date": "2020-08-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Bitcoin",
+  "source": "https://www.zdnet.com/article/ddos-extortionists-target-nzx-moneygram-braintree-and-other-financial-services/",
+  "summary": "MoneyGram es víctima de un ataque DDoS. Los atacantes exigen un pago en Bitcoin para detener los ataques.",
+  "color": "#f59e0b"
+}

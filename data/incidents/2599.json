@@ -1,0 +1,13 @@
+{
+  "id": 2599,
+  "title": "Aeropuerto Internacional de Albany - Ransomware - Undetermined",
+  "date": "2020-01-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Aeropuerto Internacional de Albany anuncia",
+  "source": "https://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-hits-new-york-airport-systems/",
+  "summary": "El personal del Aeropuerto Internacional de Albany anuncia que los servidores administrativos del aeropuerto de Nueva York fueron atacados por el ransomware Sodinokibi luego de un ciberataque que tuvo lugar durante la Navidad.",
+  "color": "#ef4444"
+}

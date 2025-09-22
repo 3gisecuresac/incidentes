@@ -1,0 +1,13 @@
+{
+  "id": 7509,
+  "title": "Saville Row - Ransomware - ALPHVM",
+  "date": "2023-04-21",
+  "country": "Chile",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en BlackCat",
+  "source": "nan",
+  "summary": "Saville Row, una tienda de ropa chilena, se agrega al sitio de filtración de ransomware de BlackCat.",
+  "color": "#ef4444"
+}

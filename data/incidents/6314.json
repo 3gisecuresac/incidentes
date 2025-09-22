@@ -1,0 +1,13 @@
+{
+  "id": 6314,
+  "title": "Servicios de préstamos de PennyMac - Ciberataque - Undetermined",
+  "date": "2023-10-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en PennyMac Loan Services",
+  "source": "nan",
+  "summary": "PennyMac Loan Services presenta un aviso de violación de datos después de descubrir que actores no autorizados pudieron acceder a información que había sido confiada a la empresa.",
+  "color": "#ef4444"
+}

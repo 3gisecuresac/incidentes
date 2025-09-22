@@ -1,0 +1,13 @@
+{
+  "id": 3766,
+  "title": "DeCotiis, FitzPatrick, Cole & Giblin, LLP (DFCG) - Data leak - Undetermined",
+  "date": "2021-03-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en DeCotiis FitzPatrick Cole Giblin LLP DFCG",
+  "source": "nan",
+  "summary": "DeCotiis, FitzPatrick, Cole & Giblin, LLP (DFCG) notifica un incidente de phishing.",
+  "color": "#ef4444"
+}

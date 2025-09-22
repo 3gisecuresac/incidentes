@@ -1,0 +1,13 @@
+{
+  "id": 3168,
+  "title": "Sistemas de salud Inova - Ransomware - Undetermined",
+  "date": "2020-09-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Blackbaud",
+  "source": "https://www.darkreading.com/attacks-breaches/inova-suffers-third-party-data-breach/d/d-id/1338872",
+  "summary": "Inova Health Systems notifica a sus clientes que fue afectado por un ataque de ransomware a través de Blackbaud.",
+  "color": "#ef4444"
+}

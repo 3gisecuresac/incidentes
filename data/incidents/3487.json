@@ -1,0 +1,13 @@
+{
+  "id": 3487,
+  "title": "Departamento de Seguridad Nacional de los Estados Unidos - Data leak - SVR (COZYBEAR)",
+  "date": "2020-12-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (COZYBEAR)",
+  "impact": "Incidente de seguridad en Seguridad Nacional de Estados Unidos ha sido violado",
+  "source": "nan",
+  "summary": "El Departamento de Seguridad Nacional de Estados Unidos ha sido violado por piratas informáticos de SolarWinds.",
+  "color": "#a78bfa"
+}

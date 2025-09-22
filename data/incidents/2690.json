@@ -1,0 +1,13 @@
+{
+  "id": 2690,
+  "title": "Soluciones de salud Shields - Data leak - Undetermined",
+  "date": "2020-02-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Shields Health Solutions",
+  "source": "https://www.databreaches.net/ma-shields-health-solutions-notified-patients-after-hack-of-employee-email-account/",
+  "summary": "Shields Health Solutions notifica a sus pacientes después de que la cuenta de correo electrónico de un empleado fuera pirateada entre el 22 y el 24 de octubre de 2019.",
+  "color": "#a78bfa"
+}

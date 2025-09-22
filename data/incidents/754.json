@@ -1,0 +1,13 @@
+{
+  "id": 754,
+  "title": "Departamento de Seguridad Nacional - Data leak - Penis AKA @DotGovs",
+  "date": "2016-02-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Penis AKA @DotGovs",
+  "impact": "Filtración de datos en @DotGovs",
+  "source": "http://www.tripwire.com/state-of-security/latest-security-news/hacker-publishes-9000-dhs-employees-info-says-20000-fbi-officials-data-is-next/",
+  "summary": "En nombre de #PalestinaLibre, un hacker llamado Penis, también conocido como @DotGovs, filtra datos de 9000 funcionarios del Departamento de Seguridad Nacional (DHS). Supuestamente, este tesoro se obtuvo tras comprometer la dirección de correo electrónico de un empleado del DHS.",
+  "color": "#ef4444"
+}

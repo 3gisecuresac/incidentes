@@ -1,0 +1,13 @@
+{
+  "id": 983,
+  "title": "Partido Demócrata de Estados Unidos - Data leak - GRU Main Special Center for Special Technologies (Unit 74455) (SANDWORM)",
+  "date": "2016-06-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "GRU Main Special Center for Special Technologies (Unit 74455) (SANDWORM)",
+  "impact": "Incidente de seguridad en Guccifer 2.0",
+  "source": "http://www.ibtimes.co.uk/clinton-hacker-guccifer-2-0-leaks-more-docs-teases-identity-calls-snowden-assange-heroes-1568304",
+  "summary": "Guccifer 2.0 lanza 25 nuevos documentos.",
+  "color": "#a78bfa"
+}

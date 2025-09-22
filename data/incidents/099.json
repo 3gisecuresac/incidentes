@@ -1,0 +1,13 @@
+{
+  "id": 99,
+  "title": "Spirol Internacional - Data leak - DeleteSec",
+  "date": "2014-02-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "DeleteSec",
+  "impact": "Filtración de datos en @DeleteSec",
+  "source": "https://news.softpedia.com/news/Details-of-70-000-Users-Leaked-by-Hackers-From-Systems-of-SPIROL-International-428669.shtml",
+  "summary": "Otro ataque de @DeleteSec. Esta vez, la víctima es Spirol International (spirol.com) y, como resultado, más de 70.889 credenciales de la compañía se filtraron en línea.",
+  "color": "#ef4444"
+}

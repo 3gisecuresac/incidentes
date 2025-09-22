@@ -1,0 +1,13 @@
+{
+  "id": 3594,
+  "title": "Indeterminado - Data leak - Undetermined",
+  "date": "2021-01-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware",
+  "source": "nan",
+  "summary": "Una granja estadounidense sufre un ataque de ransomware debido a una credencial de inicio de sesión comprometida que paraliza sus operaciones.",
+  "color": "#ef4444"
+}

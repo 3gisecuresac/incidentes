@@ -1,0 +1,13 @@
+{
+  "id": 5838,
+  "title": "Consejo Ejecutivo de Salud Conductual de Texas (BHEC) - Data leak - SiegedSec",
+  "date": "2023-06-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SiegedSec",
+  "impact": "Filtración de datos en Dakota del Sur",
+  "source": "nan",
+  "summary": "Los hacktivistas del colectivo SiegedSec publican algunos datos de las Juntas y Comisiones de Dakota del Sur",
+  "color": "#ef4444"
+}

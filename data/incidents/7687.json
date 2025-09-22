@@ -1,0 +1,13 @@
+{
+  "id": 7687,
+  "title": "Canpar Express - Ransomware - Undetermined",
+  "date": "2020-08-19",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Canpar Express",
+  "source": "nan",
+  "summary": "La empresa de entrega Canpar Express sufrió un ataque de ransomware y, como resultado, los pedidos se encuentran retenidos y los envíos respaldados.",
+  "color": "#ef4444"
+}

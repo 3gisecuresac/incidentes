@@ -1,0 +1,13 @@
+{
+  "id": 1974,
+  "title": "Ciudad de Lake Charles - Data leak - Undetermined",
+  "date": "2018-12-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Lake Charles informa sobre una violación de seguridad en sus sistemas de tecnología de la información",
+  "source": "https://www.databreaches.net/la-city-of-lake-charles-reports-security-breach-of-its-information-technology-systems/",
+  "summary": "La ciudad de Lake Charles informa sobre una violación de seguridad en sus sistemas de tecnología de la información.",
+  "color": "#a78bfa"
+}

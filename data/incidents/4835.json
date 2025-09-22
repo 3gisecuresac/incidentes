@@ -1,0 +1,13 @@
+{
+  "id": 4835,
+  "title": "Productos de calcio - Data leak - Undetermined",
+  "date": "2022-08-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Calcium Products",
+  "source": "nan",
+  "summary": "Calcium Products informa sobre una violación de datos después de que la empresa experimentara un incidente de seguridad de datos.",
+  "color": "#ef4444"
+}

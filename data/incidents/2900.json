@@ -1,0 +1,13 @@
+{
+  "id": 2900,
+  "title": "Tecnologías FARO - Ransomware - REvil",
+  "date": "2020-05-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Incidente de seguridad en FARO Technologies",
+  "source": "https://www.lemagit.fr/actualites/252484677/Ransomware-quest-il-arrive-a-FARO-Technologies",
+  "summary": "FARO Technologies ha sido atacado por los actores de amenazas REvil.",
+  "color": "#a78bfa"
+}

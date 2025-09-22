@@ -1,0 +1,13 @@
+{
+  "id": 6556,
+  "title": "Condado de Clay - Ransomware - Undetermined",
+  "date": "2023-12-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Clay anuncia",
+  "source": "nan",
+  "summary": "El condado de Clay anuncia que fue víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

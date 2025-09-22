@@ -1,0 +1,13 @@
+{
+  "id": 440,
+  "title": "Criptoína - Data leak - Undetermined",
+  "date": "2015-03-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Cryptoine un",
+  "source": "http://www.zdnet.com/article/bitcoin-exchange-cryptoine-hacked/",
+  "summary": "Cryptoine, un sitio de intercambio de criptomonedas, es hackeado y le vacían sus billeteras.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 732,
+  "title": "Universidad de Virginia - Data leak - Undetermined",
+  "date": "2016-01-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Virginia admite haber sido víctima de una filtración de datos",
+  "source": "http://www.zdnet.com/article/university-of-virginia-data-breach-exposed-financial-data/",
+  "summary": "La Universidad de Virginia admite haber sido víctima de una filtración de datos que puso en riesgo la información privada de sus empleados. Los ciberatacantes lograron acceder a un componente del sistema de RR. HH., lo que expuso la información de aproximadamente 1400 empleados de la División Académica.",
+  "color": "#ef4444"
+}

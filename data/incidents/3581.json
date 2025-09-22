@@ -1,0 +1,13 @@
+{
+  "id": 3581,
+  "title": "MeetMindful.com - Data leak - ShinyHunters",
+  "date": "2021-01-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Filtración de datos en MeetMindful.com",
+  "source": "nan",
+  "summary": "El grupo de hackers ShinyHunters ha filtrado los detalles de más de 2 millones de usuarios del sitio de citas MeetMindful.com.",
+  "color": "#ef4444"
+}

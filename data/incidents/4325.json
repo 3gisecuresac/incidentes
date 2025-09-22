@@ -1,0 +1,13 @@
+{
+  "id": 4325,
+  "title": "Corporación de Salud Livingston Memorial VNA - Ransomware - Undetermined",
+  "date": "2022-02-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Livingston Memorial VNA Health Corporation",
+  "source": "nan",
+  "summary": "Livingston Memorial VNA Health Corporation presenta un aviso de violación de datos después de que la empresa experimentara lo que parece haber sido un ataque de ransomware.",
+  "color": "#ef4444"
+}

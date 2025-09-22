@@ -1,0 +1,13 @@
+{
+  "id": 8076,
+  "title": "La Segunda Seguros - Data leak - LockBit 3.0",
+  "date": "2023-02-24",
+  "country": "Argentina",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en Segunda Seguros",
+  "source": "nan",
+  "summary": "La compañía de seguros Segunda Seguros es nombrada por LockBit en su sitio de filtraciones con algunas muestras como prueba de reclamaciones.",
+  "color": "#ef4444"
+}

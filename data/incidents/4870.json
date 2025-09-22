@@ -1,0 +1,13 @@
+{
+  "id": 4870,
+  "title": "Corporación Valex - Ransomware - Undetermined",
+  "date": "2022-08-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Valex Corporation",
+  "source": "nan",
+  "summary": "Valex Corporation presenta un aviso oficial de una violación de datos después de que, según se informa, la empresa sufrió un ataque de malware que filtró datos de los consumidores.",
+  "color": "#ef4444"
+}

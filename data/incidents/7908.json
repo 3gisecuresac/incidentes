@@ -1,0 +1,13 @@
+{
+  "id": 7908,
+  "title": "brasil.gov.br - DoS - Anonymous",
+  "date": "2015-05-11",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "DoS",
+  "actor": "Anonymous",
+  "impact": "Interrupción por DDoS en brasil.gov.br",
+  "source": "nan",
+  "summary": "En nombre de OpGreenRights, dos sitios web bajo la administración del gobierno brasileño (brasil.gov.br y www2.brasil.gov.br) son eliminados por un ataque DDoS.",
+  "color": "#f59e0b"
+}

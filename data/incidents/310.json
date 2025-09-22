@@ -1,0 +1,13 @@
+{
+  "id": 310,
+  "title": "Grapas - Infección Dispositivos - Undetermined",
+  "date": "2014-10-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estados Unidos",
+  "source": "http://arstechnica.com/security/2014/10/staples-likely-breached-retailer-defenses-back-in-spotlight/",
+  "summary": "La cadena minorista de artículos de oficina Staples investiga una posible violación de sus sistemas tras informes de la industria bancaria sobre transacciones fraudulentas con tarjetas de crédito y débito en tiendas del noreste de Estados Unidos.",
+  "color": "#a78bfa"
+}

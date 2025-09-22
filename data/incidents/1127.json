@@ -1,0 +1,13 @@
+{
+  "id": 1127,
+  "title": "Muni (Sistema de tránsito de San Francisco) - Ransomware - cryptom27",
+  "date": "2016-11-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cryptom27",
+  "impact": "Incidente de seguridad en San Francisco",
+  "source": "http://www.sfexaminer.com/alleged-muni-hacker-demands-73000-ransom-computers-stations-restored/",
+  "summary": "Los sistemas informáticos del sistema de transporte público de San Francisco, Muni, están paralizados tras un ataque de malware. El autor del ataque pide un rescate de 73.000 dólares.",
+  "color": "#a78bfa"
+}

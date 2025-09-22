@@ -1,0 +1,13 @@
+{
+  "id": 7256,
+  "title": "Consorcio Sanitario Integral - Ransomware - RansomEXX",
+  "date": "2022-10-11",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "RansomEXX",
+  "impact": "Filtración de datos en Consorci Sanitari Integral",
+  "source": "nan",
+  "summary": "La banda RansomExx publica un archivo de 52 gigas con datos extraídos del Consorci Sanitari Integral, entidad pública que presta servicios médicos y sociales.",
+  "color": "#ef4444"
+}

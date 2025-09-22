@@ -1,0 +1,13 @@
+{
+  "id": 3837,
+  "title": "Distrito Escolar Comunitario de la Unión - Ransomware - DoppelPaymer",
+  "date": "2021-04-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "DoppelPaymer",
+  "impact": "Cifrado por ransomware en El Distrito Escolar Comunitario Union",
+  "source": "nan",
+  "summary": "El Distrito Escolar Comunitario Union es el objetivo de un ataque de ransomware DoppelPaymer; 2 GB de archivos se arrojan a la red oscura después de que no se paga el rescate.",
+  "color": "#ef4444"
+}

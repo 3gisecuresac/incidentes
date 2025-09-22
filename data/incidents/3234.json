@@ -1,0 +1,13 @@
+{
+  "id": 3234,
+  "title": "Fragomen, Del Rey, Bernsen & Loewy, LLP - Data leak - Undetermined",
+  "date": "2020-09-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Google después de",
+  "source": "https://securityaffairs.co/wordpress/110054/data-breach/fragomen-data-breach.html",
+  "summary": "El bufete de abogados de inmigración Fragomen, Del Rey, Bernsen & Loewy, LLP ha revelado una filtración de datos. Esta filtración de seguridad expuso la información personal de empleados actuales y anteriores de Google después de que un tercero no autorizado accediera a un archivo con información personal relacionada con los servicios de verificación de empleo I-9.",
+  "color": "#ef4444"
+}

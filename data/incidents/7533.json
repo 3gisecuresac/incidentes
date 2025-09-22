@@ -1,0 +1,13 @@
+{
+  "id": 7533,
+  "title": "ottawaliving.ca - Data leak - @TorProdigy",
+  "date": "2015-05-22",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "@TorProdigy",
+  "impact": "Filtración de datos en @TorProdigy",
+  "source": "nan",
+  "summary": "@TorProdigy hackea ottawaliving.ca y filtra 13.000 nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

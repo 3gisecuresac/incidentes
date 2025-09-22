@@ -1,0 +1,13 @@
+{
+  "id": 1847,
+  "title": "moneda de paloma - Ransomware - Undetermined",
+  "date": "2018-09-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Bitcoin",
+  "source": "https://www.coindesk.com/bitcoin-bug-exploited-on-crypto-fork-as-attacker-prints-235-million-pigeoncoins/",
+  "summary": "Los desarrolladores detrás de la criptomoneda pigeoncoin confirman que un atacante desconocido aprovechó con éxito un error de Bitcoin, imprimiendo 235 millones de pigeoncoins por un valor de aproximadamente $ 15,000.",
+  "color": "#a78bfa"
+}

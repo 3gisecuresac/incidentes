@@ -1,0 +1,13 @@
+{
+  "id": 3259,
+  "title": "Estado de Washington - Malware Attack - Undetermined",
+  "date": "2020-09-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Washington",
+  "source": "https://www.databreaches.net/hackers-have-infiltrated-many-of-washington-states-agencies/",
+  "summary": "Los piratas informáticos han lanzado un ataque masivo y multifacético contra el estado de Washington, y muchas de las agencias estatales han sido víctimas de malware.",
+  "color": "#a78bfa"
+}

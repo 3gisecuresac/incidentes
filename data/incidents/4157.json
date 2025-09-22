@@ -1,0 +1,13 @@
+{
+  "id": 4157,
+  "title": "Ravkoo - Data leak - Undetermined",
+  "date": "2021-10-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Internet sufre una violación de datos",
+  "source": "nan",
+  "summary": "Un servicio de farmacia basado en Internet sufre una violación de datos luego de que su portal AWS fuera hackeado.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3156,
+  "title": "Cygilant - Ransomware - NetWalker",
+  "date": "2020-09-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "NetWalker",
+  "impact": "Cifrado por ransomware en Cygilant",
+  "source": "https://techcrunch.com/2020/09/03/cygilant-ransomware/",
+  "summary": "Cygilant, empresa de ciberseguridad especializada en detección de amenazas, confirma un ataque de ransomware.",
+  "color": "#ef4444"
+}

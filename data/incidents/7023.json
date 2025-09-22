@@ -1,0 +1,13 @@
+{
+  "id": 7023,
+  "title": "Autoridad de Vivienda de Marin - Data leak - Undetermined",
+  "date": "2024-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Marin",
+  "source": "nan",
+  "summary": "Actores de amenazas roban $950,000 que estaban destinados a la rehabilitación de viviendas públicas en la ciudad de Marin, de la Autoridad de Vivienda de Marin.",
+  "color": "#a78bfa"
+}

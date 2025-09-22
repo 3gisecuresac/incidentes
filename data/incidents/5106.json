@@ -1,0 +1,13 @@
+{
+  "id": 5106,
+  "title": "Sitio web de la Casa Blanca (Whitehouse.gov) - DoS - Killnet",
+  "date": "2022-11-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Killnet",
+  "impact": "Incidente de seguridad en whitehouse.gov",
+  "source": "nan",
+  "summary": "El colectivo ruso Killnet afirma haber retirado brevemente el sitio web de la Casa Blanca (whitehouse.gov).",
+  "color": "#a78bfa"
+}

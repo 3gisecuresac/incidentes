@@ -1,0 +1,13 @@
+{
+  "id": 5375,
+  "title": "Vértice - Ransomware - Undetermined",
+  "date": "2023-03-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Vertex",
+  "source": "nan",
+  "summary": "Ascension publica un aviso que describe un incidente de seguridad después de enterarse de que un ciberataque de ransomware en Vertex, uno de los proveedores de la compañía, resultó en la filtración de datos de pacientes.",
+  "color": "#ef4444"
+}

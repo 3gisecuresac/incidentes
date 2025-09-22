@@ -1,0 +1,13 @@
+{
+  "id": 3300,
+  "title": "Departamento de Servicios Humanos de Georgia - Data leak - Undetermined",
+  "date": "2020-10-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Servicios de Protección Infantil quedaron expuestos después de una violación en el Departamento de Servicios Humanos de Georgia",
+  "source": "https://www.zdnet.com/article/children-and-parent-info-exposed-in-georgia-dhs-data-breach/",
+  "summary": "Los datos personales y de salud de niños y adultos involucrados en casos de Servicios de Protección Infantil quedaron expuestos después de una violación en el Departamento de Servicios Humanos de Georgia.",
+  "color": "#ef4444"
+}

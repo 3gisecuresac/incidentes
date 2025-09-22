@@ -1,0 +1,13 @@
+{
+  "id": 4143,
+  "title": "Red de atención médica Vantage - Ransomware - Undetermined",
+  "date": "2021-10-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Vantage Healthcare Network",
+  "source": "nan",
+  "summary": "Vantage Healthcare Network sufre un ataque de ransomware.",
+  "color": "#ef4444"
+}

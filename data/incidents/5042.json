@@ -1,0 +1,13 @@
+{
+  "id": 5042,
+  "title": "Colegio Guilford - Ransomware - Hive",
+  "date": "2022-10-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Filtración de datos en Guilford College",
+  "source": "nan",
+  "summary": "Guilford College confirma que los actores del ransomware Hive atacaron su escuela y también robaron datos confidenciales de estudiantes, profesores y personal.",
+  "color": "#ef4444"
+}

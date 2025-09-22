@@ -1,0 +1,13 @@
+{
+  "id": 2898,
+  "title": "Departamento de Transporte de Texas - Ransomware - RansomEXX",
+  "date": "2020-05-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "RansomEXX",
+  "impact": "Cifrado por ransomware en Departamento de Transporte de Texas",
+  "source": "https://www.bleepingcomputer.com/news/security/ransomware-attack-impacts-texas-department-of-transportation/",
+  "summary": "Un nuevo ataque de ransomware afecta la red del Departamento de Transporte de Texas (TxDOT).",
+  "color": "#ef4444"
+}

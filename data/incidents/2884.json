@@ -1,0 +1,13 @@
+{
+  "id": 2884,
+  "title": "Servicio de Alguaciles de EE. UU. - Data leak - Undetermined",
+  "date": "2020-05-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Alguaciles de EE",
+  "source": "https://techcrunch.com/2020/05/08/us-marshals-prisoner-data-breach/",
+  "summary": "Una filtración de datos en el Servicio de Alguaciles de EE. UU. expuso la información personal de presos y expresos (387.000 personas afectadas). La filtración ocurrió en diciembre de 2019.",
+  "color": "#ef4444"
+}

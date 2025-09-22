@@ -1,0 +1,13 @@
+{
+  "id": 5298,
+  "title": "Ciudad de Oakland - Ransomware - Undetermined",
+  "date": "2023-02-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Oakland se ve afectada",
+  "source": "nan",
+  "summary": "La ciudad de Oakland se ve afectada por un ataque de ransomware que la obliga a desconectar todos los sistemas hasta que la red esté protegida y los servicios afectados vuelvan a estar en línea.",
+  "color": "#ef4444"
+}

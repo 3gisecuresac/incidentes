@@ -1,0 +1,13 @@
+{
+  "id": 1637,
+  "title": "Salud de Finger Lakes - Ransomware - Undetermined",
+  "date": "2018-03-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Finger Lakes Health",
+  "source": "https://www.databreaches.net/ny-finger-lakes-health-systems-reports-security-break/",
+  "summary": "Finger Lakes Health está funcionando a la antigua usanza mientras su sistema informático permanece bloqueado por un tipo no especificado de ransomware.",
+  "color": "#ef4444"
+}

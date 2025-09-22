@@ -1,0 +1,13 @@
+{
+  "id": 3176,
+  "title": "Distrito escolar de Somerset Hills - Ransomware - Undetermined",
+  "date": "2020-09-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Somerset Hills cerró las escuelas el martes debido a una interrupción inesperada de la red",
+  "source": "https://www.nj.com/education/2020/09/school-district-had-to-shut-down-in-person-classes-because-of-ransomware-attack-superintendent-says.html",
+  "summary": "Tras un día de clases, el Distrito Escolar de Somerset Hills cerró las escuelas el martes debido a una interrupción inesperada de la red. Posteriormente se reveló que la interrupción se debía a un ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2847,
+  "title": "GoDaddy - Data leak - Undetermined",
+  "date": "2020-04-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en SSH",
+  "source": "https://www.bleepingcomputer.com/news/security/godaddy-notifies-users-of-breached-hosting-accounts/",
+  "summary": "GoDaddy notifica a algunos de sus clientes que una parte no autorizada utilizó las credenciales de su cuenta de alojamiento web para conectarse a su cuenta de alojamiento a través de SSH.",
+  "color": "#a78bfa"
+}

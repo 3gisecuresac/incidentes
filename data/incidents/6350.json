@@ -1,0 +1,13 @@
+{
+  "id": 6350,
+  "title": "Corporación de Gestión de Milford - Ciberataque - Undetermined",
+  "date": "2023-10-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Milford Management Corporation",
+  "source": "nan",
+  "summary": "Milford Management Corporation presenta un aviso de violación de datos después de descubrir que una parte no autorizada pudo obtener acceso al sistema informático de la empresa.",
+  "color": "#ef4444"
+}

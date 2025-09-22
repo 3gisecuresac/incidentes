@@ -1,0 +1,13 @@
+{
+  "id": 4574,
+  "title": "Hospital Infantil de Seattle - Ransomware - Undetermined",
+  "date": "2022-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Seattle revela un ataque de ransomware",
+  "source": "nan",
+  "summary": "El Hospital Infantil de Seattle revela un ataque de ransomware que afecta a su proveedor de correo electrónico Kaye-Smith.",
+  "color": "#ef4444"
+}

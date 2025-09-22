@@ -1,0 +1,13 @@
+{
+  "id": 5540,
+  "title": "Colegio Universitario Unión del Pacífico (PUC) - Ransomware - Trigona",
+  "date": "2023-04-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Trigona",
+  "impact": "Filtración de datos en Pacific Union College PUC",
+  "source": "nan",
+  "summary": "Pacific Union College (PUC) publica un aviso de violación de datos en su sitio web después de confirmar que un problema de ciberseguridad de abril de 2023 resultó ser un ataque de ransomware del grupo Trigona.",
+  "color": "#ef4444"
+}

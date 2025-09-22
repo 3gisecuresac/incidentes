@@ -1,0 +1,13 @@
+{
+  "id": 4213,
+  "title": "Sistema de Salud de Monongalia - Data leak - Undetermined",
+  "date": "2021-12-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Salud de Monongalia sufre un ciberataque",
+  "source": "nan",
+  "summary": "El Sistema de Salud de Monongalia sufre un ciberataque que podría comprometer la información de los pacientes.",
+  "color": "#3b82f6"
+}

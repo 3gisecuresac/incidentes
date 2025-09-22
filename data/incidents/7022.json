@@ -1,0 +1,13 @@
+{
+  "id": 7022,
+  "title": "Compañía editorial Walsworth - Data leak - Undetermined",
+  "date": "2024-02-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Walsworth Publishing Company",
+  "source": "nan",
+  "summary": "La empresa de impresión comercial Walsworth Publishing Company revela una violación de datos que afecta a más de 107.000 personas, después de que la empresa descubriera que su sitio web y su página de compras habían sido comprometidos.",
+  "color": "#ef4444"
+}

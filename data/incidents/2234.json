@@ -1,0 +1,13 @@
+{
+  "id": 2234,
+  "title": "Pueblo de Key Biscayne - Ransomware - Undetermined",
+  "date": "2019-06-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Key Biscayne es golpeada",
+  "source": "https://www.scmagazine.com/home/security-news/village-of-key-biscayne-hit-with-a-cyberattack/",
+  "summary": "La aldea de Key Biscayne es golpeada por un ataque de ransomware.",
+  "color": "#ef4444"
+}

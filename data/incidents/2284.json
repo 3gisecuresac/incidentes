@@ -1,0 +1,13 @@
+{
+  "id": 2284,
+  "title": "Distrito Escolar de la Parroquia de Morehouse - Ransomware - Undetermined",
+  "date": "2019-07-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Morehouse se ve afectado",
+  "source": "https://arstechnica.com/tech-policy/2019/07/louisiana-declares-state-emergency-in-response-to-ransomware-attack/",
+  "summary": "El Distrito Escolar de la Parroquia de Morehouse se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

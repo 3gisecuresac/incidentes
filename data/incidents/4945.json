@@ -1,0 +1,13 @@
+{
+  "id": 4945,
+  "title": "Servicios FMC (Servicios del Centro Médico Familiar) - Data leak - Undetermined",
+  "date": "2022-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en FMC Services",
+  "source": "nan",
+  "summary": "FMC Services confirma que la empresa sufrió una violación de datos después de que una parte no autorizada obtuviera acceso a datos confidenciales de consumidores contenidos en su red.",
+  "color": "#ef4444"
+}

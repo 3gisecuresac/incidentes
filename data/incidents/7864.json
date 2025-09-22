@@ -1,0 +1,13 @@
+{
+  "id": 7864,
+  "title": "Asuntos Globales de Canadá - Data leak - Undetermined",
+  "date": "2024-01-29",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en TI no planificada está afectando el acceso remoto a su red",
+  "source": "nan",
+  "summary": "Asuntos Globales Canadá sufre un ciberataque y afirma que una interrupción de TI no planificada está afectando el acceso remoto a su red, activada intencionalmente para abordar el descubrimiento de actividad cibernética maliciosa.",
+  "color": "#a78bfa"
+}

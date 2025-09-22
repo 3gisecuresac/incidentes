@@ -1,0 +1,13 @@
+{
+  "id": 4446,
+  "title": "Corporación de Energía de Devon - DoS - Killnet",
+  "date": "2022-04-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Killnet",
+  "impact": "Interrupción por DDoS en América del Norte como parte de una campaña más amplia contra los países",
+  "source": "nan",
+  "summary": "Killnet afirma haber realizado un ataque DDoS contra el sitio web de uno de los principales productores de petróleo y gas de América del Norte como parte de una campaña más amplia contra los países que apoyan a Ucrania.",
+  "color": "#f59e0b"
+}

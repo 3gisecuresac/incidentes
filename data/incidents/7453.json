@@ -1,0 +1,13 @@
+{
+  "id": 7453,
+  "title": "Refinadora Costarricense de Petróleo - Ransomware - Undetermined",
+  "date": "2024-11-27",
+  "country": "Costa Rica",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Petróleo",
+  "source": "nan",
+  "summary": "Refinadora Costarricense de Petróleo (RECOPE), el proveedor estatal de energía de Costa Rica, es víctima de un ataque de ransomware, lo que obliga a la empresa a cambiar a operaciones manuales y solicitar ayuda del extranjero.",
+  "color": "#ef4444"
+}

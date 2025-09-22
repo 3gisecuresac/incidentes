@@ -1,0 +1,13 @@
+{
+  "id": 225,
+  "title": "Diagnóstico de salud en el sitio - Data leak - Undetermined",
+  "date": "2014-08-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Tennessee",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/subcontractor-breach-impacts-more-than-60k-tennessee-workers/",
+  "summary": "Se notifica a más de 60.000 empleados que participaron en los exámenes de salud de los empleados en Tennessee que un atacante desconocido puede haber accedido a su información personal al piratear el sistema informático de Onsite Health Diagnostics, un subcontratista contratado por Healthways, el contratista de bienestar del estado.",
+  "color": "#a78bfa"
+}

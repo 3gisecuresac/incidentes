@@ -1,0 +1,13 @@
+{
+  "id": 2969,
+  "title": "Alianza de Salud del Sur del País - Data leak - Undetermined",
+  "date": "2020-06-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en South Country Health Alliance",
+  "source": "https://www.databreaches.net/as-2020-draws-to-a-close-it-still-takes-too-long-to-detect-and-notify-patients-of-most-breaches/",
+  "summary": "South Country Health Alliance reveló un incidente de seguridad de datos luego de que se violara la cuenta de correo electrónico de un empleado en junio de 2020.",
+  "color": "#ef4444"
+}

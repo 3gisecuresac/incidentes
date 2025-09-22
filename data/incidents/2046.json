@@ -1,0 +1,13 @@
+{
+  "id": 2046,
+  "title": "Gestión del capital humano de Apex - Ransomware - Undetermined",
+  "date": "2019-02-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Apex Human Capital Management",
+  "source": "https://krebsonsecurity.com/2019/02/payroll-provider-gives-extortionists-a-payday/",
+  "summary": "Apex Human Capital Management, proveedor de software de nóminas, sufre un ataque de ransomware que interrumpe los servicios de gestión de nóminas de cientos de clientes durante casi tres días. La empresa decide pagar el rescate.",
+  "color": "#ef4444"
+}

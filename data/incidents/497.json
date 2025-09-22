@@ -1,0 +1,13 @@
+{
+  "id": 497,
+  "title": "Buscador de amigos adultos - Data leak - Undetermined",
+  "date": "2015-05-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en adultfriendfider.com",
+  "source": "https://www.theguardian.com/lifeandstyle/2015/may/21/adult-friendfinder-dating-site-hackers-expose-users-millions",
+  "summary": "La información personal de casi 4 millones de usuarios del sitio web mundial de citas adultfriendfider.com se filtra en la Dark Web por hackers desconocidos. Se vulneran detalles sobre las preferencias sexuales de los usuarios, así como sus direcciones de correo electrónico, nombres de usuario, fechas de nacimiento, códigos postales y direcciones de internet únicas de sus ordenadores.",
+  "color": "#ef4444"
+}

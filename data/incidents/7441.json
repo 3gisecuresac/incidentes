@@ -1,0 +1,13 @@
+{
+  "id": 7441,
+  "title": "Embajada de Costa Rica en China (costaricaembassycn.com) - Data leak - Kapustkiy",
+  "date": "2016-12-22",
+  "country": "Costa Rica",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Kapustkiy",
+  "impact": "Sistema o cuenta comprometida en costaricaembassycn.com",
+  "source": "nan",
+  "summary": "Kapustkiy hackea la Embajada de Costa Rica en China (costaricaembassycn.com) y obtiene 50 de las 280 credenciales de inicio de sesión.",
+  "color": "#3b82f6"
+}

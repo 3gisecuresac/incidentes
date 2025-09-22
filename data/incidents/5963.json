@@ -1,0 +1,13 @@
+{
+  "id": 5963,
+  "title": "Roblox - Ransomware - Undetermined",
+  "date": "2023-07-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Conferencia de desarrolladores de Roblox entre 2017",
+  "source": "nan",
+  "summary": "La principal plataforma de juegos Roblox sufrió una importante violación de datos, lo que provocó la publicación de información personal, incluidas las direcciones de quienes asistieron a la Conferencia de desarrolladores de Roblox entre 2017 y 2020.",
+  "color": "#ef4444"
+}

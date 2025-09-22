@@ -1,0 +1,13 @@
+{
+  "id": 6792,
+  "title": "Servicio Superior de Ambulancias Aire-Tierra - Data leak - Undetermined",
+  "date": "2023-05-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Illinois",
+  "source": "nan",
+  "summary": "Superior Air-Ground Ambulance Service, una compañía de ambulancias aire-tierra con sede en Illinois, notifica a más de 858.000 personas que su información confidencial se vio comprometida en un incidente de piratería que ocurrió hace aproximadamente un año.",
+  "color": "#3b82f6"
+}

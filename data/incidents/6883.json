@@ -1,0 +1,13 @@
+{
+  "id": 6883,
+  "title": "La Fundación del Patrimonio - Data leak - SiegedSec",
+  "date": "2024-07-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SiegedSec",
+  "impact": "Filtración de datos en Heritage Foundation",
+  "source": "nan",
+  "summary": "El grupo hacktivista “SiegedSec” se atribuye la responsabilidad de una filtración de datos en la Heritage Foundation, robando detalles de un potencialmente controvertido “Proyecto 2025”.",
+  "color": "#ef4444"
+}

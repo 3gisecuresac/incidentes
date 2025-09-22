@@ -1,0 +1,13 @@
+{
+  "id": 3653,
+  "title": "Grupo Panamericano de Seguros de Vida (PALIG) - Ransomware - REvil",
+  "date": "2021-02-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Cifrado por ransomware en Pan-American Life Insurance Group",
+  "source": "nan",
+  "summary": "Pan-American Life Insurance Group es víctima de un ataque de ransomware REvil.",
+  "color": "#ef4444"
+}

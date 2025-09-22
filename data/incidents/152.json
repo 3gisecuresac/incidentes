@@ -1,0 +1,13 @@
+{
+  "id": 152,
+  "title": "Punto DNS - DoS - Undetermined",
+  "date": "2014-05-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Point DNS",
+  "source": "http://www.theregister.co.uk/2014/05/09/point_dns_ddos/",
+  "summary": "El host de dominio Point DNS fue atacado con un ataque DDoS de alta intensidad el viernes, dejando fuera de servicio a sus servidores durante horas.",
+  "color": "#f59e0b"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7426,
+  "title": "Corporacian Nacional de Telecomunica - Ransomware - GOLD DUPONT",
+  "date": "2021-07-21",
+  "country": "Ecuador",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "GOLD DUPONT",
+  "impact": "Filtración de datos en RansomEXX",
+  "source": "nan",
+  "summary": "El ransomware RansomEXX publica muestras de datos filtrados en su sitio TOR.",
+  "color": "#ef4444"
+}

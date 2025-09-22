@@ -1,0 +1,13 @@
+{
+  "id": 4376,
+  "title": "Hood LLC - Ciberataque - Undetermined",
+  "date": "2022-03-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Hood LLC",
+  "source": "nan",
+  "summary": "Hood LLC es víctima de un evento de seguridad cibernética, que obliga a desconectar todos los sistemas.",
+  "color": "#a78bfa"
+}

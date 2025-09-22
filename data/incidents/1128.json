@@ -1,0 +1,13 @@
+{
+  "id": 1128,
+  "title": "Universidad Estatal de los Apalaches - Data leak - AppState Leaks",
+  "date": "2016-12-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "AppState Leaks",
+  "impact": "Filtración de datos en Universidad Estatal de los Apalaches",
+  "source": "https://www.databreaches.net/anonymous-group-releases-1768-student-gpas-from-appalachian-state-university/",
+  "summary": "Un grupo llamado AppState Leaks publica los datos de 1.768 estudiantes de la Universidad Estatal de los Apalaches.",
+  "color": "#ef4444"
+}

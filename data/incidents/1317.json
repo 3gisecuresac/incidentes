@@ -1,0 +1,13 @@
+{
+  "id": 1317,
+  "title": "Departamento de Defensa de los Estados Unidos - Data leak - Undetermined",
+  "date": "2017-05-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Times sugiere",
+  "source": "https://www.theverge.com/2017/5/18/15658300/russia-hacking-twitter-bots-pentagon-putin-election",
+  "summary": "Un informe del Times sugiere que Rusia podría haber utilizado Twitter como una herramienta de espionaje internacional: agentes del gobierno ruso podrían haber enviado mensajes de Twitter contaminados con malware a más de 10.000 empleados del Departamento de Defensa de Estados Unidos.",
+  "color": "#a78bfa"
+}

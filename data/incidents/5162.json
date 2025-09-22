@@ -1,0 +1,13 @@
+{
+  "id": 5162,
+  "title": "Ubicaciones de 90 Degree Benefits en Minnesota y Wisconsin - Data leak - Undetermined",
+  "date": "2022-12-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Minnesota",
+  "source": "nan",
+  "summary": "Las sucursales de Minnesota y Wisconsin de 90 Degree Benefits presentan un aviso de violación de datos después de que la empresa confirmara que una parte no autorizada accedió a ciertos archivos que contenían datos confidenciales de consumidores luego de un ciberataque.",
+  "color": "#ef4444"
+}

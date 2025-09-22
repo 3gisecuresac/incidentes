@@ -1,0 +1,13 @@
+{
+  "id": 5627,
+  "title": "Universidad Estatal de Wichita - DoS - Undetermined",
+  "date": "2023-05-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Wichita toma medidas proactivas",
+  "source": "nan",
+  "summary": "La Universidad Estatal de Wichita toma medidas proactivas y desconecta varios sistemas de la Universidad para aislar un intento no autorizado por parte de un tercero de acceder a los sistemas de la Universidad.",
+  "color": "#a78bfa"
+}

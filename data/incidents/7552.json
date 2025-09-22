@@ -1,0 +1,13 @@
+{
+  "id": 7552,
+  "title": "Organización de Aviación Civil Internacional - Data leak - APT27 (Iron Panda)",
+  "date": "2016-02-27",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "APT27 (Iron Panda)",
+  "impact": "Incidente de seguridad en Nuevos",
+  "source": "nan",
+  "summary": "Nuevos informes revelan que en 2016 la OACI fue víctima de un grave ciberataque.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6908,
+  "title": "Servicios de beneficios y seguros de CBIZ - Data leak - Undetermined",
+  "date": "2024-02-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en CBIZ Benefits Insurance Services CBIZ",
+  "source": "nan",
+  "summary": "CBIZ Benefits & Insurance Services (CBIZ) revela una violación de datos que implica acceso no autorizado a la información del cliente almacenada en bases de datos específicas.",
+  "color": "#ef4444"
+}

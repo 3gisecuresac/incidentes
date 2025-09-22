@@ -1,0 +1,13 @@
+{
+  "id": 5510,
+  "title": "Sistemas de gestión de activos financieros - Data leak - Undetermined",
+  "date": "2023-03-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Financial Asset Management Systems FAMS",
+  "source": "nan",
+  "summary": "Financial Asset Management Systems (FAMS) presenta un aviso de violación de datos después de descubrir que una interrupción de la red afectó la capacidad de la empresa para acceder a ciertos archivos en su sistema informático.",
+  "color": "#ef4444"
+}

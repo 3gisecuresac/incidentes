@@ -1,0 +1,13 @@
+{
+  "id": 5119,
+  "title": "Condado de Southampton - Ransomware - Undetermined",
+  "date": "2022-11-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Southampton en Virginia comienza a informar a las personas",
+  "source": "nan",
+  "summary": "El condado de Southampton en Virginia comienza a informar a las personas que su información personal podría haber sido comprometida en un ataque de ransomware.",
+  "color": "#ef4444"
+}

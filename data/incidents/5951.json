@@ -1,0 +1,13 @@
+{
+  "id": 5951,
+  "title": "Banco Comunitario Sound - Data leak - cl0p",
+  "date": "2023-07-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Sound Community Bank",
+  "source": "nan",
+  "summary": "Sound Community Bank presenta un aviso de posible violación de datos después de descubrir que uno de los proveedores de la empresa utilizó MOVEit para transferir información de clientes de Sound Community Bank.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1769,
+  "title": "Centro Médico de la Universidad de Pittsburgh - Cole - Data leak - Undetermined",
+  "date": "2018-07-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en UPMC Cole",
+  "source": "https://www.databreaches.net/university-of-pittsburgh-medical-center-cole-notifies-patients-of-personal-data-breach/",
+  "summary": "UPMC Cole ha notificado a 790 pacientes tratados en UPMC Cole que su información personal puede haber sido accedida de manera inapropiada después de dos ataques de phishing el 7 y el 14 de junio.",
+  "color": "#ef4444"
+}

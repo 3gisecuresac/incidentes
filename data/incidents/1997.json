@@ -1,0 +1,13 @@
+{
+  "id": 1997,
+  "title": "Cooperativa de crédito de Tampa Bay - Data leak - Undetermined",
+  "date": "2019-01-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Tampa Bay Credit Union sufren la falsificación de la información de sus tarjetas de débito",
+  "source": "https://www.scmagazine.com/home/security-news/cybercrime/tampa-bay-credit-union-members-had-their-debit-card-information-spoofed-after-threat-actors-generated-false-cards-using-the-banks-bin-numbers/",
+  "summary": "Los miembros de Tampa Bay Credit Union sufren la falsificación de la información de sus tarjetas de débito luego de que actores de amenazas generan tarjetas falsas utilizando los números de contenedor de la institución financiera.",
+  "color": "#a78bfa"
+}

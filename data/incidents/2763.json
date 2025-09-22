@@ -1,0 +1,13 @@
+{
+  "id": 2763,
+  "title": "EVRAZ - Ransomware - Undetermined",
+  "date": "2020-03-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Norteamérica",
+  "source": "https://www.zdnet.com/article/one-of-roman-abramovichs-companies-got-hit-by-ransomware/",
+  "summary": "EVRAZ, uno de los mayores fabricantes de acero y operaciones mineras del mundo, ve paralizadas sus actividades en Norteamérica por un ataque de ransomware Ryuk.",
+  "color": "#ef4444"
+}

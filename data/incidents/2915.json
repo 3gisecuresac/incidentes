@@ -1,0 +1,13 @@
+{
+  "id": 2915,
+  "title": "Teespring - Data leak - Undetermined",
+  "date": "2020-06-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Teespring",
+  "source": "https://www.zdnet.com/article/hacker-leaks-data-of-millions-of-teespring-users/",
+  "summary": "Un hacker ha filtrado los detalles de millones de usuarios registrados en Teespring, un portal web que permite a los usuarios crear y vender prendas impresas personalizadas.",
+  "color": "#ef4444"
+}

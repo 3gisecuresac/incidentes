@@ -1,0 +1,13 @@
+{
+  "id": 7437,
+  "title": "Agencia de Migración de República Dominicana - Ransomware - Rhysida",
+  "date": "2023-09-14",
+  "country": "Republica Dominicana",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Rhysida",
+  "impact": "Cifrado por ransomware en Agencia de Migración de República Dominicana",
+  "source": "nan",
+  "summary": "La banda de ransomware Rhysida se atribuye la responsabilidad de un ataque de ransomware a la Agencia de Migración de República Dominicana",
+  "color": "#ef4444"
+}

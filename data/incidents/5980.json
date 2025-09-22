@@ -1,0 +1,13 @@
+{
+  "id": 5980,
+  "title": "Tempur Sealy - Ransomware - ALPHVM",
+  "date": "2023-07-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Cifrado por ransomware en ALPHV BlackCat",
+  "source": "nan",
+  "summary": "El gigante de los colchones Tempur Sealy se ve afectado por un ataque de ransomware ALPHV/BlackCat que obliga al apagado del sistema.",
+  "color": "#ef4444"
+}

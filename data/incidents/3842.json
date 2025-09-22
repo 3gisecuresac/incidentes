@@ -1,0 +1,13 @@
+{
+  "id": 3842,
+  "title": "Universidad de Wisconsin Health - Data leak - Undetermined",
+  "date": "2021-04-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Epic MyChart",
+  "source": "nan",
+  "summary": "UW Health notifica a más de 4000 pacientes sobre una violación de datos que permite el acceso no autorizado a su portal de pacientes Epic MyChart.",
+  "color": "#ef4444"
+}

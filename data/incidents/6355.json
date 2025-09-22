@@ -1,0 +1,13 @@
+{
+  "id": 6355,
+  "title": "Advarra - Data leak - ALPHVM",
+  "date": "2023-11-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Advarra es víctima de una vulneración de su número de teléfono",
+  "source": "nan",
+  "summary": "Un empleado de Advarra es víctima de una vulneración de su número de teléfono y los actores de amenazas de ALPHV/BlackCat afirman haber adquirido más de 120 GB de datos confidenciales pertenecientes a clientes, pacientes y empleados actuales y anteriores.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1791,
+  "title": "Municipio de Matanuska-Susitna - Ransomware - Undetermined",
+  "date": "2018-07-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Matanuska-Susitna fue atacado",
+  "source": "https://www.bbc.com/news/amp/technology-45032132",
+  "summary": "El municipio de Matanuska-Susitna fue atacado por CryptoLocker. El ataque tuvo lugar el 24 de julio, pero posiblemente estuvo inactivo desde mayo. Los sistemas informáticos no están operativos y algunos usuarios han empezado a usar máquinas de escribir.",
+  "color": "#a78bfa"
+}

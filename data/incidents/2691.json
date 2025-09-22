@@ -1,0 +1,13 @@
+{
+  "id": 2691,
+  "title": "Ciudad de Garrison - Ransomware - Undetermined",
+  "date": "2020-02-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Garrison es víctima de un ataque de ransomware",
+  "source": "https://www.scmagazine.com/home/security-news/ransomware/texas-attack-garrison-nacogdoches-schools-hit-with-ransomware/",
+  "summary": "La ciudad de Garrison es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

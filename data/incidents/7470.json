@@ -1,0 +1,13 @@
+{
+  "id": 7470,
+  "title": "Keralty - Ransomware - RansomHouse",
+  "date": "2022-11-27",
+  "country": "Colombia",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "RansomHouse",
+  "impact": "Cifrado por ransomware en Keralty",
+  "source": "nan",
+  "summary": "La organización multinacional de atención médica Keralty sufre un ataque de ransomware RansomHouse, interrumpiendo los sitios web y las operaciones de la empresa y sus subsidiarias.",
+  "color": "#ef4444"
+}

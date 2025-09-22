@@ -1,0 +1,13 @@
+{
+  "id": 2568,
+  "title": "Ciudad de New Milford - Data leak - Undetermined",
+  "date": "2019-12-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en New Milford notifica un incidente de phishing ocurrido el 3 de octubre de 2019",
+  "source": "https://www.databreaches.net/new-milford-ct-issues-data-security-incident-notice/",
+  "summary": "La ciudad de New Milford notifica un incidente de phishing ocurrido el 3 de octubre de 2019.",
+  "color": "#ef4444"
+}

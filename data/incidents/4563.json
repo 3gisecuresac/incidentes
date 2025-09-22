@@ -1,0 +1,13 @@
+{
+  "id": 4563,
+  "title": "Atención médica BJC - Data leak - Undetermined",
+  "date": "2022-05-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en BJC HealthCare",
+  "source": "nan",
+  "summary": "BJC HealthCare comienza a notificar a ciertos pacientes que parte de su información médica protegida estaba almacenada en cuentas de correo electrónico a las que accedió una persona no autorizada.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2294,
+  "title": "Blastech Móvil - Ransomware - Undetermined",
+  "date": "2019-07-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Blastech Mobile",
+  "source": "https://www.databreaches.net/second-entity-in-mobile-alabama-hit-with-ransomware/",
+  "summary": "Blastech Mobile es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

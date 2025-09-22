@@ -1,0 +1,13 @@
+{
+  "id": 1442,
+  "title": "R6DB - Ransomware - Undetermined",
+  "date": "2017-09-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en FPS táctico Rainbow Six Siege de Ubisoft",
+  "source": "https://securityaffairs.co/wordpress/63702/breaking-news/r6db-hacked.html",
+  "summary": "R6DB, un servicio de juegos en línea impulsado por fanáticos que brinda estadísticas a los jugadores del FPS táctico Rainbow Six Siege de Ubisoft, es atacado por piratas informáticos, que borran sus bases de datos y retienen los datos a cambio de un rescate.",
+  "color": "#ef4444"
+}

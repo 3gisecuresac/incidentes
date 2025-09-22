@@ -1,0 +1,13 @@
+{
+  "id": 4910,
+  "title": "La armería de Wilson - Data leak - Undetermined",
+  "date": "2022-09-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Gun Shop",
+  "source": "nan",
+  "summary": "Wilson's Gun Shop confirma que la empresa sufrió una violación de datos después de que una parte no autorizada obtuviera acceso a información confidencial de consumidores que estaba confiada a la empresa.",
+  "color": "#ef4444"
+}

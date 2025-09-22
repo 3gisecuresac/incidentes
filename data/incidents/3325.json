@@ -1,0 +1,13 @@
+{
+  "id": 3325,
+  "title": "Centros de Salud Familiar de Georgia, Inc.? - Ransomware - WIZARD SPIDER",
+  "date": "2020-10-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Cifrado por ransomware en Family Health Centers Of Georgia Inc",
+  "source": "https://www.databreaches.net/wp-content/uploads/Without_Undue_Delay.pdf",
+  "summary": "Family Health Centers Of Georgia, Inc.? es víctima de un ataque de ransomware Conti.",
+  "color": "#ef4444"
+}

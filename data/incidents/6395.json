@@ -1,0 +1,13 @@
+{
+  "id": 6395,
+  "title": "Centro médico Tri-City - Ciberataque - Undetermined",
+  "date": "2023-11-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Centro Médico Tri-City",
+  "source": "nan",
+  "summary": "Un ciberataque afecta las operaciones del Centro Médico Tri-City.",
+  "color": "#a78bfa"
+}

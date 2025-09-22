@@ -1,0 +1,13 @@
+{
+  "id": 114,
+  "title": "Departamento de Vehículos Motorizados de California - Data leak - Undetermined",
+  "date": "2014-03-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Vehículos Motorizados de California",
+  "source": "http://krebsonsecurity.com/2014/03/sources-credit-card-breach-at-california-dmv/",
+  "summary": "El Departamento de Vehículos Motorizados de California (DMV) parece haber sufrido una amplia filtración de datos de tarjetas de crédito relacionada con pagos en línea. El Departamento afirma que la filtración no se produjo directamente en sus computadoras, sino en un procesador de tarjetas.",
+  "color": "#ef4444"
+}

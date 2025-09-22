@@ -1,0 +1,13 @@
+{
+  "id": 4696,
+  "title": "Productos Lawson - Data leak - Undetermined",
+  "date": "2022-07-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Lawson Products",
+  "source": "nan",
+  "summary": "Lawson Products confirma que la compañía sufrió una violación de datos, tras detectar un incidente cibernético que afectó a su red informática.",
+  "color": "#ef4444"
+}

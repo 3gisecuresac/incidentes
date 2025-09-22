@@ -1,0 +1,13 @@
+{
+  "id": 201,
+  "title": "Facultad de Medicina de Penn State - Data leak - Undetermined",
+  "date": "2014-07-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Seguro Social de ex alumnos de la Facultad de Medicina de Penn State se hayan visto comprometidos",
+  "source": "http://news.psu.edu/story/320454/2014/07/10/malware-opens-door-possible-information-exposure",
+  "summary": "Es posible que 1.176 números de Seguro Social de ex alumnos de la Facultad de Medicina de Penn State se hayan visto comprometidos luego de que se encontrara malware en una computadora de la universidad.",
+  "color": "#3b82f6"
+}

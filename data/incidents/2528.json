@@ -1,0 +1,13 @@
+{
+  "id": 2528,
+  "title": "Sistema T - Ransomware - Undetermined",
+  "date": "2019-12-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en EE",
+  "source": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-is-making-victims-left-and-right/",
+  "summary": "T-System, un proveedor de soluciones integrales para centros de atención de emergencia en EE. UU., es víctima del ransomware Ryuk.",
+  "color": "#ef4444"
+}

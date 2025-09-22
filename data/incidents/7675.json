@@ -1,0 +1,13 @@
+{
+  "id": 7675,
+  "title": "Colegio de las Fuerzas Canadienses - Ransomware - Undetermined",
+  "date": "2020-07-03",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Kingston es una de las cuatro escuelas de entrenamiento militar de Canadá",
+  "source": "nan",
+  "summary": "El Real Colegio Militar de Kingston es una de las cuatro escuelas de entrenamiento militar de Canadá que fueron blanco de un ataque de ransomware. El ataque también afectó al RMC Saint-Jean de Quebec, al Colegio de las Fuerzas Canadienses de Toronto y al Instituto del Suboficial Jefe Robert Osside.",
+  "color": "#ef4444"
+}

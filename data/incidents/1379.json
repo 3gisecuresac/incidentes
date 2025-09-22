@@ -1,0 +1,13 @@
+{
+  "id": 1379,
+  "title": "Centro Médico de la Universidad de Vermont - Data leak - Undetermined",
+  "date": "2017-07-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Vermont notifica a 2",
+  "source": "https://www.databreaches.net/university-of-vermont-medical-center-notifies-2300-patients-of-phishing-incident/",
+  "summary": "El Centro Médico de la Universidad de Vermont notifica a 2.300 pacientes sobre un incidente de phishing ocurrido en mayo de 2017.",
+  "color": "#ef4444"
+}

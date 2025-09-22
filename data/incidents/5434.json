@@ -1,0 +1,13 @@
+{
+  "id": 5434,
+  "title": "Asesores de atención médica de Merritt - Data leak - Undetermined",
+  "date": "2023-03-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Merritt Healthcare Advisors",
+  "source": "nan",
+  "summary": "Merritt Healthcare Advisors informa sobre un ataque de phishing que expuso los datos de algunos de sus clientes del sector sanitario.",
+  "color": "#ef4444"
+}

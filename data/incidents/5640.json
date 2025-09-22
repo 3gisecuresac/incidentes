@@ -1,0 +1,13 @@
+{
+  "id": 5640,
+  "title": "Colegio Comunitario Estatal de Chattanooga - Ransomware - Undetermined",
+  "date": "2023-05-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en El Chattanooga State Community College",
+  "source": "nan",
+  "summary": "El Chattanooga State Community College sufre un ciberataque, lo que obliga a la escuela a cancelar clases y modificar los horarios de los miembros del personal.",
+  "color": "#a78bfa"
+}

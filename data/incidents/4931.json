@@ -1,0 +1,13 @@
+{
+  "id": 4931,
+  "title": "Clínica Comunitaria Country Doctor - Data leak - Undetermined",
+  "date": "2022-09-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Country Doctor Community Clinic",
+  "source": "nan",
+  "summary": "Country Doctor Community Clinic presenta un aviso oficial de una violación de datos después de que la empresa experimentó un incidente de piratería/TI que comprometió los datos de los consumidores.",
+  "color": "#ef4444"
+}

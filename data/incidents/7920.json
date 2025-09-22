@@ -1,0 +1,13 @@
+{
+  "id": 7920,
+  "title": "Ministro de Deporte de Brasil - Data leak - Anonymous (Brazil)",
+  "date": "2016-08-05",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Anonymous (Brazil)",
+  "impact": "Filtración de datos en Río de Janeiro",
+  "source": "nan",
+  "summary": "En la segunda fase de su operación, Anonymous Brasil afirma haber filtrado datos personales del alcalde de Río de Janeiro, del gobernador de Río de Janeiro, del ministro de Deporte, del presidente del Comité Olímpico Brasileño y de tres empresarios presuntamente involucrados en casos de corrupción.",
+  "color": "#ef4444"
+}

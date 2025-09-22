@@ -1,0 +1,13 @@
+{
+  "id": 5059,
+  "title": "Empresa de medios no revelada - Data leak - TA569",
+  "date": "2022-11-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "TA569",
+  "impact": "Sistema o cuenta comprometida en Proofpoint revelan",
+  "source": "nan",
+  "summary": "Investigadores de Proofpoint revelan que los actores de amenazas están utilizando la infraestructura comprometida de una empresa de medios no revelada para implementar el marco de malware JavaScript SocGholish (también conocido como FakeUpdates) en los sitios web de cientos de periódicos en todo Estados Unidos.",
+  "color": "#3b82f6"
+}

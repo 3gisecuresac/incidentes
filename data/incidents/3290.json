@@ -1,0 +1,13 @@
+{
+  "id": 3290,
+  "title": "Escuelas públicas de Sandwich - DoS - Undetermined",
+  "date": "2020-10-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Sandwich sufrieron una semana de problemas de conexión",
+  "source": "https://www.infosecurity-magazine.com/news/ddos-attacks-disrupt-massachusetts/",
+  "summary": "Las Escuelas Públicas de Sandwich sufrieron una semana de problemas de conexión que se determinó que fueron el resultado de un ataque DDoS.",
+  "color": "#f59e0b"
+}

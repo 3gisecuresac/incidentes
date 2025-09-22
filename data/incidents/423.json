@@ -1,0 +1,13 @@
+{
+  "id": 423,
+  "title": "Ciudad de Moore, Oklahoma - Data leak - Bitcoin Baron",
+  "date": "2015-03-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Bitcoin Baron",
+  "impact": "Filtración de datos en www.cityofmoore.com",
+  "source": "http://www.databreaches.net/bitcoin-baron-tells-moore-oklahoma-thanks-for-letting-me-into-your-system-now-pay-me/",
+  "summary": "Bitcoin Baron afirma haber hackeado la ciudad de Moore en Oklahoma (www.cityofmoore.com) y exige un rescate de 100 bitcoins para proteger los datos privados adquiridos.",
+  "color": "#ef4444"
+}

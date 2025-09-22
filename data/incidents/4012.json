@@ -1,0 +1,13 @@
+{
+  "id": 4012,
+  "title": "Empresas Morley - Ransomware - Undetermined",
+  "date": "2021-08-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos",
+  "source": "nan",
+  "summary": "Un proveedor de servicios empresariales sufre un ataque de ransomware que provoca una importante violación de datos, incluida la información personal de más de 500.000 personas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5429,
+  "title": "La Agencia Hatcher - Ciberataque - Undetermined",
+  "date": "2023-03-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en La Agencia Hatcher",
+  "source": "nan",
+  "summary": "La Agencia Hatcher presenta un aviso de violación de datos después de enterarse de que un reciente incidente de seguridad de datos dio como resultado que información confidencial del consumidor fuera accesible a una parte no autorizada.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 767,
+  "title": "Pharm-Olam Internacional - Data leak - Undetermined",
+  "date": "2016-02-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Seguridad Social e ingresos",
+  "source": "http://www.databreaches.net/pharm-olam-notifies-employees-of-w-2-information-breach/",
+  "summary": "Pharm-Olam International comienza a notificar a los empleados sobre un incidente de seguridad que comprometió sus nombres, información de Seguridad Social e ingresos.",
+  "color": "#3b82f6"
+}

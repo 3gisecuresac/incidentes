@@ -1,0 +1,13 @@
+{
+  "id": 5296,
+  "title": "AmerisourceBergen - Ransomware - Lorenz",
+  "date": "2023-02-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Lorenz",
+  "impact": "Filtración de datos en TI de una de sus subsidiarias después de",
+  "source": "nan",
+  "summary": "El distribuidor farmacéutico AmerisourceBergen confirma que los atacantes comprometieron el sistema de TI de una de sus subsidiarias después de que los actores de amenazas del grupo de ransomware Lorenz comenzaron a filtrar datos supuestamente robados.",
+  "color": "#ef4444"
+}

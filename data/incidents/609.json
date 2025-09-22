@@ -1,0 +1,13 @@
+{
+  "id": 609,
+  "title": "Tanque de tinta - Data leak - Undetermined",
+  "date": "2015-09-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en ceph.com",
+  "source": "http://www.theregister.co.uk/2015/09/18/intrusion_at_cephcom_makes_for_red_faces_at_red_hat/",
+  "summary": "Red Hat revela haber sufrido una intrusión en los sitios del proyecto comunitario Ceph (ceph.com) e Inktank (download.inktank.com) que resultó en el acceso a código firmado.",
+  "color": "#3b82f6"
+}

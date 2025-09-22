@@ -1,0 +1,13 @@
+{
+  "id": 315,
+  "title": "Ciudad de Phoenix, Arizona - DoS - Undetermined",
+  "date": "2014-10-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Phoenix",
+  "source": "http://news.softpedia.com/news/City-of-Phoenix-Computers-Under-DDoS-Attack-463286.shtml",
+  "summary": "Los sistemas informáticos de los servicios públicos de Phoenix, Arizona, son el objetivo de un ataque DDoS.",
+  "color": "#f59e0b"
+}

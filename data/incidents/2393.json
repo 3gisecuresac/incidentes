@@ -1,0 +1,13 @@
+{
+  "id": 2393,
+  "title": "Condado de Lee - DoS - Undetermined",
+  "date": "2019-09-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Lee sufre un ciberataque",
+  "source": "https://www.databreaches.net/fl-lee-county-hit-with-cybersecurity-attack/",
+  "summary": "El condado de Lee sufre un ciberataque.",
+  "color": "#a78bfa"
+}

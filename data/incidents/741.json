@@ -1,0 +1,13 @@
+{
+  "id": 741,
+  "title": "Wendy's - Infección Dispositivos - Undetermined",
+  "date": "2016-01-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Wendy",
+  "source": "http://krebsonsecurity.com/2016/01/wendys-probes-reports-of-credit-card-breach/",
+  "summary": "Wendy's, la cadena nacional de restaurantes de comida rápida, dice que está investigando denuncias de una posible violación de tarjetas de crédito en algunos locales.",
+  "color": "#a78bfa"
+}

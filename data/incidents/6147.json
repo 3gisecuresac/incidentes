@@ -1,0 +1,13 @@
+{
+  "id": 6147,
+  "title": "Condado de Hinds - Ransomware - Undetermined",
+  "date": "2023-09-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Hinds es víctima de un ataque de ransomware",
+  "source": "nan",
+  "summary": "El condado de Hinds es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

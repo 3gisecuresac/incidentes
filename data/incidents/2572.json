@@ -1,0 +1,13 @@
+{
+  "id": 2572,
+  "title": "Pronosticador - Ransomware - Undetermined",
+  "date": "2019-12-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en TI",
+  "source": "https://krebsonsecurity.com/2019/12/ransomware-at-it-services-provider-synoptek/",
+  "summary": "Synoptek, una empresa californiana que ofrece servicios de alojamiento en la nube y gestión de TI, sufre un ataque de ransomware llamado Sodinokibi que interrumpe las operaciones de muchos de sus clientes. Según se informa, la empresa paga el rescate exigido para intentar restablecer las operaciones lo antes posible.",
+  "color": "#ef4444"
+}

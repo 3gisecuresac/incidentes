@@ -1,0 +1,13 @@
+{
+  "id": 2044,
+  "title": "Salud de UConn - Data leak - Undetermined",
+  "date": "2019-02-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en UConn Health",
+  "source": "https://www.scmagazine.com/home/security-news/breach-could-impact-roughly-326000-uconn-health-patients/",
+  "summary": "UConn Health revela que un tercero no autorizado accedió a las cuentas de correo electrónico de los empleados, violando potencialmente la privacidad de 326.000 pacientes y otras personas.",
+  "color": "#a78bfa"
+}

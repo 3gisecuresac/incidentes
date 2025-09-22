@@ -1,0 +1,13 @@
+{
+  "id": 5140,
+  "title": "Colegio Knox - Ransomware - Hive",
+  "date": "2022-12-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Cifrado por ransomware en Knox College",
+  "source": "nan",
+  "summary": "Hive Ransomware Group, una organización criminal identificada por el FBI, se ha atribuido el mérito de las continuas interrupciones en los sistemas informáticos de Knox College.",
+  "color": "#ef4444"
+}

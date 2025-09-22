@@ -1,0 +1,13 @@
+{
+  "id": 7148,
+  "title": "Sistemas municipales de la ciudad de Tahlequah - Ransomware - Undetermined",
+  "date": "2025-04-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Tahlequah reportó un ciberataque",
+  "source": "nan",
+  "summary": "La ciudad de Tahlequah reportó un ciberataque; el departamento de TI aisló los sistemas afectados ese mismo día. Las autoridades no reportaron cifrado de ransomware ni evidencia de exfiltración de datos ni impacto en los residentes.",
+  "color": "#ef4444"
+}

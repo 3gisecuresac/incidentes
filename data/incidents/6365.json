@@ -1,0 +1,13 @@
+{
+  "id": 6365,
+  "title": "Ciudad de Iowa - Ransomware - ALPHVM",
+  "date": "2023-11-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Iowa en el estado de Luisiana",
+  "source": "nan",
+  "summary": "El grupo de ransomware ALPHV (BlackCat) publica una primera parte de datos exfiltrados de la ciudad de Iowa en el estado de Luisiana.",
+  "color": "#ef4444"
+}

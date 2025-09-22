@@ -1,0 +1,13 @@
+{
+  "id": 1137,
+  "title": "Servicios de reaseguro Summit Inc. - Data leak - Undetermined",
+  "date": "2016-12-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Black Hawk College",
+  "source": "https://www.databreaches.net/il-security-breach-could-affect-black-hawk-college-employees/",
+  "summary": "La información personal de aproximadamente 1.000 empleados de Black Hawk College y sus dependientes podría haber sido comprometida en un ataque al servidor de Summit Reinsurance Services Inc., un antiguo proveedor de seguros.",
+  "color": "#3b82f6"
+}

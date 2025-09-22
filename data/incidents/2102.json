@@ -1,0 +1,13 @@
+{
+  "id": 2102,
+  "title": "Salud del palmito - Data leak - Undetermined",
+  "date": "2019-03-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Palmetto Health",
+  "source": "https://www.databreaches.net/two-newly-revealed-phishing-attacks-in-2018-potentially-compromised-41000-patients-ephi/",
+  "summary": "Palmetto Health informa que un ataque de phishing en algún momento de noviembre de 2018 afectó a 23.811 pacientes.",
+  "color": "#ef4444"
+}

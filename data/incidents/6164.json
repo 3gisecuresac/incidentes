@@ -1,0 +1,13 @@
+{
+  "id": 6164,
+  "title": "Asociación Internacional de Trabajadores del Transporte Aéreo y Ferroviario de Chapa Metálica (SMART) - Ciberataque - Undetermined",
+  "date": "2023-09-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Trabajadores del Transporte Aéreo",
+  "source": "nan",
+  "summary": "La Asociación Internacional de Trabajadores del Transporte Aéreo y Ferroviario de Chapa Metálica (SMART) presenta un aviso de violación de datos después de descubrir que los archivos almacenados en la red de la empresa estaban sujetos a acceso no autorizado.",
+  "color": "#ef4444"
+}

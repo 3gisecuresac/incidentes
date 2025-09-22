@@ -1,0 +1,13 @@
+{
+  "id": 6890,
+  "title": "Sucursal estadounidense de Toyota - Data leak - ZeroSevenGroup",
+  "date": "2022-12-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ZeroSevenGroup",
+  "impact": "Filtración de datos en GB de",
+  "source": "nan",
+  "summary": "Toyota confirma que los datos de los clientes quedaron expuestos en una violación de datos de terceros después de que un actor de amenazas filtró un archivo de 240 GB de datos robados en un foro de piratería.",
+  "color": "#ef4444"
+}

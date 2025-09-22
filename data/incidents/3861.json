@@ -1,0 +1,13 @@
+{
+  "id": 3861,
+  "title": "Centro de Cirugía Especializada del Centro de Nueva York - Data leak - Undetermined",
+  "date": "2021-04-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Nueva York sufre una violación de datos debido a un acceso no autorizado a la red",
+  "source": "nan",
+  "summary": "Un centro quirúrgico de Nueva York sufre una violación de datos debido a un acceso no autorizado a la red que compromete la información sanitaria protegida de casi 25.000 pacientes.",
+  "color": "#ef4444"
+}

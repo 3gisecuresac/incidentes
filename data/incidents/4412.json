@@ -1,0 +1,13 @@
+{
+  "id": 4412,
+  "title": "Distrito Escolar Independiente de Weatherford - Data leak - Undetermined",
+  "date": "2022-03-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Weatherford informa sobre un incidente de phishing",
+  "source": "nan",
+  "summary": "El Distrito Escolar Independiente de Weatherford informa sobre un incidente de phishing que supuestamente afectó a 1,254 tejanos.",
+  "color": "#ef4444"
+}

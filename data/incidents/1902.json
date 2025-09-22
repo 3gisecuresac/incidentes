@@ -1,0 +1,13 @@
+{
+  "id": 1902,
+  "title": "Equidad en salud - Data leak - Undetermined",
+  "date": "2018-11-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en HealthEquity",
+  "source": "https://news.softpedia.com/news/new-healthequity-data-breach-exposes-pii-phi-of-almost-21-000-customers-523829.shtml",
+  "summary": "Un intruso accede a las cuentas de correo electrónico de dos miembros de HealthEquity, exponiendo la información personal y protegida de 20.906 suscriptores. La filtración data de septiembre y octubre, y se descubrió el 5 de octubre.",
+  "color": "#ef4444"
+}

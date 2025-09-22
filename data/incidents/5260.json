@@ -1,0 +1,13 @@
+{
+  "id": 5260,
+  "title": "CommuteAir - Data leak - Undetermined",
+  "date": "2023-01-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estados Unidos con más de 1",
+  "source": "nan",
+  "summary": "Una lista de prohibición de vuelos de Estados Unidos con más de 1,5 millones de registros de viajeros prohibidos y más de 250.000 seleccionados se comparte públicamente en un foro de piratería.",
+  "color": "#a78bfa"
+}

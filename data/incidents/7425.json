@@ -1,0 +1,13 @@
+{
+  "id": 7425,
+  "title": "Corporación Nacional de Telecomunicaciones (Ecuador) - Ransomware - RansomEXX",
+  "date": "2021-07-16",
+  "country": "Ecuador",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "RansomEXX",
+  "impact": "Filtración de datos en Ecuador sufre un importante ataque de ransomware",
+  "source": "nan",
+  "summary": "La empresa estatal de telecomunicaciones de Ecuador sufre un importante ataque de ransomware que interrumpe las operaciones comerciales y roba 190 GB de datos.",
+  "color": "#ef4444"
+}

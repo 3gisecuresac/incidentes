@@ -1,0 +1,13 @@
+{
+  "id": 6603,
+  "title": "Instituto Pratt - Ransomware - LockBit 3.0",
+  "date": "2024-01-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Instituto Pratt",
+  "source": "nan",
+  "summary": "La banda de ransomware LockBit se atribuye la responsabilidad de un ciberataque al Instituto Pratt.",
+  "color": "#ef4444"
+}

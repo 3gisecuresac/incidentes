@@ -1,0 +1,13 @@
+{
+  "id": 1426,
+  "title": "Hospital Infantil de Colorado - Data leak - Undetermined",
+  "date": "2017-09-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Colorado notifica a 3",
+  "source": "https://www.databreaches.net/childrens-hospital-colorado-notifies-3400-families-after-employees-email-account-was-improperly-accessed/",
+  "summary": "El Hospital Infantil de Colorado notifica a 3.400 familias después de que se accediera indebidamente a la cuenta de correo electrónico de un empleado el 11 de julio de 2017.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4937,
+  "title": "Software Sigmund - Ransomware - Hive",
+  "date": "2022-09-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Cifrado por ransomware en Hive",
+  "source": "nan",
+  "summary": "Sigmund Software se ve afectado por dos ataques de ransomware de Hive y Spy.",
+  "color": "#ef4444"
+}

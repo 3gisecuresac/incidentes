@@ -1,0 +1,13 @@
+{
+  "id": 5970,
+  "title": "MasTec - Data leak - cl0p",
+  "date": "2023-07-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Delta Dental",
+  "source": "nan",
+  "summary": "MasTec presenta un aviso de violación de datos después de descubrir una violación de datos relacionada con MOVEit en Delta Dental que afectó a los empleados y dependientes inscritos en el Plan de beneficios grupales Care Opt Plus de la empresa para empleados por hora y asalariados.",
+  "color": "#ef4444"
+}

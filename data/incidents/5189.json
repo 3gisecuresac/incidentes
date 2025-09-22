@@ -1,0 +1,13 @@
+{
+  "id": 5189,
+  "title": "MedInform - Data leak - Undetermined",
+  "date": "2022-12-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Cleveland Clinic",
+  "source": "nan",
+  "summary": "MedInform presenta un aviso de violación de datos después de enterarse de que un usuario no autorizado pudo acceder a información confidencial perteneciente a pacientes de Cleveland Clinic que estaba almacenada en la red informática de la empresa.",
+  "color": "#ef4444"
+}

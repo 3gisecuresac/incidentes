@@ -1,0 +1,13 @@
+{
+  "id": 1520,
+  "title": "Departamento de Agricultura de Texas - Data leak - Undetermined",
+  "date": "2017-12-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Texas se vio comprometida",
+  "source": "https://www.databreaches.net/east-texas-area-school-officials-scope-of-computer-breach-still-unclear/",
+  "summary": "La información de estudiantes de 39 distritos escolares del este de Texas se vio comprometida por un ataque informático al Departamento de Agricultura de Texas en octubre. Este departamento supervisa los programas de desayuno y almuerzo escolar.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 761,
+  "title": "Juegos de diferencias - Data leak - Team Fursec",
+  "date": "2016-02-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Team Fursec",
+  "impact": "Cifrado por ransomware en differencegames.com",
+  "source": "https://hacked-emails.com/leak/pb-yRctTBhj",
+  "summary": "El equipo Fursec hackea differencegames.com y descarga 16.589 nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

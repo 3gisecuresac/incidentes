@@ -1,0 +1,13 @@
+{
+  "id": 3641,
+  "title": "Sistemas de defensa helénicos - Ransomware - Undetermined",
+  "date": "2021-02-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Hellenic Defense Systems",
+  "source": "nan",
+  "summary": "Hellenic Defense Systems sufre un ataque de ransomware.",
+  "color": "#ef4444"
+}

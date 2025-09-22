@@ -1,0 +1,13 @@
+{
+  "id": 5720,
+  "title": "Condado de Allegheny - Data leak - cl0p",
+  "date": "2023-06-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Allegheny",
+  "source": "nan",
+  "summary": "El condado de Allegheny, Pensilvania, presenta un aviso de violación de datos después de confirmar que una vulnerabilidad en MOVEit, un programa de transferencia de archivos utilizado por el condado de Allegheny, resultó en que una parte no autorizada pudiera acceder a información confidencial del consumidor.",
+  "color": "#ef4444"
+}

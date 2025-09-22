@@ -1,0 +1,13 @@
+{
+  "id": 3126,
+  "title": "Clínica Pediátrica del Norte de Okanagan - Ransomware - Undetermined",
+  "date": "2020-08-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en North Okangan",
+  "source": "https://www.keremeosreview.com/news/north-okanagan-pediatric-clinic-hacked/",
+  "summary": "La Clínica Pediátrica North Okangan fue objeto de un intento de piratería informática remota a finales de mayo de 2020. El atacante pudo haber accedido a información histórica del perfil del paciente, pero parece que su objetivo era cifrar los archivos para pedir un rescate.",
+  "color": "#a78bfa"
+}

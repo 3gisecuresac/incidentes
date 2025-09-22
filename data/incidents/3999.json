@@ -1,0 +1,13 @@
+{
+  "id": 3999,
+  "title": "Escuela Emma Willard - Ransomware - Undetermined",
+  "date": "2021-07-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Emma Willard",
+  "source": "nan",
+  "summary": "La escuela Emma Willard es víctima de un ataque de ransomware que compromete la información financiera de algunos miembros de la escuela.",
+  "color": "#ef4444"
+}

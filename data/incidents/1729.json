@@ -1,0 +1,13 @@
+{
+  "id": 1729,
+  "title": "Clarifis - Data leak - Undetermined",
+  "date": "2018-06-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Rusia",
+  "source": "https://www.wired.com/story/startup-working-on-contentious-pentagon-ai-project-was-hacked/",
+  "summary": "Una demanda interpuesta por un exempleado alega que los sistemas informáticos de la startup de inteligencia artificial Clarifai fueron comprometidos por una o más personas en Rusia, lo que podría exponer tecnología utilizada por el ejército estadounidense. La demanda afirma que Clarifai tuvo conocimiento de la filtración en noviembre pasado, pero que su director ejecutivo y otros ejecutivos no la informaron de inmediato al Pentágono.",
+  "color": "#ef4444"
+}

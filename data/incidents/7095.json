@@ -1,0 +1,13 @@
+{
+  "id": 7095,
+  "title": "Ciudad de Winston-Salem - Ciberataque - Undetermined",
+  "date": "2025-01-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Winston-Salem",
+  "source": "nan",
+  "summary": "Los residentes de Winston-Salem, Carolina del Norte, no pueden pagar sus facturas de servicios públicos en línea después de que un ciberataque posterior a Navidad dejara fuera de línea los sistemas de la ciudad.",
+  "color": "#a78bfa"
+}

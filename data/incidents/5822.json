@@ -1,0 +1,13 @@
+{
+  "id": 5822,
+  "title": "AbbVie - Ransomware - cl0p",
+  "date": "2023-06-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit Transfer de la",
+  "source": "nan",
+  "summary": "La banda de ransomware Clop afirma haber robado datos de los sistemas MOVEit Transfer de la compañía biofarmacéutica AbbVie",
+  "color": "#ef4444"
+}

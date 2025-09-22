@@ -1,0 +1,13 @@
+{
+  "id": 747,
+  "title": "Instituto de Tecnología de Georgia - Malware Attack - Christopher Taylor",
+  "date": "2016-02-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Christopher Taylor",
+  "impact": "Incidente de seguridad en Estados Unidos de Christopher Taylor",
+  "source": "https://www.infosecurity-magazine.com/news/uk-judge-blocks-taylor-extradition/",
+  "summary": "Un juez británico ha fallado en contra de la extradición a Estados Unidos de Christopher Taylor, un hombre de Wigan acusado de piratear cientos de cámaras web en todo el mundo. Taylor fue detenido tras descubrirse que instaló malware en una computadora portátil del Instituto Tecnológico de Georgia.",
+  "color": "#a78bfa"
+}

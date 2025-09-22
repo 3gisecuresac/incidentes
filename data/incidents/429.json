@@ -1,0 +1,13 @@
+{
+  "id": 429,
+  "title": "Greatfire.org - DoS - Undetermined",
+  "date": "2015-03-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Greatfire.org",
+  "source": "http://www.theregister.co.uk/2015/03/20/greatfire_chinese_activists_under_ddos/",
+  "summary": "El sitio activista chino Greatfire.org, que oculta el tráfico censurado que ingresa al país, sufre un ataque DDoS que le genera 30.000 dólares diarios en costos de servidor.",
+  "color": "#f59e0b"
+}

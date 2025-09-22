@@ -1,0 +1,13 @@
+{
+  "id": 2775,
+  "title": "Radiología del Noreste - Data leak - Undetermined",
+  "date": "2020-03-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Northeast Radiology",
+  "source": "https://www.databreaches.net/northeast-radiology-notifies-patients-of-pacs-data-security-incident/",
+  "summary": "Northeast Radiology anuncia que el 11 de enero de 2020, personas no autorizadas obtuvieron acceso al sistema de archivo y comunicación de imágenes (PACS) de Northeast Radiology,",
+  "color": "#a78bfa"
+}

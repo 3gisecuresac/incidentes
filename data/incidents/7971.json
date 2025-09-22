@@ -1,0 +1,13 @@
+{
+  "id": 7971,
+  "title": "Registro de Personas Físicas del Contribuyente (CPF) - Data leak - Vanda The God",
+  "date": "2021-03-19",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Vanda The God",
+  "impact": "Filtración de datos en Personas Físicas",
+  "source": "nan",
+  "summary": "La policía arrestó al hombre sospechoso de piratear y difundir información de 223 millones de brasileños, la mayor filtración en la historia del país. Según informes, el hacker accedió a datos de empresas como el Registro de Personas Físicas (CPF) y el Registro de Personas Jurídicas (CNPJ).",
+  "color": "#ef4444"
+}

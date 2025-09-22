@@ -1,0 +1,13 @@
+{
+  "id": 5670,
+  "title": "Summit Eye & Optical - Data leak - Undetermined",
+  "date": "2023-05-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Summit Eye Optical",
+  "source": "nan",
+  "summary": "Summit Eye & Optical revela una violación de datos que afectó a 5.727 personas después de que la organización descubriera un acceso no autorizado a sus sistemas informáticos el 4 de marzo de 2023.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3721,
+  "title": "Banco de Utah - Infección Dispositivos - Undetermined",
+  "date": "2021-03-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Tesla",
+  "source": "nan",
+  "summary": "Los piratas informáticos obtuvieron acceso a cámaras de vigilancia en vivo instaladas en Tesla, Equinox, clínicas de salud, cárceles y bancos, incluido el Banco de Utah.",
+  "color": "#a78bfa"
+}

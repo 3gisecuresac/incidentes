@@ -1,0 +1,13 @@
+{
+  "id": 7998,
+  "title": "Ticketera - Ciberataque - Undetermined",
+  "date": "2022-07-31",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Ticketera",
+  "source": "nan",
+  "summary": "Ticketera, plataforma de venta de entradas, sufre un ciberataque.",
+  "color": "#a78bfa"
+}

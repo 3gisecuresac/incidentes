@@ -1,0 +1,13 @@
+{
+  "id": 2998,
+  "title": "Blackbaud - Ransomware - Undetermined",
+  "date": "2020-07-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Blackbaud un",
+  "source": "https://www.theregister.com/2020/07/17/blackbaud_paid_ransomware/",
+  "summary": "Blackbaud, un proveedor de software en la nube especializado en suites de recaudación de fondos para organizaciones benéficas e instituciones educativas, revela un ataque de ransomware que ocurrió en mayo de 2020.",
+  "color": "#ef4444"
+}

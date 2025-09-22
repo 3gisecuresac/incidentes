@@ -1,0 +1,13 @@
+{
+  "id": 560,
+  "title": "Universidad de Connecticut - Data leak - Undetermined",
+  "date": "2015-07-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Connecticut revela los detalles de una intrusión cibernética a través de la cual hackers",
+  "source": "https://today.uconn.edu/2015/07/uconn-responds-to-data-breach-at-school-of-engineering/",
+  "summary": "La Universidad de Connecticut revela los detalles de una intrusión cibernética a través de la cual hackers, aparentemente originarios de China, obtuvieron acceso a servidores de la Escuela de Ingeniería de Uconn.",
+  "color": "#3b82f6"
+}

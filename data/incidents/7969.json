@@ -1,0 +1,13 @@
+{
+  "id": 7969,
+  "title": "Generación y transmisión de Celg - Data leak - Undetermined",
+  "date": "2021-03-19",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Celg Gera",
+  "source": "nan",
+  "summary": "Celg Gera e Transmiss informó que sufrió un ciberataque que dejó comprometido el acceso a toda la red corporativa de aplicaciones y archivos.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5271,
+  "title": "Cooperativa de Crédito del Sur de California (CU SoCal) - Data leak - Undetermined",
+  "date": "2023-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Crédito del Sur de California",
+  "source": "nan",
+  "summary": "La Cooperativa de Crédito del Sur de California (CU SoCal) presenta un aviso de violación de datos después de enterarse de que una parte no autorizada accedió a información de correos electrónicos y archivos adjuntos almacenada en la cuenta de correo electrónico de un empleado.",
+  "color": "#ef4444"
+}

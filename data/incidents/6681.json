@@ -1,0 +1,13 @@
+{
+  "id": 6681,
+  "title": "AT&T - Data leak - ShinyHunters and MajorNelson",
+  "date": "2024-03-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters and MajorNelson",
+  "impact": "Filtración de datos en AT&T en 2021",
+  "source": "nan",
+  "summary": "Dos actores de amenazas (ShinyHunters y MajorNelson) pusieron a la venta 71 millones de registros presuntamente robados de AT&T en 2021. Sin embargo, la compañía afirma que los datos no provenían de sus sistemas. Aproximadamente un mes después, AT&T confirma la filtración y añade que el número real de usuarios afectados es de 51 millones.",
+  "color": "#ef4444"
+}

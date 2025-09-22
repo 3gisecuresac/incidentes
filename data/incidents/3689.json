@@ -1,0 +1,13 @@
+{
+  "id": 3689,
+  "title": "Salud AllyAlign - Ransomware - Undetermined",
+  "date": "2021-02-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en AllyAlign Health",
+  "source": "nan",
+  "summary": "AllyAlign Health revela un ataque de ransomware ocurrido el 14 de noviembre de 2020.",
+  "color": "#ef4444"
+}

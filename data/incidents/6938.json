@@ -1,0 +1,13 @@
+{
+  "id": 6938,
+  "title": "Herramienta de software de terceros no revelada - Data leak - grep'",
+  "date": "2024-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "grep'",
+  "impact": "Filtración de datos en Twilio",
+  "source": "nan",
+  "summary": "El actor de amenazas, conocido como grep, filtra más de 12 000 (11 802) registros de llamadas con audio, que, según afirma, pertenecen a clientes de Twilio. Twilio niega las acusaciones y aclara que no sufrieron una vulneración de seguridad, sino que los datos de un cliente quedaron expuestos debido a una vulnerabilidad en una herramienta de terceros utilizada por sus desarrolladores.",
+  "color": "#ef4444"
+}

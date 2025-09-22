@@ -1,0 +1,13 @@
+{
+  "id": 7283,
+  "title": "Air Europa - Ciberataque - Undetermined",
+  "date": "2023-10-09",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Air Europa",
+  "source": "nan",
+  "summary": "La aerolínea española Air Europa advierte a sus clientes que cancelen sus tarjetas de crédito después de que atacantes accedieran a la información de sus tarjetas en una reciente violación de datos.",
+  "color": "#ef4444"
+}

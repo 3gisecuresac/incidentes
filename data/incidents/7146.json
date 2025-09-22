@@ -1,0 +1,13 @@
+{
+  "id": 7146,
+  "title": "Departamento de Policía de North St. Paul - Data leak - Undetermined",
+  "date": "2025-07-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Departamento de Policía de North St",
+  "source": "nan",
+  "summary": "Un correo electrónico de phishing comprometió una cuenta de correo electrónico empresarial del Departamento de Policía de North St. Paul alrededor del 23 de julio de 2025. El incidente se contuvo rápidamente sin interrupción del servicio ni exfiltración de datos confirmada, aunque se está investigando la vulneración de datos. Se divulgó el 5 de agosto de 2025.",
+  "color": "#ef4444"
+}

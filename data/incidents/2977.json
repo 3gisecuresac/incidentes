@@ -1,0 +1,13 @@
+{
+  "id": 2977,
+  "title": "Patología de Utah - Data leak - Undetermined",
+  "date": "2020-06-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Utah Pathology en junio",
+  "source": "https://www.databreaches.net/utah-pathology-services-notifying-more-than-110000-patients-of-data-breach/",
+  "summary": "Un tercero desconocido intentó redirigir fondos de Utah Pathology en junio.",
+  "color": "#a78bfa"
+}

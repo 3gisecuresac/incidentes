@@ -1,0 +1,13 @@
+{
+  "id": 5681,
+  "title": "Acción en vivo - Ransomware - Undetermined",
+  "date": "2023-05-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en LiveAction",
+  "source": "nan",
+  "summary": "LiveAction presenta un aviso de violación de datos después de que la empresa fuera el objetivo de un ataque de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3364,
+  "title": "Toddycafe.com - Data leak - Undetermined",
+  "date": "2020-10-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Toddycafe.com",
+  "source": "https://www.bleepingcomputer.com/news/security/hacker-is-selling-34-million-user-records-stolen-from-17-companies/",
+  "summary": "Un actor de amenazas está vendiendo bases de datos de cuentas que contienen un total agregado de 34 millones de registros de usuarios que, según afirma, fueron robados de diecisiete empresas durante violaciones de datos, incluido Toddycafe.com.",
+  "color": "#ef4444"
+}

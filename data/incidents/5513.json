@@ -1,0 +1,13 @@
+{
+  "id": 5513,
+  "title": "Consultores de conjuntos mínimos de datos - Data leak - Undetermined",
+  "date": "2023-03-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Minimum Data Set Consultants",
+  "source": "nan",
+  "summary": "Catholic Health publicó un aviso de una violación de datos de terceros luego de un incidente en uno de los proveedores de la organización, Minimum Data Set Consultants.",
+  "color": "#ef4444"
+}

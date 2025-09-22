@@ -1,0 +1,13 @@
+{
+  "id": 6712,
+  "title": "Hospital NorthBay VacaValley - Ransomware - Undetermined",
+  "date": "2024-04-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en California se ve obligado a rechazar a algunos pacientes debido a un ataque de ransomware",
+  "source": "nan",
+  "summary": "El Hospital NorthBay VacaValley en California se ve obligado a rechazar a algunos pacientes debido a un ataque de ransomware.",
+  "color": "#ef4444"
+}

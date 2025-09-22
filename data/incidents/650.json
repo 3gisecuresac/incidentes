@@ -1,0 +1,13 @@
+{
+  "id": 650,
+  "title": "http://www.mac-torrents.com/ - Data leak - Photon AKA @PhotonicProton",
+  "date": "2015-10-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Photon AKA @PhotonicProton",
+  "impact": "Cifrado por ransomware en @PhotonicProton",
+  "source": "https://web.archive.org/web/20170420091917/https://siph0n.in/exploits.php?id=4156",
+  "summary": "@PhotonicProton hackea mac-torrents.com y descarga casi 95.000 registros con nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1102,
+  "title": "Hotel Centinela - Infección Dispositivos - Undetermined",
+  "date": "2016-11-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Sentinel Hotel",
+  "source": "https://www.databreaches.net/or-sentinel-hotel-notifies-guests-of-payment-card-incident/",
+  "summary": "Sentinel Hotel anuncia haber tomado medidas para investigar y abordar un incidente que afecta los datos de las tarjetas de pago en la recepción del hotel.",
+  "color": "#ef4444"
+}

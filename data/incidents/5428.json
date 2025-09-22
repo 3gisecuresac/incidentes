@@ -1,0 +1,13 @@
+{
+  "id": 5428,
+  "title": "Rúbrica - Ransomware - cl0p",
+  "date": "2023-03-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Fortra GoAnywhere",
+  "source": "nan",
+  "summary": "La empresa de ciberseguridad Rubrik confirma que sus datos fueron robados mediante una vulnerabilidad de día cero en la plataforma de transferencia segura de archivos Fortra GoAnywhere.",
+  "color": "#ef4444"
+}

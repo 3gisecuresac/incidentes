@@ -1,0 +1,13 @@
+{
+  "id": 5679,
+  "title": "Cooperativa de Crédito Federal de los Institutos Nacionales de Salud - Data leak - cl0p",
+  "date": "2023-05-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Crédito Federal de los Institutos Nacionales de Salud confirma",
+  "source": "nan",
+  "summary": "La Cooperativa de Crédito Federal de los Institutos Nacionales de Salud confirma que sufrió una violación de datos que se produjo explotando la vulnerabilidad CVE-2023-34362 de MOVEit.",
+  "color": "#ef4444"
+}

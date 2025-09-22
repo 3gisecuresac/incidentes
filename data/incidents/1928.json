@@ -1,0 +1,13 @@
+{
+  "id": 1928,
+  "title": "Paquete humilde - Data leak - Undetermined",
+  "date": "2018-12-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Humble Bundle",
+  "source": "https://www.scmagazine.com/home/security-news/humble-bundle-breach-could-be-first-step-in-wider-attack/",
+  "summary": "El sitio de suscripción de juegos Humble Bundle informa a sus clientes sobre una violación de datos que puede haber expuesto el estado de suscripción de una persona.",
+  "color": "#ef4444"
+}

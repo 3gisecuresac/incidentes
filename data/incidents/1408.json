@@ -1,0 +1,13 @@
+{
+  "id": 1408,
+  "title": "Proyecto Blockchain Enigma - Manipulación de mensajes - Undetermined",
+  "date": "2017-08-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Monedas",
+  "source": "https://www.coindesk.com/ico-scammers-steal-500k-phony-enigma-project-pre-sale-launch/",
+  "summary": "Otro ataque que explota una Oferta Inicial de Monedas (OIM). Se roban hasta $500,000 en ether a los partidarios del proyecto blockchain Enigma tras una vulnerabilidad de seguridad. Los atacantes logran tomar el control del dominio del sitio web del proyecto, una de las cuentas de administrador en su canal de Slack y sus listas de correo.",
+  "color": "#a78bfa"
+}

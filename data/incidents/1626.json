@@ -1,0 +1,13 @@
+{
+  "id": 1626,
+  "title": "Fisioterapia ATI - Data leak - Undetermined",
+  "date": "2018-03-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en ATI Physical Therapy",
+  "source": "https://www.databreaches.net/ati-physical-therapy-notifies-patients-of-data-breach/",
+  "summary": "ATI Physical Therapy notifica a los pacientes sobre un incidente de seguridad que parece haber afectado a las cuentas de correo electrónico de los empleados.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5819,
+  "title": "Compañía Nacional de Seguros de Vida Aurora - Ciberataque - Undetermined",
+  "date": "2023-06-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Aurora National Life Assurance Company",
+  "source": "nan",
+  "summary": "Aurora National Life Assurance Company presenta un aviso de violación de datos después de descubrir que un incidente con un proveedor externo provocó que información confidencial del consumidor quedara expuesta a un acceso no autorizado.",
+  "color": "#ef4444"
+}

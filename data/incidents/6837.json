@@ -1,0 +1,13 @@
+{
+  "id": 6837,
+  "title": "Microsoft - DoS - Undetermined",
+  "date": "2024-07-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Azure",
+  "source": "nan",
+  "summary": "Microsoft dice que un ataque DDoS provocó una interrupción de ocho horas que afectó su portal de Azure, así como algunos servicios de Microsoft 365 y Microsoft Purview.",
+  "color": "#f59e0b"
+}

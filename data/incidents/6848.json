@@ -1,0 +1,13 @@
+{
+  "id": 6848,
+  "title": "Ciudad de Killeen - Ransomware - BlackSuit",
+  "date": "2024-08-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "BlackSuit",
+  "impact": "Cifrado por ransomware en Killeen",
+  "source": "nan",
+  "summary": "La ciudad de Killeen, Texas, revela estar recuperándose de un ataque de ransomware BlackSuit.",
+  "color": "#ef4444"
+}

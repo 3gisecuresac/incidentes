@@ -1,0 +1,13 @@
+{
+  "id": 2511,
+  "title": "T-Mobile - Data leak - Undetermined",
+  "date": "2019-11-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en T-Mobile",
+  "source": "https://www.zdnet.com/article/t-mobile-discloses-security-breach-impacting-prepaid-customers/",
+  "summary": "La filial estadounidense del gigante de las telecomunicaciones T-Mobile revela una brecha de seguridad que afectó a un pequeño número de clientes de su servicio de prepago. La compañía afirmó que su equipo de ciberseguridad detectó y desactivó un acceso malicioso y no autorizado a información relacionada con las cuentas de prepago de T-Mobile.",
+  "color": "#a78bfa"
+}

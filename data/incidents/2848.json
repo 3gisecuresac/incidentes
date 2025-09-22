@@ -1,0 +1,13 @@
+{
+  "id": 2848,
+  "title": "SeaChange Internacional - Ransomware - REvil",
+  "date": "2020-04-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Cifrado por ransomware en SeaChange",
+  "source": "https://www.bleepingcomputer.com/news/security/seachange-video-platform-allegedly-hit-by-sodinokibi-ransomware/",
+  "summary": "SeaChange es atacado por el ransomware Sodinokibi.",
+  "color": "#ef4444"
+}

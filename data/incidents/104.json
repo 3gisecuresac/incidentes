@@ -1,0 +1,13 @@
+{
+  "id": 104,
+  "title": "Sears - Infección Dispositivos - Undetermined",
+  "date": "2014-02-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Sears Holdings Corp. SHLD",
+  "source": "http://www.bloomberg.com/news/2014-02-28/sears-secret-service-said-to-investigate-possible-data-breach.html",
+  "summary": "Sears Holdings Corp. (SHLD), investiga una posible brecha de seguridad tras el rastro de ciberataques a otros minoristas (como Target).",
+  "color": "#a78bfa"
+}

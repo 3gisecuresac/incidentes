@@ -1,0 +1,13 @@
+{
+  "id": 3208,
+  "title": "Niños de Minnesota - Ransomware - Undetermined",
+  "date": "2020-09-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Children",
+  "source": "https://www.securityweek.com/health-care-patient-donor-data-may-have-been-breached",
+  "summary": "Children's Minnesota revela que fue afectado por el ataque de ransomware Blackbaud.",
+  "color": "#ef4444"
+}

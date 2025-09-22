@@ -1,0 +1,13 @@
+{
+  "id": 4390,
+  "title": "Plan de Salud de Asociación de California - Ransomware - Hive",
+  "date": "2022-03-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Cifrado por ransomware en Partnership HealthPlan of California",
+  "source": "nan",
+  "summary": "Partnership HealthPlan of California es víctima de un ataque de ransomware Hive.",
+  "color": "#ef4444"
+}

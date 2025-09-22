@@ -1,0 +1,13 @@
+{
+  "id": 358,
+  "title": "Barbacoa Renovar - Data leak - Undetermined",
+  "date": "2015-01-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en grillparts.com",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/grill-parts-website-experiences-system-intrusion-payment-card-breach/",
+  "summary": "Barbecue Renew, que vende piezas para parrillas a través de su sitio web grillparts.com, notifica a un número no revelado de personas que los datos de sus tarjetas de pago pueden haberse visto comprometidos como resultado de una serie de ataques cibernéticos a su servidor web.",
+  "color": "#ef4444"
+}

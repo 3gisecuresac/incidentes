@@ -1,0 +1,13 @@
+{
+  "id": 6140,
+  "title": "ORBCOMM - Ransomware - Undetermined",
+  "date": "2023-09-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en ORBCOMM",
+  "source": "nan",
+  "summary": "ORBCOMM, proveedor de soluciones de gestión de flotas y transporte, confirma que un ataque de ransomware está detrás de las recientes interrupciones del servicio que impiden a las empresas de transporte gestionar sus flotas.",
+  "color": "#ef4444"
+}

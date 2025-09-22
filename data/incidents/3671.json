@@ -1,0 +1,13 @@
+{
+  "id": 3671,
+  "title": "Centro Médico Fisher-Titus - Data leak - Undetermined",
+  "date": "2021-02-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Centro Médico Fisher-Titus se vio comprometida después de",
+  "source": "nan",
+  "summary": "La información personal de los pacientes del Centro Médico Fisher-Titus se vio comprometida después de que una persona desconocida obtuvo acceso a la cuenta de correo electrónico de un empleado.",
+  "color": "#3b82f6"
+}

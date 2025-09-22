@@ -1,0 +1,13 @@
+{
+  "id": 203,
+  "title": "Boeing - Data leak - Su Bin",
+  "date": "2014-07-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Su Bin",
+  "impact": "Incidente de seguridad en Justicia de Estados Unidos anuncia",
+  "source": "http://arstechnica.com/tech-policy/2014/07/chinese-businessman-charged-with-hacking-boeing-and-lockheed/",
+  "summary": "El Departamento de Justicia de Estados Unidos anuncia que un empresario chino, Su Bin, ha sido acusado de piratear los sistemas informáticos de Boeing, Lockheed Martin y otras empresas aeroespaciales.",
+  "color": "#a78bfa"
+}

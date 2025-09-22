@@ -1,0 +1,13 @@
+{
+  "id": 7809,
+  "title": "Proveedor no revelado - Ransomware - cl0p",
+  "date": "2023-03-17",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Cifrado por ransomware en GoAnywhere MFT por la",
+  "source": "nan",
+  "summary": "Investissement QuÃÆÃ'Ã'ÃÂ©bec, una organización gubernamental creada para atraer empresas a la región, confirma que uno de sus proveedores fue atacado a través del producto GoAnywhere MFT por la banda de ransomware Clop.",
+  "color": "#ef4444"
+}

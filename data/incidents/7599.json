@@ -1,0 +1,13 @@
+{
+  "id": 7599,
+  "title": "Banco Imperial Canadiense de Comercio (CIBC) - Data leak - Undetermined",
+  "date": "2018-05-28",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Canadian Imperial Bank of Commerce CIBC el",
+  "source": "nan",
+  "summary": "También el Canadian Imperial Bank of Commerce (CIBC), el quinto banco más grande del país, se ve afectado por el mismo incidente y creen que 40.000 usuarios de su filial Simplii Financial podrían verse afectados.",
+  "color": "#a78bfa"
+}

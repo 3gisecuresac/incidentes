@@ -1,0 +1,13 @@
+{
+  "id": 5118,
+  "title": "Sistema de Salud Regional de Mena - Data leak - Undetermined",
+  "date": "2022-11-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Salud Regional de Mena informa sobre una violación de datos después de",
+  "source": "nan",
+  "summary": "El Sistema de Salud Regional de Mena informa sobre una violación de datos después de que el proveedor de atención médica se enteró de que la información confidencial de los pacientes se filtró luego de que una parte no autorizada obtuvo acceso a su sistema informático y eliminó ciertos datos.",
+  "color": "#ef4444"
+}

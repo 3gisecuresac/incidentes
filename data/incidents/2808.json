@@ -1,0 +1,13 @@
+{
+  "id": 2808,
+  "title": "Marriott Internacional - Data leak - Undetermined",
+  "date": "2020-03-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Marriott",
+  "source": "https://techcrunch.com/2020/03/31/marriott-hotels-breached-again/",
+  "summary": "Marriott confirma una segunda filtración de datos en tres años, esta vez relacionada con la información personal de 5,2 millones de huéspedes. Los atacantes obtuvieron las credenciales de acceso de dos empleados y entraron en la red semanas antes, a mediados de enero. La filtración se descubrió en febrero.",
+  "color": "#ef4444"
+}

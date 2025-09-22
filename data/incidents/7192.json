@@ -1,0 +1,13 @@
+{
+  "id": 7192,
+  "title": "amigosmadrid.es - Data leak - KelvinSecTeam",
+  "date": "2015-04-27",
+  "country": "España",
+  "region": "Europa",
+  "type": "Data leak",
+  "actor": "KelvinSecTeam",
+  "impact": "Filtración de datos en amigosmadrid.es",
+  "source": "nan",
+  "summary": "KelvinSecTeam hackea amigosmadrid.es y filtra 2.600 nombres de usuario y contraseñas.",
+  "color": "#ef4444"
+}

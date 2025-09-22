@@ -1,0 +1,13 @@
+{
+  "id": 6801,
+  "title": "Biblioteca Pública de Seattle - Ransomware - Undetermined",
+  "date": "2024-05-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Seattle es víctima de un ataque de ransomware",
+  "source": "nan",
+  "summary": "La Biblioteca Pública de Seattle es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

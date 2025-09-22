@@ -1,0 +1,13 @@
+{
+  "id": 3388,
+  "title": "Mashable - Data leak - ShinyHunters",
+  "date": "2020-11-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Filtración de datos en Internet",
+  "source": "https://www.infosecurity-magazine.com/news/mashable-customer-data-leaked/",
+  "summary": "Los datos pertenecientes al sitio web de noticias de cultura y tecnología Mashable han sido filtrados en Internet por un pirata informático conocido por atacar sitios web y aplicaciones.",
+  "color": "#ef4444"
+}

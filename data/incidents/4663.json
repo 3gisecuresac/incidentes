@@ -1,0 +1,13 @@
+{
+  "id": 4663,
+  "title": "Marriott del aeropuerto BWI - Data leak - Undetermined",
+  "date": "2022-07-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Marriott International",
+  "source": "nan",
+  "summary": "El gigante hotelero Marriott International confirma que fue afectado por otra violación de datos después de que un actor de amenazas desconocido violara una de sus propiedades (BWI Airport Marriott) y robara 20 GB de archivos.",
+  "color": "#ef4444"
+}

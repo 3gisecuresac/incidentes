@@ -1,0 +1,13 @@
+{
+  "id": 7604,
+  "title": "Air Canada - Data leak - Undetermined",
+  "date": "2018-08-29",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Air Canada",
+  "source": "nan",
+  "summary": "Air Canada afirma que la información personal de unos 20.000 clientes podría haber sido accedida indebidamente a través de una vulneración en su aplicación móvil, por lo que la compañía ha bloqueado las 1,7 millones de cuentas como medida de precaución hasta que los clientes cambien sus contraseñas.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5471,
+  "title": "Cuidado domiciliario comunitario de UI - Ransomware - Undetermined",
+  "date": "2023-03-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en University of Iowa Health System",
+  "source": "nan",
+  "summary": "UI Community HomeCare, una subsidiaria de University of Iowa Health System, presenta un aviso de violación de datos después de enterarse de que la información confidencial del consumidor que había sido confiada a la empresa estuvo sujeta a acceso no autorizado después de un ataque de ransomware.",
+  "color": "#ef4444"
+}

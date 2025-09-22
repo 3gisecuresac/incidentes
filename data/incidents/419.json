@@ -1,0 +1,13 @@
+{
+  "id": 419,
+  "title": "Departamento de Policía de Madison - DoS - Anonymous",
+  "date": "2015-03-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Anonymous",
+  "impact": "Incidente de seguridad en Policía de Madison",
+  "source": "http://www.techworm.net/2015/03/anonymous-take-down-madison-police-department-website-over-tony-robinson-jr-shooting.html",
+  "summary": "Anonymous afirma haber desmantelado el Departamento de Policía de Madison por el tiroteo de Tony Robinson Jr.",
+  "color": "#a78bfa"
+}

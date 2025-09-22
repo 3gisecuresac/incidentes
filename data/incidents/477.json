@@ -1,0 +1,13 @@
+{
+  "id": 477,
+  "title": "Corporación nativa Afognak - Data leak - Undetermined",
+  "date": "2015-05-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Afognak Native Corp",
+  "source": "https://www.adn.com/crime-justice/article/afognak-native-corporation-38-million-transferred-shore-bank-account-cyber-fraud/2015/05/07/",
+  "summary": "Afognak Native Corp. es víctima de un ciberataque en el que 3,8 millones de dólares del dinero de una filial (Alutiiq LLC) se transfieren a una cuenta bancaria offshore.",
+  "color": "#a78bfa"
+}

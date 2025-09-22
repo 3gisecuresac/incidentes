@@ -1,0 +1,13 @@
+{
+  "id": 1419,
+  "title": "TrueStresser - Data leak - Undetermined",
+  "date": "2017-09-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TrueStresser",
+  "source": "https://www.bleepingcomputer.com/news/security/ddos-booter-service-suffers-security-breach/",
+  "summary": "Un cliente insatisfecho viola el servidor de TrueStresser, un servicio de DDoS contratado, saquea su base de datos y filtra parte de su contenido en línea.",
+  "color": "#ef4444"
+}

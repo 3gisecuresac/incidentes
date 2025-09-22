@@ -1,0 +1,13 @@
+{
+  "id": 2194,
+  "title": "Percépticos - Data leak - Boris Bullet-Dodger",
+  "date": "2019-05-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Boris Bullet-Dodger",
+  "impact": "Filtración de datos en Perceptics",
+  "source": "https://www.theregister.co.uk/2019/05/23/perceptics_hacked_license_plate_recognition/",
+  "summary": "Perceptics, fabricante de lectores de matrículas para vehículos utilizados por el gobierno estadounidense, fue hackeado. Sus archivos internos se filtraron y se ofrecieron para su descarga gratuita en la dark web.",
+  "color": "#ef4444"
+}

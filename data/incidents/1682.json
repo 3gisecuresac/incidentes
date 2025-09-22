@@ -1,0 +1,13 @@
+{
+  "id": 1682,
+  "title": "Ciudad de Tulsa - Data leak - Undetermined",
+  "date": "2018-05-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Tulsa confirma",
+  "source": "https://www.databreaches.net/city-of-tulsa-systems-hacked/",
+  "summary": "La ciudad de Tulsa confirma que piratas informáticos irrumpieron en varias cuentas controladas por la ciudad, pero dice que parece que no ha habido efectos en los sistemas de la ciudad.",
+  "color": "#a78bfa"
+}

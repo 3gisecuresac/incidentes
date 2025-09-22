@@ -1,0 +1,13 @@
+{
+  "id": 3215,
+  "title": "Geisinger Berwick - Data leak - Former Geisinger Berwick employee",
+  "date": "2020-09-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Former Geisinger Berwick employee",
+  "impact": "Incidente de seguridad en Geisinger Berwick",
+  "source": "https://www.databreaches.net/pa-geisinger-berwick-notifying-hundreds-of-patients-after-firing-employee-for-improper-access-to-records/",
+  "summary": "Geisinger Berwick está notificando a más de 700 pacientes cuyos registros fueron accedidos sin justificación por un ex empleado.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1413,
+  "title": "Instagram - Data leak - Undetermined",
+  "date": "2017-08-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Doxagram en la",
+  "source": "https://arstechnica.com/information-technology/2017/09/site-sells-instagram-users-phone-and-e-mail-details-10-a-search/",
+  "summary": "Instagram revela que uno o más hackers han estado robando direcciones de correo electrónico, números de teléfono y otra información personal de famosos aprovechando un fallo. Inmediatamente después, se publica en línea una base de datos, Doxagram, en la que el atacante afirma haber robado 6 millones de registros.",
+  "color": "#ef4444"
+}

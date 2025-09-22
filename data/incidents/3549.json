@@ -1,0 +1,13 @@
+{
+  "id": 3549,
+  "title": "Ubiquiti - Data leak - Undetermined",
+  "date": "2021-01-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Ubiquiti",
+  "source": "nan",
+  "summary": "Ubiquiti informó a sus clientes sobre el acceso no autorizado a ciertos sistemas de tecnología de la información alojados por un proveedor externo de servicios en la nube. Ubiquiti afirma no tener conocimiento de ningún acceso ilegal a las bases de datos de sus clientes, pero no puede garantizar que el ataque no expusiera los datos de los clientes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2119,
+  "title": "Centro médico Baystate - Data leak - Undetermined",
+  "date": "2019-04-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en El Centro M",
+  "source": "https://www.scmagazine.com/home/security-news/data-breach/phishing-attacker-gains-access-to-baystate-medical-center-patient-records/",
+  "summary": "El Centro Médico Baystate advierte que la información personal perteneciente a aproximadamente 12.000 pacientes se vio comprometida luego de un ataque de phishing por correo electrónico ocurrido entre el 7 de febrero y el 7 de marzo.",
+  "color": "#ef4444"
+}

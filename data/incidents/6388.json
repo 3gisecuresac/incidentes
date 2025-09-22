@@ -1,0 +1,13 @@
+{
+  "id": 6388,
+  "title": "Cooperativa de Crédito Federal Cinfed - Ciberataque - Undetermined",
+  "date": "2023-11-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Cinfed Federal Credit Union Cinfed CU",
+  "source": "nan",
+  "summary": "Cinfed Federal Credit Union (Cinfed CU) presenta un aviso de violación de datos después de descubrir que una parte no autorizada pudo acceder a partes del sistema informático de la empresa.",
+  "color": "#ef4444"
+}

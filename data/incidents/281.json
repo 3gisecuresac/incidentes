@@ -1,0 +1,13 @@
+{
+  "id": 281,
+  "title": "Viator - Data leak - Undetermined",
+  "date": "2014-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Viator",
+  "source": "http://www.ibtimes.co.uk/viator-travel-website-hacked-1-4-million-users-information-stolen-including-payment-card-data-1466832",
+  "summary": "El sitio web de viajes Viator admite haber sufrido una vulneración de datos de tarjetas de pago el 2 de septiembre y confirma que algunas tarjetas de crédito de sus clientes se utilizaron con fines fraudulentos. Viator notifica a aproximadamente 1,4 millones de clientes.",
+  "color": "#ef4444"
+}

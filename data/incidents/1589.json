@@ -1,0 +1,13 @@
+{
+  "id": 1589,
+  "title": "Clínica dental familiar White and Bright - Data leak - Undetermined",
+  "date": "2018-02-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Bright Family Dental",
+  "source": "https://www.databreaches.net/white-and-bright-family-dental-notifies-patients-after-hackers-accessed-phi/",
+  "summary": "White and Bright Family Dental notifica a los pacientes sobre un ataque informático ocurrido el 30 de enero de 2018.",
+  "color": "#a78bfa"
+}

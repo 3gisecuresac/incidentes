@@ -1,0 +1,13 @@
+{
+  "id": 3252,
+  "title": "Arthur J. Gallagher & Cía. - Ransomware - Undetermined",
+  "date": "2020-09-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Arthur J. Gallagher Co",
+  "source": "https://www.databreaches.net/arthur-j-gallagher-targeted-in-ransomware-attack/",
+  "summary": "La firma internacional de corretaje de seguros Arthur J. Gallagher & Co ha confirmado que fue objeto de un ataque de ransomware el 26 de septiembre.",
+  "color": "#ef4444"
+}

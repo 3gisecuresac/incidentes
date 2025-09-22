@@ -1,0 +1,13 @@
+{
+  "id": 6950,
+  "title": "Agua americana - DoS - Undetermined",
+  "date": "2024-10-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estados Unidos",
+  "source": "nan",
+  "summary": "American Water, la mayor empresa de servicios de agua y aguas residuales que cotiza en bolsa en Estados Unidos, se ve obligada a cerrar algunos de sus sistemas después de un ciberataque.",
+  "color": "#a78bfa"
+}

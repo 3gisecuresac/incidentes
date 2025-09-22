@@ -1,0 +1,13 @@
+{
+  "id": 7519,
+  "title": "Hootsuite - DoS - Undetermined",
+  "date": "2014-03-21",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Hootsuite",
+  "source": "nan",
+  "summary": "Hootsuite es víctima de un ataque DDoS.",
+  "color": "#f59e0b"
+}

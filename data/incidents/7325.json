@@ -1,0 +1,13 @@
+{
+  "id": 7325,
+  "title": "Grupo Dorben - Ciberataque - Undetermined",
+  "date": "2023-02-07",
+  "country": "Panama",
+  "region": "Latinoamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en América Latina",
+  "source": "nan",
+  "summary": "Dorben Group, un minorista de marcas de lujo en América Latina, supuestamente sufre una violación de datos luego de que información perteneciente a 790.000 clientes terminó en un foro de piratas informáticos.",
+  "color": "#ef4444"
+}

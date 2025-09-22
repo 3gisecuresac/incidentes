@@ -1,0 +1,13 @@
+{
+  "id": 5632,
+  "title": "Banco de negocios Triad - Data leak - Undetermined",
+  "date": "2023-05-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Seguro Social de los consumidores",
+  "source": "nan",
+  "summary": "Triad Business Bank presenta un aviso de filtración de datos tras un incidente de ciberseguridad que comprometió la información confidencial de al menos 8235 personas. Según la presentación oficial de la compañía, el incidente permitió que una entidad no autorizada accediera a los nombres y números de Seguro Social de los consumidores.",
+  "color": "#ef4444"
+}

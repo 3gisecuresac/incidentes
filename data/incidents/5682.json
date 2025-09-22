@@ -1,0 +1,13 @@
+{
+  "id": 5682,
+  "title": "Hospital Morris - Ransomware - Royal",
+  "date": "2023-05-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Royal",
+  "impact": "Cifrado por ransomware en El Hospital Morris",
+  "source": "nan",
+  "summary": "El Hospital Morris es víctima de un ataque de ransomware real.",
+  "color": "#ef4444"
+}

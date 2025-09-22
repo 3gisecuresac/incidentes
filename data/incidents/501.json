@@ -1,0 +1,13 @@
+{
+  "id": 501,
+  "title": "Bitcointalk.org - Data leak - Undetermined",
+  "date": "2015-05-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Bitcointalk.org",
+  "source": "https://www.databreaches.net/bitcoin-exchange-btc-e-and-bitcointalk-forum-breaches/",
+  "summary": "LeakedSource revela que 499.593 usuarios de Bitcointalk.org fueron hackeados en mayo de 2015. Los datos contienen nombres de usuario, correos electrónicos, contraseñas, fechas de nacimiento, preguntas secretas, respuestas secretas cifradas y otros datos internos.",
+  "color": "#ef4444"
+}

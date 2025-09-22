@@ -1,0 +1,13 @@
+{
+  "id": 1832,
+  "title": "Instituto de Diagnóstico Fetal del Pacífico (FDIP) - Ransomware - Undetermined",
+  "date": "2018-09-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Diagnóstico Fetal del Pacífico",
+  "source": "https://www.scmagazine.com/home/news/honolulu-based-fetal-diagnostic-institute-of-the-pacific-hit-with-ransomware/",
+  "summary": "El Instituto de Diagnóstico Fetal del Pacífico (FDIP), con sede en Honolulu, anuncia haber sido víctima de un ataque de ransomware que podría haber comprometido datos de pacientes.",
+  "color": "#ef4444"
+}

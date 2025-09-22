@@ -1,0 +1,13 @@
+{
+  "id": 745,
+  "title": "NASA - Ciberataque - Anonsec",
+  "date": "2016-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Anonsec",
+  "impact": "Filtración de datos en AnonSec",
+  "source": "http://motherboard.vice.com/read/the-nasa-hack-is-probably-the-most-mundane-hack-ever",
+  "summary": "El colectivo AnonSec afirma haber irrumpido en los sistemas informáticos de la NASA, secuestrando parcialmente un dron, robando horas de material de archivo de la flota de aviones de la agencia, cientos de registros de datos de sus misiones meteorológicas y climáticas, así como una lista de nombres, números de teléfono y correos electrónicos de más de 2.400 empleados.",
+  "color": "#ef4444"
+}

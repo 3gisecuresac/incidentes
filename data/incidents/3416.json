@@ -1,0 +1,13 @@
+{
+  "id": 3416,
+  "title": "Managed.com - Ransomware - REvil",
+  "date": "2020-11-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Cifrado por ransomware en Managed.com",
+  "source": "https://www.bleepingcomputer.com/news/security/revil-ransomware-hits-managedcom-hosting-provider-500k-ransom/",
+  "summary": "El proveedor de alojamiento web administrado Managed.com ha sido atacado por los actores de amenazas del ransomware REvil.",
+  "color": "#ef4444"
+}

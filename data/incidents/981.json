@@ -1,0 +1,13 @@
+{
+  "id": 981,
+  "title": "Agencia de Desarrollo Comunitario del Condado de Washington - Data leak - Undetermined",
+  "date": "2016-06-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Desarrollo Comunitario del Condado de Washington advierte",
+  "source": "https://www.databreaches.net/mn-washington-county-security-breach-may-affect-section-8-residents/",
+  "summary": "La Agencia de Desarrollo Comunitario del Condado de Washington advierte que un tercero no autorizado pirateó uno de los servidores de la agencia a principios de este mes, exponiendo potencialmente la información personal de ciertos miembros y empleados de la comunidad.",
+  "color": "#a78bfa"
+}

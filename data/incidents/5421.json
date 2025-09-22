@@ -1,0 +1,13 @@
+{
+  "id": 5421,
+  "title": "Kline y Spectre - Ransomware - Undetermined",
+  "date": "2023-03-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Kline Specter",
+  "source": "nan",
+  "summary": "Kline & Specter revela haber sufrido un ataque de ransomware.",
+  "color": "#ef4444"
+}

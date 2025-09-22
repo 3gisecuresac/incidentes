@@ -1,0 +1,13 @@
+{
+  "id": 7984,
+  "title": "Ministerio de Salud de Brasil - Ransomware - Lapsus$",
+  "date": "2021-12-10",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Lapsus$",
+  "impact": "Filtración de datos en Salud de Brasil sufre un importante ataque de ransomware",
+  "source": "nan",
+  "summary": "El Ministerio de Salud de Brasil sufre un importante ataque de ransomware, se pierden datos sobre las vacunaciones contra el Covid 19 e interrumpe el uso de certificados de vacunación en línea.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 644,
+  "title": "Iglesia Bautista de Westboro - DoS - Amped Attacks AKA sgtbilko420",
+  "date": "2015-10-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Amped Attacks AKA sgtbilko420",
+  "impact": "Sistema o cuenta comprometida en KKK",
+  "source": "http://www.wired.co.uk/news/archive/2015-10/22/anonymous-hacker-takedown-racist-websites",
+  "summary": "Un hacker, conocido como sgtbilko420, desmantela varios sitios web afiliados al KKK y tiendas en línea que venden parafernalia racista. Entre los objetivos se encuentran el KKK, la Iglesia Bautista de Westboro, un sitio vinculado al Estado Islámico e incluso Steven Harper.",
+  "color": "#3b82f6"
+}

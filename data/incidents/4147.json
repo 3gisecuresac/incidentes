@@ -1,0 +1,13 @@
+{
+  "id": 4147,
+  "title": "Departamento de Salud Mental del Condado de Los Ángeles - Data leak - Undetermined",
+  "date": "2021-10-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Salud Mental del Condado de Los Ángeles revela haber sufrido un “ciberataque malicioso”",
+  "source": "nan",
+  "summary": "El Departamento de Salud Mental del Condado de Los Ángeles revela haber sufrido un “ciberataque malicioso” que comprometió información de clientes de 5.129 personas.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3003,
+  "title": "JM Bullion - Data leak - Undetermined",
+  "date": "2020-07-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en JM Bullion",
+  "source": "https://www.bleepingcomputer.com/news/security/gold-seller-jm-bullion-hacked-to-steal-customers-credit-cards/",
+  "summary": "El vendedor de oro JM Bullion fue víctima de un ataque estilo MageCart durante cinco meses.",
+  "color": "#a78bfa"
+}

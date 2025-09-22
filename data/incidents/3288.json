@@ -1,0 +1,13 @@
+{
+  "id": 3288,
+  "title": "Escuela Shady Hill - Ransomware - Undetermined",
+  "date": "2020-10-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Shady Hill",
+  "source": "https://www.databreaches.net/blackbaud-data-breach-non-profit-foundations-part-one/",
+  "summary": "La escuela Shady Hill se suma a la lista de víctimas del ataque del ransomware Blackbaud.",
+  "color": "#ef4444"
+}

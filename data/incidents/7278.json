@@ -1,0 +1,13 @@
+{
+  "id": 7278,
+  "title": "Instituto De Educacion Secundaria Ies Emilio Canalejo Olmeda (IESCO) - Ransomware - Stormous",
+  "date": "2023-03-31",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Stormous",
+  "impact": "Cifrado por ransomware en Secundaria Ies Emilio Canalejo Olmeda IESCO",
+  "source": "nan",
+  "summary": "The Instituto De EducaciÃÆÃ'Ã'ÃÂ³n Secundaria Ies Emilio Canalejo Olmeda (IESCO) is hit by the pro-Russian Stormous ransomware group.",
+  "color": "#ef4444"
+}

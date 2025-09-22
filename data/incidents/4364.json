@@ -1,0 +1,13 @@
+{
+  "id": 4364,
+  "title": "Salud Regional de Newman (NRH) - Data leak - Undetermined",
+  "date": "2022-03-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Newman Regional Health NRH",
+  "source": "nan",
+  "summary": "Newman Regional Health (NRH) notifica a 52,224 pacientes que personas no autorizadas obtuvieron acceso a ciertas cuentas de correo electrónico de empleados que contenían información médica protegida.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3821,
+  "title": "Océano digital - Ciberataque - Undetermined",
+  "date": "2021-04-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en DigitalOcean",
+  "source": "nan",
+  "summary": "DigitalOcean envía correos electrónicos a sus clientes advirtiéndoles sobre una violación de datos que involucra los datos de facturación de los clientes.",
+  "color": "#ef4444"
+}

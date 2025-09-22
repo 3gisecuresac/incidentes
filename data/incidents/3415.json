@@ -1,0 +1,13 @@
+{
+  "id": 3415,
+  "title": "Asociación de Planes Dentales Delta - Ransomware - Egregor",
+  "date": "2020-11-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Egregor",
+  "impact": "Cifrado por ransomware en Asociación de Planes Dentales Delta",
+  "source": "https://www.databreaches.net/egregor-threat-actors-pose-risk-to-medical-and-dental-entities/",
+  "summary": "La banda de ransomware Egregor ha atacado a la Asociación de Planes Dentales Delta.",
+  "color": "#ef4444"
+}

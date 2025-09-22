@@ -1,0 +1,13 @@
+{
+  "id": 2099,
+  "title": "Centro de otorrinolaringología y audición Brookside - Ransomware - Undetermined",
+  "date": "2019-03-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Hearing Center",
+  "source": "https://www.scmagazine.com/home/security-news/ransomware/michigan-medical-practice-folds-after-ransomware-attack/",
+  "summary": "Brookside ENT and Hearing Center se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

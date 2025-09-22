@@ -1,0 +1,13 @@
+{
+  "id": 3866,
+  "title": "Casas Betenbough - Ransomware - REvil",
+  "date": "2021-05-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Filtración de datos en Betenbough Homes fueron filtrados",
+  "source": "nan",
+  "summary": "Los datos de Betenbough Homes fueron filtrados por la banda de ransomware Sodinokibi.",
+  "color": "#ef4444"
+}

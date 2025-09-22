@@ -1,0 +1,13 @@
+{
+  "id": 1833,
+  "title": "Línea forestal de Colorado - Ransomware - Undetermined",
+  "date": "2018-09-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Colorado",
+  "source": "https://www.scmagazine.com/home/news/colorado-firm-claims-ransomware-attack-behind-closure/",
+  "summary": "Colorado Timberline, una empresa de impresión de Colorado, afirma que se vio obligada a cerrar tras sufrir un grave ataque de ransomware del que no pudo recuperarse.",
+  "color": "#ef4444"
+}

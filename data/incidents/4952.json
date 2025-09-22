@@ -1,0 +1,13 @@
+{
+  "id": 4952,
+  "title": "Comunicaciones Cox - Ciberataque - Undetermined",
+  "date": "2022-09-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Internet",
+  "source": "nan",
+  "summary": "Cox Communications revela que una interrupción del servicio de Internet que afectó a la ciudad de Tucson durante el fin de semana se debió a un ciberataque.",
+  "color": "#a78bfa"
+}

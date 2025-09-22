@@ -1,0 +1,13 @@
+{
+  "id": 2891,
+  "title": "Diebold Nixdorf - Ransomware - ProLock",
+  "date": "2020-05-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ProLock",
+  "impact": "Cifrado por ransomware en Diebold Nixdorf un",
+  "source": "https://krebsonsecurity.com/2020/05/ransomware-hit-atm-giant-diebold-nixdorf/",
+  "summary": "Diebold Nixdorf, un importante proveedor de cajeros automáticos (ATM) y tecnología de pago para bancos y minoristas, sufre un ataque de ransomware ProLock que interrumpe algunas operaciones.",
+  "color": "#ef4444"
+}

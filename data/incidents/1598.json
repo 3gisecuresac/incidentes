@@ -1,0 +1,13 @@
+{
+  "id": 1598,
+  "title": "Maestro espía profesional - Data leak - Undetermined",
+  "date": "2018-02-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Mobistealth y Spy Master Pro y",
+  "source": "https://motherboard.vice.com/en_us/article/7x77ex/hacker-strikes-stalkerware-companies-stealing-alleged-texts-and-gps-locations-of-customers",
+  "summary": "Un hacker irrumpe en dos empresas de software espía para consumidores, Mobistealth y Spy Master Pro, y vacía un gran caché de datos.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6498,
+  "title": "Capital Health - Data leak - Undetermined",
+  "date": "2023-11-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Capital Health en Nueva Jersey experimentan cortes de TI",
+  "source": "nan",
+  "summary": "Los hospitales y consultorios médicos de Capital Health en Nueva Jersey experimentan cortes de TI luego de que un ciberataque afectara la red de la organización sin fines de lucro.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4260,
+  "title": "Escuelas Públicas de Monroe - Ransomware - Undetermined",
+  "date": "2022-01-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Michigan sufre un ataque de ransomware",
+  "source": "nan",
+  "summary": "El sistema escolar público de Michigan sufre un ataque de ransomware.",
+  "color": "#ef4444"
+}

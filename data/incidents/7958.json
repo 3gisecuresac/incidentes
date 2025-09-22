@@ -1,0 +1,13 @@
+{
+  "id": 7958,
+  "title": "TRF-1 (Tribunal Regional de la Primera Región) - Data leak - Undetermined",
+  "date": "2020-11-27",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Brasil fue víctima de un ciberataque",
+  "source": "nan",
+  "summary": "El Tribunal Regional da Primeira Región de Brasil fue víctima de un ciberataque. Los atacantes afirman haber accedido a más de 40 bases de datos judiciales.",
+  "color": "#ef4444"
+}

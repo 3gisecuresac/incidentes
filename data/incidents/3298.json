@@ -1,0 +1,13 @@
+{
+  "id": 3298,
+  "title": "La escuela secundaria Tyngsboro sufrió un ataque DDoS. - DoS - Undetermined",
+  "date": "2020-10-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Tyngsboro",
+  "source": "https://www.infosecurity-magazine.com/news/ddos-attacks-disrupt-massachusetts/",
+  "summary": "La escuela secundaria Tyngsboro sufrió un ataque DDoS.",
+  "color": "#f59e0b"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7829,
+  "title": "Clientes de UPS en Canadá - Data leak - Undetermined",
+  "date": "2023-06-21",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos",
+  "source": "nan",
+  "summary": "La empresa multinacional de transporte UPS alerta a sus clientes canadienses de que parte de su información personal podría haber quedado expuesta a través de sus herramientas de búsqueda de paquetes en línea y haber sido utilizada de forma abusiva en ataques de phishing.",
+  "color": "#ef4444"
+}

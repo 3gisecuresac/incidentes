@@ -1,0 +1,13 @@
+{
+  "id": 5350,
+  "title": "Centro de rehabilitación de enfermería Aloha (Aloha) - Data leak - Undetermined",
+  "date": "2023-02-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Aloha Nursing Rehab Centre Aloha",
+  "source": "nan",
+  "summary": "Aloha Nursing Rehab Centre (Aloha) presenta un aviso de violación de datos después de enterarse de que una parte no autorizada accedió a archivos electrónicos que contenían información confidencial de pacientes de la red informática de la empresa.",
+  "color": "#ef4444"
+}

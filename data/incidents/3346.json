@@ -1,0 +1,13 @@
+{
+  "id": 3346,
+  "title": "Complejos turísticos de Boyne - Ransomware - INDRIK SPIDER",
+  "date": "2020-10-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Incidente de seguridad en EE",
+  "source": "https://www.bleepingcomputer.com/news/security/wastedlocker-ransomware-hits-boyne-resorts-ski-resort-operator/",
+  "summary": "Boyne Resorts, operador de estaciones de esquí y golf con sede en EE. UU., ha sufrido un ciberataque por parte de la operación WastedLocker que ha afectado a los sistemas de reservas de toda la empresa.",
+  "color": "#a78bfa"
+}

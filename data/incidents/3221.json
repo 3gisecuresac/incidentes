@@ -1,0 +1,13 @@
+{
+  "id": 3221,
+  "title": "Fotónica IPG - Ransomware - RansomEXX",
+  "date": "2020-09-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "RansomEXX",
+  "impact": "Cifrado por ransomware en IPG Photonics un",
+  "source": "https://www.databreaches.net/leading-u-s-laser-developer-ipg-photonics-hit-with-ransomware/",
+  "summary": "IPG Photonics, un desarrollador líder estadounidense de láseres de fibra para corte, soldadura, uso médico y armas láser, ha sufrido un ataque de ransomware que está interrumpiendo sus operaciones.",
+  "color": "#ef4444"
+}

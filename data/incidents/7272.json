@@ -1,0 +1,13 @@
+{
+  "id": 7272,
+  "title": "Zurcal - Ransomware - Stormous",
+  "date": "2023-02-24",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Stormous",
+  "impact": "Cifrado por ransomware en Telegram",
+  "source": "nan",
+  "summary": "El grupo Zurcal, perteneciente al sector del ahorro y eficiencia energética, es nombrado por el grupo ransomware Stormous en su canal de Telegram.",
+  "color": "#ef4444"
+}

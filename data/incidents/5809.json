@@ -1,0 +1,13 @@
+{
+  "id": 5809,
+  "title": "Salud de la UofL - Data leak - cl0p",
+  "date": "2023-06-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en UofL Health",
+  "source": "nan",
+  "summary": "UofL Health confirma haberse visto afectado por la filtración de datos en la popular herramienta de transferencia de archivos MOVEit",
+  "color": "#ef4444"
+}

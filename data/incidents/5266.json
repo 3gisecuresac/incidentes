@@ -1,0 +1,13 @@
+{
+  "id": 5266,
+  "title": "Verizon - Data leak - IntelBroker",
+  "date": "2023-01-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "IntelBroker",
+  "impact": "Filtración de datos en Verizon",
+  "source": "nan",
+  "summary": "IntelBroker filtra gratuitamente una base de datos, supuestamente de Verizon, que contiene los registros de 7,5 millones de clientes, solo nombres, tipos de dispositivo (Apple o Android) y planes de servicio. Verizon verificó que la filtración de datos era legítima y provenía de un proveedor que crea videos para ayudar a los clientes.",
+  "color": "#ef4444"
+}

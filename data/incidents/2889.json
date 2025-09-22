@@ -1,0 +1,13 @@
+{
+  "id": 2889,
+  "title": "Zoosk - Data leak - ShinyHunters",
+  "date": "2020-05-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Filtración de datos en Zoosk",
+  "source": "https://www.bleepingcomputer.com/news/security/hacker-group-floods-dark-web-with-data-stolen-from-11-companies/",
+  "summary": "Los ShinyHunters filtran 30 millones de cuentas de Zoosk.",
+  "color": "#ef4444"
+}

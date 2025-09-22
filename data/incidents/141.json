@@ -1,0 +1,13 @@
+{
+  "id": 141,
+  "title": "Hospital Infantil de Boston - DoS - Anonymous",
+  "date": "2014-04-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Anonymous",
+  "impact": "Incidente de seguridad en OpJustinaPelletier",
+  "source": "http://nakedsecurity.sophos.com/2014/04/28/anonymous-takes-on-boston-childrens-hospital-in-opjustina/",
+  "summary": "En nombre de OpJustinaPelletier, Anonymous elimina el sitio web del Hospital de Niños de Boston.",
+  "color": "#a78bfa"
+}

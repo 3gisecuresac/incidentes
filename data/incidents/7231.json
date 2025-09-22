@@ -1,0 +1,13 @@
+{
+  "id": 7231,
+  "title": "Ministerio de Trabajo y Economía Social de España (MITES) - Ciberataque - Undetermined",
+  "date": "2021-06-09",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Trabajo",
+  "source": "nan",
+  "summary": "El Ministerio de Trabajo y Economía Social de España sufre un ciberataque y se sabe poco sobre la naturaleza del ataque.",
+  "color": "#a78bfa"
+}

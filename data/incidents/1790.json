@@ -1,0 +1,13 @@
+{
+  "id": 1790,
+  "title": "Salud de UnityPoint - Data leak - Undetermined",
+  "date": "2018-07-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en UnityPoint Health",
+  "source": "https://www.infosecurity-magazine.com/news/phishing-attack-strikes-unitypoint/",
+  "summary": "UnityPoint Health advierte a 1,4 millones de pacientes que su información podría haber sido vulnerada por piratas informáticos de correo electrónico después de un ataque de phishing.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2384,
+  "title": "Sarrell Dental - Ransomware - Undetermined",
+  "date": "2019-09-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Sarrell Dental",
+  "source": "https://www.databreaches.net/sarrell-dental-notifies-almost-400000-patients-after-ransomware-attack/",
+  "summary": "Sarrell Dental notifica a casi 400.000 pacientes después de un ataque de ransomware.",
+  "color": "#ef4444"
+}

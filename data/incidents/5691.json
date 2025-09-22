@@ -1,0 +1,13 @@
+{
+  "id": 5691,
+  "title": "edgeMED Atención médica - Ciberataque - Undetermined",
+  "date": "2023-05-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Healthcare",
+  "source": "nan",
+  "summary": "edgeMED Healthcare presenta un aviso de violación de datos después de descubrir que la información confidencial de los pacientes se vio comprometida en un reciente incidente de ciberseguridad.",
+  "color": "#ef4444"
+}

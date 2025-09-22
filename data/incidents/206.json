@@ -1,0 +1,13 @@
+{
+  "id": 206,
+  "title": "Industrias de buena voluntad - Infección Dispositivos - Undetermined",
+  "date": "2014-07-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Goodwill Industries",
+  "source": "http://krebsonsecurity.com/2014/07/banks-card-breach-at-goodwill-industries/",
+  "summary": "Goodwill Industries es la última víctima de la ola de vulneraciones de puntos de venta. Tiendas en 21 estados reportan indicios de fraudes con tarjetas.",
+  "color": "#a78bfa"
+}

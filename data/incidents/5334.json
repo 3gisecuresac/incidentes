@@ -1,0 +1,13 @@
+{
+  "id": 5334,
+  "title": "Activisión - Data leak - Undetermined",
+  "date": "2023-02-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en SMS de",
+  "source": "nan",
+  "summary": "Activision confirma que sufrió una filtración de datos a principios de diciembre de 2022 después de que hackers accedieran a los sistemas internos de la empresa engañando a un empleado con un SMS de phishing. Pocos días después, los cibercriminales filtraron datos presuntamente robados de la empresa.",
+  "color": "#ef4444"
+}

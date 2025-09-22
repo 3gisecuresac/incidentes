@@ -1,0 +1,13 @@
+{
+  "id": 155,
+  "title": "antiwar.com - Data leak - Undetermined",
+  "date": "2014-05-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en antiwar.com",
+  "source": "https://www.antiwar.com/blog/2014/05/14/news-antiwar-com-has-been-hacked/",
+  "summary": "antiwar.com, el sitio web conocido por sus opiniones no intervencionistas y de oposición a la guerra, es hackeado apenas unas horas después de su lanzamiento. Su campaña de recaudación de fondos.",
+  "color": "#3b82f6"
+}

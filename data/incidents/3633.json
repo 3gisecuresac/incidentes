@@ -1,0 +1,13 @@
+{
+  "id": 3633,
+  "title": "Escuelas de arcilla de Carmel - Data leak - Undetermined",
+  "date": "2021-02-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Indiana",
+  "source": "nan",
+  "summary": "La información personal de más de 15.000 personas se ve comprometida a través del acceso no autorizado a las cuentas de correo electrónico de los empleados del distrito escolar de Indiana.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7957,
+  "title": "Unidas (LCAM3) - Data leak - Undetermined",
+  "date": "2020-11-23",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Unidas",
+  "source": "nan",
+  "summary": "La empresa brasileña de alquiler de coches Unidas ha sufrido una violación de datos.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2084,
+  "title": "Distrito de Saneamiento del Sur de Fort Collins - Ransomware - Undetermined",
+  "date": "2019-03-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Agua Loveland de Fort Collins",
+  "source": "https://www.databreaches.net/cyberattacker-demands-ransom-from-northern-colorado-utility/",
+  "summary": "El Distrito de Agua Loveland de Fort Collins y el Distrito de Saneamiento de South Fort Collins son víctimas de un ataque de ransomware ocurrido el 11 de febrero.",
+  "color": "#ef4444"
+}

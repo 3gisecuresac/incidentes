@@ -1,0 +1,13 @@
+{
+  "id": 1480,
+  "title": "Sistema de tránsito regional de Sacramento - Ransomware - Undetermined",
+  "date": "2017-11-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Sacramento se ve afectado",
+  "source": "https://www.helpnetsecurity.com/2017/11/21/sacramento-regional-transit-hack/",
+  "summary": "El sistema de tránsito regional de Sacramento se ve afectado por un ransomware destructivo y los atacantes amenazan con causar más daños si SacRT no les paga el equivalente a $8,000 en bitcoins.",
+  "color": "#ef4444"
+}

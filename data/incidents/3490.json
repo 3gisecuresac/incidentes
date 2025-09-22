@@ -1,0 +1,13 @@
+{
+  "id": 3490,
+  "title": "Administración Nacional de Seguridad Nuclear - Data leak - SVR (COZYBEAR)",
+  "date": "2020-12-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (COZYBEAR)",
+  "impact": "Incidente de seguridad en Seguridad Nuclear ha revelado",
+  "source": "nan",
+  "summary": "La Administración Nacional de Seguridad Nuclear ha revelado que piratas informáticos han accedido a sus redes como resultado del ataque a SolarWinds.",
+  "color": "#a78bfa"
+}

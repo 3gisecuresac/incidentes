@@ -1,0 +1,13 @@
+{
+  "id": 6557,
+  "title": "Salud integral - Data leak - Undetermined",
+  "date": "2023-12-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Integris Health en Oklahoma reciben correos electrónicos de chantaje",
+  "source": "nan",
+  "summary": "Los pacientes de Integris Health en Oklahoma reciben correos electrónicos de chantaje que indican que sus datos fueron robados en un ciberataque a la red de atención médica y que, si no pagan una demanda de extorsión, los datos se venderían a otros actores de amenazas.",
+  "color": "#ef4444"
+}

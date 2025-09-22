@@ -1,0 +1,13 @@
+{
+  "id": 1193,
+  "title": "Distrito escolar de Argyle - Data leak - Undetermined",
+  "date": "2017-01-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Argyle advierte a sus trabajadores",
+  "source": "http://www.theregister.co.uk/2017/01/25/texas_school_district_loses_w2s/",
+  "summary": "El distrito escolar de Argyle advierte a sus trabajadores que sus formularios de impuestos W-2 se perdieron en un ataque de phishing.",
+  "color": "#ef4444"
+}

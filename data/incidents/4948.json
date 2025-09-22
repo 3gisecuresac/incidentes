@@ -1,0 +1,13 @@
+{
+  "id": 4948,
+  "title": "Recursos de Anestesia de California - Data leak - Undetermined",
+  "date": "2022-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI",
+  "source": "nan",
+  "summary": "Resource Anesthesia of California informa sobre una violación de datos luego de un incidente de TI y piratería informática en la red que comprometió información confidencial que los pacientes confiaron al consultorio.",
+  "color": "#ef4444"
+}

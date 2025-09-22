@@ -1,0 +1,13 @@
+{
+  "id": 6547,
+  "title": "Primera opción dental - Data leak - Undetermined",
+  "date": "2023-12-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en First Choice Dental",
+  "source": "nan",
+  "summary": "First Choice Dental presenta un aviso de violación de datos después de descubrir que la información confidencial del paciente estaba sujeta a acceso no autorizado.",
+  "color": "#ef4444"
+}

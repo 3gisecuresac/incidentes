@@ -1,0 +1,13 @@
+{
+  "id": 3817,
+  "title": "Douglas Elliman - Data leak - Undetermined",
+  "date": "2021-04-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Nueva York",
+  "source": "nan",
+  "summary": "Miles de residentes de Nueva York que viven en edificios administrados por la división de administración de propiedades de Douglas Elliman pueden haber visto comprometida su información personal luego de que se vulnerara la red de TI de la compañía.",
+  "color": "#3b82f6"
+}

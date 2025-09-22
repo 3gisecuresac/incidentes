@@ -1,0 +1,13 @@
+{
+  "id": 7275,
+  "title": "Consejo de Granada - Data leak - GhostSec",
+  "date": "2023-03-07",
+  "country": "España",
+  "region": "Europa",
+  "type": "Data leak",
+  "actor": "GhostSec",
+  "impact": "Filtración de datos en Consejo de Granada",
+  "source": "nan",
+  "summary": "El grupo GhostSec ha publicado en línea casi 7 GB de datos del Consejo de Granada.",
+  "color": "#ef4444"
+}

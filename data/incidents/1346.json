@@ -1,0 +1,13 @@
+{
+  "id": 1346,
+  "title": "Skype - DoS - CyberTeam",
+  "date": "2017-06-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "CyberTeam",
+  "impact": "Interrupción por DDoS en Skype",
+  "source": "https://www.scmagazine.com/hacking-group-cyberteam-claiming-responsibility-for-skype-outage-threatens-steam/article/670258/",
+  "summary": "Un grupo de hackers llamado CyberTeam se atribuye la responsabilidad de un ataque DDoS contra Skype.",
+  "color": "#f59e0b"
+}

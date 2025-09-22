@@ -1,0 +1,13 @@
+{
+  "id": 3329,
+  "title": "Sistema de atención médica OSF - Data leak - Undetermined",
+  "date": "2020-10-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Blackbaud",
+  "source": "https://www.databreaches.net/osf-healthcare-notifying-patients-of-the-blackbaud-incident/",
+  "summary": "El sistema de salud OSF es otra organización afectada por el ataque a Blackbaud.",
+  "color": "#a78bfa"
+}

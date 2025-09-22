@@ -1,0 +1,13 @@
+{
+  "id": 2548,
+  "title": "El Centro Oncológico de Hawái - Ransomware - Undetermined",
+  "date": "2019-12-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Hawái",
+  "source": "https://www.databreaches.net/cyber-attack-halts-radiation-treatment-by-oahu-cancer-center/",
+  "summary": "Un ataque de ransomware suspende temporalmente los servicios de radioterapia contra el cáncer en el Centro Oncológico de Hawái. El ataque ocurrió el 5 de noviembre.",
+  "color": "#ef4444"
+}

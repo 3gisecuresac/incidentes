@@ -1,0 +1,13 @@
+{
+  "id": 3658,
+  "title": "Centro de Salud St. Margaret Spring Valley - Ransomware - Undetermined",
+  "date": "2021-02-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Health Spring Valley",
+  "source": "nan",
+  "summary": "St. Margaret's Health Spring Valley cierra su red informática en respuesta a un ciberataque.",
+  "color": "#a78bfa"
+}

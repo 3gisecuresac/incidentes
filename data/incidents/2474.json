@@ -1,0 +1,13 @@
+{
+  "id": 2474,
+  "title": "Autoridad de Agua y Energía de las Islas Vírgenes de los Estados Unidos (WAPA) - Data leak - Undetermined",
+  "date": "2019-11-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Agua",
+  "source": "https://www.databreaches.net/more-victims-of-yet-another-click2gov-breach-this-week/",
+  "summary": "La Autoridad de Agua y Energía de las Islas Vírgenes de Estados Unidos es la última víctima de una nueva violación de Click2Gov.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1238,
+  "title": "Sitios web del gobierno del estado de Ohio - DoS - Anonymous",
+  "date": "2017-02-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Anonymous",
+  "impact": "Incidente de seguridad en Ohio",
+  "source": "https://twitter.com/AnonyOps/status/968539518105260032",
+  "summary": "En nombre de #opUSA, los hacktivistas del colectivo Anonymous eliminan algunos sitios web de la Universidad Estatal de Ohio.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4005,
+  "title": "Asociación de Seguros Mutuos de Educadores - Data leak - Undetermined",
+  "date": "2021-07-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Educators Mutual Insurance descubre un acceso no autorizado a la red",
+  "source": "nan",
+  "summary": "Un asociado de Educators Mutual Insurance descubre un acceso no autorizado a la red que podría comprometer la información médica protegida de sus miembros.",
+  "color": "#3b82f6"
+}

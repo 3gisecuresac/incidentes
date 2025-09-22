@@ -1,0 +1,13 @@
+{
+  "id": 3818,
+  "title": "Eduro Salud - Ransomware - Astro Team",
+  "date": "2021-04-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Astro Team",
+  "impact": "Cifrado por ransomware en Eduro Healthcare",
+  "source": "nan",
+  "summary": "Los actores de la amenaza del ransomware Astro Team descargan 40 GB de archivos relacionados con pacientes supuestamente de Eduro Healthcare.",
+  "color": "#ef4444"
+}

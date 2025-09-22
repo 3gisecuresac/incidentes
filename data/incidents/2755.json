@@ -1,0 +1,13 @@
+{
+  "id": 2755,
+  "title": "Microsoft - Data leak - Syrian Electronic Army",
+  "date": "2020-03-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Syrian Electronic Army",
+  "impact": "Filtración de datos en Microsoft",
+  "source": "http://www.dailydot.com/news/microsoft-compliance-emails-fbi-ditu/",
+  "summary": "El Ejército Electrónico Sirio publica unas facturas filtradas de Microsoft que indican que la empresa cobra al FBI por ver la información de sus clientes.",
+  "color": "#ef4444"
+}

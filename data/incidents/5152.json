@@ -1,0 +1,13 @@
+{
+  "id": 5152,
+  "title": "Especialidades Thor, Inc. - Ransomware - Lorenz",
+  "date": "2022-12-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Lorenz",
+  "impact": "Filtración de datos en Thor Specialties",
+  "source": "nan",
+  "summary": "Lorenz cifró y filtró datos robados de Thor Specialties, Inc. a su sitio web oscuro.",
+  "color": "#ef4444"
+}

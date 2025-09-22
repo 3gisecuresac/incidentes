@@ -1,0 +1,13 @@
+{
+  "id": 2711,
+  "title": "Grupo EMCOR - Ransomware - Undetermined",
+  "date": "2020-02-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en TI",
+  "source": "https://www.zdnet.com/article/ryuk-ransomware-hits-fortune-500-company-emcor/",
+  "summary": "EMCOR Group, una empresa Fortune 500 especializada en servicios de ingeniería y construcción industrial, revela un incidente de ransomware Ryuk que inutilizó algunos de sus sistemas de TI.",
+  "color": "#ef4444"
+}

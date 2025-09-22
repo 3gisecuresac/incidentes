@@ -1,0 +1,13 @@
+{
+  "id": 472,
+  "title": "Atención médica de Santa Inés - Data leak - Undetermined",
+  "date": "2015-04-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Saint Agnes Health Care",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/about-25k-people-impacted-in-saint-agnes-health-care-breach/",
+  "summary": "Saint Agnes Health Care notifica a aproximadamente 25.000 personas que su información personal fue comprometida por atacantes que utilizaron un correo electrónico de phishing para obtener acceso a la cuenta de correo electrónico de un empleado que contenía los datos.",
+  "color": "#ef4444"
+}

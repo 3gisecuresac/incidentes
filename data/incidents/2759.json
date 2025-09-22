@@ -1,0 +1,13 @@
+{
+  "id": 2759,
+  "title": "J. Crew - Data leak - Undetermined",
+  "date": "2020-03-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en J. Crew",
+  "source": "https://techcrunch.com/2020/03/04/jcrew-unauthorized-accounts/",
+  "summary": "El gigante de la ropa J. Crew afirma que un número desconocido de clientes tuvieron acceso a sus cuentas en línea por parte de una parte no autorizada en abril de 2019 o alrededor de esa fecha.",
+  "color": "#a78bfa"
+}

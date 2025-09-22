@@ -1,0 +1,13 @@
+{
+  "id": 7615,
+  "title": "1-800-FLORES - Data leak - Undetermined",
+  "date": "2018-11-30",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en FLOWERS",
+  "source": "nan",
+  "summary": "Las operaciones canadienses de 1-800-FLOWERS revelan una filtración de datos que afectó a clientes que compraron productos en su sitio web durante cuatro años. Un agente no autorizado accedió a los datos de las tarjetas de pago de los clientes entre el 15 de agosto de 2014 y el 15 de septiembre de 2018.",
+  "color": "#ef4444"
+}

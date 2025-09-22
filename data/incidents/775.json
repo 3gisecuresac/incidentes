@@ -1,0 +1,13 @@
+{
+  "id": 775,
+  "title": "Universidad de California en Berkeley - Data leak - Undetermined",
+  "date": "2016-02-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en California",
+  "source": "http://www.zdnet.com/article/university-of-california-berkeley-once-again-becomes-victim-of-cyberattack/",
+  "summary": "La Universidad de California, Berkeley, admite haber sido víctima de una segunda filtración de datos que podría haber expuesto los datos de 80.000 personas a un uso indebido.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2054,
+  "title": "Sistema de salud Bon Secours St. Francis - Data leak - Undetermined",
+  "date": "2019-03-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Bon Secours St",
+  "source": "https://www.databreaches.net/sc-patients-of-milestone-family-medicine-notified-of-data-breach/",
+  "summary": "Los pacientes de un consultorio médico de Bon Secours St. Francis Health System están siendo advertidos de que su información personal puede estar en riesgo después de una violación de datos en el consultorio.",
+  "color": "#ef4444"
+}

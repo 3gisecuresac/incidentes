@@ -1,0 +1,13 @@
+{
+  "id": 210,
+  "title": "Vicio - Data leak - W0rm",
+  "date": "2014-07-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "W0rm",
+  "impact": "Filtración de datos en vice.com",
+  "source": "https://www.scmagazine.com/home/security-news/vice-com-hacked-possibly-the-wall-street-journal-website-too/",
+  "summary": "W0rm hackea vice.com y accede a una lista de usuarios de CMS. Los datos pirateados incluyen direcciones de correo electrónico y contraseñas cifradas.",
+  "color": "#ef4444"
+}

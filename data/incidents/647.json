@@ -1,0 +1,13 @@
+{
+  "id": 647,
+  "title": "Escuelas Públicas de Wichita - Data leak - Undetermined",
+  "date": "2015-10-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Wichita",
+  "source": "https://www.scmagazine.com/home/security-news/wichita-schools-investigates-possible-cyber-attack/",
+  "summary": "El sistema escolar público de Wichita, Kansas, está investigando un posible intento de piratería en una de sus redes que tuvo lugar el 23 de octubre.",
+  "color": "#a78bfa"
+}

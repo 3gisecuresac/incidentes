@@ -1,0 +1,13 @@
+{
+  "id": 909,
+  "title": "Terapias quiroprácticas y corporales completas - Data leak - Undetermined",
+  "date": "2016-05-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Complete Chiropractic Bodywork Therapies",
+  "source": "http://www.databreaches.net/mi-complete-chiropractic-bodywork-therapies-notified-4082-patients-after-discovering-malware/",
+  "summary": "Complete Chiropractic & Bodywork Therapies notifica a 4.082 pacientes después de descubrir que se había inyectado malware en su sistema en noviembre de 2015.",
+  "color": "#a78bfa"
+}

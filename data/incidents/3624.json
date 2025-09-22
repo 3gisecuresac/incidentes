@@ -1,0 +1,13 @@
+{
+  "id": 3624,
+  "title": "Universidad de Colorado - Data leak - Undetermined",
+  "date": "2021-02-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Colorado anuncia haber sido afectada",
+  "source": "nan",
+  "summary": "La Universidad de Colorado anuncia haber sido afectada por la violación de datos de Accellion.",
+  "color": "#ef4444"
+}

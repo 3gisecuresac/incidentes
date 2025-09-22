@@ -1,0 +1,13 @@
+{
+  "id": 4809,
+  "title": "Cisco - Data leak - Undetermined",
+  "date": "2022-08-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Cisco",
+  "source": "nan",
+  "summary": "Cisco confirma que un actor de amenazas violó su red corporativa e intentó extorsionarlos bajo la amenaza de filtrar archivos robados en línea.",
+  "color": "#ef4444"
+}

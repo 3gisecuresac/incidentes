@@ -1,0 +1,13 @@
+{
+  "id": 7621,
+  "title": "Mundo de contenedores - Ransomware - Undetermined",
+  "date": "2019-03-13",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Container World una",
+  "source": "nan",
+  "summary": "Container World, una empresa de almacenamiento y logística, se ve afectada por un ataque de ransomware el 14 de febrero.",
+  "color": "#ef4444"
+}

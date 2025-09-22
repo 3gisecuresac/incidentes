@@ -1,0 +1,13 @@
+{
+  "id": 6191,
+  "title": "Hospital General de Warren - Ciberataque - Undetermined",
+  "date": "2023-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en WGH",
+  "source": "nan",
+  "summary": "El Hospital General Warren (WGH) presenta un aviso de violación de datos después de descubrir que un actor desconocido accedió a ciertos sistemas informáticos del WGH.",
+  "color": "#ef4444"
+}

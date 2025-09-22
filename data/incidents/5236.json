@@ -1,0 +1,13 @@
+{
+  "id": 5236,
+  "title": "Instituto Americano de Contadores Públicos Certificados (AICPA). - Ciberataque - Undetermined",
+  "date": "2023-01-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Instituto Americano de Contadores Públicos Certificados",
+  "source": "nan",
+  "summary": "Los actores de amenazas afirman tener una base de datos con más de 140.000 direcciones de correo electrónico y contraseñas correspondientes del Instituto Americano de Contadores Públicos Certificados (AICPA), sin embargo la organización niega la violación.",
+  "color": "#ef4444"
+}

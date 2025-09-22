@@ -1,0 +1,13 @@
+{
+  "id": 6177,
+  "title": "Centro Médico del Valle de Catawba - Data leak - cl0p",
+  "date": "2023-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Catawba Valley Medical Center como parte de la campaña Progress MOVEit Transfer",
+  "source": "nan",
+  "summary": "La empresa de tecnología sanitaria Nuance revela que la banda de extorsión Clop ha robado datos personales del Catawba Valley Medical Center como parte de la campaña Progress MOVEit Transfer.",
+  "color": "#ef4444"
+}

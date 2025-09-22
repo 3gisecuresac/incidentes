@@ -1,0 +1,13 @@
+{
+  "id": 7899,
+  "title": "Ministerio de Relaciones Exteriores de Brasil - Phishing - Undetermined",
+  "date": "2014-05-30",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Phishing",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Ministerio de Relaciones Exteriores de Brasil fue atacado",
+  "source": "nan",
+  "summary": "El sistema de comunicaciones internas del Ministerio de Relaciones Exteriores de Brasil fue atacado por piratas informáticos que realizaron correos electrónicos de phishing.",
+  "color": "#ef4444"
+}

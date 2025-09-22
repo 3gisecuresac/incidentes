@@ -1,0 +1,13 @@
+{
+  "id": 6261,
+  "title": "Grupo perdido - Ransomware - Medusa",
+  "date": "2023-10-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Medusa",
+  "impact": "Cifrado por ransomware en Windak Group",
+  "source": "nan",
+  "summary": "Windak Group figura entre las víctimas de la banda de ransomware Medusa.",
+  "color": "#ef4444"
+}

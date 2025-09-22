@@ -1,0 +1,13 @@
+{
+  "id": 1689,
+  "title": "Ciudad de Goodyear - Data leak - Undetermined",
+  "date": "2018-05-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Goodyear anuncia",
+  "source": "https://www.scmagazine.com/goodyear-ariz-utility-pos-system-breached/article/764973/",
+  "summary": "La ciudad de Goodyear anuncia que su sistema de pago de facturas podría haber sido vulnerado. La posible vulneración podría exponer a 30.000 clientes de servicios públicos.",
+  "color": "#a78bfa"
+}

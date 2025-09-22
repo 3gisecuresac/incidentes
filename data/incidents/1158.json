@@ -1,0 +1,13 @@
+{
+  "id": 1158,
+  "title": "Fundación Southcentral (southcentralfoundation.com) - Data leak - Undetermined",
+  "date": "2016-12-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Alaska notifica a 14",
+  "source": "https://www.databreaches.net/southcentral-foundation-notifies-patients-after-employee-email-accounts-hacked/",
+  "summary": "La Fundación Southcentral (SCF) en Alaska notifica a 14.719 personas después de que las cuentas de correo electrónico de dos empleados que contenían información médica protegida fueron pirateadas en octubre.",
+  "color": "#a78bfa"
+}

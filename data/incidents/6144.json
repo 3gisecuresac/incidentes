@@ -1,0 +1,13 @@
+{
+  "id": 6144,
+  "title": "Banco a plazo - Ciberataque - Undetermined",
+  "date": "2023-09-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Forward Bank",
+  "source": "nan",
+  "summary": "Forward Bank presenta un aviso de violación de datos después de descubrir que una parte no autorizada pudo acceder a ciertos archivos en la red informática de la empresa.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 864,
+  "title": "ADP - Data leak - Undetermined",
+  "date": "2016-04-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Ladrones de",
+  "source": "http://krebsonsecurity.com/2016/05/fraudsters-steal-tax-salary-data-from-adp/",
+  "summary": "Ladrones de identidad roban datos fiscales y salariales del gigante de nóminas ADP al registrar cuentas a nombre de empleados en más de una docena de empresas. ADP afirma que los incidentes ocurrieron porque todas las empresas afectadas publicaron por error información confidencial de sus cuentas en línea.",
+  "color": "#ef4444"
+}

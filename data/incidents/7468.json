@@ -1,0 +1,13 @@
+{
+  "id": 7468,
+  "title": "Instituto Nacional de Vigilancia de Medicamentos y Alimentos de Colombia (INVIMA) - Ransomware - Undetermined",
+  "date": "2022-10-03",
+  "country": "Colombia",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Vigilancia de Medicamentos",
+  "source": "nan",
+  "summary": "El Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA) de Colombia dice que está lidiando con un ciberataque que ha interrumpido las operaciones de la agencia.",
+  "color": "#a78bfa"
+}

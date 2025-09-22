@@ -1,0 +1,13 @@
+{
+  "id": 3235,
+  "title": "Sam's Club - Data leak - Undetermined",
+  "date": "2020-09-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Club",
+  "source": "https://www.bleepingcomputer.com/news/security/sams-club-customer-accounts-hacked-in-credential-stuffing-attacks/",
+  "summary": "Sam's Club ha estado notificando a los clientes que pueden haber sido víctimas de robo de credenciales y ataques de phishing a mediados de septiembre.",
+  "color": "#ef4444"
+}

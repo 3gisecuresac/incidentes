@@ -1,0 +1,13 @@
+{
+  "id": 2349,
+  "title": "Condado de Lake - Ransomware - Undetermined",
+  "date": "2019-08-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Lake",
+  "source": "https://www.databreaches.net/in-ransomware-attack-forces-emergency-shutdown-of-lake-county-government-servers-it-working-through-weekend-to-purge-system/",
+  "summary": "Un ataque de ransomware obliga al cierre de emergencia de los servidores del gobierno del condado de Lake.",
+  "color": "#ef4444"
+}

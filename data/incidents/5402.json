@@ -1,0 +1,13 @@
+{
+  "id": 5402,
+  "title": "Grupo Médico Beaver (BMG) - Data leak - Undetermined",
+  "date": "2023-03-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Beaver Medical Group BMG",
+  "source": "nan",
+  "summary": "Beaver Medical Group (BMG) presenta un aviso de violación de datos después de descubrir que un ataque de phishing por correo electrónico exitoso proporcionó a una parte no autorizada acceso a archivos que contenían información confidencial de pacientes.",
+  "color": "#ef4444"
+}

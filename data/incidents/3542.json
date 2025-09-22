@@ -1,0 +1,13 @@
+{
+  "id": 3542,
+  "title": "Preferred Home Care de Nueva York - Ransomware - REvil",
+  "date": "2021-01-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Cifrado por ransomware en Preferred Home Care of New York",
+  "source": "nan",
+  "summary": "Preferred Home Care of New York es atacado por la banda de ransomware REvil.",
+  "color": "#ef4444"
+}

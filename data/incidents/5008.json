@@ -1,0 +1,13 @@
+{
+  "id": 5008,
+  "title": "Fideicomiso de responsabilidad médica de Texas - Ciberataque - Undetermined",
+  "date": "2022-10-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Texas Medical Insurance Company Physicians Insurance Company y Lone Star Alliance TMLT",
+  "source": "nan",
+  "summary": "Texas Medical Liability Trust presenta un aviso de violación de datos en nombre propio y de sus afiliados, Texas Medical Insurance Company, Physicians Insurance Company y Lone Star Alliance (TMLT), explicando que un incidente resultó en que una parte no autorizada pudiera acceder a la información confidencial de los consumidores.",
+  "color": "#ef4444"
+}

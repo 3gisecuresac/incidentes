@@ -1,0 +1,13 @@
+{
+  "id": 4859,
+  "title": "Inicio rápido - DoS - Undetermined",
+  "date": "2022-08-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en QuickLaunch",
+  "source": "nan",
+  "summary": "La plataforma de autenticación y gestión de identidad QuickLaunch sufre un ataque DDoS.",
+  "color": "#f59e0b"
+}

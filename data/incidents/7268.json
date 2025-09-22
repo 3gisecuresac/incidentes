@@ -1,0 +1,13 @@
+{
+  "id": 7268,
+  "title": "Centro Medico Virgen De La Caridad - Ransomware - Hive",
+  "date": "2023-01-02",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Filtración de datos en Centro Médico Virgen de la Caridad de Cartagena",
+  "source": "nan",
+  "summary": "El grupo de ransomware Hive añade otra entidad médica a su sitio de filtraciones. En esta ocasión, se trata del Centro Médico Virgen de la Caridad de Cartagena, España.",
+  "color": "#ef4444"
+}

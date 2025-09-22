@@ -1,0 +1,13 @@
+{
+  "id": 3366,
+  "title": "Centro médico Wyckoff Heights - Ransomware - WIZARD SPIDER",
+  "date": "2020-10-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Cifrado por ransomware en Brooklyn ha sufrido un ataque de ransomware Ryuk",
+  "source": "https://www.bleepingcomputer.com/news/security/brooklyn-and-vermont-hospitals-are-latest-ryuk-ransomware-victims/",
+  "summary": "El Centro Médico Wyckoff Heights en Brooklyn ha sufrido un ataque de ransomware Ryuk.",
+  "color": "#ef4444"
+}

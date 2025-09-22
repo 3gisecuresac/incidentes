@@ -1,0 +1,13 @@
+{
+  "id": 7368,
+  "title": "Secretaría de Economía de México - Ransomware - Undetermined",
+  "date": "2020-02-23",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Economía de México detecta un ciberataque a algunos de sus servidores",
+  "source": "nan",
+  "summary": "La Secretaría de Economía de México detecta un ciberataque a algunos de sus servidores.",
+  "color": "#a78bfa"
+}

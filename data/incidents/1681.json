@@ -1,0 +1,13 @@
+{
+  "id": 1681,
+  "title": "FloridaBariatric.com - Data leak - Undetermined",
+  "date": "2018-05-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en FloridaBariatric.com",
+  "source": "https://www.databreaches.net/malware-may-have-compromised-some-florida-hospital-patient-information/",
+  "summary": "Varios sitios web de hospitales de Florida fueron desconectados tras ser afectados por un malware que podría haber comprometido la información de los pacientes. La lista de hospitales afectados incluye: FloridaBariatric.com, FHOrthoInstitute.com y FHExecutiveHealth.com.",
+  "color": "#3b82f6"
+}

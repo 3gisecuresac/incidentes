@@ -1,0 +1,13 @@
+{
+  "id": 1998,
+  "title": "Asociación de la Esperanza del Valle - Data leak - Undetermined",
+  "date": "2019-01-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Valley Hope Association notifican a los pacientes",
+  "source": "https://www.scmagazine.com/home/security-news/kansas-based-valley-hope-association-addiction-treatment-centers-are-notifying-patients-their-personal-information-may-have-been-compromised/",
+  "summary": "Los centros de tratamiento de adicciones de Valley Hope Association notifican a los pacientes que su información personal puede haber sido comprometida en un ataque de phishing ocurrido entre el 9 y el 10 de octubre de 2018.",
+  "color": "#ef4444"
+}

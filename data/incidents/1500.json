@@ -1,0 +1,13 @@
+{
+  "id": 1500,
+  "title": "Condado de Mecklenburg - Ransomware - Undetermined",
+  "date": "2017-12-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Mecklenburg",
+  "source": "https://gizmodo.com/ransomware-shut-down-a-whole-north-carolina-county-1821097027",
+  "summary": "El condado de Mecklenburg, que incluye la ciudad de Charlotte y sus alrededores, ha sido atacado por ransomware y desde entonces ha tenido dificultades para restablecer sus sistemas. Mientras tanto, los funcionarios del condado se ven obligados a volver a sistemas en papel.",
+  "color": "#ef4444"
+}

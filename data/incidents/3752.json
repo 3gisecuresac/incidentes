@@ -1,0 +1,13 @@
+{
+  "id": 3752,
+  "title": "Departamento de Policía de Azusa - Ransomware - INDRIK SPIDER",
+  "date": "2021-03-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Cifrado por ransomware en Policía de Azusa en California revela haber sido afectado",
+  "source": "nan",
+  "summary": "El Departamento de Policía de Azusa en California revela haber sido afectado por un ataque de ransomware DoppelPaymer.",
+  "color": "#ef4444"
+}

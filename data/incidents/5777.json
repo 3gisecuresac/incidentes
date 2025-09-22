@@ -1,0 +1,13 @@
+{
+  "id": 5777,
+  "title": "Universidad Johns Hopkins - Ransomware - cl0p",
+  "date": "2023-06-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Incidente de seguridad en MOVEit",
+  "source": "nan",
+  "summary": "La Universidad Johns Hopkins confirma haber sido víctima de un ciberataque que explota la vulnerabilidad CVE-2023-34362 de MOVEit.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6528,
+  "title": "Servicios de salud conductual del área metropolitana de Cincinnati - Data leak - DragonForce",
+  "date": "2023-12-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "DragonForce",
+  "impact": "Filtración de datos en Greater Cincinnati Behavioral Health Services GCBHS a su",
+  "source": "nan",
+  "summary": "DragonForce agrega Greater Cincinnati Behavioral Health Services (GCBHS) a su sitio de filtraciones, afirmando haber exfiltrado 72,4 GB de archivos.",
+  "color": "#ef4444"
+}

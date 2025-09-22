@@ -1,0 +1,13 @@
+{
+  "id": 5302,
+  "title": "Arco del condado de Essex - Ransomware - LockBit 3.0",
+  "date": "2023-02-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en The Arc of Essex County una",
+  "source": "nan",
+  "summary": "The Arc of Essex County, una organización para niños con discapacidades intelectuales y del desarrollo (IDD), aparece en el sitio de filtración de ransomware LockBit.",
+  "color": "#ef4444"
+}

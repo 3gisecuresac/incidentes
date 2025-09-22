@@ -1,0 +1,13 @@
+{
+  "id": 3982,
+  "title": "Grupo médico DuPage - Ransomware - Undetermined",
+  "date": "2021-07-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en DuPage Medical Group",
+  "source": "nan",
+  "summary": "DuPage Medical Group sufre un ataque de ransomware que compromete la información personal de más de 650.000 pacientes.",
+  "color": "#ef4444"
+}

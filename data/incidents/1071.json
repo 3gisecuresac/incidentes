@@ -1,0 +1,13 @@
+{
+  "id": 1071,
+  "title": "Jerga - Data leak - Undetermined",
+  "date": "2016-09-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Jive",
+  "source": "http://www.zdnet.com/article/jive-resets-passwords-after-august-data-breach/",
+  "summary": "La empresa de software Jive restablece las contraseñas de sus clientes después de que la empresa descubriera una violación de datos.",
+  "color": "#ef4444"
+}

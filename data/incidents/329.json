@@ -1,0 +1,13 @@
+{
+  "id": 329,
+  "title": "Academia de avance rápido - Data leak - Undetermined",
+  "date": "2015-01-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Florida",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/attempted-access-to-fast-forward-academy-systems-puts-data-at-risk/",
+  "summary": "Fast Forward Academy, empresa de preparación de exámenes con sede en Florida, notifica a un número no revelado de personas que una persona no autorizada intentó acceder a sus sistemas, que almacenan información de socios y clientes.",
+  "color": "#a78bfa"
+}

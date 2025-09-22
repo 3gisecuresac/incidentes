@@ -1,0 +1,13 @@
+{
+  "id": 2973,
+  "title": "Ciudad de Duncannon - Ransomware - Undetermined",
+  "date": "2020-06-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Duncannon",
+  "source": "https://www.govtech.com/security/Duncannon-Pa-Bolsters-Cybersecurity-After-Ransomware-Attack.html",
+  "summary": "Duncannon revela haber sido víctima de un ataque de ransomware en abril, que dejó muchos sistemas informáticos municipales inoperables y provocó que el municipio pagara más de $40,000 a los piratas informáticos para restaurar los sistemas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5978,
+  "title": "Mutual del Noroeste - Data leak - cl0p",
+  "date": "2023-07-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Northwestern Mutual después de descubrir",
+  "source": "nan",
+  "summary": "Sovos Compliance presenta un aviso de violación de datos en nombre de Northwestern Mutual después de descubrir que el programa de transferencia segura de archivos utilizado por Sovos contenía una vulnerabilidad que permitía a una parte no autorizada acceder a los archivos del servidor MOVEit de la empresa.",
+  "color": "#ef4444"
+}

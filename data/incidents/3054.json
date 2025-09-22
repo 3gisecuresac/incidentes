@@ -1,0 +1,13 @@
+{
+  "id": 3054,
+  "title": "UberEats - Data leak - Undetermined",
+  "date": "2020-08-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Cyble descubren registros de usuarios de UberEats en la dark web",
+  "source": "https://securityaffairs.co/wordpress/106770/deep-web/ubereats-data-leaked-dark-web.html",
+  "summary": "Investigadores de seguridad de Cyble descubren registros de usuarios de UberEats en la dark web.",
+  "color": "#a78bfa"
+}

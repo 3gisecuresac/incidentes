@@ -1,0 +1,13 @@
+{
+  "id": 7289,
+  "title": "Casi - Ransomware - Black Basta",
+  "date": "2024-06-18",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Black Basta",
+  "impact": "Filtración de datos en Black Basta un",
+  "source": "nan",
+  "summary": "La empresa española de ingeniería y tecnología Amper Group es víctima de un ciberataque por parte del grupo Black Basta, un grupo de ransomware como servicio que roba 650 gigabytes de datos confidenciales.",
+  "color": "#ef4444"
+}

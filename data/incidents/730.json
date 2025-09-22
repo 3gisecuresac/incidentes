@@ -1,0 +1,13 @@
+{
+  "id": 730,
+  "title": "MSN.com - Data leak - Undetermined",
+  "date": "2016-01-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en MSN a través de la red de publicidad AdSpirit",
+  "source": "https://blog.malwarebytes.org/malvertising-2/2016/01/msn-home-page-drops-more-malware-via-malvertising/",
+  "summary": "Malwarebytes detecta una campaña de publicidad maliciosa dirigida a la página de inicio de MSN a través de la red de publicidad AdSpirit.",
+  "color": "#a78bfa"
+}

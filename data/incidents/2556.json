@@ -1,0 +1,13 @@
+{
+  "id": 2556,
+  "title": "Ciudad de Galt - Ransomware - Undetermined",
+  "date": "2019-12-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Galt",
+  "source": "https://www.scmagazine.com/home/security-news/ransomware/galt-st-lucie-police-hit-with-ransomware/",
+  "summary": "La ciudad de Galt, California, es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

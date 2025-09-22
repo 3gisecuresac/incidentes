@@ -1,0 +1,13 @@
+{
+  "id": 5613,
+  "title": "Iglesia implacable - Ransomware - LockBit 3.0",
+  "date": "2023-04-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en Relentless Church",
+  "source": "nan",
+  "summary": "El famoso grupo de ransomware LockBit agrega a Relentless Church, con sede en Carolina del Sur, a su lista de víctimas, afirmando haber robado datos de empleados que van desde pasaportes hasta documentos financieros.",
+  "color": "#ef4444"
+}

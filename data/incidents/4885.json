@@ -1,0 +1,13 @@
+{
+  "id": 4885,
+  "title": "Medicina de Michigan - Data leak - Undetermined",
+  "date": "2022-08-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Michigan Medicine",
+  "source": "nan",
+  "summary": "Michigan Medicine notifica a 33.850 pacientes sobre un ataque de phishing que puede haber expuesto su información de salud.",
+  "color": "#ef4444"
+}

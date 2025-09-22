@@ -1,0 +1,13 @@
+{
+  "id": 6353,
+  "title": "Escuela River Valley - Data leak - Undetermined",
+  "date": "2023-10-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en La Escuela River Valley",
+  "source": "nan",
+  "summary": "La Escuela River Valley sufre un incidente de fraude electrónico, cuando una red externa de uno de los proveedores del distrito es violada y utilizada para realizar una transferencia bancaria fraudulenta por $736,126.91.",
+  "color": "#a78bfa"
+}

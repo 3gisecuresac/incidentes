@@ -1,0 +1,13 @@
+{
+  "id": 293,
+  "title": "Distrito Escolar de la Ciudad de Provo - Data leak - Undetermined",
+  "date": "2014-10-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Distrito Escolar de la Ciudad de Provo",
+  "source": "http://news.softpedia.com/news/Info-Of-1-000-Provo-City-School-District-Employees-Exposed-460933.shtml",
+  "summary": "Un tercero no identificado accede a la información personal de más de 1.000 empleados del Distrito Escolar de la Ciudad de Provo y utiliza phishing para violar los sistemas.",
+  "color": "#ef4444"
+}

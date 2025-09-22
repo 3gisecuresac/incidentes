@@ -1,0 +1,13 @@
+{
+  "id": 7692,
+  "title": "Universidad Ambrose - Ransomware - Undetermined",
+  "date": "2020-09-25",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en La Universidad Ambrose",
+  "source": "nan",
+  "summary": "La Universidad Ambrose se encuentra entre las víctimas del ataque de ransomware Blackbaud.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6894,
+  "title": "Centro médico Barbour - Data leak - Undetermined",
+  "date": "2023-10-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Alabama",
+  "source": "nan",
+  "summary": "El Centro Médico Barbour, un pequeño hospital rural de Alabama, notifica a más de 61.000 pacientes que su información confidencial estuvo potencialmente comprometida en un incidente de piratería informática en octubre de 2023.",
+  "color": "#3b82f6"
+}

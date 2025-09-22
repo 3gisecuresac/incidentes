@@ -1,0 +1,13 @@
+{
+  "id": 2286,
+  "title": "Distrito Escolar de la Parroquia de Ouachita - Ransomware - Undetermined",
+  "date": "2019-07-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Ouachita se ve afectado",
+  "source": "https://www.zdnet.com/article/louisiana-governor-declares-state-emergency-after-local-ransomware-outbreak/",
+  "summary": "El Distrito Escolar de la Parroquia de Ouachita se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

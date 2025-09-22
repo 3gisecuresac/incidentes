@@ -1,0 +1,13 @@
+{
+  "id": 2428,
+  "title": "Zapatos TOMS - Data leak - Nathan",
+  "date": "2019-10-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Nathan",
+  "impact": "Sistema o cuenta comprometida en TOMS Shoes para",
+  "source": "https://www.vice.com/en_us/article/a35434/toms-shoes-mailing-list-hacked-hacker-says-log-off",
+  "summary": "Un hacker llamado Nathan utiliza la lista de correo del minorista TOMS Shoes para avisar a los usuarios que es hora de cerrar la sesión.",
+  "color": "#3b82f6"
+}

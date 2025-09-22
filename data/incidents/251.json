@@ -1,0 +1,13 @@
+{
+  "id": 251,
+  "title": "Feria del condado de Summit - Data leak - Undetermined",
+  "date": "2014-08-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Condado de Summit",
+  "source": "http://www.databreaches.net/ut-summit-county-sees-credit-card-breach-after-fair-rodeo-and-demolition-derby/",
+  "summary": "Cientos de cuentas bancarias personales están en riesgo luego de que se descubriera una violación de seguridad que involucraba la venta de entradas para el rodeo y el derby de demolición de la Feria del Condado de Summit.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 441,
+  "title": "GitHub - DoS - Undetermined",
+  "date": "2015-03-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en China",
+  "source": "http://arstechnica.com/security/2015/03/github-battles-largest-ddos-in-sites-history-targeted-at-anti-censorship-tools/",
+  "summary": "GitHub, el mayor repositorio de código público del mundo, lucha contra el mayor ataque DDoS de su historia. El ataque se dirige a páginas que albergan herramientas antivigilancia. Los sospechosos son dirigidos a China.",
+  "color": "#f59e0b"
+}

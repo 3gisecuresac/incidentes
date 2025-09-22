@@ -1,0 +1,13 @@
+{
+  "id": 4711,
+  "title": "Delon Hampton & Associates, colegiado - Ransomware - Quantum",
+  "date": "2022-07-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Quantum",
+  "impact": "Filtración de datos en Quantum",
+  "source": "nan",
+  "summary": "El ransomware Quantum publica muestras de datos filtrados en su sitio TOR.",
+  "color": "#ef4444"
+}

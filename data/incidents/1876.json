@@ -1,0 +1,13 @@
+{
+  "id": 1876,
+  "title": "Hospital Infantil de Filadelfia (CHOP) - Data leak - Undetermined",
+  "date": "2018-10-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Niños de Filadelfia",
+  "source": "https://www.databreaches.net/childrens-hospital-of-philadelphia-provides-notice-of-two-email-incidents/",
+  "summary": "El Hospital de Niños de Filadelfia (CHOP) notifica a algunos de sus pacientes actuales y anteriores sobre dos incidentes de correo electrónico, ambos relacionados con información de salud, ocurridos respectivamente el 23 de agosto y el 6 de septiembre.",
+  "color": "#a78bfa"
+}

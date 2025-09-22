@@ -1,0 +1,13 @@
+{
+  "id": 2452,
+  "title": "VikingVPN - Data leak - Undetermined",
+  "date": "2019-10-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en VikingVPN también se filtraron en línea",
+  "source": "https://www.bleepingcomputer.com/news/security/hacker-breached-servers-belonging-to-multiple-vpn-providers/",
+  "summary": "Las claves OpenVPN y los archivos de configuración de VikingVPN también se filtraron en línea.",
+  "color": "#ef4444"
+}

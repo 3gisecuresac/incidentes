@@ -1,0 +1,13 @@
+{
+  "id": 6942,
+  "title": "Ciudad de Pleasanton - Ransomware - Valencia",
+  "date": "2024-09-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Valencia",
+  "impact": "Cifrado por ransomware en Pleasanton",
+  "source": "nan",
+  "summary": "La ciudad de Pleasanton, California, fue atacada por el ransomware Valencia. El atacante afirma haber robado 283 GB de información confidencial.",
+  "color": "#ef4444"
+}

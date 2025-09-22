@@ -1,0 +1,13 @@
+{
+  "id": 7979,
+  "title": "Tesoro Nacional de Brasil - Ransomware - Undetermined",
+  "date": "2021-08-13",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Brasil sufre un ataque de ransomware",
+  "source": "nan",
+  "summary": "El Tesoro Nacional de Brasil sufre un ataque de ransomware, pero logra contener rápidamente los daños.",
+  "color": "#ef4444"
+}

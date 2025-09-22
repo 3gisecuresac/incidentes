@@ -1,0 +1,13 @@
+{
+  "id": 765,
+  "title": "Hospital de York - Data leak - Undetermined",
+  "date": "2016-02-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en York informa sobre una violación de la información de identificación de 1",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/york-hospital-breach-compromises-pii-of-1400-employees/",
+  "summary": "El Hospital de York informa sobre una violación de la información de identificación de 1.483 empleados.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1819,
+  "title": "Condado de Coweta - Ransomware - Undetermined",
+  "date": "2018-08-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Coweta restaura la mayoría de sus servidores informáticos",
+  "source": "https://www.databreaches.net/coweta-county-ga-largely-restores-servers-following-ransomware-attack/",
+  "summary": "El condado de Coweta restaura la mayoría de sus servidores informáticos, casi dos semanas después de que los piratas informáticos exigieran 341.000 dólares en bitcoins.",
+  "color": "#a78bfa"
+}

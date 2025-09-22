@@ -1,0 +1,13 @@
+{
+  "id": 1266,
+  "title": "Sirenas en Dallas - Ciberataque - Undetermined",
+  "date": "2017-04-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Dallas durante unos 90 minutos",
+  "source": "http://www.reuters.com/article/us-texas-sirens-idUSKBN17B001",
+  "summary": "Un ataque informático hace sonar todas las sirenas de emergencia en Dallas durante unos 90 minutos.",
+  "color": "#a78bfa"
+}

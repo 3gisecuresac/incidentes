@@ -1,0 +1,13 @@
+{
+  "id": 673,
+  "title": "De la moda a la figura (http://www.fashiontofigure.com) - Data leak - Undetermined",
+  "date": "2015-11-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Fashion",
+  "source": "http://www.databreaches.net/fashion-to-figure-notifying-customers-of-payment-card-compromise/",
+  "summary": "Fashion to Figure notifica a los clientes sobre una vulneración relacionada con malware insertado en el servidor de su proveedor de alojamiento web.",
+  "color": "#a78bfa"
+}

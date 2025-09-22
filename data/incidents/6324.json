@@ -1,0 +1,13 @@
+{
+  "id": 6324,
+  "title": "Instituto Oftalmológico Dakota - Ciberataque - Undetermined",
+  "date": "2023-10-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Dakota Eye Institute DEI",
+  "source": "nan",
+  "summary": "Dakota Eye Institute (DEI) presenta un aviso de violación de datos después de descubrir que la información personal de los pacientes se vio comprometida después de un ciberataque.",
+  "color": "#ef4444"
+}

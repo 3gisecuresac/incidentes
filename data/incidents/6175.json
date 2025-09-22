@@ -1,0 +1,13 @@
+{
+  "id": 6175,
+  "title": "Salud de CommonSpirit - Data leak - cl0p",
+  "date": "2023-09-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en CommonSpirit Health se vieron comprometidos en el hackeo masivo de MOVEit",
+  "source": "nan",
+  "summary": "Los datos de los pacientes de CommonSpirit Health se vieron comprometidos en el hackeo masivo de MOVEit.",
+  "color": "#ef4444"
+}

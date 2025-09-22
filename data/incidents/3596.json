@@ -1,0 +1,13 @@
+{
+  "id": 3596,
+  "title": "miNuevaJersey - Data leak - Undetermined",
+  "date": "2021-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Tecnología de la Información",
+  "source": "nan",
+  "summary": "El portal myNewJersey para empleados estatales fue víctima de lo que se conoce como un ataque de robo de credenciales, utilizando credenciales de inicio de sesión comprometidas, según la Oficina de Tecnología de la Información.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4967,
+  "title": "Distrito de colegios comunitarios de Hartnell - Ransomware - Undetermined",
+  "date": "2022-10-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Fiscal General de California después de",
+  "source": "nan",
+  "summary": "El 5 de diciembre de 2022, Hartnell Community College District informó una violación de datos al Fiscal General de California después de que la escuela experimentó lo que parece haber sido un ciberataque que resultó en la filtración de información confidencial de los estudiantes.",
+  "color": "#ef4444"
+}

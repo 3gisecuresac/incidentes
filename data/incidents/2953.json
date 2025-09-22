@@ -1,0 +1,13 @@
+{
+  "id": 2953,
+  "title": "Clientes de Wells Fargo - Data leak - Undetermined",
+  "date": "2020-06-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Abnormal Security descubren una campaña de phishing",
+  "source": "https://www.bleepingcomputer.com/news/security/wells-fargo-phishing-baits-customers-with-calendar-invites/",
+  "summary": "Investigadores de Abnormal Security descubren una campaña de phishing que se hace pasar por el equipo de seguridad de Wells Fargo y atrae a posibles víctimas a páginas de phishing con la ayuda de invitaciones de calendario.",
+  "color": "#ef4444"
+}

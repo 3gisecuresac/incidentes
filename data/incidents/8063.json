@@ -1,0 +1,13 @@
+{
+  "id": 8063,
+  "title": "Mercado Libre - Data leak - Lapsus$",
+  "date": "2022-03-08",
+  "country": "Argentina",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Lapsus$",
+  "impact": "Filtración de datos en Mercado Libre",
+  "source": "nan",
+  "summary": "El gigante argentino del comercio electrónico Mercado Libre confirma acceso no autorizado a una parte de su fuente y agrega que actores de amenazas accedieron a los datos de alrededor de 300.000 de sus usuarios.",
+  "color": "#ef4444"
+}

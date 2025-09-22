@@ -1,0 +1,13 @@
+{
+  "id": 1588,
+  "title": "Surf de habitación - Manipulación de mensajes - rmsrf",
+  "date": "2018-02-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "rmsrf",
+  "impact": "Filtración de datos en Roomsurf",
+  "source": "https://www.databreaches.net/new-details-emerge-on-roomsurf-hack/",
+  "summary": "Roomsurf notifica a sus usuarios sobre una violación de datos en la que el atacante ha podido obtener nombres de usuario, números de teléfono y direcciones de correo electrónico.",
+  "color": "#ef4444"
+}

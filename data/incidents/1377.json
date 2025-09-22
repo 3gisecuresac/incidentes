@@ -1,0 +1,13 @@
+{
+  "id": 1377,
+  "title": "Departamento de Comercio de Kansas - Data leak - Undetermined",
+  "date": "2017-07-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Comercio de Kansas expone millones de números de Seguro Social de personas en 10 estados a hackers",
+  "source": "http://kcur.org/post/hackers-kansas-system-accessed-social-security-numbers-millions-10-states",
+  "summary": "Una brecha de seguridad en el Departamento de Comercio de Kansas expone millones de números de Seguro Social de personas en 10 estados a hackers. Muchas otras cuentas también son atacadas.",
+  "color": "#3b82f6"
+}

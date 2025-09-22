@@ -1,0 +1,13 @@
+{
+  "id": 5615,
+  "title": "Universidad de Bluefield - Manipulación de mensajes - Avos Locker",
+  "date": "2023-04-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "Avos Locker",
+  "impact": "Filtración de datos en Bluefield sufre un ataque de ransomware Avos",
+  "source": "nan",
+  "summary": "La Universidad de Bluefield sufre un ataque de ransomware Avos. Pocos días después, la banda de ransomware secuestra el sistema de transmisión de emergencia de la universidad, RamAlert, para enviar SMS y correos electrónicos a estudiantes y personal informando de que sus datos habían sido robados y que pronto serían liberados.",
+  "color": "#ef4444"
+}

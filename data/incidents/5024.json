@@ -1,0 +1,13 @@
+{
+  "id": 5024,
+  "title": "Clínica de Salud Comunitaria Country Doctor (CDCHC) - Ciberataque - Undetermined",
+  "date": "2022-10-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Salud Comunitaria Country Doctor",
+  "source": "nan",
+  "summary": "La Clínica de Salud Comunitaria Country Doctor (CDCHC) notifica a 38.751 personas sobre una violación de datos de atención médica, después de descubrir una actividad inusual en su entorno.",
+  "color": "#ef4444"
+}

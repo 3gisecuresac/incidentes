@@ -1,0 +1,13 @@
+{
+  "id": 5734,
+  "title": "Grupo Médico CareNet (CMG) - Ciberataque - Undetermined",
+  "date": "2023-06-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI de la empresa",
+  "source": "nan",
+  "summary": "CareNet Medical Group (CMG) presenta un aviso de violación de datos después de enterarse de que los piratas informáticos pudieron obtener información confidencial de los pacientes almacenada en la red de TI de la empresa.",
+  "color": "#ef4444"
+}

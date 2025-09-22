@@ -1,0 +1,13 @@
+{
+  "id": 3667,
+  "title": "Hospital Universitario - ciberataque - Undetermined",
+  "date": "2021-02-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Newark",
+  "source": "nan",
+  "summary": "El Hospital Universitario de Newark, Nueva Jersey, notifica a los consumidores que una persona no autorizada obtuvo acceso a los sistemas informáticos del hospital, en un aviso publicado el 23 de febrero.",
+  "color": "#a78bfa"
+}

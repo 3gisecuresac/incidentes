@@ -1,0 +1,13 @@
+{
+  "id": 7936,
+  "title": "Brasil - Data leak - Anonymous",
+  "date": "2017-12-02",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Anonymous",
+  "impact": "Filtración de datos en Anonymous",
+  "source": "nan",
+  "summary": "Anonymous filtra algunos datos de topología pertenecientes al sector público brasileño.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7372,
+  "title": "Foxconn - Ransomware - INDRIK SPIDER",
+  "date": "2020-11-29",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Cifrado por ransomware en Foxconn",
+  "source": "nan",
+  "summary": "El gigante de la electrónica Foxconn sufrió un ataque de ransomware en unas instalaciones mexicanas. Los atacantes exigieron un rescate de 34 millones de dólares.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1309,
+  "title": "DocuSign - Data leak - Undetermined",
+  "date": "2017-05-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en DocuSign",
+  "source": "https://krebsonsecurity.com/2017/05/breach-at-docusign-led-to-targeted-email-malware-campaign/",
+  "summary": "DocuSign reconoce que una serie de recientes ataques de phishing con malware dirigidos a sus clientes y usuarios fueron el resultado de una violación de datos en uno de sus sistemas informáticos.",
+  "color": "#ef4444"
+}

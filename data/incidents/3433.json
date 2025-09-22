@@ -1,0 +1,13 @@
+{
+  "id": 3433,
+  "title": "Belden - Data leak - Undetermined",
+  "date": "2020-11-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Belden",
+  "source": "https://www.bleepingcomputer.com/news/security/belden-networking-giants-company-data-stolen-in-cyberattack/",
+  "summary": "El fabricante de dispositivos de red Belden fue víctima de un ciberataque que permitió a los piratas informáticos robar información de empleados y socios comerciales.",
+  "color": "#a78bfa"
+}

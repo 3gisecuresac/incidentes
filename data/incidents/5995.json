@@ -1,0 +1,13 @@
+{
+  "id": 5995,
+  "title": "Asociación de Vida Fidelity - Ciberataque - Undetermined",
+  "date": "2023-07-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Fidelity Life Association",
+  "source": "nan",
+  "summary": "Fidelity Life Association presenta un aviso de violación de datos después de descubrir que la información confidencial del consumidor que había sido confiada a la empresa estaba sujeta a acceso no autorizado.",
+  "color": "#ef4444"
+}

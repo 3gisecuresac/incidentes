@@ -1,0 +1,13 @@
+{
+  "id": 7890,
+  "title": "Organización de Aviación Civil Internacional de las Naciones Unidas (OACI) - Data leak - natohub",
+  "date": "2025-01-07",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "natohub",
+  "impact": "Filtración de datos en Aviación Civil Internacional",
+  "source": "nan",
+  "summary": "La Organización de Aviación Civil Internacional (OACI) de las Naciones Unidas anuncia que está investigando lo que describe como un incidente de seguridad reportado. 42.000 registros de datos de solicitudes de reclutamiento están afectados.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7471,
+  "title": "Empresas Públicas de Medellín (EPM) - Ransomware - ALPHVM",
+  "date": "2022-12-12",
+  "country": "Colombia",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Cifrado por ransomware en BlackCat",
+  "source": "nan",
+  "summary": "El proveedor colombiano de energía EPM fue atacado por el ransomware BlackCat",
+  "color": "#ef4444"
+}

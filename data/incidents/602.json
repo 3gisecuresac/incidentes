@@ -1,0 +1,13 @@
+{
+  "id": 602,
+  "title": "Excellus BlueCross BlueShield - Data leak - Undetermined",
+  "date": "2015-09-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Nueva York",
+  "source": "http://www.theregister.co.uk/2015/09/10/excellus_breach/",
+  "summary": "La compañía de seguros médicos Excellus declara que hackers irrumpieron en sus servidores y podrían haber obtenido los datos personales de 10,5 millones de personas. La información pertenece a clientes que residían o buscaban tratamiento en el norte del estado de Nueva York.",
+  "color": "#ef4444"
+}

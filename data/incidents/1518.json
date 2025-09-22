@@ -1,0 +1,13 @@
+{
+  "id": 1518,
+  "title": "Distrito Escolar Proctor - Ransomware - Undetermined",
+  "date": "2017-12-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Proctor se ve afectado",
+  "source": "https://www.databreaches.net/proctor-schools-hit-by-ransomware-attack/",
+  "summary": "El distrito escolar de Proctor se ve afectado por ransomware.",
+  "color": "#ef4444"
+}

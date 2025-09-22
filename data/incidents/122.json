@@ -1,0 +1,13 @@
+{
+  "id": 122,
+  "title": "Departamento de Policía de Albuquerque - DoS - Anonymous",
+  "date": "2014-03-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Anonymous",
+  "impact": "Interrupción por DDoS en Policía de Albuquerque es el objetivo de un ataque DDoS llevado a cabo",
+  "source": "http://news.softpedia.com/news/Albuquerque-Police-Website-Disrupted-by-Hacktivists-in-Protest-Against-Shootings-434900.shtml",
+  "summary": "El Departamento de Policía de Albuquerque es el objetivo de un ataque DDoS llevado a cabo por el infame colectivo Anonymous.",
+  "color": "#f59e0b"
+}

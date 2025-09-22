@@ -1,0 +1,13 @@
+{
+  "id": 7854,
+  "title": "Serás advertido - Ransomware - Medusa",
+  "date": "2023-11-12",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Medusa",
+  "impact": "Filtración de datos en Canadá",
+  "source": "nan",
+  "summary": "Moneris, una empresa de tecnología creada por dos de los bancos más grandes de Canadá, figura en el sitio de filtración de la banda de ransomware Medusa, a pesar de que la empresa afirma que detuvo el acceso a datos críticos.",
+  "color": "#ef4444"
+}

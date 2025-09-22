@@ -1,0 +1,13 @@
+{
+  "id": 6377,
+  "title": "Centro Harris para la Salud Mental - Ransomware - Undetermined",
+  "date": "2023-11-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Salud Mental es víctima de un ataque de ransomware",
+  "source": "nan",
+  "summary": "El Centro Harris de Salud Mental es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

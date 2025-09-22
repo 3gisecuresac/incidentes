@@ -1,0 +1,13 @@
+{
+  "id": 3005,
+  "title": "Servicios de salud de Lorien - Ransomware - NetWalker",
+  "date": "2020-07-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "NetWalker",
+  "impact": "Filtración de datos en Salud de Lorien anuncia",
+  "source": "https://www.bleepingcomputer.com/news/security/lorien-health-services-discloses-ransomware-attack-affecting-nearly-50-000/",
+  "summary": "Servicios de Salud de Lorien anuncia que fue víctima de un ataque de ransomware a principios de junio. Durante el incidente, se robaron y cifraron datos.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1862,
+  "title": "Servicios gubernamentales del condado de Madison - Ransomware - Undetermined",
+  "date": "2018-10-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Madison",
+  "source": "https://www.scmagazine.com/home/security-news/madison-county-idaho-hit-with-ransomware-attack/",
+  "summary": "Un ataque de ransomware afecta los servicios del gobierno del condado de Madison.",
+  "color": "#ef4444"
+}

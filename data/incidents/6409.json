@@ -1,0 +1,13 @@
+{
+  "id": 6409,
+  "title": "Departamento de Salud del Distrito Centro-Oeste - Ciberataque - Undetermined",
+  "date": "2023-11-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Salud del Distrito Central Oeste de Nebraska",
+  "source": "nan",
+  "summary": "El Departamento de Salud del Distrito Central Oeste de Nebraska (WDCHD) confirma haber sufrido un acceso no autorizado a su red y se han expuesto datos de pacientes.",
+  "color": "#ef4444"
+}

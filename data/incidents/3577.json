@@ -1,0 +1,13 @@
+{
+  "id": 3577,
+  "title": "Malwarebytes - Data leak - SVR (COZYBEAR)",
+  "date": "2021-01-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (COZYBEAR)",
+  "impact": "Incidente de seguridad en SolarWinds",
+  "source": "nan",
+  "summary": "La empresa de seguridad Malwarebytes afirmó que fue violada por piratas informáticos de SolarWinds.",
+  "color": "#a78bfa"
+}

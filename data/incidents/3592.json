@@ -1,0 +1,13 @@
+{
+  "id": 3592,
+  "title": "Servicios de salud regionales de Crisp - Ransomware - Undetermined",
+  "date": "2021-01-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Crisp Regional Health Services",
+  "source": "nan",
+  "summary": "Crisp Regional Health Services es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

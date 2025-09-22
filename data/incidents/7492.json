@@ -1,0 +1,13 @@
+{
+  "id": 7492,
+  "title": "Cencosud - Ransomware - Egregor",
+  "date": "2020-11-15",
+  "country": "Chile",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Egregor",
+  "impact": "Filtración de datos en Egregor. No",
+  "source": "nan",
+  "summary": "El gigante minorista chileno Cencosud fue atacado por el ransomware Egregor. No se sabe con certeza si se robaron datos, pero las impresoras de numerosos comercios comenzaron a imprimir notas de rescate mientras los dispositivos eran cifrados.",
+  "color": "#ef4444"
+}

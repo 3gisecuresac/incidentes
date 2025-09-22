@@ -1,0 +1,13 @@
+{
+  "id": 2266,
+  "title": "Sprint - Data leak - Undetermined",
+  "date": "2019-07-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Samsung.com",
+  "source": "https://www.zdnet.com/article/sprint-says-hackers-breached-customer-accounts-via-samsung-website/",
+  "summary": "El operador de telefonía móvil estadounidense Sprint afirma que hackers accedieron a un número indeterminado de cuentas de clientes a través del sitio web add a line de Samsung.com. La filtración ocurrió el 22 de junio.",
+  "color": "#ef4444"
+}

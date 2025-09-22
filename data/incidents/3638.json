@@ -1,0 +1,13 @@
+{
+  "id": 3638,
+  "title": "Kia Motors América - Ransomware - INDRIK SPIDER",
+  "date": "2021-02-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Filtración de datos en Kia Motors America",
+  "source": "nan",
+  "summary": "Kia Motors America ha sufrido un ataque de ransomware por parte de la banda DoppelPaymer, que exige 20 millones de dólares por un descifrador y por no filtrar datos robados.",
+  "color": "#ef4444"
+}

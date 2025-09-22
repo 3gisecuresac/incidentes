@@ -1,0 +1,13 @@
+{
+  "id": 5547,
+  "title": "PRGX Global - Data leak - Undetermined",
+  "date": "2023-04-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en PRGX Global",
+  "source": "nan",
+  "summary": "PRGX Global presenta un aviso de violación de datos después de descubrir que una parte no autorizada pudo acceder a datos confidenciales de consumidores almacenados en la red informática de la empresa.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2964,
+  "title": "Servicios de gestión de salud Choice - Data leak - Undetermined",
+  "date": "2020-06-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Choice Health Management Services",
+  "source": "https://www.databreaches.net/if-you-needed-yet-one-more-example-of-the-risks-of-phi-in-employee-email-accounts/",
+  "summary": "Choice Health Management Services notifica a un número no especificado de personas sobre un ataque de phishing que ocurrió a fines de 2019.",
+  "color": "#ef4444"
+}

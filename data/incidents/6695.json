@@ -1,0 +1,13 @@
+{
+  "id": 6695,
+  "title": "Ciudad de St. Cloud - Ransomware - Undetermined",
+  "date": "2024-03-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en St",
+  "source": "nan",
+  "summary": "La ciudad de St. Cloud dice que descubrió un ataque de ransomware que afecta los servicios de la ciudad.",
+  "color": "#ef4444"
+}

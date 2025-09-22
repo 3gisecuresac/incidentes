@@ -1,0 +1,13 @@
+{
+  "id": 130,
+  "title": "Ortopedia del Medio Oeste - Data leak - Undetermined",
+  "date": "2014-04-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Midwest Orthopaedics at Rush",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/chicago-doctors-email-account-accessed-held-info-on-1200-patients/",
+  "summary": "Más de 1.200 pacientes de Midwest Orthopaedics at Rush (MOR), con sede en Chicago, podrían haber tenido información personal comprometida después de que un individuo desconocido obtuviera acceso no autorizado a la cuenta de correo electrónico personal de un médico, que contenía los datos.",
+  "color": "#ef4444"
+}

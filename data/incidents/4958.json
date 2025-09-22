@@ -1,0 +1,13 @@
+{
+  "id": 4958,
+  "title": "NJVC - Ransomware - ALPHVM",
+  "date": "2022-09-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Cifrado por ransomware en TI NJVC",
+  "source": "nan",
+  "summary": "La banda de ransomware ALPHV/BlackCat afirma haber violado los derechos de la empresa de TI NJVC, que apoya al gobierno federal y al Departamento de Defensa de los Estados Unidos.",
+  "color": "#ef4444"
+}

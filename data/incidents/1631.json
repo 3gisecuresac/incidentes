@@ -1,0 +1,13 @@
+{
+  "id": 1631,
+  "title": "Distrito escolar de Nampa - Data leak - Undetermined",
+  "date": "2018-03-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Nampa informó a sus empleados sobre un posible problema de seguridad",
+  "source": "https://www.databreaches.net/nampa-school-district-investigating-cyber-security-breach/",
+  "summary": "El Distrito Escolar de Nampa informó a sus empleados sobre un posible problema de seguridad que involucra información de identificación personal de aproximadamente 3.983 de sus empleados actuales y pasados.",
+  "color": "#a78bfa"
+}

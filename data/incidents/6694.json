@@ -1,0 +1,13 @@
+{
+  "id": 6694,
+  "title": "Panera Bread - Ransomware - Undetermined",
+  "date": "2024-03-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Panera Bread",
+  "source": "nan",
+  "summary": "Panera Bread sufre un ataque de ransomware.",
+  "color": "#ef4444"
+}

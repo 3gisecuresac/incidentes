@@ -1,0 +1,13 @@
+{
+  "id": 4427,
+  "title": "Integraciones de salud adaptativa - Data leak - Undetermined",
+  "date": "2022-04-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Adaptive Health Integrations",
+  "source": "nan",
+  "summary": "Adaptive Health Integrations revela haber sufrido un incidente de piratería que afectó a 510.574 personas.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5910,
+  "title": "Universidad Estatal de Washington (WSU) - Data leak - cl0p",
+  "date": "2023-07-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Washington",
+  "source": "nan",
+  "summary": "La Universidad Estatal de Washington (WSU) publica un aviso en su sitio web explicando que una filtración de datos de terceros filtró información personal identificable de estudiantes y futuros estudiantes, así como de empleados. El incidente involucró a dos proveedores de servicios: National Student Clearinghouse (NSC) y la Teachers Insurance and Annuity Association (TIAA).",
+  "color": "#ef4444"
+}

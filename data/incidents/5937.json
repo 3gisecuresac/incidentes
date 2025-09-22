@@ -1,0 +1,13 @@
+{
+  "id": 5937,
+  "title": "Japan Tobacco International EE. UU. - Ransomware - cl0p",
+  "date": "2023-07-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Cifrado por ransomware en Japan Tobacco International USA",
+  "source": "nan",
+  "summary": "Japan Tobacco International USA se suma a la lista de víctimas de la banda de ransomware Clop que explota la vulnerabilidad CVE-2023-34362.",
+  "color": "#ef4444"
+}

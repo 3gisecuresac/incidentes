@@ -1,0 +1,13 @@
+{
+  "id": 4356,
+  "title": "Cuidado de la cumbre - Ransomware - Ransom House",
+  "date": "2022-03-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Ransom House",
+  "impact": "Filtración de datos en RANSOM HOUSE",
+  "source": "nan",
+  "summary": "La banda criminal RANSOM HOUSE explota datos y cifra sistemas. Datos y exigencias de rescate se presentan en un sitio web filtrado en la dark web.",
+  "color": "#ef4444"
+}

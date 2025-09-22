@@ -1,0 +1,13 @@
+{
+  "id": 6248,
+  "title": "Red de atención médica comunitaria - Data leak - Undetermined",
+  "date": "2023-10-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en CHN",
+  "source": "nan",
+  "summary": "Community Healthcare Network (CHN) presenta un aviso de violación de datos luego de una interrupción importante de la red en la que un actor no autorizado pudo obtener acceso a la red informática de CHN.",
+  "color": "#ef4444"
+}

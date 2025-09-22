@@ -1,0 +1,13 @@
+{
+  "id": 1926,
+  "title": "Quora - Data leak - Undetermined",
+  "date": "2018-12-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Quora",
+  "source": "https://www.bleepingcomputer.com/news/security/quora-hacked-100-million-users-data-exposed/",
+  "summary": "Quora anuncia que uno de sus sistemas fue hackeado el 30 de noviembre, lo que provocó la exposición de datos de aproximadamente 100 millones de usuarios a un tercero no autorizado.",
+  "color": "#ef4444"
+}

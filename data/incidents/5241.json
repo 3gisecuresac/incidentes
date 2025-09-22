@@ -1,0 +1,13 @@
+{
+  "id": 5241,
+  "title": "Tendencias de Citi - Ciberataque - Undetermined",
+  "date": "2023-01-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI de la empresa",
+  "source": "nan",
+  "summary": "Citi Trends presenta un aviso de violación de datos después de descubrir que una parte no autorizada pudo acceder a información confidencial de los empleados almacenada en la red de TI de la empresa.",
+  "color": "#ef4444"
+}

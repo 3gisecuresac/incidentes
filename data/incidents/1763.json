@@ -1,0 +1,13 @@
+{
+  "id": 1763,
+  "title": "Clínica Billings - Data leak - Undetermined",
+  "date": "2018-07-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en La Cl",
+  "source": "https://www.billingsclinic.com/app/files/public/3296/Data-Breach-PDF-July2018.pdf",
+  "summary": "La Clínica Billings revela una filtración de datos que expone los datos de 8400 pacientes. La organización detectó actividad anómala en la cuenta de correo electrónico de uno de sus empleados el 14 de mayo de 2018. La investigación reveló que la cuenta fue vulnerada mientras el empleado se encontraba de viaje.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4243,
+  "title": "Distrito de Salud Regional de Spokane - Data leak - Undetermined",
+  "date": "2021-12-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Salud Regional de Spokane es víctima de un ataque de phishing",
+  "source": "nan",
+  "summary": "El Distrito de Salud Regional de Spokane es víctima de un ataque de phishing.",
+  "color": "#ef4444"
+}

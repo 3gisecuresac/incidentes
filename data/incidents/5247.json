@@ -1,0 +1,13 @@
+{
+  "id": 5247,
+  "title": "Mscripts - Data leak - Undetermined",
+  "date": "2023-01-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Mscripts",
+  "source": "nan",
+  "summary": "Mscripts presenta un aviso de violación de datos después de determinar que la información confidencial del consumidor confiada a la empresa fue accedida por una parte no autorizada.",
+  "color": "#ef4444"
+}

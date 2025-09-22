@@ -1,0 +1,13 @@
+{
+  "id": 3897,
+  "title": "Condado de Mobile, Alabama - Ransomware - PayorGrief",
+  "date": "2021-05-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "PayorGrief",
+  "impact": "Filtración de datos en Mobile",
+  "source": "nan",
+  "summary": "La red del condado de Mobile, Alabama, se ve afectada por un ataque de ransomware PayorGrief y, según se informa, 95 GB de datos están comprometidos.",
+  "color": "#ef4444"
+}

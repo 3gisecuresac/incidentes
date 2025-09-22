@@ -1,0 +1,13 @@
+{
+  "id": 7504,
+  "title": "Puma - Data leak - Undetermined",
+  "date": "2023-01-24",
+  "country": "Chile",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Puma en Chile",
+  "source": "nan",
+  "summary": "En un foro de hackers se encuentran datos privados que supuestamente pertenecen a más de 230.000 clientes de Puma en Chile.",
+  "color": "#ef4444"
+}

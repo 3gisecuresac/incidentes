@@ -1,0 +1,13 @@
+{
+  "id": 5664,
+  "title": "Corporación Mellon del Banco de Nueva York (BNY Mellon) - Data leak - Undetermined",
+  "date": "2023-05-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Bank of New York Mellon Corporation BNY Mellon",
+  "source": "nan",
+  "summary": "Bank of New York Mellon Corporation (BNY Mellon) presenta un aviso de violación de datos después de enterarse de que información confidencial que había sido confiada a la empresa se filtró en lo que parece ser una violación de datos de terceros.",
+  "color": "#ef4444"
+}

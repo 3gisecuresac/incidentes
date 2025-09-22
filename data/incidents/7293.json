@@ -1,0 +1,13 @@
+{
+  "id": 7293,
+  "title": "Matadero de Gijón - Ransomware - RansomHub",
+  "date": "2024-01-05",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "RansomHub",
+  "impact": "Cifrado por ransomware en Gijón sufre un ataque del ransomware RansomHub",
+  "source": "nan",
+  "summary": "El Matadero de Gijón sufre un ataque del ransomware RansomHub.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7750,
+  "title": "Salud regional de Arnprior - Ransomware - Undetermined",
+  "date": "2021-12-21",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Hospital",
+  "source": "nan",
+  "summary": "Hospital canadiense sufre una filtración de datos.",
+  "color": "#ef4444"
+}

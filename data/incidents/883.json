@@ -1,0 +1,13 @@
+{
+  "id": 883,
+  "title": "majorgeeks.com - Data leak - Undetermined",
+  "date": "2016-05-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en majorgeeks.com",
+  "source": "https://hacked-emails.com/leak/anon-majorgeekstxt",
+  "summary": "270.000 registros de majorgeeks.com aparecen en la dark web.",
+  "color": "#a78bfa"
+}

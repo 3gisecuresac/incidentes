@@ -1,0 +1,13 @@
+{
+  "id": 8047,
+  "title": "Ministerio de Industria de Argentina (Ministerio de Producción, produccion.gob.ar) - Data leak - Kapustkiy; Kasimierz L",
+  "date": "2016-12-07",
+  "country": "Argentina",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Kapustkiy; Kasimierz L",
+  "impact": "Sistema o cuenta comprometida en Ministerio de Industria argentino",
+  "source": "nan",
+  "summary": "Kapustkiy y Kasimierz L, hackean el sitio web del Ministerio de Industria argentino (Ministerio de Producción) y exponen 18.000 cuentas.",
+  "color": "#3b82f6"
+}

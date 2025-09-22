@@ -1,0 +1,13 @@
+{
+  "id": 5467,
+  "title": "Cooperativa de Crédito Postal de Atlanta - Ransomware - Undetermined",
+  "date": "2023-03-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Atlanta Postal Credit Union APCU",
+  "source": "nan",
+  "summary": "Atlanta Postal Credit Union (APCU) presenta un aviso de violación de datos después de enterarse de que un reciente ataque de ransomware comprometió la información confidencial de algunos clientes del banco.",
+  "color": "#ef4444"
+}

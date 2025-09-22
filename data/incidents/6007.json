@@ -1,0 +1,13 @@
+{
+  "id": 6007,
+  "title": "Observatorio Gemini Norte de Hawái - Ciberataque - Undetermined",
+  "date": "2023-08-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Investigación en Astronomía Óptica-Infrarroja",
+  "source": "nan",
+  "summary": "El Laboratorio Nacional de Investigación en Astronomía Óptica-Infrarroja (NOIRLab) de la Fundación Nacional de Ciencias detecta un incidente cibernético en sus sistemas informáticos, obligando a suspender las observaciones astronómicas en Gemini Norte en Hawái.",
+  "color": "#a78bfa"
+}

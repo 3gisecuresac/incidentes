@@ -1,0 +1,13 @@
+{
+  "id": 5062,
+  "title": "Atención veterinaria unida - Ciberataque - Undetermined",
+  "date": "2022-11-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en United Veterinary Care",
+  "source": "nan",
+  "summary": "United Veterinary Care informa sobre una violación de datos después de que la empresa descubriera que la información personal de los consumidores almacenada en su red informática estaba comprometida.",
+  "color": "#ef4444"
+}

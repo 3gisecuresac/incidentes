@@ -1,0 +1,13 @@
+{
+  "id": 5946,
+  "title": "Es Lauder - Ransomware - ALPHVM",
+  "date": "2023-07-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en ALPHV BlackCat y Clop",
+  "source": "nan",
+  "summary": "Dos actores de ransomware, ALPHV/BlackCat y Clop, incluyen a la empresa de belleza EstÃÆÃÂ©e Lauder en sus sitios de filtración de datos como víctima de ataques separados.",
+  "color": "#ef4444"
+}

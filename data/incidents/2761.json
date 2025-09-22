@@ -1,0 +1,13 @@
+{
+  "id": 2761,
+  "title": "Corporación Carnival - Data leak - Undetermined",
+  "date": "2020-03-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Holland America y Princess Cruises",
+  "source": "https://www.cnbc.com/2020/03/05/how-to-protect-yourself-from-princess-cruise-and-holland-america-data-hack.html",
+  "summary": "Carnival Corp. anuncia que dos de sus líneas más populares, Holland America y Princess Cruises, fueron víctimas de un ataque de phishing entre el 11 de abril y el 23 de julio de 2019.",
+  "color": "#ef4444"
+}

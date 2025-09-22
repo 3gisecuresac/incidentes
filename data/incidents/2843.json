@@ -1,0 +1,13 @@
+{
+  "id": 2843,
+  "title": "Centro médico Parkview - Ransomware - Undetermined",
+  "date": "2020-04-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Centro M",
+  "source": "https://www.techrepublic.com/article/ransomware-attack-on-colorado-hospital-highlights-fears-of-more-healthcare-hostage-situations/",
+  "summary": "El Centro Médico Parkview sufre un ataque de ransomware.",
+  "color": "#ef4444"
+}

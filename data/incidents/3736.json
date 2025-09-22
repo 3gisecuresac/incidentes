@@ -1,0 +1,13 @@
+{
+  "id": 3736,
+  "title": "Cooperativa agrícola sin nombre - Ransomware - REvil",
+  "date": "2021-03-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Cifrado por ransomware en EE",
+  "source": "nan",
+  "summary": "Investigadores de eSentire revelan los detalles de una nueva campaña de ataques del grupo de ransomware REvil. Las organizaciones afectadas incluyen dos bufetes de abogados, una compañía de seguros, un estudio de arquitectura, una constructora y una cooperativa agrícola, todas ubicadas en EE. UU.; así como dos grandes bancos internacionales (uno en México y otro en África); y un fabricante europeo.",
+  "color": "#ef4444"
+}

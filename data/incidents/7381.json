@@ -1,0 +1,13 @@
+{
+  "id": 7381,
+  "title": "Foxconn - Ransomware - LockBit",
+  "date": "2022-05-31",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "LockBit",
+  "impact": "Cifrado por ransomware en México se vio afectada",
+  "source": "nan",
+  "summary": "El fabricante de productos electrónicos Foxconn confirma que una de sus plantas de producción con sede en México se vio afectada por un ataque de ransomware a finales de mayo.",
+  "color": "#ef4444"
+}

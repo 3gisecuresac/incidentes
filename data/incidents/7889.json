@@ -1,0 +1,13 @@
+{
+  "id": 7889,
+  "title": "Junta Escolar del Distrito del Alto Canadá (UCDSB) - Data leak - Undetermined",
+  "date": "2025-01-05",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Junta",
+  "source": "nan",
+  "summary": "La actualización del 22 de enero de la Junta revela que la información personal sobre miembros del personal, estudiantes, algunos donantes y beneficiarios de becas se vio comprometida.",
+  "color": "#3b82f6"
+}

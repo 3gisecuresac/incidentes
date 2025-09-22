@@ -1,0 +1,13 @@
+{
+  "id": 3025,
+  "title": "Guión especializado del siglo, LLC - Data leak - Undetermined",
+  "date": "2020-07-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Microsoft Office 365 de un empleado",
+  "source": "https://www.databreaches.net/ny-century-specialty-script-notifying-customers-and-patients-after-employee-office-account-compromised/",
+  "summary": "Century Specialty Script, LLC reveló una violación de datos de julio donde se vio comprometida la cuenta de Microsoft Office 365 de un empleado.",
+  "color": "#ef4444"
+}

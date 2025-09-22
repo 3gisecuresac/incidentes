@@ -1,0 +1,13 @@
+{
+  "id": 6820,
+  "title": "Al menos tres hoteles Wyndham - Data leak - Undetermined",
+  "date": "2024-05-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estados Unidos",
+  "source": "nan",
+  "summary": "pcTattletale, una aplicación de software espía para consumidores, se encuentra ejecutándose en los sistemas de check-in de al menos tres hoteles Wyndham en Estados Unidos.",
+  "color": "#a78bfa"
+}

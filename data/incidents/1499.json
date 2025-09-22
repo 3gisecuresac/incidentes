@@ -1,0 +1,13 @@
+{
+  "id": 1499,
+  "title": "Estación de bomberos y servicios médicos de urgencia del municipio de Mad River - Ransomware - Undetermined",
+  "date": "2017-12-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Mad River tiene todos sus datos encriptados",
+  "source": "https://www.databreaches.net/mad-river-twp-fire-and-ems-data-hacked-encrypted-with-ransomware/",
+  "summary": "La estación de bomberos y servicios médicos de emergencia del municipio de Mad River tiene todos sus datos encriptados por ransomware.",
+  "color": "#ef4444"
+}

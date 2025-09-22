@@ -1,0 +1,13 @@
+{
+  "id": 5642,
+  "title": "Salud BÁSICA - Data leak - Undetermined",
+  "date": "2023-05-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en ASAS Health",
+  "source": "nan",
+  "summary": "ASAS Health presenta un aviso de violación de datos después de determinar que un incidente de seguridad a principios de este año comprometió la información confidencial de más de 25.000 personas.",
+  "color": "#ef4444"
+}

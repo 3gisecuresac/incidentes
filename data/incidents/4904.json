@@ -1,0 +1,13 @@
+{
+  "id": 4904,
+  "title": "Laddawn Inc. - Ransomware - Lorenz",
+  "date": "2022-09-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Lorenz",
+  "impact": "Filtración de datos en Laddawn Inc",
+  "source": "nan",
+  "summary": "Lorenz cifró y filtró datos robados de Laddawn Inc. a su sitio web oscuro.",
+  "color": "#ef4444"
+}

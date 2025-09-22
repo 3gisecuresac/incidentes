@@ -1,0 +1,13 @@
+{
+  "id": 723,
+  "title": "Escudo Azul de California - Data leak - Undetermined",
+  "date": "2016-01-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Blue Shield of California",
+  "source": "http://www.databreaches.net/nearly-21000-customer-records-hit-by-blue-shield-security-breach/",
+  "summary": "Blue Shield of California anuncia que la información personal de casi 21.000 clientes de planes individuales y familiares fue accedida en una violación de seguridad a finales del año pasado.",
+  "color": "#a78bfa"
+}

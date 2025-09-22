@@ -1,0 +1,13 @@
+{
+  "id": 1744,
+  "title": "Ciudad de Midland - Data leak - Undetermined",
+  "date": "2018-06-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Midland es el último municipio",
+  "source": "https://www.infosecurity-magazine.com/news/municipalities-breached-from/",
+  "summary": "La ciudad de Midland es el último municipio que ha sido víctima de una vulnerabilidad en la aplicación Click2Gov de Superion.",
+  "color": "#a78bfa"
+}

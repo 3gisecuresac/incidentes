@@ -1,0 +1,13 @@
+{
+  "id": 4176,
+  "title": "Telnyx - DoS - Undetermined",
+  "date": "2021-11-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Internet",
+  "source": "nan",
+  "summary": "El proveedor de voz sobre Internet, Telnyx, sufre un ataque DDOS que provoca cortes importantes.",
+  "color": "#f59e0b"
+}

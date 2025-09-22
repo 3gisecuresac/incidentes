@@ -1,0 +1,13 @@
+{
+  "id": 7270,
+  "title": "Luaces Asesores - Ransomware - LockBit 3.0",
+  "date": "2023-01-30",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Luaces Asesores",
+  "source": "nan",
+  "summary": "La banda de ransomware LockBit afirma haber atacado a Luaces Asesores, una firma de asesoría contable, fiscal y laboral.",
+  "color": "#ef4444"
+}

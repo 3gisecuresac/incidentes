@@ -1,0 +1,13 @@
+{
+  "id": 6944,
+  "title": "Dell - Data leak - grep'",
+  "date": "2024-09-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "grep'",
+  "impact": "Filtración de datos en Dell por",
+  "source": "nan",
+  "summary": "El actor de amenazas que se hace llamar 'grep' afirma haber violado Dell por tercera vez y filtra 500 MB de datos confidenciales.",
+  "color": "#ef4444"
+}

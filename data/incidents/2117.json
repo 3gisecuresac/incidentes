@@ -1,0 +1,13 @@
+{
+  "id": 2117,
+  "title": "Hospital Hardin Memorial - Ransomware - Undetermined",
+  "date": "2019-04-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en El Hospital Hardin Memorial",
+  "source": "https://www.databreaches.net/hardin-memorial-hospital-issues-statement-on-information-technology-disturbance/",
+  "summary": "El Hospital Hardin Memorial sufrió algún tipo de ataque o interrupción durante el fin de semana que podría ser un incidente de piratería informática. La naturaleza del incidente no está clara.",
+  "color": "#a78bfa"
+}

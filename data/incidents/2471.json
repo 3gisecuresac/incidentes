@@ -1,0 +1,13 @@
+{
+  "id": 2471,
+  "title": "Centro Oftalmológico del Valle de Utah - Data leak - Undetermined",
+  "date": "2019-10-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Centro Oftalmológico Utah Valley",
+  "source": "https://threatpost.com/eye-clinic-breach-reveals-data-of-20000-patients/149878/",
+  "summary": "Hackers acceden al portal externo del Centro Oftalmológico Utah Valley (DemandForce), que recuerda a los pacientes sus citas programadas y les envía correos electrónicos para informarles que han recibido un pago de PayPal. El incidente ocurrió el 18 de junio de 2018.",
+  "color": "#3b82f6"
+}

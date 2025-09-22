@@ -1,0 +1,13 @@
+{
+  "id": 8001,
+  "title": "Agencia Nacional de Petróleo, Gas Natural y Biocombustibles (ANP) de Brasil - Ransomware - Undetermined",
+  "date": "2022-08-05",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Petróleo",
+  "source": "nan",
+  "summary": "La Agencia Nacional de Petróleo, Gas Natural y Biocombustibles (ANP) de Brasil es dada de baja tras un intento de ciberataque.",
+  "color": "#a78bfa"
+}

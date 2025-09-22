@@ -1,0 +1,13 @@
+{
+  "id": 4479,
+  "title": "T-Mobile - Data leak - Lapsus$",
+  "date": "2022-04-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Lapsus$",
+  "impact": "Incidente de seguridad en T-Mobile",
+  "source": "nan",
+  "summary": "T-Mobile confirma que la banda de extorsión Lapsus$ violó su red hace varias semanas utilizando credenciales robadas y obtuvo acceso a sistemas internos.",
+  "color": "#a78bfa"
+}

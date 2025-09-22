@@ -1,0 +1,13 @@
+{
+  "id": 5502,
+  "title": "El Centro Vascular de Intervención (VCI) - Ransomware - BianLian",
+  "date": "2023-03-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "BianLian",
+  "impact": "Cifrado por ransomware en Intervención es atacado",
+  "source": "nan",
+  "summary": "El Centro Vascular de Intervención es atacado por el ransomware BianLian.",
+  "color": "#ef4444"
+}

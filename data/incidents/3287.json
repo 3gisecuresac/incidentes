@@ -1,0 +1,13 @@
+{
+  "id": 3287,
+  "title": "Beca América - Ransomware - Undetermined",
+  "date": "2020-10-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Scholarship America",
+  "source": "https://www.databreaches.net/blackbaud-data-breach-non-profit-foundations-part-one/",
+  "summary": "Scholarship America se suma a la lista de víctimas del ataque ransomware Blackbaud.",
+  "color": "#ef4444"
+}

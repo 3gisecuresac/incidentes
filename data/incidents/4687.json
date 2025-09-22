@@ -1,0 +1,13 @@
+{
+  "id": 4687,
+  "title": "Hospital McPherson (Centro de Salud McPherson) - Ransomware - Undetermined",
+  "date": "2022-07-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Salud McPherson",
+  "source": "nan",
+  "summary": "El Hospital McPherson (Centro de Salud McPherson) presenta un aviso de violación de datos después de enterarse de que un ataque de ransomware provocó que la información confidencial de los pacientes fuera accesible a partes no autorizadas.",
+  "color": "#ef4444"
+}

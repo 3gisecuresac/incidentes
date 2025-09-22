@@ -1,0 +1,13 @@
+{
+  "id": 3220,
+  "title": "Hospital San Alfonso - Ransomware - Undetermined",
+  "date": "2020-09-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Hospital Saint Alphonsus dice",
+  "source": "https://idahonews.com/news/local/trinity-health-announces-data-breach-involving-patient-information",
+  "summary": "El sistema del Hospital Saint Alphonsus dice que parte de la información de pacientes y donantes puede haber sido comprometida en el ataque del ransomware Blackbaud.",
+  "color": "#ef4444"
+}

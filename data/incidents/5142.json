@@ -1,0 +1,13 @@
+{
+  "id": 5142,
+  "title": "Atención médica Sharp - Data leak - Undetermined",
+  "date": "2022-12-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en sharp.com",
+  "source": "nan",
+  "summary": "Sharp HealthCare, el proveedor de salud más grande de San Diego, anuncia que ha comenzado a notificar a 62,777 de sus pacientes que parte de su información personal se vio comprometida durante un ataque de piratería a las computadoras que ejecutan su sitio web, sharp.com.",
+  "color": "#3b82f6"
+}

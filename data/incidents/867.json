@@ -1,0 +1,13 @@
+{
+  "id": 867,
+  "title": "Bizmática - Data leak - Undetermined",
+  "date": "2016-04-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Departamento de Salud del Condado de Palm Beach de Florida",
+  "source": "http://www.esecurityplanet.com/network-security/healthcare-data-breaches-expose-23000-patients-personal-information.html",
+  "summary": "Una serie de violaciones de datos afecta al Departamento de Salud del Condado de Palm Beach de Florida, al Centro de Salud Oneida de Wisconsin, a los Centros de Tratamiento del Dolor de América (PTCOA) de Arkansas y al Instituto de Cirugía Intervencionista (ISI) y expone la información personal de más de 23.000 pacientes.",
+  "color": "#ef4444"
+}

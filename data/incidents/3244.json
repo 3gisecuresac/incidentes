@@ -1,0 +1,13 @@
+{
+  "id": 3244,
+  "title": "Medicina de Nebraska - Ransomware - Undetermined",
+  "date": "2020-09-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en TI",
+  "source": "https://www.databreaches.net/nebraska-medicine-was-victim-of-cyber-attack/",
+  "summary": "Nebraska Medicine confirmó que fue víctima de un ciberataque que provocó un tiempo de inactividad significativo en su sistema de TI.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5717,
+  "title": "Compañía de servicios de jubilación VALIC - Data leak - cl0p",
+  "date": "2023-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit",
+  "source": "nan",
+  "summary": "VALIC Retirement Services Company (VRSCO, VALIC) presenta un aviso de violación de datos después de descubrir que uno de los proveedores de la empresa experimentó una violación de datos de MOVEit que resultó en la filtración de información confidencial del cliente.",
+  "color": "#ef4444"
+}

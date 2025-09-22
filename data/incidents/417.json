@@ -1,0 +1,13 @@
+{
+  "id": 417,
+  "title": "hostresistente.info - Data leak - Undetermined",
+  "date": "2015-03-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Otro",
+  "source": "https://www.elevenpaths.com/wp-content/uploads/2015/12/2015_the_year_of_information_leaks_EN.pdf",
+  "summary": "Otro ejemplo de un foro comprometido. Un hacker desconocido hackea reliablehost.info y filtra 7561 correos electrónicos y contraseñas en texto plano.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4495,
+  "title": "Condado de Elgin - Ransomware - WIZARD SPIDER",
+  "date": "2022-04-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Filtración de datos en Elgin",
+  "source": "nan",
+  "summary": "El grupo de ransomware Conti publica los datos supuestamente filtrados del condado de Elgin.",
+  "color": "#ef4444"
+}

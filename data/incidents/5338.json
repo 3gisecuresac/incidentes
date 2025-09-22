@@ -1,0 +1,13 @@
+{
+  "id": 5338,
+  "title": "Red de Salud del Valle de Lehigh (LVHN) - Ransomware - ALPHVM",
+  "date": "2023-02-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Cifrado por ransomware en Lehigh Valley Health Network LVHN",
+  "source": "nan",
+  "summary": "Lehigh Valley Health Network (LVHN) sufre un ataque de ransomware BlackCat.",
+  "color": "#ef4444"
+}

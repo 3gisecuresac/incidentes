@@ -1,0 +1,13 @@
+{
+  "id": 316,
+  "title": "Ciencia popular - Data leak - Undetermined",
+  "date": "2014-10-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en popsci.com",
+  "source": "http://community.websense.com/blogs/securitylabs/archive/2014/10/28/official-website-of-popular-science-is-compromised.aspx",
+  "summary": "Websense detecta que el sitio web oficial de Popular Science (popsci.com) está comprometido y distribuye código malicioso.",
+  "color": "#3b82f6"
+}

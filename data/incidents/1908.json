@@ -1,0 +1,13 @@
+{
+  "id": 1908,
+  "title": "worldwish.org - Data leak - Undetermined",
+  "date": "2018-11-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en worldwish.org",
+  "source": "https://www.bleepingcomputer.com/news/security/make-a-wish-website-compromised-for-cryptojacking-operation/",
+  "summary": "Atacantes desconocidos comprometen worldwish.org, un sitio web administrado por una organización benéfica, e implantan el minero de Javascript CoinIMP.",
+  "color": "#3b82f6"
+}

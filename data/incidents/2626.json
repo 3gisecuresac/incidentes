@@ -1,0 +1,13 @@
+{
+  "id": 2626,
+  "title": "100 ubicaciones de tiendas UPS - Data leak - Undetermined",
+  "date": "2020-01-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en UPS Store queda expuesta en un incidente de phishing",
+  "source": "https://www.bleepingcomputer.com/news/security/phishing-incident-at-ups-store-chain-exposes-customer-info/",
+  "summary": "La información personal y financiera confidencial de los clientes de UPS Store queda expuesta en un incidente de phishing que afectó a aproximadamente 100 tiendas locales entre el 29 de septiembre de 2019 y el 13 de enero de 2020.",
+  "color": "#ef4444"
+}

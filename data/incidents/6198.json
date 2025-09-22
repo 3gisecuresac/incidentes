@@ -1,0 +1,13 @@
+{
+  "id": 6198,
+  "title": "Sistema de Salud de St. Luke - Data leak - cl0p",
+  "date": "2023-09-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Incidente de seguridad en MOVEit",
+  "source": "nan",
+  "summary": "St. Luke's Health System emite un aviso diciendo que Nuance le notificó sobre la violación de MOVEit, que afecta a 4.679 de sus pacientes.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6867,
+  "title": "EcualizarRCM - Ransomware - Undetermined",
+  "date": "2024-07-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en EqualizeRCM revela un ataque de ransomware",
+  "source": "nan",
+  "summary": "SysInformation Healthcare Services, LLC (SysInformation), d/b/a EqualizeRCM revela un ataque de ransomware.",
+  "color": "#ef4444"
+}

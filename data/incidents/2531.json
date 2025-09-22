@@ -1,0 +1,13 @@
+{
+  "id": 2531,
+  "title": "Instituciones del sector de servicios financieros - Malware Attack - Undetermined",
+  "date": "2019-12-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Seguridad Nacional alerta a las instituciones del sector de servicios financieros sobre los riesgos derivados de los continuos ataques de malware Dridex",
+  "source": "https://www.bleepingcomputer.com/news/security/us-govt-alerts-financial-services-of-ongoing-dridex-malware-attacks/",
+  "summary": "El Departamento de Seguridad Nacional alerta a las instituciones del sector de servicios financieros sobre los riesgos derivados de los continuos ataques de malware Dridex.",
+  "color": "#a78bfa"
+}

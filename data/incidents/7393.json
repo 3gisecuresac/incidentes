@@ -1,0 +1,13 @@
+{
+  "id": 7393,
+  "title": "IT Servicios - Ransomware - LockBit 3.0",
+  "date": "2023-01-30",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en IT Servicios",
+  "source": "nan",
+  "summary": "La empresa de telecomunicaciones IT Servicios también se agrega al sitio de filtración de ransomware LockBit3.0.",
+  "color": "#ef4444"
+}

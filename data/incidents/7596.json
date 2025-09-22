@@ -1,0 +1,13 @@
+{
+  "id": 7596,
+  "title": "Sitio web del gobierno de la Isla del Príncipe Eduardo (PEI) - Ransomware - Undetermined",
+  "date": "2018-04-23",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Gobierno de la Isla del Príncipe Eduardo",
+  "source": "nan",
+  "summary": "Un ataque de ransomware derriba el sitio web del Gobierno de la Isla del Príncipe Eduardo.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4632,
+  "title": "Centro Médico de la Universidad de Chicago (UCMC) - Data leak - Undetermined",
+  "date": "2022-06-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Chicago",
+  "source": "nan",
+  "summary": "El Centro Médico de la Universidad de Chicago (UCMC) notifica a los pacientes que un usuario no autorizado tuvo acceso a algunas cuentas de correo electrónico de los empleados, poniendo en riesgo la información de salud protegida de los pacientes.",
+  "color": "#a78bfa"
+}

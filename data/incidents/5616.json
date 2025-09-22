@@ -1,0 +1,13 @@
+{
+  "id": 5616,
+  "title": "Nuestro visitante del domingo - Data leak - Karakurt",
+  "date": "2023-04-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Karakurt",
+  "impact": "Filtración de datos en Our Sunday Visitor",
+  "source": "nan",
+  "summary": "El grupo de extorsión de datos Karakurt afirma haber atacado a Our Sunday Visitor, una editorial católica. Los atacantes afirman haber robado 130 gigabytes de datos, incluidos documentos contables, información de recursos humanos, datos de empleados, contratos financieros, facturas, información de marketing y más.",
+  "color": "#ef4444"
+}

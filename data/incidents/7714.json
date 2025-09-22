@@ -1,0 +1,13 @@
+{
+  "id": 7714,
+  "title": "Nygard - Ransomware - NetWalker",
+  "date": "2020-12-12",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "NetWalker",
+  "impact": "Cifrado por ransomware en Canadá",
+  "source": "nan",
+  "summary": "Nygard, una línea de moda con sede en Canadá, es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

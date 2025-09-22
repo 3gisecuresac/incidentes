@@ -1,0 +1,13 @@
+{
+  "id": 3039,
+  "title": "Moderno - Data leak - Undetermined",
+  "date": "2020-07-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Moderna en un intento de robar datos",
+  "source": "https://www.reuters.com/article/us-health-coronavirus-moderna-cyber-excl/exclusive-chinese-backed-hackers-targeted-covid-19-vaccine-firm-moderna-idUSKCN24V38M",
+  "summary": "Piratas informáticos respaldados por el gobierno chino han atacado a Moderna en un intento de robar datos.",
+  "color": "#ef4444"
+}

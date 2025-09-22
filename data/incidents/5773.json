@@ -1,0 +1,13 @@
+{
+  "id": 5773,
+  "title": "Departamento de Políticas y Financiamiento de la Atención Médica de Colorado - Ransomware - cl0p",
+  "date": "2023-06-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Políticas",
+  "source": "nan",
+  "summary": "El Departamento de Políticas y Financiamiento de Atención Médica de Colorado confirma que está en proceso de investigar un incidente que involucra el robo de datos de residentes del estado mediante la explotación de la vulnerabilidad CVE-2023-34362, que afecta a la herramienta de transferencia de archivos MOVEit.",
+  "color": "#ef4444"
+}

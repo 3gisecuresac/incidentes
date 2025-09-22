@@ -1,0 +1,13 @@
+{
+  "id": 5741,
+  "title": "Cuidado de la vista familiar Wake - Ransomware - Undetermined",
+  "date": "2023-06-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Wake Family Eye Care",
+  "source": "nan",
+  "summary": "Wake Family Eye Care presenta un aviso de violación de datos después de descubrir que un reciente ataque de ransomware comprometió información confidencial de los pacientes.",
+  "color": "#ef4444"
+}

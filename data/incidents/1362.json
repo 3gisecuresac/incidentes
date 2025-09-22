@@ -1,0 +1,13 @@
+{
+  "id": 1362,
+  "title": "Salud y bienestar de los empleados de PVHS-ICM - Ransomware - Undetermined",
+  "date": "2017-07-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en PVHS-ICM Employee Health",
+  "source": "https://www.databreaches.net/so-many-notifications-due-to-ransomware-but-are-these-really-necessary/",
+  "summary": "PVHS-ICM Employee Health and Wellness notifica a sus pacientes que han sido afectados por un ataque de ransomware.",
+  "color": "#ef4444"
+}

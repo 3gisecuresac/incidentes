@@ -1,0 +1,13 @@
+{
+  "id": 280,
+  "title": "jQuery.com - Data leak - Undetermined",
+  "date": "2014-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en jQuery.com",
+  "source": "http://www.riskiq.com/resources/blog/jquerycom-malware-attack-puts-privileged-enterprise-it-accounts-risk",
+  "summary": "RiskIQ detecta un malware que roba credenciales y se instala en los ordenadores de los usuarios mediante una descarga no autorizada en jQuery.com. El ataque se llevó a cabo utilizando el kit de explotación RIG para atacar a los visitantes.",
+  "color": "#a78bfa"
+}

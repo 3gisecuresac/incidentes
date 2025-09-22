@@ -1,0 +1,13 @@
+{
+  "id": 4588,
+  "title": "Sistema escolar del condado de Floyd - Data leak - Undetermined",
+  "date": "2022-06-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Floyd confirma informes de un ciberataque",
+  "source": "nan",
+  "summary": "El sistema escolar del condado de Floyd confirma informes de un ciberataque que resultó en el robo de $194,672.76 del sistema escolar.",
+  "color": "#a78bfa"
+}

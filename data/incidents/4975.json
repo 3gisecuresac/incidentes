@@ -1,0 +1,13 @@
+{
+  "id": 4975,
+  "title": "Compañía de defensa sin nombre - Data leak - Undetermined",
+  "date": "2022-10-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Seguridad Cibernética",
+  "source": "nan",
+  "summary": "La Agencia de Seguridad Cibernética y de Infraestructura (CISA), el FBI y la Agencia de Seguridad Nacional (NSA) dicen que es probable que varios grupos de piratas informáticos del gobierno tuvieran acceso a largo plazo a la red de una empresa de defensa, explotando vulnerabilidades de Microsoft Exchange para obtener acceso de forma remota y comprometer cuentas legítimas de la empresa para acceder a correos electrónicos, reuniones y contactos pertenecientes a otros empleados, a través de una herramienta de exfiltración de datos personalizada, CovalentStealer.",
+  "color": "#ef4444"
+}

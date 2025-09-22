@@ -1,0 +1,13 @@
+{
+  "id": 7253,
+  "title": "Consejo Superior de Investigaciones Cientificas - Ransomware - Vice Society",
+  "date": "2022-08-16",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Vice Society",
+  "impact": "Filtración de datos en Vice Society",
+  "source": "nan",
+  "summary": "Vice Society cifra la red y amenaza con filtrar datos en su portal web oscuro.",
+  "color": "#ef4444"
+}

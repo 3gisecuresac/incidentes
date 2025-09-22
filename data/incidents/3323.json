@@ -1,0 +1,13 @@
+{
+  "id": 3323,
+  "title": "Ciudad de Shafter - Ransomware - Undetermined",
+  "date": "2020-10-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Shafter ha anunciado",
+  "source": "https://www.databreaches.net/ca-city-of-shafter-hit-with-ransomware-attack/",
+  "summary": "La ciudad de Shafter ha anunciado que su sistema informático ha sido comprometido por ransomware.",
+  "color": "#ef4444"
+}

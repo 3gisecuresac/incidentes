@@ -1,0 +1,13 @@
+{
+  "id": 264,
+  "title": "Salud.gov - Data leak - Undetermined",
+  "date": "2014-09-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en healthcare.gov",
+  "source": "http://www.forbes.com/sites/theapothecary/2014/09/05/as-many-predicted-obamacares-healthcare-gov-reports-hack-attack-security-remains-compromised/",
+  "summary": "La Casa Blanca revela al Wall Street Journal que un hacker ha violado el sistema healthcare.gov, comprometiendo datos personales de millones de estadounidenses.",
+  "color": "#ef4444"
+}

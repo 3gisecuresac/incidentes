@@ -1,0 +1,13 @@
+{
+  "id": 3076,
+  "title": "Biblioteca pública del condado de Buffalo y Erie - Data leak - Undetermined",
+  "date": "2020-08-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Buffalo",
+  "source": "https://www.govtech.com/security/Brief-Hackers-May-Have-Breached-Library-Donor-Data-in-New-York.html",
+  "summary": "La biblioteca pública del condado de Buffalo y Erie revela haber sido atacada por piratas informáticos a principios de este año.",
+  "color": "#a78bfa"
+}

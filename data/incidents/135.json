@@ -1,0 +1,13 @@
+{
+  "id": 135,
+  "title": "Veteranos de guerras extranjeras - Data leak - Undetermined",
+  "date": "2014-04-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en vfw.org",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/data-on-55000-vfw-members-impacted-by-attacker-seeking-military-intel/",
+  "summary": "Aproximadamente 55.000 miembros de Veteranos de Guerras Extranjeras de los Estados Unidos (vfw.org) podrían haber tenido información personal comprometida, incluidos números de Seguro Social, luego de que una parte no autorizada obtuviera acceso a un servidor web de VFW usando un troyano de acceso remoto.",
+  "color": "#3b82f6"
+}

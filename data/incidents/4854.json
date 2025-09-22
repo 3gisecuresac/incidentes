@@ -1,0 +1,13 @@
+{
+  "id": 4854,
+  "title": "Baker y Taylor, - Ransomware - Undetermined",
+  "date": "2022-08-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Baker Taylor",
+  "source": "nan",
+  "summary": "Baker & Taylor, que se describe a sí mismo como el mayor distribuidor de libros a bibliotecas de todo el mundo, se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

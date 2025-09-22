@@ -1,0 +1,13 @@
+{
+  "id": 2740,
+  "title": "Distrito Escolar Independiente de Gadsden - Ransomware - WIZARD SPIDER",
+  "date": "2020-02-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Cifrado por ransomware en Gadsden",
+  "source": "https://www.databreaches.net/gadsden-isd-has-shut-down-its-internet-system-due-to-ransomware/",
+  "summary": "El Distrito Escolar Independiente de Gadsden (GISD) cierra sus sistemas de Internet y comunicación, luego de un ataque de ransomware RYUK.",
+  "color": "#ef4444"
+}

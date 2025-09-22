@@ -1,0 +1,13 @@
+{
+  "id": 4230,
+  "title": "AccelHealth - Ransomware - Undetermined",
+  "date": "2021-12-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Texas sufre ataque de ransomware",
+  "source": "nan",
+  "summary": "Centro de salud de Texas sufre ataque de ransomware que compromete datos de pacientes y bloquea el acceso a las redes del sistema durante seis días.",
+  "color": "#ef4444"
+}

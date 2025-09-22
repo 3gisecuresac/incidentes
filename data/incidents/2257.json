@@ -1,0 +1,13 @@
+{
+  "id": 2257,
+  "title": "Universidad Estatal de KH - Ransomware - Undetermined",
+  "date": "2019-07-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Humboldt",
+  "source": "https://www.databreaches.net/ca-khsu-hit-by-cyber-attack/",
+  "summary": "KHSU, la radio de la Universidad Estatal de Humboldt, es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

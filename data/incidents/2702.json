@@ -1,0 +1,13 @@
+{
+  "id": 2702,
+  "title": "Oficina electoral del condado de Palm Beach - Ransomware - Undetermined",
+  "date": "2020-02-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Palm Beach fueron infectados",
+  "source": "https://www.zdnet.com/article/florida-county-election-office-hit-by-ransomware-before-2016-presidential-election/",
+  "summary": "Se informa que los sistemas informáticos de la oficina electoral de Palm Beach fueron infectados y encriptados por ransomware apenas unas semanas antes de las elecciones presidenciales estadounidenses de 2016.",
+  "color": "#ef4444"
+}

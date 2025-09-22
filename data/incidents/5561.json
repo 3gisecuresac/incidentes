@@ -1,0 +1,13 @@
+{
+  "id": 5561,
+  "title": "Instituto del Corazón de Chattanooga - Ciberataque - Karakurt",
+  "date": "2023-04-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Karakurt",
+  "impact": "Cifrado por ransomware en Cardiología de Chattanooga notifica a más de 170",
+  "source": "nan",
+  "summary": "El Instituto de Cardiología de Chattanooga notifica a más de 170.000 pacientes y otras personas que hackers podrían haber robado su información personal y médica confidencial en un ciberataque detectado en abril. El grupo de ransomware Karakurt se atribuyó la responsabilidad del ataque un mes después.",
+  "color": "#ef4444"
+}

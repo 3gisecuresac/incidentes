@@ -1,0 +1,13 @@
+{
+  "id": 2415,
+  "title": "Centro médico de Northport - Ransomware - Undetermined",
+  "date": "2019-10-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Centro M",
+  "source": "https://arstechnica.com/information-technology/2019/10/hamstrung-by-ransomware-10-hospitals-are-turning-away-some-patients/",
+  "summary": "El Centro Médico Northport también está paralizado por un ataque de ransomware Ryuk.",
+  "color": "#ef4444"
+}

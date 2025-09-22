@@ -1,0 +1,13 @@
+{
+  "id": 1273,
+  "title": "Colegio Westminster - Data leak - Undetermined",
+  "date": "2017-04-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Missouri revela los detalles de una violación descubierta el 26 de marzo después de",
+  "source": "https://www.scmagazine.com/w-2-data-breach-at-westminster-college/article/650860/",
+  "summary": "Westminster College en Missouri revela los detalles de una violación descubierta el 26 de marzo después de que una estafa de phishing engañó a un miembro del personal para que enviara declaraciones W-2.",
+  "color": "#ef4444"
+}

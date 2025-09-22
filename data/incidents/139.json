@@ -1,0 +1,13 @@
+{
+  "id": 139,
+  "title": "Universidad Estatal de Iowa - Data leak - Undetermined",
+  "date": "2014-04-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Iowa descubre una violación",
+  "source": "http://www.news.iastate.edu/news/2014/04/22/serverbreach",
+  "summary": "El personal de tecnología de la información de la Universidad Estatal de Iowa descubre una violación que afecta a cinco servidores departamentales en el campus y que podría comprometer los números de Seguro Social de 29.780 estudiantes matriculados en Iowa State entre 1995 y 2012.",
+  "color": "#3b82f6"
+}

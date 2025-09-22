@@ -1,0 +1,13 @@
+{
+  "id": 6892,
+  "title": "Condado de Richland - Data leak - Undetermined",
+  "date": "2023-09-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Richland notifica a 76",
+  "source": "nan",
+  "summary": "El condado de Richland notifica a 76,365 personas un incidente de seguridad de datos derivado de un acceso no autorizado a su red.",
+  "color": "#ef4444"
+}

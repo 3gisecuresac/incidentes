@@ -1,0 +1,13 @@
+{
+  "id": 4817,
+  "title": "Medicina de Yale - Ransomware - Undetermined",
+  "date": "2022-08-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Yale Medicine",
+  "source": "nan",
+  "summary": "Yale Medicine revela un incidente de ransomware.",
+  "color": "#ef4444"
+}

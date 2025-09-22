@@ -1,0 +1,13 @@
+{
+  "id": 4048,
+  "title": "Hospital Memorial del Condado de Throckmorten - Ransomware - Undetermined",
+  "date": "2021-08-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Texas es atacado con ransomware",
+  "source": "nan",
+  "summary": "Un hospital de Texas es atacado con ransomware que compromete la información personal de más de 3.000 empleados y pacientes.",
+  "color": "#ef4444"
+}

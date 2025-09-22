@@ -1,0 +1,13 @@
+{
+  "id": 7284,
+  "title": "Clínico - Data leak - Pwned",
+  "date": "2023-11-01",
+  "country": "España",
+  "region": "Europa",
+  "type": "Data leak",
+  "actor": "Pwned",
+  "impact": "Filtración de datos en Pwned",
+  "source": "nan",
+  "summary": "La filial española del fabricante de productos de cuidado de la piel Clinique, una subsidiaria del gigante de los cosméticos Estée Lauder, habría sufrido una importante violación de datos, con la información personal de más de 700.000 clientes expuesta por un actor de amenazas con el apodo de Pwned.",
+  "color": "#ef4444"
+}

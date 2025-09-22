@@ -1,0 +1,13 @@
+{
+  "id": 844,
+  "title": "Distrito Escolar de Olympia - Data leak - Undetermined",
+  "date": "2016-04-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Distrito Escolar de Olympia",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/phishing-attack-compromises-olympia-school-district-employee-data/",
+  "summary": "Un ataque de phishing compromete las identidades de más de 2.100 empleados del Distrito Escolar de Olympia.",
+  "color": "#ef4444"
+}

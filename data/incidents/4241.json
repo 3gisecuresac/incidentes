@@ -1,0 +1,13 @@
+{
+  "id": 4241,
+  "title": "Strongwell - Ransomware - Cuba",
+  "date": "2021-12-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Cuba",
+  "impact": "Filtración de datos en Documentos",
+  "source": "nan",
+  "summary": "Documentos filtrados en un sitio de ransomware.",
+  "color": "#ef4444"
+}

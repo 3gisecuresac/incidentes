@@ -1,0 +1,13 @@
+{
+  "id": 7078,
+  "title": "Ortopedia Excelsior - Ransomware - Monti",
+  "date": "2025-01-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Monti",
+  "impact": "Filtración de datos en Nueva York",
+  "source": "nan",
+  "summary": "Excelsior Orthopaedics sufrió un ataque de ransomware atribuido al grupo de amenazas Monti, que interrumpió las operaciones en sus siete instalaciones en el oeste de Nueva York. Los atacantes extrajeron aproximadamente 300 GB de datos confidenciales, incluyendo historiales médicos y financieros, y dejaron los sistemas centrales fuera de servicio durante varias semanas, obligando al personal a recurrir a procesos manuales durante la recuperación.",
+  "color": "#ef4444"
+}

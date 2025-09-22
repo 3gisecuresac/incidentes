@@ -1,0 +1,13 @@
+{
+  "id": 3446,
+  "title": "Universidad de California en San Diego Salud - Data leak - Undetermined",
+  "date": "2020-12-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en UCSD Health se ven comprometidas en un ataque de phishing",
+  "source": "nan",
+  "summary": "Las cuentas de correo electrónico de los empleados de UCSD Health se ven comprometidas en un ataque de phishing que revela información personal y médica de los pacientes.",
+  "color": "#ef4444"
+}

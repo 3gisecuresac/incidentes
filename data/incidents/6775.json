@@ -1,0 +1,13 @@
+{
+  "id": 6775,
+  "title": "Salud Vecinal del Noreste de Ohio (NEON) - Ransomware - Medusa",
+  "date": "2024-04-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Medusa",
+  "impact": "Filtración de datos en Northeast Ohio Neighborhood Health",
+  "source": "nan",
+  "summary": "El grupo de ransomware Medusa se atribuye la responsabilidad de un ciberataque a los servidores de Northeast Ohio Neighborhood Health (NEON), una empresa que brinda servicios de atención médica, y de la exfiltración de casi 51 GB de datos.",
+  "color": "#ef4444"
+}

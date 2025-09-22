@@ -1,0 +1,13 @@
+{
+  "id": 3761,
+  "title": "Colegio Wesleyano de Kentucky - Data leak - Undetermined",
+  "date": "2021-03-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Kentucky Wesleyan College",
+  "source": "nan",
+  "summary": "Kentucky Wesleyan College notifica que hemos experimentado un incidente de seguridad de red.",
+  "color": "#a78bfa"
+}

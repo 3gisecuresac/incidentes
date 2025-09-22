@@ -1,0 +1,13 @@
+{
+  "id": 8071,
+  "title": "Argentina de Soluciones Satelitales (ARSAT) - Ciberataque - Undetermined",
+  "date": "2022-11-30",
+  "country": "Argentina",
+  "region": "Latinoamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Soluciones Satelitales",
+  "source": "nan",
+  "summary": "Argentina de Soluciones Satelitales (ARSAT) discloses a cyberattack.",
+  "color": "#a78bfa"
+}

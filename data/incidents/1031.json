@@ -1,0 +1,13 @@
+{
+  "id": 1031,
+  "title": "LinkedIn - Data leak - Undetermined",
+  "date": "2016-08-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en LinkedIn",
+  "source": "http://www.siliconbeat.com/2016/08/11/linkedin-bot-attack-thats-stealing-member-data/",
+  "summary": "Una nueva demanda revela que los ladrones de datos utilizaron una red de bots masiva contra LinkedIn para robar información personal de los miembros mediante la recopilación de información por parte de perfiles falsos.",
+  "color": "#ef4444"
+}

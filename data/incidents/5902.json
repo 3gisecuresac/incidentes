@@ -1,0 +1,13 @@
+{
+  "id": 5902,
+  "title": "Atención médica HCA - Ciberataque - Undetermined",
+  "date": "2023-07-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en HCA Healthcare",
+  "source": "nan",
+  "summary": "HCA Healthcare revela una violación de datos que afectó a aproximadamente 11 millones de pacientes que recibieron atención en uno de sus hospitales y clínicas después de que un actor de amenazas filtró muestras de los datos robados en un foro de piratería.",
+  "color": "#ef4444"
+}

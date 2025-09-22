@@ -1,0 +1,13 @@
+{
+  "id": 3211,
+  "title": "Atención médica especializada para niños de Gillette - Ransomware - Undetermined",
+  "date": "2020-09-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Specialty Healthcare",
+  "source": "https://www.securityweek.com/health-care-patient-donor-data-may-have-been-breached",
+  "summary": "Gillette Children's Specialty Healthcare revela haber sido afectado por el ataque de ransomware Blackbaud.",
+  "color": "#ef4444"
+}

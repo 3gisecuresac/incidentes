@@ -1,0 +1,13 @@
+{
+  "id": 148,
+  "title": "Universidad de Carolina del Norte en Wilmington - Data leak - Undetermined",
+  "date": "2014-05-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en uncw.edu",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/data-on-students-and-staffers-exposed-in-unc-wilmington-breach/",
+  "summary": "Es posible que un número no revelado de empleados, estudiantes de posgrado e instructores adjuntos de la Universidad de Carolina del Norte en Wilmington (uncw.edu) hayan visto comprometida su información personal luego de obtener acceso no autorizado a un servidor de aplicaciones.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4903,
+  "title": "Grupo Médico DOCS - Ransomware - Undetermined",
+  "date": "2022-09-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en DOCS Medical Group",
+  "source": "nan",
+  "summary": "DOCS Medical Group revela un ataque de ransomware.",
+  "color": "#ef4444"
+}

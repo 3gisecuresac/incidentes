@@ -1,0 +1,13 @@
+{
+  "id": 1323,
+  "title": "Consejo Regional de Gobiernos de Wooster-Ashland - Data leak - Undetermined",
+  "date": "2017-05-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Consejo Regional de Gobiernos de Wooster-Ashland es pirateada",
+  "source": "https://www.databreaches.net/ohio-police-fire-dispatch-center-hacked/",
+  "summary": "La red informática del Consejo Regional de Gobiernos de Wooster-Ashland es pirateada y más de 200.000 registros están comprometidos.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2430,
+  "title": "Escuela secundaria del área de Blue Earth - Ciberataque - Undetermined",
+  "date": "2019-10-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Blue Earth Area High School",
+  "source": "https://www.databreaches.net/mn-blue-earth-to-replace-gym-floor-after-cybersecurity-attack/",
+  "summary": "La escuela secundaria Blue Earth Area High School reemplaza el piso de su gimnasio a raíz de un ciberataque del 19 de septiembre en la escuela que afectó la computadora que controla el nivel de humedad en el edificio.",
+  "color": "#a78bfa"
+}

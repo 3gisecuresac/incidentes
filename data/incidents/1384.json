@@ -1,0 +1,13 @@
+{
+  "id": 1384,
+  "title": "Virgin America - Data leak - Undetermined",
+  "date": "2017-07-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Virgin America",
+  "source": "http://www.zdnet.com/article/virgin-america-hacked-network-forced-employees-change-passwords/",
+  "summary": "Virgin America confirma que un hacker irrumpió en su red corporativa a principios de este año, el 13 de marzo.",
+  "color": "#3b82f6"
+}

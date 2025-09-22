@@ -1,0 +1,13 @@
+{
+  "id": 7600,
+  "title": "Syscoin - Data leak - Undetermined",
+  "date": "2018-06-13",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Windows",
+  "source": "nan",
+  "summary": "Los actores maliciosos reemplazan el instalador legítimo de Windows para la criptomoneda de Syscoin con una versión que contiene malware, que estuvo disponible en la página de Github de la compañía durante varios días.",
+  "color": "#a78bfa"
+}

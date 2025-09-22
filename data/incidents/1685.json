@@ -1,0 +1,13 @@
+{
+  "id": 1685,
+  "title": "Departamento de bomberos y policía de Riverside - Ransomware - Undetermined",
+  "date": "2018-05-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Riverside",
+  "source": "https://www.bleepingcomputer.com/news/security/police-dept-loses-10-months-of-work-to-ransomware-gets-infected-a-second-time/",
+  "summary": "Un ransomware infecta los servidores del departamento de bomberos y policía de Riverside por segunda vez en un mes.",
+  "color": "#ef4444"
+}

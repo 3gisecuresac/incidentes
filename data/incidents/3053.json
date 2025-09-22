@@ -1,0 +1,13 @@
+{
+  "id": 3053,
+  "title": "La Federación Judía del Gran Washington - Ciberrobo - Undetermined",
+  "date": "2020-08-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberrobo",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Gran Washington",
+  "source": "https://hotforsecurity.bitdefender.com/blog/hacker-steals-7-5-million-from-maryland-non-profit-by-compromising-employees-personal-computer-24078.html",
+  "summary": "Un hacker robó 7,5 millones de dólares de los fondos de dotación de la Federación Judía del Gran Washington, una organización sin fines de lucro de Maryland, en los EE. UU., después de comprometer la computadora personal de un empleado.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1234,
+  "title": "Foro de Airsoft GI (airsoftgiforum.com) - Data leak - Undetermined",
+  "date": "2017-02-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en airsoftgiforum.com",
+  "source": "https://www.hackread.com/gun-retailer-airsoft-gi-forums-hacked/",
+  "summary": "Un hacker afirma haber pirateado el foro web oficial de la tienda de armas Airsoft GI (airsoftgiforum.com) y haber subido sus datos a Dropbox.",
+  "color": "#ef4444"
+}

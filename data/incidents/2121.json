@@ -1,0 +1,13 @@
+{
+  "id": 2121,
+  "title": "Departamento de Servicios Humanos de Minnesota - Data leak - Undetermined",
+  "date": "2019-04-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Servicios Humanos de Minnesota anunció haber sufrido una violación de datos",
+  "source": "https://securityaffairs.co/wordpress/83609/data-breach/minnesota-department-of-human-services-breach.html",
+  "summary": "El Departamento de Servicios Humanos de Minnesota anunció haber sufrido una violación de datos que puede haber expuesto la información personal de aproximadamente 11.000 personas después de que el correo electrónico de un empleado se viera comprometido el 26 de marzo de 2019.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3714,
+  "title": "Facultad de Medicina de la Universidad del Sur de Illinois - Data leak - TA505",
+  "date": "2021-03-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "TA505",
+  "impact": "Incidente de seguridad en Medicina de la Universidad del Sur de Illinois se ve afectada",
+  "source": "nan",
+  "summary": "La Facultad de Medicina de la Universidad del Sur de Illinois se ve afectada por la violación de Accellion.",
+  "color": "#a78bfa"
+}

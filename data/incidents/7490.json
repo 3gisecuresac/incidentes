@@ -1,0 +1,13 @@
+{
+  "id": 7490,
+  "title": "Chilean Carabineros - Data leak - Undetermined",
+  "date": "2019-10-22",
+  "country": "Chile",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Chile son hackeados",
+  "source": "nan",
+  "summary": "Carabineros de Chile son hackeados y atacantes filtran 10 mil archivos sensibles.",
+  "color": "#ef4444"
+}

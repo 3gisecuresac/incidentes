@@ -1,0 +1,13 @@
+{
+  "id": 626,
+  "title": "T-Mobile US (a través de Experian) - Data leak - Undetermined",
+  "date": "2015-10-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en T-Mobile",
+  "source": "http://arstechnica.com/security/2015/10/highly-personal-data-for-15-million-t-mobile-applicants-stolen-by-hackers/",
+  "summary": "Hackers irrumpieron en un servidor y se llevaron nombres, números de licencia de conducir y otra información personal de más de 15 millones de consumidores estadounidenses que solicitaron servicio celular de T-Mobile. La filtración se debe a un ataque a una base de datos de Experian, la empresa de informes crediticios contratada para procesar las solicitudes de crédito de los clientes de T-Mobile.",
+  "color": "#ef4444"
+}

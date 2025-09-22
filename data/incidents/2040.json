@@ -1,0 +1,13 @@
+{
+  "id": 2040,
+  "title": "Condado de Chester - Data leak - Undetermined",
+  "date": "2019-02-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Chester se ve afectado",
+  "source": "https://www.databreaches.net/pa-malware-breach-strikes-chester-county-computers/",
+  "summary": "El condado de Chester se ve afectado por un ataque de malware.",
+  "color": "#a78bfa"
+}

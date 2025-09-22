@@ -1,0 +1,13 @@
+{
+  "id": 4879,
+  "title": "Corporación Donlen - Ransomware - Undetermined",
+  "date": "2022-08-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Donlen Corporation",
+  "source": "nan",
+  "summary": "Donlen Corporation informa sobre una violación de datos después de que la empresa detectara actividad inusual relacionada con la inaccesibilidad de ciertos sistemas en su red informática.",
+  "color": "#ef4444"
+}

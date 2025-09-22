@@ -1,0 +1,13 @@
+{
+  "id": 1933,
+  "title": "Colegio Comunitario de Cape Cod - Data leak - Undetermined",
+  "date": "2018-12-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El Cape Cod Community College",
+  "source": "https://www.databreaches.net/hackers-steal-800000-from-cape-cod-community-college/",
+  "summary": "El Cape Cod Community College notifica a sus empleados que los piratas informáticos robaron más de $800.000 cuando se infiltraron en las cuentas bancarias de la escuela.",
+  "color": "#ef4444"
+}

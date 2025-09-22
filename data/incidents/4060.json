@@ -1,0 +1,13 @@
+{
+  "id": 4060,
+  "title": "Facultad de Odontología de la Universidad Howard - Ransomware - Undetermined",
+  "date": "2021-09-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Odontología de la Universidad Howard sufre un ataque de ransomware",
+  "source": "nan",
+  "summary": "La Facultad de Odontología de la Universidad Howard sufre un ataque de ransomware que interrumpe las clases y compromete los registros dentales de los pacientes.",
+  "color": "#ef4444"
+}

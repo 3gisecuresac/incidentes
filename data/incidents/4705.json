@@ -1,0 +1,13 @@
+{
+  "id": 4705,
+  "title": "OrtoArizona - Data leak - Undetermined",
+  "date": "2022-07-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en OrthoArizona",
+  "source": "nan",
+  "summary": "OrthoArizona comienza a notificar a 2,748 personas que su información médica protegida fue expuesta y potencialmente robada en un ciberataque que se detectó el 30 de octubre de 2021.",
+  "color": "#ef4444"
+}

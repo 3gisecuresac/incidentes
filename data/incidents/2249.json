@@ -1,0 +1,13 @@
+{
+  "id": 2249,
+  "title": "Ciudad de Griffin - Manipulación de mensajes - Undetermined",
+  "date": "2019-07-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Griffin",
+  "source": "https://www.bleepingcomputer.com/news/security/over-800-000-stolen-by-scammers-in-atlanta-area-city-bec-fraud/",
+  "summary": "Más de $800,000 son robados de la ciudad de Griffin, Georgia, por estafadores en un ataque BEC (Business Email Compromise) redirigiendo dos transacciones a sus propias cuentas bancarias.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 746,
+  "title": "focusfeatures.com - Data leak - bRpsd",
+  "date": "2016-02-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "bRpsd",
+  "impact": "Cifrado por ransomware en focusfeatures.com",
+  "source": "http://siph0n.net/exploits.php?id=4419",
+  "summary": "bRpsd hackea focusfeatures.com y descarga 13.040 nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

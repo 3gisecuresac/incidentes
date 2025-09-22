@@ -1,0 +1,13 @@
+{
+  "id": 7666,
+  "title": "Universidad de York - Ransomware - Undetermined",
+  "date": "2020-05-01",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en York sufre un ciberataque grave",
+  "source": "nan",
+  "summary": "La Universidad de York sufre un ciberataque grave.",
+  "color": "#a78bfa"
+}

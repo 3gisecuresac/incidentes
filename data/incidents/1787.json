@@ -1,0 +1,13 @@
+{
+  "id": 1787,
+  "title": "Equipo de fútbol Hudl - Data leak - Coaches for the football team at Braden River",
+  "date": "2018-07-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Coaches for the football team at Braden River",
+  "impact": "Incidente de seguridad en Braden River",
+  "source": "https://usatodayhss.com/2018/school-nicknamed-the-pirates-steals-opponents-hudl-videos",
+  "summary": "Los entrenadores del equipo de fútbol de Braden River (Bradenton, Florida) son descubiertos usando una cuenta Hudl universitaria para acceder a videos de juegos y prácticas de los oponentes.",
+  "color": "#a78bfa"
+}

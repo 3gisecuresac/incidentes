@@ -1,0 +1,13 @@
+{
+  "id": 5591,
+  "title": "Tecnologías de salud DMS - Ciberataque - Undetermined",
+  "date": "2023-04-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en DMS Health Technologies",
+  "source": "nan",
+  "summary": "Sanford Health alerta a ciertos pacientes que parte de su información médica protegida fue expuesta en un incidente de seguridad en su proveedor de imágenes, DMS Health Technologies.",
+  "color": "#ef4444"
+}

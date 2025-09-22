@@ -1,0 +1,13 @@
+{
+  "id": 3245,
+  "title": "Nuevo Colegio de Florida - Ransomware - Undetermined",
+  "date": "2020-09-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en New College of Florida",
+  "source": "https://www.bbc.com/news/technology-53528338",
+  "summary": "New College of Florida se encuentra entre las víctimas del ataque de ransomware Blackbaud.",
+  "color": "#ef4444"
+}

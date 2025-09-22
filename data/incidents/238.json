@@ -1,0 +1,13 @@
+{
+  "id": 238,
+  "title": "Universidad de Luisiana en Monroe - Data leak - Undetermined",
+  "date": "2014-08-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Luisiana en Monroe es víctima de un intento de phishing",
+  "source": "http://www.databreaches.net/la-date-breach-at-university-of-louisiana-at-monroe-impacts-recent-graduates/",
+  "summary": "Un empleado de la Universidad de Luisiana en Monroe es víctima de un intento de phishing, posiblemente comprometiendo la información personal de los estudiantes que se graduaron de la ULM en el otoño de 2013 y la primavera de 2014.",
+  "color": "#ef4444"
+}

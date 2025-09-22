@@ -1,0 +1,13 @@
+{
+  "id": 4804,
+  "title": "Centro Médico Regional Tift - Ransomware - Hive",
+  "date": "2022-08-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Cifrado por ransomware en Regional Tift",
+  "source": "nan",
+  "summary": "El Centro Médico Regional Tift es víctima de un ataque de ransomware Hive.",
+  "color": "#ef4444"
+}

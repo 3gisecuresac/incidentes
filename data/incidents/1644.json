@@ -1,0 +1,13 @@
+{
+  "id": 1644,
+  "title": "Farmacia Guardian de Jacksonville - Data leak - Undetermined",
+  "date": "2018-04-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Jacksonville notifica a 11",
+  "source": "https://www.databreaches.net/guardian-jacksonville-notifies-11521-patients-of-email-compromise-of-protected-health-information/",
+  "summary": "Guardian Pharmacy de Jacksonville notifica a 11,521 pacientes sobre la vulneración de información médica protegida en su correo electrónico.",
+  "color": "#a78bfa"
+}

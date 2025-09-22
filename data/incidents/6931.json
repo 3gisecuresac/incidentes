@@ -1,0 +1,13 @@
+{
+  "id": 6931,
+  "title": "Dell - Ciberataque - grep'",
+  "date": "2024-09-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "grep'",
+  "impact": "Filtración de datos en Dell",
+  "source": "nan",
+  "summary": "Dell confirma que está investigando denuncias recientes de que sufrió una violación de datos después de que un actor de amenazas denominado grep filtró los datos de más de 10.000 empleados.",
+  "color": "#ef4444"
+}

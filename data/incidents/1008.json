@@ -1,0 +1,13 @@
+{
+  "id": 1008,
+  "title": "Corporación Federal de Seguro de Depósitos (FDIC) - CIberespionaje - Undetermined",
+  "date": "2016-07-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "CIberespionaje",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Ciencia",
+  "source": "http://arstechnica.com/security/2016/07/fdic-was-hacked-by-china-and-cio-covered-it-up/",
+  "summary": "Un informe publicado por el Comité de Ciencia, Espacio y Tecnología de la Cámara de Representantes descubrió que piratas informáticos supuestamente provenientes de China habían comprometido computadoras de la Corporación Federal de Seguro de Depósitos en repetidas ocasiones entre 2010 y 2013.",
+  "color": "#3b82f6"
+}

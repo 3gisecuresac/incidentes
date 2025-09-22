@@ -1,0 +1,13 @@
+{
+  "id": 6716,
+  "title": "LastPass - Data leak - Undetermined",
+  "date": "2024-04-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Karim Toubba el",
+  "source": "nan",
+  "summary": "LastPass revela que los actores de amenazas atacaron a uno de sus empleados en un ataque de phishing de voz, utilizando audio deepfake para hacerse pasar por Karim Toubba, el director ejecutivo de la empresa.",
+  "color": "#ef4444"
+}

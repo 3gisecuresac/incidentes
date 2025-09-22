@@ -1,0 +1,13 @@
+{
+  "id": 5396,
+  "title": "Centro de Salud La Red - Data leak - Undetermined",
+  "date": "2023-03-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Salud La Red reporta una filtración de datos",
+  "source": "nan",
+  "summary": "El Centro de Salud La Red reporta una filtración de datos que afecta a 35.602 personas en total.",
+  "color": "#ef4444"
+}

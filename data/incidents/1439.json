@@ -1,0 +1,13 @@
+{
+  "id": 1439,
+  "title": "Departamento de Policía de Toms River - Data leak - Undetermined",
+  "date": "2017-09-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Toms River planea notificar a unas 3",
+  "source": "https://www.databreaches.net/data-breach-at-toms-river-police-headquarters/",
+  "summary": "El municipio de Toms River planea notificar a unas 3.700 personas que su información personal puede haber sido comprometida por una violación de datos dentro del departamento de policía durante el verano.",
+  "color": "#ef4444"
+}

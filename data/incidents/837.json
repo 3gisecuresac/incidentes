@@ -1,0 +1,13 @@
+{
+  "id": 837,
+  "title": "teamskeet[.]com - Data leak - TheNeoBoss",
+  "date": "2016-03-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "TheNeoBoss",
+  "impact": "Filtración de datos en Paper Street Media",
+  "source": "https://www.vice.com/en_us/article/78k849/hacker-breaches-porn-network-advertises-user-data-on-dark-web",
+  "summary": "Un hacker llamado TheNeoBoss hackea teamskeet[.]com y publicita en la dark web la base de datos que supuestamente contiene direcciones de correo electrónico, contraseñas de texto sin formato, nombres y direcciones físicas e IP de más de 237.000 usuarios del sitio, así como de la red pornográfica más amplia, Paper Street Media.",
+  "color": "#ef4444"
+}

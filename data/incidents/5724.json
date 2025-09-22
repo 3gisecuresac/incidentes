@@ -1,0 +1,13 @@
+{
+  "id": 5724,
+  "title": "Descubrimiento en casa - Data leak - Undetermined",
+  "date": "2023-06-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Discovery",
+  "source": "nan",
+  "summary": "Discovery at Home emite un aviso en su sitio web sobre un incidente de phishing que descubrieron el 1 de junio.",
+  "color": "#ef4444"
+}

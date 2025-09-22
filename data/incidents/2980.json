@@ -1,0 +1,13 @@
+{
+  "id": 2980,
+  "title": "Obras del CNY - Ransomware - Undetermined",
+  "date": "2020-07-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Seguro Social de 56",
+  "source": "https://www.govtech.com/security/NY-Employment-Nonprofit-Client-Data-Potentially-Exposed.html",
+  "summary": "Los nombres y números de Seguro Social de 56.000 personas que utilizaron los servicios de empleo de CNY Works quedaron expuestos en un incidente de ransomware que se descubrió en diciembre de 2019.",
+  "color": "#ef4444"
+}

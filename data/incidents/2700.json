@@ -1,0 +1,13 @@
+{
+  "id": 2700,
+  "title": "Grupo Ortopédico del Centro de Kansas - Ransomware - Undetermined",
+  "date": "2020-02-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Central Kansas Orthopedic Group",
+  "source": "https://www.databreaches.net/attacked-by-ransomware-central-kansas-orthopedic-group-refused-to-pay-ransom-and-restored-from-backups/",
+  "summary": "Central Kansas Orthopedic Group notifica a más de 17.000 pacientes que sufrieron un ataque de ransomware el 9 de enero de 2019.",
+  "color": "#ef4444"
+}

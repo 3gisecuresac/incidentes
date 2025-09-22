@@ -1,0 +1,13 @@
+{
+  "id": 2553,
+  "title": "Base de claves - DoS - Undetermined",
+  "date": "2019-12-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Lumens XLM",
+  "source": "https://www.zdnet.com/article/spammers-force-keybase-to-stop-stellar-space-drop-cryptocurrency-handouts/",
+  "summary": "Keybase anuncia el cierre de su programa gratuito de entrega de criptomonedas Lumens (XLM) debido a una afluencia de cuentas de spam.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4368,
+  "title": "Equipo Urgente Holdings - Ciberataque - Undetermined",
+  "date": "2022-03-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Urgent Team Holdings",
+  "source": "nan",
+  "summary": "Urgent Team Holdings notifica a 166.601 pacientes que parte de su información médica protegida puede haber sido obtenida por personas no autorizadas en un ciberataque de noviembre de 2021.",
+  "color": "#a78bfa"
+}

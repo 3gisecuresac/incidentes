@@ -1,0 +1,13 @@
+{
+  "id": 2408,
+  "title": "Especialista en TI - Data leak - Undetermined",
+  "date": "2019-09-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Comodo",
+  "source": "https://www.bleepingcomputer.com/news/security/comodo-forums-breached-data-of-over-170-000-users-up-for-grabs/",
+  "summary": "ITarian, también propiedad de Comodo, se ve afectado por el mismo ataque (probablemente ese sea el origen de la brecha).",
+  "color": "#a78bfa"
+}

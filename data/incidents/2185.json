@@ -1,0 +1,13 @@
+{
+  "id": 2185,
+  "title": "Desbordamiento de pila - Data leak - Undetermined",
+  "date": "2019-05-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Stack Overflow",
+  "source": "https://www.bleepingcomputer.com/news/security/hackers-accessed-stack-overflows-production-systems/",
+  "summary": "En un breve anuncio, Stack Overflow informa que fue objeto de un ataque que permitió a hackers acceder a sus sistemas de producción. La brecha ocurrió el 5 de mayo.",
+  "color": "#3b82f6"
+}

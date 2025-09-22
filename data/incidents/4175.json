@@ -1,0 +1,13 @@
+{
+  "id": 4175,
+  "title": "Distribuidores de cómics Diamond - Ciberataque - Undetermined",
+  "date": "2021-11-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware",
+  "source": "nan",
+  "summary": "Una empresa de cómics sufre un ataque de ransomware que interrumpe sus operaciones internas.",
+  "color": "#ef4444"
+}

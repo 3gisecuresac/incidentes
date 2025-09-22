@@ -1,0 +1,13 @@
+{
+  "id": 5551,
+  "title": "Servicios de UnitedHealthcare - Data leak - Undetermined",
+  "date": "2023-04-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Equality Health",
+  "source": "nan",
+  "summary": "UnitedHealthcare Services (UHC) presenta un aviso de violación de datos después de descubrir que una parte no autorizada pudo acceder a una cuenta de correo electrónico perteneciente a Equality Health, una organización de atención responsable que presta servicios a algunos miembros de UHC.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4722,
+  "title": "Clinivate - Data leak - Undetermined",
+  "date": "2022-07-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Clinivate",
+  "source": "nan",
+  "summary": "Clinivate, un proveedor de soluciones EHR para agencias de salud conductual y escuelas, notifica a sus clientes sobre un incidente de seguridad de datos que puede haber expuesto la información de salud protegida de las personas dentro del sistema de registro médico electrónico de Clinivate.",
+  "color": "#ef4444"
+}

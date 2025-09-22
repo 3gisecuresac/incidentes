@@ -1,0 +1,13 @@
+{
+  "id": 3311,
+  "title": "Atención médica Hennepin - Data leak - Five Hennepin HealthCare employees",
+  "date": "2020-10-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Five Hennepin HealthCare employees",
+  "impact": "Incidente de seguridad en Hennepin HealthCare fueron despedidos",
+  "source": "https://www.databreaches.net/documents-give-details-on-hennepin-healthcare-employees-fired-for-improperly-accessing-george-floyd-records/",
+  "summary": "Cinco empleados de Hennepin HealthCare fueron despedidos por acceder indebidamente a la información médica de George Floyd.",
+  "color": "#a78bfa"
+}

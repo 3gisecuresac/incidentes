@@ -1,0 +1,13 @@
+{
+  "id": 5767,
+  "title": "Oficina de Administración, Servicios de Información y División de Tecnología de Missouri (OA-ITSD) - Ransomware - cl0p",
+  "date": "2023-06-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Incidente de seguridad en Administración",
+  "source": "nan",
+  "summary": "La Oficina de Administración, Servicios de Información y División de Tecnología de Missouri (OA-ITSD) revela que está investigando lo que pudieron haber tomado los piratas informáticos durante un ciberataque que explotó la vulnerabilidad CVE-2023-34362 MOVEit.",
+  "color": "#a78bfa"
+}

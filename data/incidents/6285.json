@@ -1,0 +1,13 @@
+{
+  "id": 6285,
+  "title": "Cirujanos cardiotorácicos y vasculares - Ciberataque - Undetermined",
+  "date": "2023-10-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Vascular Surgeons CTVS",
+  "source": "nan",
+  "summary": "Cardiothoracic and Vascular Surgeons (CTVS) presenta un aviso de violación de datos después de descubrir que la información en la red informática de la empresa estaba sujeta a acceso no autorizado.",
+  "color": "#ef4444"
+}

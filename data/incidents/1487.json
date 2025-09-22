@@ -1,0 +1,13 @@
+{
+  "id": 1487,
+  "title": "Trimble - Data leak - Ministry of State Security's (MSS) Guangdong State Security Department (GSSD) (APT3)",
+  "date": "2017-11-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Ministry of State Security's (MSS) Guangdong State Security Department (GSSD) (APT3)",
+  "impact": "Incidente de seguridad en Justicia de EE",
+  "source": "https://www.justice.gov/opa/pr/us-charges-three-chinese-hackers-who-work-internet-security-firm-hacking-three-corporations",
+  "summary": "El Departamento de Justicia de EE. UU. acusó formalmente a tres miembros de Boyusec, una empresa china de seguridad en internet, por cargos que incluyen conspiración para cometer fraude y abuso informático y conspiración para cometer robo de secretos comerciales. Entre las víctimas se encontraban Moody's Analytics, Siemens y Trimble. Aunque no se menciona en la acusación, se cree que Boyusec trabaja para el Ministerio de Seguridad del Estado de China y es una fachada de APT3.",
+  "color": "#a78bfa"
+}

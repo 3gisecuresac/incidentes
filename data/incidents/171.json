@@ -1,0 +1,13 @@
+{
+  "id": 171,
+  "title": "Ejército de los Estados Unidos - Data leak - Undetermined",
+  "date": "2014-06-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Estados Unidos advierte",
+  "source": "http://www.computerworld.com/s/article/9248887/U.S._Army_warns_of_database_breaches_in_South_Korea",
+  "summary": "El Ejército de Estados Unidos advierte que las bases de datos que contienen información sobre 16.000 empleados civiles surcoreanos del ejército estadounidense y solicitantes de empleo en bases podrían haber sido comprometidas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2846,
+  "title": "CHI St. Luke's Health-Memorial Lufkin - Data leak - Undetermined",
+  "date": "2020-04-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Health-Memorial Lufkin",
+  "source": "https://www.databreaches.net/chi-st-lukes-health-memorial-lufkin-notifies-patients-of-april-security-incident/",
+  "summary": "CHI St. Luke's Health-Memorial Lufkin notifica sobre un incidente de phishing que ocurrió el 23 de abril de 2020.",
+  "color": "#ef4444"
+}

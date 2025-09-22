@@ -1,0 +1,13 @@
+{
+  "id": 2554,
+  "title": "Soluciones de beneficios de Vimly - Data leak - Undetermined",
+  "date": "2019-12-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Vimly Benefit Solutions",
+  "source": "https://www.govtech.com/security/Data-Breach-May-Have-Compromised-Police-Firefighter-Info.html",
+  "summary": "Vimly Benefit Solutions dice que está enviando cartas a algunos de sus clientes cuya información puede haber sido comprometida como parte de un intento de phishing.",
+  "color": "#ef4444"
+}

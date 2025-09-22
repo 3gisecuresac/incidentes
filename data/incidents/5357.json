@@ -1,0 +1,13 @@
+{
+  "id": 5357,
+  "title": "Servicios financieros LCS - Ciberataque - Undetermined",
+  "date": "2023-02-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en LCS Financial Services",
+  "source": "nan",
+  "summary": "LCS Financial Services presenta un aviso de violación de datos después de descubrir que los piratas informáticos pudieron acceder al sistema informático de la empresa.",
+  "color": "#ef4444"
+}

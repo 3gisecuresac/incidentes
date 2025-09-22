@@ -1,0 +1,13 @@
+{
+  "id": 2003,
+  "title": "Asociados de cuidados críticos, pulmonares y del sueño - Data leak - Undetermined",
+  "date": "2019-01-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Critical Care Pulmonary Sleep Associates",
+  "source": "https://www.databreaches.net/co-critical-care-pulmonary-sleep-associates-notifies-almost-24000-patients-after-hack-of-employee-email-accounts/",
+  "summary": "Critical Care, Pulmonary & Sleep Associates notifica a 23.377 pacientes sobre un ataque de phishing ocurrido el 23 de noviembre.",
+  "color": "#ef4444"
+}

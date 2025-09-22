@@ -1,0 +1,13 @@
+{
+  "id": 1060,
+  "title": "Battle.net de Blizzard - DoS - PoodleCorp",
+  "date": "2016-09-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "PoodleCorp",
+  "impact": "Interrupción por DDoS en Battle.net",
+  "source": "http://www.ibtimes.co.uk/blizzards-battle-net-servers-knocked-offline-by-another-ddos-attack-claimed-by-hacker-group-1582024",
+  "summary": "Los servidores Battle.net de Blizzard quedan fuera de línea debido a otro ataque de denegación de servicio (DDoS) reivindicado por el grupo de piratas informáticos PoodleCorp.",
+  "color": "#f59e0b"
+}

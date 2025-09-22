@@ -1,0 +1,13 @@
+{
+  "id": 1694,
+  "title": "Restaurante Chili's - Infección Dispositivos - Undetermined",
+  "date": "2018-05-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Chili",
+  "source": "https://www.indystar.com/story/news/2018/05/13/chilis-data-breach-leaves-credit-and-debit-card-information-exposed/605767002/",
+  "summary": "Chili's Restaurant revela que algunos restaurantes se han visto afectados por un incidente de datos, que puede haber resultado en acceso no autorizado o adquisición de datos de tarjetas de pago entre marzo y abril de 2018.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1192,
+  "title": "Sitios web del condado del Partido Demócrata de Wisconsin - Data leak - Undetermined",
+  "date": "2017-01-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Partido Demócrata en el área de Wisconsin son hackeados",
+  "source": "http://www.usatoday.com/story/news/politics/2017/01/24/russians-suspected-hacking-wisconsin-dems/97023222/",
+  "summary": "Los sitios web del Partido Demócrata en el área de Wisconsin son hackeados por presuntos hackers rusos.",
+  "color": "#3b82f6"
+}

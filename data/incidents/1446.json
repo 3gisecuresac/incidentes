@@ -1,0 +1,13 @@
+{
+  "id": 1446,
+  "title": "Agencia de Seguridad Nacional - Data leak - Undetermined",
+  "date": "2017-10-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Seguridad Nacional eliminara el material altamente clasificado",
+  "source": "https://www.wsj.com/articles/russian-hackers-stole-nsa-data-on-u-s-cyber-defense-1507222108",
+  "summary": "El Wall Street Journal revela que piratas informáticos que trabajan para el gobierno ruso robaron detalles de cómo Estados Unidos penetra en redes informáticas extranjeras y se defiende contra ciberataques después de que un contratista de la Agencia de Seguridad Nacional eliminara el material altamente clasificado y lo colocara en su computadora de casa.",
+  "color": "#a78bfa"
+}

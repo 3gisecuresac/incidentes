@@ -1,0 +1,13 @@
+{
+  "id": 5232,
+  "title": "Laboratorio Nuclear Lawrence Livermore (LLNL) - Data leak - SVR (Calisto)",
+  "date": "2023-01-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (Calisto)",
+  "impact": "Cuentas comprometidas por phishing en Laboratorio Nuclear Lawrence Livermore con una",
+  "source": "nan",
+  "summary": "El grupo ruso Cold River atacó el Laboratorio Nuclear Lawrence Livermore con una campaña de phishing creando páginas de inicio de sesión falsas.",
+  "color": "#ef4444"
+}

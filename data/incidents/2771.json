@@ -1,0 +1,13 @@
+{
+  "id": 2771,
+  "title": "Distrito Escolar Independiente de Fort Worth - Ransomware - Undetermined",
+  "date": "2020-03-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Fort Worth es víctima de un ataque de ransomware",
+  "source": "https://www.databreaches.net/fort-worth-isd-hacked-joining-other-texas-schools-towns-hit-by-ransomware-attacks/",
+  "summary": "El Distrito Escolar Independiente de Fort Worth es víctima de un ataque de ransomware,",
+  "color": "#ef4444"
+}

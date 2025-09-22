@@ -1,0 +1,13 @@
+{
+  "id": 7321,
+  "title": "Coronel Richard Downie - Data leak - Panama",
+  "date": "2017-06-20",
+  "country": "Panama",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Panama",
+  "impact": "Incidente de seguridad en Ricardo Martinelli",
+  "source": "nan",
+  "summary": "Un actor de amenazas atacó a personas críticas políticas y rivales empresariales de Ricardo Martinelli, presidente de Panamá entre 2009 y 2014, con fines de espionaje. El actor de amenazas utiliza la herramienta Pegasus, creada por NSO Group. Una de las víctimas es el coronel retirado Richard Downie, exdirector del Centro de Estudios Hemisféricos de la Universidad Nacional de la Defensa. Trabajó en la campaña presidencial de 2014 de Juan Carlos Navarro.",
+  "color": "#a78bfa"
+}

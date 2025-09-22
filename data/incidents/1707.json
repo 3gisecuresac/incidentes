@@ -1,0 +1,13 @@
+{
+  "id": 1707,
+  "title": "Universidad de Vermont - Data leak - Undetermined",
+  "date": "2018-05-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Vermont dicen",
+  "source": "https://www.databreaches.net/university-of-vermont-notifies-community-of-hack-of-netid-portal/",
+  "summary": "Los funcionarios de la Universidad de Vermont dicen que no tienen motivos para creer que la información personal de 37.000 profesores, personal y estudiantes actuales y anteriores cayó en manos equivocadas tras una intrusión en los sistemas informáticos de la escuela.",
+  "color": "#3b82f6"
+}

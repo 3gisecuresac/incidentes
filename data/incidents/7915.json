@@ -1,0 +1,13 @@
+{
+  "id": 7915,
+  "title": "Confederación Brasileña de Boxeo (cbboxe.com.br) - Data leak - Anonymous (Brazil)",
+  "date": "2016-08-05",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Anonymous (Brazil)",
+  "impact": "Filtración de datos en pentatlo.org.br",
+  "source": "nan",
+  "summary": "Anonymous filtró detalles personales, financieros y de inicio de sesión de dominios como la Confederación Brasileña de Pentatlón Moderno (pentatlo.org.br), el sitio oficial de la Confederación Brasileña de Balonmano (brasilhandebol.com.br), la Confederación Brasileña de Boxeo (cbboxe.com.br) y la Confederación Brasileña de Triatlón (cbtri.org.br).",
+  "color": "#ef4444"
+}

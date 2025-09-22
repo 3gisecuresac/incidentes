@@ -1,0 +1,13 @@
+{
+  "id": 7994,
+  "title": "Organización no revelada en Brasil - Data leak - NGB 3rd Technical Surveillance Bureau",
+  "date": "2022-11-15",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "NGB 3rd Technical Surveillance Bureau",
+  "impact": "Incidente de seguridad en Kaspersky revelan los detalles de la última campaña del grupo norcoreano Lazarus dirigida a múltiples organizaciones en Europa",
+  "source": "nan",
+  "summary": "Investigadores de Kaspersky revelan los detalles de la última campaña del grupo norcoreano Lazarus dirigida a múltiples organizaciones en Europa y América a través de la puerta trasera modular DTrack.",
+  "color": "#a78bfa"
+}

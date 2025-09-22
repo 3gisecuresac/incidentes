@@ -1,0 +1,13 @@
+{
+  "id": 3151,
+  "title": "Servicios de facturación de Timberline, Inc. - Ransomware - Undetermined",
+  "date": "2020-09-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Medicaid a más de 190 escuelas en Iowa",
+  "source": "https://www.databreaches.net/ia-ocsd-kcsd-report-data-security-breach-of-student-info-at-medicaid-billing-service/",
+  "summary": "Timberline Billing Services, Inc., que proporciona servicios de facturación y reembolso de Medicaid a más de 190 escuelas en Iowa, informó sobre un ataque de ransomware en el que el atacante pudo cifrar y exfiltrar información en sus redes.",
+  "color": "#ef4444"
+}

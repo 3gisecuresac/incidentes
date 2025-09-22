@@ -1,0 +1,13 @@
+{
+  "id": 7857,
+  "title": "Gestión de Canderel - Ransomware - Play",
+  "date": "2023-11-28",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Play",
+  "impact": "Filtración de datos en Canderel Management a su",
+  "source": "nan",
+  "summary": "La banda de ransomware Play agrega Canderel Management a su sitio de filtraciones.",
+  "color": "#ef4444"
+}

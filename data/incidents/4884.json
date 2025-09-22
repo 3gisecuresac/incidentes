@@ -1,0 +1,13 @@
+{
+  "id": 4884,
+  "title": "Comunicaciones Meriplex - Data leak - Undetermined",
+  "date": "2022-08-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Meriplex Communications",
+  "source": "nan",
+  "summary": "Meriplex Communications presenta un aviso de violación de datos después de descubrir que datos confidenciales de consumidores almacenados en la red informática de la empresa estaban sujetos a acceso no autorizado.",
+  "color": "#ef4444"
+}

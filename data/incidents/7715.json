@@ -1,0 +1,13 @@
+{
+  "id": 7715,
+  "title": "Carnes DuBreton - Ransomware - Undetermined",
+  "date": "2020-12-21",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en DuBreton Meats",
+  "source": "nan",
+  "summary": "DuBreton Meats es víctima de un ciberataque que afectó principalmente a sus servidores administrativos.",
+  "color": "#a78bfa"
+}

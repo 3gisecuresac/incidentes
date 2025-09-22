@@ -1,0 +1,13 @@
+{
+  "id": 6941,
+  "title": "Capitolio de los Estados Unidos - Data leak - Undetermined",
+  "date": "2024-09-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Congreso se filtró en la red oscura",
+  "source": "nan",
+  "summary": "La información personal de más de 3.000 miembros del personal del Congreso se filtró en la red oscura luego de una importante violación del Capitolio de los Estados Unidos.",
+  "color": "#ef4444"
+}

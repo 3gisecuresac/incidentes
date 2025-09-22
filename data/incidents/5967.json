@@ -1,0 +1,13 @@
+{
+  "id": 5967,
+  "title": "Colegio Técnico Bates - Data leak - cl0p",
+  "date": "2023-07-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit CVE-2023-34362 contra el National Student Clearinghouse",
+  "source": "nan",
+  "summary": "Bates Technical College confirma haber sufrido una violación de datos ocurrida explotando la vulnerabilidad MOVEit CVE-2023-34362 contra el National Student Clearinghouse.",
+  "color": "#ef4444"
+}

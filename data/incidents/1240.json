@@ -1,0 +1,13 @@
+{
+  "id": 1240,
+  "title": "Corporación de viajes - Data leak - Undetermined",
+  "date": "2017-02-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Travel Corporation",
+  "source": "https://dojmt.gov/wp-content/uploads/TravelCorp.pdf",
+  "summary": "Travel Corporation es víctima de una estafa W-2.",
+  "color": "#a78bfa"
+}

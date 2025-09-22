@@ -1,0 +1,13 @@
+{
+  "id": 1888,
+  "title": "Hospital Altus Baytown (ABH) - Ransomware - Undetermined",
+  "date": "2018-11-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El Hospital Altus Baytown ABH",
+  "source": "https://news.softpedia.com/news/dharma-ransomware-hits-altus-baytown-hospital-s-systems-523692.shtml",
+  "summary": "El Hospital Altus Baytown (ABH) fue víctima de un ataque de ransomware Dharma el 3 de septiembre de 2018, en el que se cifraron muchos documentos con información de pacientes y los atacantes solicitaron un rescate para desbloquear los datos del hospital.",
+  "color": "#ef4444"
+}

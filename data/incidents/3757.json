@@ -1,0 +1,13 @@
+{
+  "id": 3757,
+  "title": "Corporación Carnival - Data leak - Undetermined",
+  "date": "2021-03-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Carnival Corporation",
+  "source": "nan",
+  "summary": "Carnival Corporation revela una filtración de datos en la que se accedió a una pequeña cantidad de cuentas de correo electrónico, lo que resultó en la filtración de información de algunos empleados y clientes.",
+  "color": "#ef4444"
+}

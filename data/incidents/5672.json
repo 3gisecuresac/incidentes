@@ -1,0 +1,13 @@
+{
+  "id": 5672,
+  "title": "ScanSource - Ransomware - UNC3944",
+  "date": "2023-05-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "UNC3944",
+  "impact": "Cifrado por ransomware en ScanSource",
+  "source": "nan",
+  "summary": "El proveedor de tecnología ScanSource anuncia que ha sido víctima de un ataque de ransomware que afectó algunos de sus sistemas, operaciones comerciales y portales de clientes.",
+  "color": "#ef4444"
+}

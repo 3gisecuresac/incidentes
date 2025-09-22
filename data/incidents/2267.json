@@ -1,0 +1,13 @@
+{
+  "id": 2267,
+  "title": "Universidad de Alabama - Data leak - Undetermined",
+  "date": "2019-07-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Alabama descubre un incidente de seguridad informática ocurrido en 2009 en un servidor del Centro Infantil Brewer-Porch",
+  "source": "https://www.databreaches.net/university-of-alabama-warns-of-computer-breach-at-brewer-porch-center/",
+  "summary": "La Universidad de Alabama descubre un incidente de seguridad informática ocurrido en 2009 en un servidor del Centro Infantil Brewer-Porch. Hackers externos accedieron al servidor y se apoderaron de 1400 antiguos clientes, empleados y profesionales médicos.",
+  "color": "#3b82f6"
+}

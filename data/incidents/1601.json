@@ -1,0 +1,13 @@
+{
+  "id": 1601,
+  "title": "Aproximadamente una docena de agencias gubernamentales de Connecticut - Ransomware - Undetermined",
+  "date": "2018-02-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Connecticut se ven afectadas",
+  "source": "https://statescoop.com/160-connecticut-computers-targeted-by-wannacry-virus/",
+  "summary": "Alrededor de una docena de agencias del gobierno de Connecticut se ven afectadas por lo que un informe publicado dice que es un ataque WannaCry que deja fuera de línea a unas 160 computadoras.",
+  "color": "#a78bfa"
+}

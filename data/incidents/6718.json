@@ -1,0 +1,13 @@
+{
+  "id": 6718,
+  "title": "Proveedor de telefonía no revelado - Data leak - Undetermined",
+  "date": "2024-04-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Cisco Duo advierte",
+  "source": "nan",
+  "summary": "El equipo de seguridad de Cisco Duo advierte que actores de amenazas robaron los registros de VoIP y SMS de algunos clientes para mensajes de autenticación multifactor (MFA) en un ciberataque a su proveedor de telefonía.",
+  "color": "#a78bfa"
+}

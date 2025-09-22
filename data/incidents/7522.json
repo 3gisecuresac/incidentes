@@ -1,0 +1,13 @@
+{
+  "id": 7522,
+  "title": "PharmaNet - Data leak - Undetermined",
+  "date": "2014-07-11",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en PharmaNet de un",
+  "source": "nan",
+  "summary": "Un individuo no autorizado accede a 1.600 nombres, fechas de nacimiento, números de teléfono, direcciones y números de salud personales mediante la cuenta PharmaNet de un médico.",
+  "color": "#a78bfa"
+}

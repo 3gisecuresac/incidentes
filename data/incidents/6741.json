@@ -1,0 +1,13 @@
+{
+  "id": 6741,
+  "title": "Autopartes avanzadas - Data leak - Sp1d3r",
+  "date": "2024-06-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Sp1d3r",
+  "impact": "Filtración de datos en Advance Auto Parts",
+  "source": "nan",
+  "summary": "Un actor de amenazas que utiliza el nombre de usuario Sp1d3r afirma estar vendiendo 3 TB de datos de Advance Auto Parts, un proveedor líder de repuestos para automóviles, robados después de violar la cuenta Snowflake de la empresa.",
+  "color": "#ef4444"
+}

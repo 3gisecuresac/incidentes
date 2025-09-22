@@ -1,0 +1,13 @@
+{
+  "id": 3163,
+  "title": "Centro Médico Regional de San Juan - Data leak - Undetermined",
+  "date": "2020-09-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en San Juan sufre un ataque explotador en el",
+  "source": "https://www.sanjuanregional.com/News/Default.aspx?PageIndex=1&sid=1&nid=334",
+  "summary": "El Centro Médico Regional de San Juan sufre un ataque explotador en el que se robó de sus servidores la información personal y médica de casi 70.000 pacientes.",
+  "color": "#a78bfa"
+}

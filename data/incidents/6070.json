@@ -1,0 +1,13 @@
+{
+  "id": 6070,
+  "title": "Alianza de Salud - Data leak - Undetermined",
+  "date": "2023-08-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI de la organización",
+  "source": "nan",
+  "summary": "HealthAlliance presenta un aviso de violación de datos después de descubrir que una parte no autorizada había obtenido acceso a la red de TI de la organización.",
+  "color": "#ef4444"
+}

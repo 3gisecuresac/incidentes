@@ -1,0 +1,13 @@
+{
+  "id": 7641,
+  "title": "Hola-Sant - DoS - Undetermined",
+  "date": "2019-10-06",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Quebec",
+  "source": "nan",
+  "summary": "Bonjour-Sant, un servicio privado de reservas médicas de Quebec que promete citas rápidas, fue víctima de un ciberataque.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 443,
+  "title": "Flojo - Data leak - Undetermined",
+  "date": "2015-03-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Slack",
+  "source": "http://www.wired.com/2015/03/slack-admits-hacked-enables-2-factor-authentication/",
+  "summary": "Slack anuncia en su blog corporativo que sufrió un ataque informático durante cuatro días en febrero, comprometiendo los datos de varios usuarios. La filtración revela las direcciones de correo electrónico y, posiblemente, los números de teléfono de sus 500.000 usuarios.",
+  "color": "#ef4444"
+}

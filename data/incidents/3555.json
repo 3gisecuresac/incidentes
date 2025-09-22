@@ -1,0 +1,13 @@
+{
+  "id": 3555,
+  "title": "Organizaciones benéficas de la Casa Ronald McDonald - Ransomware - Undetermined",
+  "date": "2021-01-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Ronald McDonald House Charities",
+  "source": "nan",
+  "summary": "Ronald McDonald House Charities se suma a la lista de ataques de ransomware Blackbaud.",
+  "color": "#ef4444"
+}

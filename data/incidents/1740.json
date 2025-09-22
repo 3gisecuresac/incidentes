@@ -1,0 +1,13 @@
+{
+  "id": 1740,
+  "title": "Fideicomiso de Educación Superior de Connecticut (CHET) - Data leak - Undetermined",
+  "date": "2018-06-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Connecticut Higher Education Trust",
+  "source": "https://www.databreaches.net/nearly-1-million-stolen-from-connecticut-higher-education-trust-accounts-during-security-breach/",
+  "summary": "Personas no autorizadas obtienen acceso a 21 cuentas del Connecticut Higher Education Trust (CHET) y realizan 44 retiros, por un total de $1,416,635, de los cuales $442,540 se recuperan o se detienen.",
+  "color": "#a78bfa"
+}

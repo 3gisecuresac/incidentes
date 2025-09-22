@@ -1,0 +1,13 @@
+{
+  "id": 2561,
+  "title": "Restaurantes de las islas - Infección Dispositivos - Undetermined",
+  "date": "2019-12-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en PoS",
+  "source": "https://www.bleepingcomputer.com/news/security/one-day-three-credit-card-data-breach-notifications/",
+  "summary": "Restaurantes Islands anuncia un incidente de malware en PoS.",
+  "color": "#a78bfa"
+}

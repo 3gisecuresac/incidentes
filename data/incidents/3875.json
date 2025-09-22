@@ -1,0 +1,13 @@
+{
+  "id": 3875,
+  "title": "Centro de especialidades quirúrgicas de McAllen - Ransomware - Undetermined",
+  "date": "2021-05-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Centro",
+  "source": "nan",
+  "summary": "Centro quirúrgico sufre ataque de ransomware comprometiendo datos personales de más de 29.000 pacientes.",
+  "color": "#ef4444"
+}

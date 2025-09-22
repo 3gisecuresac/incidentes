@@ -1,0 +1,13 @@
+{
+  "id": 7195,
+  "title": "Departamento de Policía de España - Data leak - @FkPoliceAnonOps",
+  "date": "2016-05-31",
+  "country": "España",
+  "region": "Europa",
+  "type": "Data leak",
+  "actor": "@FkPoliceAnonOps",
+  "impact": "Filtración de datos en @FkPoliceAnonOps",
+  "source": "nan",
+  "summary": "@FkPoliceAnonOps hackea el Departamento de Policía español y filtra online datos personales de 5.000 policías españoles.",
+  "color": "#ef4444"
+}

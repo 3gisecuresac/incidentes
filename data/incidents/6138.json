@@ -1,0 +1,13 @@
+{
+  "id": 6138,
+  "title": "MinnesotaWorks.net - Ciberataque - Undetermined",
+  "date": "2023-09-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en MinnesotaWorks.net",
+  "source": "nan",
+  "summary": "El Departamento de Empleo y Desarrollo Económico (DEED) de Minnesota notifica a los solicitantes de empleo sobre una violación de datos que implica acceso no autorizado a su información personal en la plataforma MinnesotaWorks.net, luego de que una persona que decía ser un empleado supuestamente vio y copió información del currículum del usuario sin autorización.",
+  "color": "#ef4444"
+}

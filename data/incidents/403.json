@@ -1,0 +1,13 @@
+{
+  "id": 403,
+  "title": "Sitio de Hanford - Ciberespionaje - Ministry of State Security's (MSS) Guangdong State Security Department (GSSD) (APT3)",
+  "date": "2015-03-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberespionaje",
+  "actor": "Ministry of State Security's (MSS) Guangdong State Security Department (GSSD) (APT3)",
+  "impact": "Sistema o cuenta comprometida en Estados Unidos",
+  "source": "https://www.politico.com/news/2020/07/21/doj-chinese-hackers-coronavirus-research-375855",
+  "summary": "Los hackers llevaron a cabo una combinación de operaciones de piratería informática con fines financieros y de espionaje contra cientos de empresas, organizaciones y firmas de investigación con sede en Estados Unidos y otros países, robando terabytes de información. Uno de estos objetivos fue el Sitio Hanford, un complejo de residuos nucleares del Departamento de Energía. Los dos hackers, Li Xiayou y Dong Jiazhi, presuntamente llevaron a cabo sus actividades con la ayuda del Ministerio de Seguridad del Estado de China.",
+  "color": "#3b82f6"
+}

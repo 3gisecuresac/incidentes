@@ -1,0 +1,13 @@
+{
+  "id": 1554,
+  "title": "Tiendas Nacionales, Inc. - Infección Dispositivos - Undetermined",
+  "date": "2018-01-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en National Stores Inc",
+  "source": "https://www.databreaches.net/national-stores-inc-notifies-customers-that-malware-may-have-compromised-payment-cards/",
+  "summary": "National Stores, Inc. anuncia haber sido víctima de un ataque de malware que permitió a terceros acceder a la información de sus tarjetas de pago. Al parecer, las tarjetas de pago utilizadas por clientes en algunas tiendas National Stores entre el 16 de julio y el 11 de diciembre de 2017 podrían estar implicadas.",
+  "color": "#a78bfa"
+}

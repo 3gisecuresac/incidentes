@@ -1,0 +1,13 @@
+{
+  "id": 2228,
+  "title": "A. Dos Pyle - Ransomware - Undetermined",
+  "date": "2019-06-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Pensilvania A",
+  "source": "https://www.scmagazine.com/home/security-news/ransomware/a-duie-pyle-knocked-offline-by-ransomware-goes-extra-mile-to-keep-customers-informed/",
+  "summary": "La empresa de camiones de Pensilvania A. Duie Pyle informa haber sido víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

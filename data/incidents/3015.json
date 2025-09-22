@@ -1,0 +1,13 @@
+{
+  "id": 3015,
+  "title": "CouchSurfing - Data leak - Undetermined",
+  "date": "2020-07-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Telegram",
+  "source": "https://www.zdnet.com/article/couchsurfing-investigates-data-breach-after-17m-user-records-appear-on-hacking-forum/",
+  "summary": "CouchSurfing, un servicio en línea que permite a los usuarios encontrar alojamiento gratuito, investiga una violación de seguridad después de que piratas informáticos comenzaron a vender los detalles de 17 millones de usuarios en canales de Telegram y foros de piratería.",
+  "color": "#a78bfa"
+}

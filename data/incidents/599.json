@@ -1,0 +1,13 @@
+{
+  "id": 599,
+  "title": "Mozilla Bugzilla - Data leak - Undetermined",
+  "date": "2015-09-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Mozilla",
+  "source": "http://arstechnica.com/security/2015/09/mozilla-data-stolen-from-hacked-bug-database-was-used-to-attack-firefox/",
+  "summary": "Mozilla revela que un atacante robó información confidencial sobre vulnerabilidades de seguridad del sistema de seguimiento de errores Bugzilla de Mozilla y probablemente la utilizó para atacar a los usuarios de Firefox. El atacante podría haber tenido acceso desde septiembre de 2013.",
+  "color": "#a78bfa"
+}

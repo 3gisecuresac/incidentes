@@ -1,0 +1,13 @@
+{
+  "id": 1428,
+  "title": "Hospital Memorial Morehead - Data leak - Undetermined",
+  "date": "2017-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Morehead Memorial",
+  "source": "https://www.databreaches.net/nc-morehead-memorial-hospital-data-breach-may-have-leaked-patient-and-employee-information/",
+  "summary": "Morehead Memorial dice que una violación de datos debido a un ataque de phishing ha expuesto potencialmente información de pacientes y empleados.",
+  "color": "#ef4444"
+}

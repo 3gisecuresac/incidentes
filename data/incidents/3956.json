@@ -1,0 +1,13 @@
+{
+  "id": 3956,
+  "title": "Asociados Ortopédicos del Sur - Data leak - Undetermined",
+  "date": "2021-06-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Kentucky descubre acceso no autorizado a varias cuentas de correo electrónico de sus empleados",
+  "source": "nan",
+  "summary": "Un centro médico de Kentucky descubre acceso no autorizado a varias cuentas de correo electrónico de sus empleados y se ve comprometida la información sanitaria protegida de más de 100.000 pacientes.",
+  "color": "#3b82f6"
+}

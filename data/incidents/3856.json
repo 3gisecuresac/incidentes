@@ -1,0 +1,13 @@
+{
+  "id": 3856,
+  "title": "Entrega de Food Dudes - Infección - Undetermined",
+  "date": "2021-04-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Food Dudes Delivery",
+  "source": "nan",
+  "summary": "Gemini Advisory revela haber identificado una carga maliciosa que infectó Food Dudes Delivery.",
+  "color": "#a78bfa"
+}

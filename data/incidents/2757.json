@@ -1,0 +1,13 @@
+{
+  "id": 2757,
+  "title": "Casino Binion - Ransomware - Undetermined",
+  "date": "2020-03-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Four Queens Hotel",
+  "source": "https://www.databreaches.net/casinos-in-las-vegas-hit-by-suspected-ransomware-attack/",
+  "summary": "Four Queens Hotel and Casino y Binion's Casino son víctimas de un ataque de ransomware.",
+  "color": "#ef4444"
+}

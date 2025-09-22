@@ -1,0 +1,13 @@
+{
+  "id": 6455,
+  "title": "Ciudad de la bahía de Nassau - Ransomware - Akira",
+  "date": "2023-11-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Akira",
+  "impact": "Filtración de datos en Nassau Bay revelan haber sufrido un incidente de seguridad de datos",
+  "source": "nan",
+  "summary": "Las autoridades de la ciudad de Nassau Bay revelan haber sufrido un incidente de seguridad de datos que provocó el cifrado de ciertos sistemas y archivos. La banda de ransomware Akira se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7475,
+  "title": "Federacion de Aseguradores Colombianos (Fasecolda) - Ciberataque - Undetermined",
+  "date": "2023-02-28",
+  "country": "Colombia",
+  "region": "Latinoamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Aseguradores Colombianos",
+  "source": "nan",
+  "summary": "The Federacion de Aseguradores Colombianos (Fasecolda), an association for Colombian insurers, suffers a cyber attack.",
+  "color": "#a78bfa"
+}

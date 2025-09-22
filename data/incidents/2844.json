@@ -1,0 +1,13 @@
+{
+  "id": 2844,
+  "title": "Subastador de whisky - DoS - Undetermined",
+  "date": "2020-04-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en DDoS.",
+  "source": "https://www.infosecurity-magazine.com/news/whisky-auction-ruined-by-cyber/",
+  "summary": "Una subasta en línea de whiskies raros se pospone indefinidamente tras un ataque DDoS.",
+  "color": "#f59e0b"
+}

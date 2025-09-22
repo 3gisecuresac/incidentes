@@ -1,0 +1,13 @@
+{
+  "id": 2569,
+  "title": "Entercom - DoS - Undetermined",
+  "date": "2019-12-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Entercom",
+  "source": "https://www.bleepingcomputer.com/news/security/entercom-radio-network-hit-by-second-cyber-attack-this-year/",
+  "summary": "Entercom es el objetivo de un nuevo ciberataque que puede haber afectado las funciones de back-office.",
+  "color": "#a78bfa"
+}

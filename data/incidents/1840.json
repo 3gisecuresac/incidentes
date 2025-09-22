@@ -1,0 +1,13 @@
+{
+  "id": 1840,
+  "title": "El sitio web de Bryan Caforio - DoS - Undetermined",
+  "date": "2018-09-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Congreso de California",
+  "source": "https://www.scmagazine.com/home/news/ddos-attacks-took-down-calif-democratic-hopefuls-website-during-primaries/",
+  "summary": "Un ataque DDoS derriba el sitio web del candidato demócrata al Congreso de California, Bryan Caforio, apenas horas antes de que suba al escenario del debate para enfrentarse a sus compañeros demócratas.",
+  "color": "#f59e0b"
+}

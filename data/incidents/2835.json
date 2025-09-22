@@ -1,0 +1,13 @@
+{
+  "id": 2835,
+  "title": "Ethan Custody - Data leak - Undetermined",
+  "date": "2020-04-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Etana Custody",
+  "source": "https://cointelegraph.com/news/users-funds-are-safe-following-reported-etana-custody-breach",
+  "summary": "Etana Custody afirma que una parte externa no autorizada accedió a su interfaz de usuario cliente.",
+  "color": "#a78bfa"
+}

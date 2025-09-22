@@ -1,0 +1,13 @@
+{
+  "id": 5600,
+  "title": "Centro de aprendizaje comunitario Keystone SMILES - Ransomware - LockBit 3.0",
+  "date": "2023-04-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Centro de aprendizaje comunitario Keystone SMILES",
+  "source": "nan",
+  "summary": "La banda de ransomware LockBit se disculpa por violar la seguridad del Centro de aprendizaje comunitario Keystone SMILES, una organización preescolar sin fines de lucro.",
+  "color": "#ef4444"
+}

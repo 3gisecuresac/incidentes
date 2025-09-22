@@ -1,0 +1,13 @@
+{
+  "id": 1844,
+  "title": "Chegg - Data leak - Undetermined",
+  "date": "2018-09-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Chegg",
+  "source": "https://www.scmagazine.com/home/news/chegg-forces-password-reset-on-40-million-users/",
+  "summary": "La empresa de tecnología educativa Chegg restablece las contraseñas de 40 millones de sus usuarios luego de que se conociera la noticia de que la empresa había sufrido una violación de seguridad en abril de este año.",
+  "color": "#a78bfa"
+}

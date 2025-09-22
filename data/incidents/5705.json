@@ -1,0 +1,13 @@
+{
+  "id": 5705,
+  "title": "Servicio de Institución Financiera - Data leak - cl0p",
+  "date": "2023-05-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Instituciones Financieras presenta un aviso de violación de datos después de descubrir",
+  "source": "nan",
+  "summary": "El Servicio de Instituciones Financieras presenta un aviso de violación de datos después de descubrir que la vulnerabilidad en la aplicación de transferencia de archivos MOVEit permitió a los atacantes acceder a la información personal de más de 750.000 personas.",
+  "color": "#ef4444"
+}

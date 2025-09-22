@@ -1,0 +1,13 @@
+{
+  "id": 5914,
+  "title": "Corporación Mary Kay - Ransomware - cl0p",
+  "date": "2023-07-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Cifrado por ransomware en Mary Kay Corporation",
+  "source": "nan",
+  "summary": "Mary Kay Corporation se suma a la lista de víctimas de la banda de ransomware Clop que explota la vulnerabilidad CVE-2023-34362.",
+  "color": "#ef4444"
+}

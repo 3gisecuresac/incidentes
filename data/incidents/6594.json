@@ -1,0 +1,13 @@
+{
+  "id": 6594,
+  "title": "Sindicato Internacional de Empleados de Servicios (SEIU) Local 1000 - Ransomware - LockBit 3.0",
+  "date": "2024-01-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Empleados de Servicios",
+  "source": "nan",
+  "summary": "El Sindicato Internacional de Empleados de Servicios (SEIU) Local 1000, uno de los sindicatos más grandes de California, confirma que está lidiando con interrupciones en la red debido a un ataque de ransomware LockBit.",
+  "color": "#ef4444"
+}

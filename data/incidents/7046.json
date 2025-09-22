@@ -1,0 +1,13 @@
+{
+  "id": 7046,
+  "title": "Universidad de San Javier - Data leak - BlackCat",
+  "date": "2024-10-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "BlackCat",
+  "impact": "Filtración de datos en La Universidad Saint Xavier",
+  "source": "nan",
+  "summary": "La Universidad Saint Xavier comienza a notificar a más de 210.000 personas que su información personal se vio comprometida en una violación de datos en julio de 2023.",
+  "color": "#ef4444"
+}

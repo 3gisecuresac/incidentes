@@ -1,0 +1,13 @@
+{
+  "id": 766,
+  "title": "Suministro central de hormigón - Data leak - Undetermined",
+  "date": "2016-02-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Central Concrete Supply",
+  "source": "http://www.databreaches.net/central-concrete-supply-notifies-employees-of-breach-involving-w-2s/",
+  "summary": "Central Concrete Supply notifica a sus empleadores sobre un incidente de seguridad que podría haber expuesto su información personal.",
+  "color": "#ef4444"
+}

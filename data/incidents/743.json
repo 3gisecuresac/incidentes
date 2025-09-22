@@ -1,0 +1,13 @@
+{
+  "id": 743,
+  "title": "jasacare.org - Data leak - Undetermined",
+  "date": "2016-01-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en JASACare",
+  "source": "http://www.databreaches.net/jasacare-notifies-1154-patients-of-breach/",
+  "summary": "JASACare informa haber sido atacado por hackers que lograron acceder a su sistema de correo electrónico. Como consecuencia de la vulneración de la cuenta de correo electrónico de un empleado, los datos de pacientes y empleados podrían haberse visto comprometidos.",
+  "color": "#ef4444"
+}

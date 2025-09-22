@@ -1,0 +1,13 @@
+{
+  "id": 4912,
+  "title": "Consultoría de salud NorthStar - Data leak - Undetermined",
+  "date": "2022-09-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en NorthStar Healthcare Consulting condujo al posible acceso o robo de información de Medicaid de Georgia de 18",
+  "source": "nan",
+  "summary": "El hackeo de una cuenta de correo electrónico perteneciente a un empleado de NorthStar Healthcare Consulting condujo al posible acceso o robo de información de Medicaid de Georgia de 18.354 miembros.",
+  "color": "#3b82f6"
+}

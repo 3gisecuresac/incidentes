@@ -1,0 +1,13 @@
+{
+  "id": 7394,
+  "title": "Avante Textil - Ransomware - LockBit 3.0",
+  "date": "2023-02-02",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en Avante Textil",
+  "source": "nan",
+  "summary": "El distribuidor textil “Avante Textil” se agrega a la página de filtración del ransomware LockBit3.0.",
+  "color": "#ef4444"
+}

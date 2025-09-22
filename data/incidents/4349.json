@@ -1,0 +1,13 @@
+{
+  "id": 4349,
+  "title": "Recursos de gestión de tecnología (TMR) - Data leak - Undetermined",
+  "date": "2022-03-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Technology Management Resources un",
+  "source": "nan",
+  "summary": "Technology Management Resources, un procesador de pagos, informa haber sufrido una brecha de seguridad al descubrir actividad inusual en una cuenta de usuario. Varias entidades se vieron afectadas.",
+  "color": "#a78bfa"
+}

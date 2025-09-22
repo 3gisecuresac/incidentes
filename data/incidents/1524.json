@@ -1,0 +1,13 @@
+{
+  "id": 1524,
+  "title": "Deli de Jason - Infección Dispositivos - Undetermined",
+  "date": "2017-12-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Jason's Deli",
+  "source": "https://www.databreaches.net/statement-of-jasons-deli-regarding-customer-financial-data/",
+  "summary": "Jason's Deli notifica a sus clientes que una gran cantidad de información de tarjetas de pago ha aparecido a la venta en la web oscura y que un análisis de los datos indicó que al menos una parte de los datos puede provenir de varias ubicaciones de Jason's Deli.",
+  "color": "#ef4444"
+}

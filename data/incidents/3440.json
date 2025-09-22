@@ -1,0 +1,13 @@
+{
+  "id": 3440,
+  "title": "Distrito escolar de la ciudad de Huntsville - Ransomware - Undetermined",
+  "date": "2020-11-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Huntsville en Alabama",
+  "source": "https://www.bleepingcomputer.com/news/security/alabama-school-district-shut-down-by-ransomware-attack/",
+  "summary": "Los operadores de ransomware atacan el distrito escolar de la ciudad de Huntsville en Alabama, obligándolos a cerrar las escuelas.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5174,
+  "title": "Universidad Xavier de Luisiana - Ransomware - Vice Society",
+  "date": "2022-12-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Vice Society",
+  "impact": "Filtración de datos en Luisiana en su sitio web oscuro",
+  "source": "nan",
+  "summary": "Vice Society encriptó y filtró datos robados de la Universidad Xavier de Luisiana en su sitio web oscuro.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4773,
+  "title": "Aire acondicionado Friedrich - Ransomware - Undetermined",
+  "date": "2022-08-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Friedrich Air Conditioning",
+  "source": "nan",
+  "summary": "Friedrich Air Conditioning informa sobre una violación de datos después de que la empresa detectara un incidente de seguridad de datos que afectaba la funcionalidad de su red.",
+  "color": "#ef4444"
+}

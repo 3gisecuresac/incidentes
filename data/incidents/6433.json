@@ -1,0 +1,13 @@
+{
+  "id": 6433,
+  "title": "Radiología PC del Valle de Yakima - Ransomware - Karakurt",
+  "date": "2023-11-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Karakurt",
+  "impact": "Filtración de datos en Yakima Valley Radiology PC a su",
+  "source": "nan",
+  "summary": "Los actores de la amenaza del ransomware Karakurt agregan Yakima Valley Radiology PC a su sitio de filtraciones, afirmando que adquirieron 9,31 GB de archivos que incluyen informes financieros, listas de clientes con contactos, lista de pacientes durante 15 años (212579 filas), una base de datos de números de seguridad social (incluido personal, médicos) con 766000 filas.",
+  "color": "#ef4444"
+}

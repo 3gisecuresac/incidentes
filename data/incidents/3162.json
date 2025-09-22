@@ -1,0 +1,13 @@
+{
+  "id": 3162,
+  "title": "Distrito escolar del condado de Pickens - DoS - Undetermined",
+  "date": "2020-09-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Condado de Pickens dijo",
+  "source": "https://www.databreaches.net/sc-pickens-county-school-district-internet-outage-caused-by-cyberattack-district-says/",
+  "summary": "El Distrito Escolar del Condado de Pickens dijo que las recientes interrupciones en los dispositivos de la escuela y de los estudiantes fueron causadas por un ataque DDoS a los servidores encargados de ejecutar los servicios en línea del Distrito Escolar del Condado de Pickens.",
+  "color": "#f59e0b"
+}

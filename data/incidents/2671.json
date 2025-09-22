@@ -1,0 +1,13 @@
+{
+  "id": 2671,
+  "title": "Grupo Ortopédico Fondren - Ransomware - Undetermined",
+  "date": "2020-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Fondren Orthopedic Group",
+  "source": "https://www.databreaches.net/fondren-orthopedic-group-notifies-patients-after-malware-incident-destroyed-patient-records/",
+  "summary": "Fondren Orthopedic Group notifica a los pacientes después de que ocurrió un incidente de malware el 21 de noviembre de 2019, que destruyó registros de pacientes.",
+  "color": "#a78bfa"
+}

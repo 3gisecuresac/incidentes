@@ -1,0 +1,13 @@
+{
+  "id": 1527,
+  "title": "Medicina familiar de Longs Peak - Ransomware - Undetermined",
+  "date": "2017-12-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Longs Peak Family Practice",
+  "source": "https://www.databreaches.net/colorado-family-practice-notifies-patients-following-hacking-incidents/",
+  "summary": "Longs Peak Family Practice notifica a los pacientes luego de un incidente de ransomware y piratería que se detectó por primera vez el 5 de noviembre.",
+  "color": "#ef4444"
+}

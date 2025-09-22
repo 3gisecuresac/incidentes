@@ -1,0 +1,13 @@
+{
+  "id": 7133,
+  "title": "Brosix y Chatox - Data leak - Undetermined",
+  "date": "2024-05-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Brosix y Chatox",
+  "source": "nan",
+  "summary": "Brosix y Chatox prometieron mensajería segura, pero los actores de amenazas accedieron a copias de seguridad sin protección que contenían comunicaciones altamente confidenciales de farmacias y pacientes.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3216,
+  "title": "Hospital General de Lawrence - Data leak - Undetermined",
+  "date": "2020-09-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en El Hospital General Lawrence",
+  "source": "https://www.govtech.com/security/Massachusetts-Hospital-Investigates-Data-Security-Incident.html",
+  "summary": "El Hospital General Lawrence sufre un incidente de ciberseguridad disruptivo que genera una interrupción de 36 horas.",
+  "color": "#a78bfa"
+}

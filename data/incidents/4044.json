@@ -1,0 +1,13 @@
+{
+  "id": 4044,
+  "title": "Especialistas en odontología pediátrica de Weddell - Data leak - Undetermined",
+  "date": "2021-08-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida",
+  "source": "nan",
+  "summary": "La información personal del paciente se ve comprometida tras el acceso no autorizado al correo electrónico de un empleado.",
+  "color": "#3b82f6"
+}

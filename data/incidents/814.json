@@ -1,0 +1,13 @@
+{
+  "id": 814,
+  "title": "Compañía de Agua Kemuri (seudónimo) - Ciberataque - Undetermined",
+  "date": "2016-03-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Verizon revela los detalles de un ataque contra una empresa de servicios de agua",
+  "source": "http://www.theregister.co.uk/2016/03/24/water_utility_hacked/",
+  "summary": "El último informe de violación de datos de Verizon revela los detalles de un ataque contra una empresa de servicios de agua, en el que los atacantes pudieron infiltrarse en el sistema de control de la empresa de servicios de agua y cambiar los niveles de productos químicos que se utilizan para tratar el agua del grifo.",
+  "color": "#ef4444"
+}

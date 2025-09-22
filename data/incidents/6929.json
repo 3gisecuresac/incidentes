@@ -1,0 +1,13 @@
+{
+  "id": 6929,
+  "title": "Distrito Escolar Público de Providence - Ransomware - Medusa",
+  "date": "2024-09-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Medusa",
+  "impact": "Cifrado por ransomware en Providence",
+  "source": "nan",
+  "summary": "El Distrito Escolar Público de Providence (PPSD) enfrenta cortes de internet tras detectar actividad irregular. La banda de ransomware Medusa se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5254,
+  "title": "Renovación por Andersen - Data leak - Undetermined",
+  "date": "2023-01-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI de la empresa dio como resultado",
+  "source": "nan",
+  "summary": "Renewal by Andersen presenta un aviso de violación de datos después de confirmar que un incidente de seguridad que involucró la red de TI de la empresa dio como resultado que una parte no autorizada obtuviera acceso a datos confidenciales de los consumidores.",
+  "color": "#ef4444"
+}

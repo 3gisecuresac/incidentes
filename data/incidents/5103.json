@@ -1,0 +1,13 @@
+{
+  "id": 5103,
+  "title": "Soluciones energéticas P2 - Ciberataque - Undetermined",
+  "date": "2022-11-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en P2 Energy Solutions",
+  "source": "nan",
+  "summary": "P2 Energy Solutions informó sobre una violación de datos después de enterarse de que una parte no autorizada pudo eludir el sistema de seguridad de datos de la empresa y acceder a información confidencial de los consumidores.",
+  "color": "#ef4444"
+}

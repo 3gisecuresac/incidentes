@@ -1,0 +1,13 @@
+{
+  "id": 2030,
+  "title": "Empresas miembros de la Autoridad Reguladora de la Industria Financiera (FINRA) - Data leak - Undetermined",
+  "date": "2019-02-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en La Autoridad Reguladora de la Industria Financiera FINRA",
+  "source": "https://www.bleepingcomputer.com/news/security/brokerage-firms-warned-by-finra-regulator-of-new-phishing-attack/",
+  "summary": "La Autoridad Reguladora de la Industria Financiera (FINRA) emite un aviso informativo a las empresas de corretaje con respecto a un ataque de phishing en curso que actualmente se dirige a las empresas miembro con correos electrónicos spam maliciosos.",
+  "color": "#ef4444"
+}

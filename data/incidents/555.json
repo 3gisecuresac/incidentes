@@ -1,0 +1,13 @@
+{
+  "id": 555,
+  "title": "Marcas Hanes - Data leak - Undetermined",
+  "date": "2015-07-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Hanesbrands Inc",
+  "source": "https://journalnow.com/business/business_news/local/hanesbrands-database-hacked/article_543b338e-3664-11e5-b77e-c77df1e08b5c.html",
+  "summary": "Hanesbrands Inc. revela que una base de datos de pedidos de clientes fue violada por un pirata informático en junio, comprometiendo la información de aproximadamente 900.000 clientes en línea y por teléfono.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4257,
+  "title": "Express Scripts - Data leak - Undetermined",
+  "date": "2022-01-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Express Scripts",
+  "source": "nan",
+  "summary": "La organización de gestión de beneficios farmacéuticos, Express Scripts, anuncia que un tercero no autorizado ha accedido a las cuentas de ciertos clientes.",
+  "color": "#a78bfa"
+}

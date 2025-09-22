@@ -1,0 +1,13 @@
+{
+  "id": 753,
+  "title": "Base de préstamos - Data leak - Undetermined",
+  "date": "2016-02-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Bitcoin",
+  "source": "https://www.helpnetsecurity.com/2016/02/08/loanbase-hacked-via-wordpress-hole-funds-stolen/",
+  "summary": "La popular plataforma internacional de préstamos colectivos de Bitcoin, Loanbase, sufre una brecha de seguridad. Los atacantes logran robar 20 BTC (valorados en 8000 USD).",
+  "color": "#a78bfa"
+}

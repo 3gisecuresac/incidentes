@@ -1,0 +1,13 @@
+{
+  "id": 5293,
+  "title": "Red Tor - DoS - Undetermined",
+  "date": "2023-02-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Proyecto Tor",
+  "source": "nan",
+  "summary": "La directora ejecutiva del Proyecto Tor, Isabela Dias Fernandes, revela que una ola de ataques distribuidos de denegación de servicio (DDoS) ha estado apuntando a la red Tor desde al menos julio de 2022.",
+  "color": "#f59e0b"
+}

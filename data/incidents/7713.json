@@ -1,0 +1,13 @@
+{
+  "id": 7713,
+  "title": "Ciudad de Marieville - Ransomware - Undetermined",
+  "date": "2020-12-08",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Marieville es aparente víctima de un ataque de ransomware",
+  "source": "nan",
+  "summary": "La ciudad de Marieville es aparente víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

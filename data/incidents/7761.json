@@ -1,0 +1,13 @@
+{
+  "id": 7761,
+  "title": "Canaropa - Ransomware - Black Basta",
+  "date": "2022-04-22",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Black Basta",
+  "impact": "Filtración de datos en Black Basta",
+  "source": "nan",
+  "summary": "Black Basta publica ejemplos de datos organizacionales sensibles en su página web oscura exigiendo pago bajo amenaza de publicación.",
+  "color": "#ef4444"
+}

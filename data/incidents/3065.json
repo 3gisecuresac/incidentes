@@ -1,0 +1,13 @@
+{
+  "id": 3065,
+  "title": "Intel - Data leak - Undetermined",
+  "date": "2020-08-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en GB de",
+  "source": "https://www.databreaches.net/intel-investigating-breach-after-20gb-of-internal-documents-leak-online/",
+  "summary": "Intel está investigando una violación de seguridad luego de que 20 GB de documentos internos se cargaran en el sitio de intercambio de archivos en línea MEGA.",
+  "color": "#a78bfa"
+}

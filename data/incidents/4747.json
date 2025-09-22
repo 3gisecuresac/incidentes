@@ -1,0 +1,13 @@
+{
+  "id": 4747,
+  "title": "Finanzas Nirvana - Data leak - Undetermined",
+  "date": "2022-07-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Nirvana Finance",
+  "source": "nan",
+  "summary": "La plataforma financiera descentralizada Nirvana Finance sufre un hackeo de 3,5 millones de dólares que implica el uso de préstamos flash para manipular y drenar sus fondos de liquidez.",
+  "color": "#3b82f6"
+}

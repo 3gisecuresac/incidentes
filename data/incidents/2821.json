@@ -1,0 +1,13 @@
+{
+  "id": 2821,
+  "title": "Médicos radicados en EE.UU. - Data leak - Undetermined",
+  "date": "2020-04-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Estados Unidos",
+  "source": "https://www.hackread.com/personal-data-us-doctors-sold-hacker-forum/",
+  "summary": "Un ciberdelincuente está vendiendo los datos personales y de contacto de 1,41 millones de médicos con sede en Estados Unidos.",
+  "color": "#ef4444"
+}

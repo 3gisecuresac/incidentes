@@ -1,0 +1,13 @@
+{
+  "id": 183,
+  "title": "ancestry.com - DoS - Undetermined",
+  "date": "2014-06-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en ancestry.com",
+  "source": "http://www.theregister.co.uk/2014/06/18/ancestry_dot_com_brought_down_by_ddos_attack/",
+  "summary": "El sitio de genealogía ancestry.com ha sido eliminado de Internet después de haber sido presuntamente afectado por un ataque DDoS.",
+  "color": "#f59e0b"
+}

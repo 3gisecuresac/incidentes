@@ -1,0 +1,13 @@
+{
+  "id": 5386,
+  "title": "Departamento de Salud del Condado de Lake y Centro de Salud Comunitario (LCHD/CHC) - Data leak - Undetermined",
+  "date": "2023-03-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Salud",
+  "source": "nan",
+  "summary": "El Departamento de Salud y Centro de Salud Comunitario del Condado de Lake (LCHD/CHC) revela una violación que afectó a 17.000 personas, cuando una parte no autorizada accedió a la cuenta de correo electrónico de un empleado del Condado de Lake.",
+  "color": "#a78bfa"
+}

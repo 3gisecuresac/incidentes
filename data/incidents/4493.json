@@ -1,0 +1,13 @@
+{
+  "id": 4493,
+  "title": "Battelle para niños - Ransomware - Undetermined",
+  "date": "2022-04-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Ohio",
+  "source": "nan",
+  "summary": "Battelle for Kids, una empresa que almacena información sobre las pruebas estatales de los estudiantes de los distritos de Ohio, es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

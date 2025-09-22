@@ -1,0 +1,13 @@
+{
+  "id": 7526,
+  "title": "Cavirtex - Data leak - Undetermined",
+  "date": "2015-02-19",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Bitcoin",
+  "source": "nan",
+  "summary": "La plataforma de intercambio canadiense de Bitcoin, Cavirtex, cierra después de que piratas informáticos lograron comprometer sus sistemas, robando contraseñas en hash y secretos de autenticación de dos factores (2FA).",
+  "color": "#3b82f6"
+}

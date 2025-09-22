@@ -1,0 +1,13 @@
+{
+  "id": 4104,
+  "title": "Ancho de banda.com - DoS - Undetermined",
+  "date": "2021-09-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Bandwidth.com",
+  "source": "nan",
+  "summary": "Bandwidth.com, un proveedor de voz sobre Internet, sufre un ataque DDOS que interrumpe las operaciones de la empresa.",
+  "color": "#f59e0b"
+}

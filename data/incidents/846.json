@@ -1,0 +1,13 @@
+{
+  "id": 846,
+  "title": "Battle.net de Blizzard - DoS - Lizard Squad",
+  "date": "2016-04-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Lizard Squad",
+  "impact": "Interrupción por DDoS en Battle.net",
+  "source": "http://www.theregister.co.uk/2016/04/15/lizard_squad_blasts_blizzard/",
+  "summary": "Los servidores Battle.net de Blizzard son colapsados ​​por un ataque DDoS.",
+  "color": "#f59e0b"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3830,
+  "title": "Cohetes de Houston - Ransomware - Babuk",
+  "date": "2021-04-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Babuk",
+  "impact": "Filtración de datos en Los Houston Rockets",
+  "source": "nan",
+  "summary": "Los Houston Rockets son atacados por la banda de ransomware Babuk que amenaza con filtrar 500 Gb de datos.",
+  "color": "#ef4444"
+}

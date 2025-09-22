@@ -1,0 +1,13 @@
+{
+  "id": 1982,
+  "title": "Universidad Estatal de Wichita - Data leak - Undetermined",
+  "date": "2019-01-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Wichita no reciben sus cheques de pago después de ser víctimas de un esquema de phishing",
+  "source": "https://www.databreaches.net/ks-wichita-state-u-employees-fall-victim-to-phishing-scam-lose-paychecks/",
+  "summary": "Al menos tres empleados de la Universidad Estatal de Wichita no reciben sus cheques de pago después de ser víctimas de un esquema de phishing por correo electrónico.",
+  "color": "#ef4444"
+}

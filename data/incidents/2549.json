@@ -1,0 +1,13 @@
+{
+  "id": 2549,
+  "title": "Colegio Comunitario de Baton Rouge - Ransomware - Undetermined",
+  "date": "2019-12-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Baton Rouge Community College se apagan",
+  "source": "https://www.infosecurity-magazine.com/news/louisiana-college-struck-by/",
+  "summary": "Los servidores y las computadoras de Baton Rouge Community College se apagan luego de un ataque de ransomware.",
+  "color": "#ef4444"
+}

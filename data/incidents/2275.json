@@ -1,0 +1,13 @@
+{
+  "id": 2275,
+  "title": "Colegio Técnico de Midlands - Data leak - Undetermined",
+  "date": "2019-07-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Midlands Technical College con un malware",
+  "source": "https://www.databreaches.net/sc-hackers-attack-midlands-tech/",
+  "summary": "Los ciberdelincuentes atacaron las computadoras de Midlands Technical College con un malware.",
+  "color": "#a78bfa"
+}

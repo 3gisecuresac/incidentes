@@ -1,0 +1,13 @@
+{
+  "id": 1587,
+  "title": "Grupo Laufer Internacional - Data leak - Undetermined",
+  "date": "2018-02-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Laufer Group International",
+  "source": "https://www.doj.nh.gov/consumer/security-breaches/documents/laufer-20180227.pdf",
+  "summary": "Laufer Group International es víctima de una estafa W-2.",
+  "color": "#a78bfa"
+}

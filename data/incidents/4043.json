@@ -1,0 +1,13 @@
+{
+  "id": 4043,
+  "title": "Grabado técnico - Ransomware - Undetermined",
+  "date": "2021-08-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Empresa",
+  "source": "nan",
+  "summary": "Empresa manufacturera sufre ataque de ransomware comprometiendo información sanitaria protegida de sus empleados cubiertos por el seguro laboral.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1917,
+  "title": "Dunkin' Donuts - Data leak - Undetermined",
+  "date": "2018-11-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Dunkin Donuts",
+  "source": "https://threatpost.com/hackers-breach-dunkin-donuts-accounts-in-credential-stuffing-attack/139472/",
+  "summary": "Dunkin' Donuts informa a algunos miembros de su programa DD Perks que la información de sus cuentas podría haber sido expuesta mediante un ataque de robo de credenciales. El incidente se descubrió el 31 de octubre de 2018.",
+  "color": "#ef4444"
+}

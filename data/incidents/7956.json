@@ -1,0 +1,13 @@
+{
+  "id": 7956,
+  "title": "MercadoLibre - Data leak - Undetermined",
+  "date": "2020-11-18",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Cybereason Nocturnus descubren Chaes",
+  "source": "nan",
+  "summary": "Investigadores de Cybereason Nocturnus descubren Chaes, un malware que ataca la información financiera de los clientes brasileños de MercadoLivre, la mayor plataforma de comercio electrónico brasileña.",
+  "color": "#a78bfa"
+}

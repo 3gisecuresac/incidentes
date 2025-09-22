@@ -1,0 +1,13 @@
+{
+  "id": 2106,
+  "title": "Ciudad de Albany - Ransomware - Undetermined",
+  "date": "2019-03-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Albany",
+  "source": "https://www.bleepingcomputer.com/news/security/new-york-albany-capital-hit-by-ransomware-attack/",
+  "summary": "La ciudad de Albany, capital del estado estadounidense de Nueva York, se vio afectada por un ataque de ransomware y los funcionarios de la ciudad trabajaron durante el fin de semana para responder al incidente.",
+  "color": "#ef4444"
+}

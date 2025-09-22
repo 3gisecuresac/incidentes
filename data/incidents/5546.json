@@ -1,0 +1,13 @@
+{
+  "id": 5546,
+  "title": "Junta de Servicios Educativos Cooperativos de Tompkins-Seneca-Tioga (TST BOCES) - Ciberataque - Undetermined",
+  "date": "2023-04-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Servicios Educativos Cooperativos Tompkins-Seneca-Tioga",
+  "source": "nan",
+  "summary": "La Junta de Servicios Educativos Cooperativos Tompkins-Seneca-Tioga (TST BOCES) presenta un aviso de violación de datos después de enterarse de un incidente de seguridad de datos que filtró la información personal de más de 11.000 personas.",
+  "color": "#ef4444"
+}

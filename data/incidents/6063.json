@@ -1,0 +1,13 @@
+{
+  "id": 6063,
+  "title": "Grupo Médico SouthCoast - Ciberataque - Undetermined",
+  "date": "2023-08-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en SouthCoast Medical Group",
+  "source": "nan",
+  "summary": "SouthCoast Medical Group presenta un aviso de violación de datos después de descubrir que una parte no autorizada descargó ciertos archivos de la red informática de la empresa.",
+  "color": "#ef4444"
+}

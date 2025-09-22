@@ -1,0 +1,13 @@
+{
+  "id": 4109,
+  "title": "Agencia del Área sobre el Envejecimiento de la Región IV - Data leak - Undetermined",
+  "date": "2021-09-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing",
+  "source": "nan",
+  "summary": "Un proveedor de gestión de atención es víctima de un ataque de phishing dirigido al cheque de pago de un empleado; la información personal de 3.000 personas está potencialmente comprometida.",
+  "color": "#ef4444"
+}

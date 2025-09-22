@@ -1,0 +1,13 @@
+{
+  "id": 6183,
+  "title": "Escuelas públicas del condado de Hillsborough - Ransomware - LockBit 3.0",
+  "date": "2023-09-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Filtración de datos en Condado de Hillsborough a su sitio de filtraciones",
+  "source": "nan",
+  "summary": "LockBit agrega las Escuelas Públicas del Condado de Hillsborough a su sitio de filtraciones, afirmando haber adquirido 2 TB de datos y proporcionando una lista de archivos y algunos archivos de muestra.",
+  "color": "#ef4444"
+}

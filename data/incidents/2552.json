@@ -1,0 +1,13 @@
+{
+  "id": 2552,
+  "title": "Ciudad de Nueva Orleans - Ransomware - Undetermined",
+  "date": "2019-12-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Nueva Orleans sufre un ataque de ransomware",
+  "source": "https://www.zdnet.com/article/new-orleans-hit-by-ransomware-city-employees-told-to-turn-off-computers/",
+  "summary": "La ciudad de Nueva Orleans sufre un ataque de ransomware. Se alerta inmediatamente a todos los empleados para que apaguen sus computadoras, desconecten sus dispositivos y se desconecten del wifi de la ciudad.",
+  "color": "#ef4444"
+}

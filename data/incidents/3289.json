@@ -1,0 +1,13 @@
+{
+  "id": 3289,
+  "title": "Ciudad de Franklin - Phishing - Undetermined",
+  "date": "2020-10-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Phishing",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Franklin anunciaron haber sido víctimas de un ataque de spearphishing",
+  "source": "https://www.govtech.com/security/Spearphishing-Attack-Steals-522K-from-Franklin-Mass.html",
+  "summary": "Los funcionarios municipales de la ciudad de Franklin anunciaron haber sido víctimas de un ataque de spearphishing que resultó en que $522,000 fueran mal dirigidos a un tercero.",
+  "color": "#ef4444"
+}

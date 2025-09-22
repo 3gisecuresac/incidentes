@@ -1,0 +1,13 @@
+{
+  "id": 90,
+  "title": "Embajada de Estados Unidos en Turquía - Data leak - RedHack",
+  "date": "2014-02-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "RedHack",
+  "impact": "Filtración de datos en Estados Unidos en Turquía",
+  "source": "http://news.softpedia.com/news/RedHack-Leaks-Contact-Information-of-US-Embassy-Staff-426336.shtml",
+  "summary": "Hackers del colectivo RedHack filtran la información de contacto de 36 empleados de la Embajada de Estados Unidos en Turquía. Los hacktivistas publican una lista con nombres, direcciones de correo electrónico, cargos y números de teléfono.",
+  "color": "#ef4444"
+}

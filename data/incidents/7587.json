@@ -1,0 +1,13 @@
+{
+  "id": 7587,
+  "title": "Sociedad de Ayuda a la Infancia del Condado de Oxford - Ransomware - Undetermined",
+  "date": "2018-01-18",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Ontario",
+  "source": "nan",
+  "summary": "Dos sociedades de ayuda a la infancia de Ontario (Children's Aid Society of Oxford County y Family and Children's Services of Lanark, Leeds and Grenville) se ven afectadas por ransomware.",
+  "color": "#ef4444"
+}

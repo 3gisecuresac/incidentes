@@ -1,0 +1,13 @@
+{
+  "id": 1591,
+  "title": "Los Angeles Times - Data leak - Undetermined",
+  "date": "2018-02-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Bad Packets Report",
+  "source": "https://threatpost.com/cryptojacking-attack-found-on-los-angeles-times-website/130041/",
+  "summary": "Troy Mursch, investigador de seguridad de Bad Packets Report, encuentra un código de cryptojacking oculto (basado en Coinhive) en la página web interactiva Homicide Report de Los Angeles Times.",
+  "color": "#a78bfa"
+}

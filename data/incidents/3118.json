@@ -1,0 +1,13 @@
+{
+  "id": 3118,
+  "title": "Distrito Escolar Unificado de Rialto - DoS - Undetermined",
+  "date": "2020-08-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Rialto",
+  "source": "https://www.infosecurity-magazine.com/news/cyberattack-on-rialto-school/",
+  "summary": "Un ciberataque ha cerrado las clases virtuales en el Distrito Escolar Unificado de Rialto.",
+  "color": "#a78bfa"
+}

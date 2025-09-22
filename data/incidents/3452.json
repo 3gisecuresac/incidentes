@@ -1,0 +1,13 @@
+{
+  "id": 3452,
+  "title": "Condado de Bowie - Ransomware - Undetermined",
+  "date": "2020-12-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Bowie",
+  "source": "nan",
+  "summary": "Un ataque de ransomware afectó las computadoras de la ciudad y provocó cortes en todo el condado de Bowie.",
+  "color": "#ef4444"
+}

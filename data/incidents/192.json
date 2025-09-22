@@ -1,0 +1,13 @@
+{
+  "id": 192,
+  "title": "Criptoma - Data leak - Undetermined",
+  "date": "2014-06-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Cryptome",
+  "source": "http://www.theregister.co.uk/2014/06/25/row_after_cryptome_pulled_offline/",
+  "summary": "El sitio de denuncia de irregularidades Cryptome quedó temporalmente no disponible después de que su proveedor de servicios NetSol dejó de enrutar el tráfico hacia el sitio tras el descubrimiento de un archivo PHP sospechoso y probablemente malicioso.",
+  "color": "#a78bfa"
+}

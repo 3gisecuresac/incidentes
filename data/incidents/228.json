@@ -1,0 +1,13 @@
+{
+  "id": 228,
+  "title": "Supervalor - Infección Dispositivos - Undetermined",
+  "date": "2014-08-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en TI",
+  "source": "http://arstechnica.com/security/2014/08/grocery-shoppers-nationwide-probably-had-credit-card-data-stolen/",
+  "summary": "SuperValu anuncia que la información de las tarjetas de crédito de sus clientes podría haber sido robada durante una intrusión en la red. Como consecuencia, incluso AB Acquisition LLC, a la que SuperValu presta servicios de TI, se ve afectada.",
+  "color": "#3b82f6"
+}

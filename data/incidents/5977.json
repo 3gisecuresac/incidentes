@@ -1,0 +1,13 @@
+{
+  "id": 5977,
+  "title": "Escuelas públicas del condado de Buckingham - Data leak - Undetermined",
+  "date": "2023-07-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Condado de Buckingham envían notificaciones a los padres de 86 estudiantes después de",
+  "source": "nan",
+  "summary": "Las Escuelas Públicas del Condado de Buckingham envían notificaciones a los padres de 86 estudiantes después de que se vulnerara la cuenta de correo electrónico comercial de un distrito.",
+  "color": "#a78bfa"
+}

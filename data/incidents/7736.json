@@ -1,0 +1,13 @@
+{
+  "id": 7736,
+  "title": "Sierra Wireless - Ransomware - Undetermined",
+  "date": "2021-03-23",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en IoT",
+  "source": "nan",
+  "summary": "Sierra Wireless, proveedor líder mundial de soluciones de IoT, revela un ataque de ransomware que obliga a detener la producción en todas las plantas de fabricación.",
+  "color": "#ef4444"
+}

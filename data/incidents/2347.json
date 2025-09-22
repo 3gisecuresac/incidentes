@@ -1,0 +1,13 @@
+{
+  "id": 2347,
+  "title": "Hospital del Valle de Sonoma - DoS - Undetermined",
+  "date": "2019-08-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Sonoma Valley Hospital está secuestrado",
+  "source": "https://healthitsecurity.com/news/sonoma-valley-hospital-website-email-addresses-hijacked",
+  "summary": "El dominio del Sonoma Valley Hospital está secuestrado.",
+  "color": "#a78bfa"
+}

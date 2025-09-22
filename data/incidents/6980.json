@@ -1,0 +1,13 @@
+{
+  "id": 6980,
+  "title": "Krispy Kreme - Ransomware - Play",
+  "date": "2024-11-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Play",
+  "impact": "Cifrado por ransomware en Krispy Kreme",
+  "source": "nan",
+  "summary": "La cadena estadounidense de donas Krispy Kreme revela que sufrió un ciberataque en noviembre que afectó parte de sus operaciones comerciales, incluyendo la realización de pedidos en línea. El grupo de ransomware Play se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

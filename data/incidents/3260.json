@@ -1,0 +1,13 @@
+{
+  "id": 3260,
+  "title": "TwinMed, LLC. - Ciberataque - Undetermined",
+  "date": "2020-09-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Twin Med",
+  "source": "https://www.databreaches.net/bits-n-pieces-76/",
+  "summary": "Twin Med notifica a 366 empleados sobre acceso no autorizado a su información.",
+  "color": "#a78bfa"
+}

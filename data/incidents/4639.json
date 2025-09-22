@@ -1,0 +1,13 @@
+{
+  "id": 4639,
+  "title": "Puma Biotechnology - Ransomware - Ragnar Locker",
+  "date": "2022-06-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Ragnar Locker",
+  "impact": "Filtración de datos en Maine",
+  "source": "nan",
+  "summary": "Puma Biotechnology revela haber sufrido una vulneración de seguridad. Según el sitio web de la Fiscalía General de Maine, aproximadamente 1933 personas en California y Estados Unidos estuvieron expuestas.",
+  "color": "#ef4444"
+}

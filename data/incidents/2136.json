@@ -1,0 +1,13 @@
+{
+  "id": 2136,
+  "title": "Grupo Médico Centrelake - DoS - Undetermined",
+  "date": "2019-04-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Centrelake Medical Group",
+  "source": "https://www.databreaches.net/centrelake-medical-group-notifies-patients-after-ransomware-investigation-reveals-earlier-intrusion-and-suspicious-activity/",
+  "summary": "Centrelake Medical Group notifica a casi 198.000 pacientes después de que una investigación sobre el virus revelara una intrusión previa y una actividad sospechosa.",
+  "color": "#3b82f6"
+}

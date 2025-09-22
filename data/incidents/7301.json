@@ -1,0 +1,13 @@
+{
+  "id": 7301,
+  "title": "Telefónica - Data leak - Hellcat",
+  "date": "2025-01-10",
+  "country": "España",
+  "region": "Europa",
+  "type": "Data leak",
+  "actor": "Hellcat",
+  "impact": "Filtración de datos en Telef",
+  "source": "nan",
+  "summary": "La compañía española de telecomunicaciones Telefónica confirma que un sistema interno de tickets fue violado después de que datos robados se filtraran en un foro de piratería.",
+  "color": "#ef4444"
+}

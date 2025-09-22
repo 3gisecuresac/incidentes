@@ -1,0 +1,13 @@
+{
+  "id": 4378,
+  "title": "Gestión patrimonial de Morgan Stanley - Data leak - Undetermined",
+  "date": "2022-03-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Morgan Stanley",
+  "source": "nan",
+  "summary": "Morgan Stanley Wealth Management, la división de gestión de patrimonio y activos de Morgan Stanley, afirma que algunas de sus cuentas de clientes fueron comprometidas en ataques de ingeniería social de phishing de voz (vishing).",
+  "color": "#ef4444"
+}

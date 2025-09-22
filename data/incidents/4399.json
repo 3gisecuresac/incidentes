@@ -1,0 +1,13 @@
+{
+  "id": 4399,
+  "title": "SuperCare Salud - Data leak - Undetermined",
+  "date": "2022-03-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en SuperCare Health",
+  "source": "nan",
+  "summary": "SuperCare Health notifica a 318,379 pacientes que parte de su información médica protegida ha sido expuesta y potencialmente accedida por personas no autorizadas en un ciberataque que ocurrió en julio de 2021.",
+  "color": "#ef4444"
+}

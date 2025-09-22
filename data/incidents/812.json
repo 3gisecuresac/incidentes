@@ -1,0 +1,13 @@
+{
+  "id": 812,
+  "title": "Consejo de la CE (eccouncil.org) - Ransomware - Undetermined",
+  "date": "2016-03-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en EC-Council",
+  "source": "http://arstechnica.com/security/2016/03/certified-ethical-hacker-website-caught-spreading-crypto-ransomware/",
+  "summary": "El sitio web de EC-Council, la organización profesional que administra el programa Certified Ethical Hacker, está comprometido para redirigir a los visitantes a una página de destino de Angler Exploit Kit, donde se inyecta el infame ransomware Teslacrypt.",
+  "color": "#ef4444"
+}

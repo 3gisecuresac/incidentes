@@ -1,0 +1,13 @@
+{
+  "id": 7098,
+  "title": "Ortopedia Teton - Ransomware - DragonForce",
+  "date": "2025-01-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "DragonForce",
+  "impact": "Cifrado por ransomware en Teton Orthopaedics",
+  "source": "nan",
+  "summary": "Teton Orthopaedics revela un ataque de ransomware DragonForce. Un total de 13.409 personas se vieron afectadas por el incidente.",
+  "color": "#ef4444"
+}

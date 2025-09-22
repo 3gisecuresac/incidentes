@@ -1,0 +1,13 @@
+{
+  "id": 6163,
+  "title": "Escuelas Públicas de St. Paul - Ciberataque - DataBreaches user Mud",
+  "date": "2023-09-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "DataBreaches user Mud",
+  "impact": "Filtración de datos en St",
+  "source": "nan",
+  "summary": "Las Escuelas Públicas de St. Paul notifican a las familias y al personal sobre un incidente de seguridad de datos que puede haber expuesto los nombres y direcciones de correo electrónico de los estudiantes.",
+  "color": "#ef4444"
+}

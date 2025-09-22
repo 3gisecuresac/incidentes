@@ -1,0 +1,13 @@
+{
+  "id": 7529,
+  "title": "Departamento de Policía de Montreal - DoS - Anonymous (Quebec)",
+  "date": "2015-04-12",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Anonymous (Quebec)",
+  "impact": "Sistema o cuenta comprometida en Departamento de Policía de Montreal",
+  "source": "nan",
+  "summary": "El grupo de hackers Anonymous Quebec derriba el sitio web del Departamento de Policía de Montreal y del sindicato de oficiales para protestar contra la brutalidad empleada durante las manifestaciones estudiantiles.",
+  "color": "#3b82f6"
+}

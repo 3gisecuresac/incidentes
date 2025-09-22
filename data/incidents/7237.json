@@ -1,0 +1,13 @@
+{
+  "id": 7237,
+  "title": "Hospital Centro de Andalucia - Ransomware - Vice Society",
+  "date": "2021-12-15",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Vice Society",
+  "impact": "Filtración de datos en Hospital",
+  "source": "nan",
+  "summary": "Hospital español sufre ataque de ransomware, roban 127 GB de datos que contienen información limitada de los pacientes.",
+  "color": "#ef4444"
+}

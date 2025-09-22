@@ -1,0 +1,13 @@
+{
+  "id": 1636,
+  "title": "La empresa eléctrica de Puerto Rico, AEE - Data leak - Undetermined",
+  "date": "2018-03-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Puerto Rico",
+  "source": "https://uk.reuters.com/article/us-usa-puertorico-cyberattack/puerto-rico-power-utility-hacked-but-customer-data-not-at-risk-idUKKBN1GV30A",
+  "summary": "La empresa eléctrica de Puerto Rico, PREPA, revela que fue hackeada durante el fin de semana, pero la información de sus clientes no fue comprometida.",
+  "color": "#3b82f6"
+}

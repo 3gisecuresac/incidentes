@@ -1,0 +1,13 @@
+{
+  "id": 7503,
+  "title": "Observatorio Atacama Large Millimeter Array (ALMA) - Ransomware - Undetermined",
+  "date": "2022-10-29",
+  "country": "Chile",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Chile suspende todas las operaciones de observación astronómica",
+  "source": "nan",
+  "summary": "El observatorio Atacama Large Millimeter Array (ALMA) en Chile suspende todas las operaciones de observación astronómica y retira su sitio web público tras un ciberataque.",
+  "color": "#a78bfa"
+}

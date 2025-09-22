@@ -1,0 +1,13 @@
+{
+  "id": 5063,
+  "title": "CISA - DoS - KillMilk",
+  "date": "2022-11-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "KillMilk",
+  "impact": "Interrupción por DDoS en DDoS contra el",
+  "source": "nan",
+  "summary": "KillMilk afirma haber realizado un ataque DDoS contra el portal de inicio de sesión de una agencia de ciberseguridad estadounidense.",
+  "color": "#f59e0b"
+}

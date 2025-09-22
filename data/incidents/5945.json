@@ -1,0 +1,13 @@
+{
+  "id": 5945,
+  "title": "Cognizant / TMG - Ciberataque - Undetermined",
+  "date": "2023-07-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Cognizant TMG",
+  "source": "nan",
+  "summary": "Cognizant/TMG presenta un aviso de violación de datos después de descubrir que una parte no autorizada accedió a datos confidenciales de consumidores almacenados en la red informática de la empresa.",
+  "color": "#ef4444"
+}

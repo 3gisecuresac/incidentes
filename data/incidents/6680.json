@@ -1,0 +1,13 @@
+{
+  "id": 6680,
+  "title": "Año - Data leak - Undetermined",
+  "date": "2024-03-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Roku",
+  "source": "nan",
+  "summary": "Roku advierte que 576.000 cuentas fueron pirateadas en nuevos ataques de robo de credenciales después de revelar otro incidente que comprometió 15.000 cuentas a principios de marzo.",
+  "color": "#3b82f6"
+}

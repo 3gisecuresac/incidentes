@@ -1,0 +1,13 @@
+{
+  "id": 7738,
+  "title": "Municipio turístico de Whistler (RMOW) - Ransomware - Undetermined",
+  "date": "2021-04-28",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Whistler",
+  "source": "nan",
+  "summary": "El Municipio Turístico de Whistler (RMOW) sufre un ataque de ransomware y se filtran 800 GB.",
+  "color": "#ef4444"
+}

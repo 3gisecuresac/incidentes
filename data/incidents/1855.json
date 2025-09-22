@@ -1,0 +1,13 @@
+{
+  "id": 1855,
+  "title": "Clínica quiropráctica Tillamook - Data leak - Undetermined",
+  "date": "2018-10-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en La Cl",
+  "source": "https://www.databreaches.net/notice-of-security-breach-tillamook-chiropractic-clinic/",
+  "summary": "La Clínica Quiropráctica Tillamook revela que en mayo de 2016 se instaló malware en el sistema de facturación de seguros principal, que los piratas informáticos luego utilizaron como área de preparación para recopilar registros de pacientes.",
+  "color": "#a78bfa"
+}

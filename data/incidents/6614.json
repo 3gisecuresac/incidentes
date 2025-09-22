@@ -1,0 +1,13 @@
+{
+  "id": 6614,
+  "title": "Cirujanos ortopédicos de Des Moines - Data leak - Undetermined",
+  "date": "2024-01-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Des Moines Orthopaedic Surgeons DMOS",
+  "source": "nan",
+  "summary": "Des Moines Orthopaedic Surgeons (DMOS) presenta un aviso de violación de datos después de descubrir que un actor no autorizado pudo acceder a la red informática de la empresa.",
+  "color": "#ef4444"
+}

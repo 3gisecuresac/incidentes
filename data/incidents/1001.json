@@ -1,0 +1,13 @@
+{
+  "id": 1001,
+  "title": "Hoteles Omni - Infección Dispositivos - JokerStash",
+  "date": "2016-07-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "JokerStash",
+  "impact": "Filtración de datos en Omni fueron infectados con malware diseñado",
+  "source": "http://www.esecurityplanet.com/network-security/omni-hotels-noodles-company-nc-state-acknowledge-data-breaches.html",
+  "summary": "Omni Hotels & Resorts anuncia que los sistemas de puntos de venta en algunas propiedades de Omni fueron infectados con malware diseñado para recopilar datos de tarjetas de pago, incluidos nombres de titulares de tarjetas, números de tarjetas de crédito o débito, códigos de seguridad y fechas de vencimiento.",
+  "color": "#ef4444"
+}

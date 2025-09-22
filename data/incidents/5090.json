@@ -1,0 +1,13 @@
+{
+  "id": 5090,
+  "title": "ESO - Ciberataque - Undetermined",
+  "date": "2022-11-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en ESO una",
+  "source": "nan",
+  "summary": "ESO, una empresa que proporciona software de sistemas de gestión de registros que permite a los servicios de emergencia y a las agencias paramédicas recibir una alerta de su equipo de seguridad y apagar su sistema.",
+  "color": "#a78bfa"
+}

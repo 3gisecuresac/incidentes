@@ -1,0 +1,13 @@
+{
+  "id": 3883,
+  "title": "USV Óptica - Data leak - Undetermined",
+  "date": "2021-05-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en USV Optical",
+  "source": "nan",
+  "summary": "USV Optical sufre una violación de datos que compromete los datos de más de 180.000 personas.",
+  "color": "#ef4444"
+}

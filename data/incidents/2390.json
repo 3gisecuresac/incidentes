@@ -1,0 +1,13 @@
+{
+  "id": 2390,
+  "title": "Universidad Estatal de Kent - Password Attack - Undetermined",
+  "date": "2019-09-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Password Attack",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Kent anuncia",
+  "source": "https://www.databreaches.net/3000-kent-state-student-emails-hacked/",
+  "summary": "La Universidad Estatal de Kent anuncia que más de 3.000 correos electrónicos de estudiantes fueron pirateados la semana anterior, como resultado de la recolección de credenciales.",
+  "color": "#a78bfa"
+}

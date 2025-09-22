@@ -1,0 +1,13 @@
+{
+  "id": 5761,
+  "title": "Finanzas sólidas - Data leak - Undetermined",
+  "date": "2023-06-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Sturdy Finance",
+  "source": "nan",
+  "summary": "Sturdy Finance ofrece una recompensa de $10,000 y ninguna consecuencia legal a un hacker si devuelve los $800,000 que robó de la plataforma financiera descentralizada.",
+  "color": "#3b82f6"
+}

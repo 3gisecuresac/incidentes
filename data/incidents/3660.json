@@ -1,0 +1,13 @@
+{
+  "id": 3660,
+  "title": "Danaher - ciberataque - FIN11",
+  "date": "2021-02-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "ciberataque",
+  "actor": "FIN11",
+  "impact": "Incidente de seguridad en Accellion",
+  "source": "nan",
+  "summary": "Danaher se suma a la lista de víctimas de la vulnerabilidad de Accellion.",
+  "color": "#a78bfa"
+}

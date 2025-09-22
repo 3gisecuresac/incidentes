@@ -1,0 +1,13 @@
+{
+  "id": 3980,
+  "title": "Radiología Vista - Ransomware - Undetermined",
+  "date": "2021-07-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Vista Radiology",
+  "source": "nan",
+  "summary": "Vista Radiology sufre un ataque de ransomware que compromete la información sanitaria protegida de más de 3.600 pacientes.",
+  "color": "#ef4444"
+}

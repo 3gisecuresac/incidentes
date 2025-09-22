@@ -1,0 +1,13 @@
+{
+  "id": 3978,
+  "title": "Instituto de huesos y articulaciones Lakeshore - Data leak - Undetermined",
+  "date": "2021-07-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Consultorio",
+  "source": "nan",
+  "summary": "Consultorio ortopédico sufre acceso no autorizado a cuenta de correo electrónico de empleados comprometiendo información personal y de salud de 23.000 personas.",
+  "color": "#3b82f6"
+}

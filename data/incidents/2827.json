@@ -1,0 +1,13 @@
+{
+  "id": 2827,
+  "title": "Deportes EA - DoS - Undetermined",
+  "date": "2020-04-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en EA Sports",
+  "source": "https://www.hackread.com/ea-sports-down-gaming-giant-hit-by-ddos-attacks/",
+  "summary": "EA Sports sufre un ataque DDoS.",
+  "color": "#f59e0b"
+}

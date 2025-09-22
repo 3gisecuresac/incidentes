@@ -1,0 +1,13 @@
+{
+  "id": 3846,
+  "title": "Hospital del condado de Wayne - Data leak - Undetermined",
+  "date": "2021-04-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Hospital del Condado de Wayne se ven comprometidas en un ataque de phishing",
+  "source": "nan",
+  "summary": "Varias cuentas de correo electrónico de empleados del Hospital del Condado de Wayne se ven comprometidas en un ataque de phishing que expone información de los pacientes.",
+  "color": "#ef4444"
+}

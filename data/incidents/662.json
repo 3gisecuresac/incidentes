@@ -1,0 +1,13 @@
+{
+  "id": 662,
+  "title": "http://www.lonestarspeedzone.com - Data leak - Eggfather",
+  "date": "2015-11-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Eggfather",
+  "impact": "Cifrado por ransomware en lonestarspeedzone.com",
+  "source": "https://web.archive.org/web/20190118013114/http://siph0n.in/exploits.php?id=4181",
+  "summary": "Eggfather hackea lonestarspeedzone.com y descarga 1.939 nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

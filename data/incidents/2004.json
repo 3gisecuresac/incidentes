@@ -1,0 +1,13 @@
+{
+  "id": 2004,
+  "title": "Descubra los servicios financieros - Data leak - Undetermined",
+  "date": "2019-01-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Discover Financial Services",
+  "source": "https://www.bleepingcomputer.com/news/security/discover-card-users-affected-by-data-breach-new-credit-cards-issued/",
+  "summary": "Discover Financial Services revela que el 13 de agosto de 2018, un número no revelado de cuentas de tarjetas Discover podrían haber sido parte de una violación de datos que sufrió un comerciante.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4527,
+  "title": "Asociados Cardiovasculares (CVA) - Data leak - Undetermined",
+  "date": "2022-05-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Cardiovascular Associates CVA",
+  "source": "nan",
+  "summary": "Cardiovascular Associates (CVA) presenta un aviso de violación de datos después de que la empresa se enteró de que ciertos sistemas dentro de su red estaban sujetos a acceso no autorizado.",
+  "color": "#ef4444"
+}

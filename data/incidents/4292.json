@@ -1,0 +1,13 @@
+{
+  "id": 4292,
+  "title": "Frente Patriota - Data leak - Undetermined",
+  "date": "2022-01-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Patriot Front",
+  "source": "nan",
+  "summary": "El sitio web de un grupo de supremacía blanca, Patriot Front, es hackeado y se filtran 400 GB de datos en línea.",
+  "color": "#ef4444"
+}

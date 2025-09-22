@@ -1,0 +1,13 @@
+{
+  "id": 4946,
+  "title": "Centro Médico de Fertilidad del Norte de California (NCFMC) - Ransomware - Undetermined",
+  "date": "2022-09-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Fertilidad del Norte de California",
+  "source": "nan",
+  "summary": "El Centro Médico de Fertilidad del Norte de California (NCFMC) presenta un aviso oficial de una violación de datos después de que una parte no autorizada accedió a la red de la empresa e intentó cifrar ciertos archivos.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2502,
+  "title": "Gobierno del estado de Luisiana - Ransomware - Undetermined",
+  "date": "2019-11-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Luisiana",
+  "source": "https://www.zdnet.com/article/ransomware-hits-louisiana-state-government-systems/",
+  "summary": "Una infección de ransomware inutiliza 79 sistemas informáticos y sitios web administrados por el gobierno del estado de Luisiana. Entre los objetivos se incluyen la Oficina del Gobernador, la Legislatura del Estado de Luisiana, la Oficina de Vehículos Motorizados, el Departamento de Correccionales, la División de Administración de Luisiana, el Departamento de Transporte y Desarrollo, entre otros.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1009,
+  "title": "Comité Nacional Demócrata - Data leak - FSB 18th Center for Information Security (Berserk Bear); GRU Unit 26165 (FANCY BEAR)",
+  "date": "2016-07-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "FSB 18th Center for Information Security (Berserk Bear); GRU Unit 26165 (FANCY BEAR)",
+  "impact": "Filtración de datos en Comité Nacional Demócrata",
+  "source": "http://www.ibtimes.co.uk/dnc-hacker-guccifer-2-0-leaks-files-sarah-palin-convicted-democratic-party-donors-1570697",
+  "summary": "Guccifer 2.0 filtra más documentos supuestamente robados de las redes informáticas del Comité Nacional Demócrata (DNC), incluidas investigaciones de la oposición, listas de donantes políticos y memorandos internos.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5723,
+  "title": "Delta Dental de California - Data leak - cl0p",
+  "date": "2023-06-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit",
+  "source": "nan",
+  "summary": "Delta Dental of California presenta un aviso de violación de datos después de descubrir que los atacantes explotaron la vulnerabilidad en MOVEit, la aplicación de transferencia de archivos utilizada por la empresa.",
+  "color": "#ef4444"
+}

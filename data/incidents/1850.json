@@ -1,0 +1,13 @@
+{
+  "id": 1850,
+  "title": "Toyota (Norteamérica) - Phishing - Undetermined",
+  "date": "2018-09-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Phishing",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Toyota Industries North America",
+  "source": "https://www.databreaches.net/toyota-notifies-employees-and-health-plan-participants-of-data-breach/",
+  "summary": "Toyota Industries North America notifica a las personas sobre un incidente de phishing, que podría afectar a aproximadamente 19 000 empleados actuales y anteriores y participantes de planes de salud.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2110,
+  "title": "Ciudad de Tallahassee - Data leak - Undetermined",
+  "date": "2019-04-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Tallahassee después de un presunto ciberataque extranjero a su aplicación de gestión de recursos humanos",
+  "source": "https://www.databreaches.net/almost-500000-swiped-in-city-of-tallahassee-payroll-hack/",
+  "summary": "Casi medio millón de dólares se desvían de la nómina de empleados de la ciudad de Tallahassee después de un presunto ciberataque extranjero a su aplicación de gestión de recursos humanos.",
+  "color": "#a78bfa"
+}

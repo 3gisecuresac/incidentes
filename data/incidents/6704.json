@@ -1,0 +1,13 @@
+{
+  "id": 6704,
+  "title": "Sistema automatizado de personal de la ciudad de Nueva York, autoservicio para empleados (conocido como NYCAPS/ESS) - Data leak - Undetermined",
+  "date": "2024-03-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Nueva York desconectó parcialmente su sitio web de nóminas durante los últimos nueve días en respuesta a un reciente esquema de phishing dirigido a empleados de la ciudad",
+  "source": "nan",
+  "summary": "La ciudad de Nueva York desconectó parcialmente su sitio web de nóminas durante los últimos nueve días en respuesta a un reciente esquema de phishing dirigido a empleados de la ciudad.",
+  "color": "#ef4444"
+}

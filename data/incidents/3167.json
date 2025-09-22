@@ -1,0 +1,13 @@
+{
+  "id": 3167,
+  "title": "Clínica Guthrie - Data leak - Undetermined",
+  "date": "2020-09-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Blackbaud",
+  "source": "https://www.dataguidance.com/news/usa-guthrie-clinic-notifies-ocr-health-data-breach-92064-patients-affected",
+  "summary": "La Clínica Guthrie se ve afectada por la violación de datos de Blackbaud y 92.064 pacientes se ven afectados.",
+  "color": "#ef4444"
+}

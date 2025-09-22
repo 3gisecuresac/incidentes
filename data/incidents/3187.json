@@ -1,0 +1,13 @@
+{
+  "id": 3187,
+  "title": "AspenPointe - Data leak - Undetermined",
+  "date": "2020-09-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Colorado de servicios ambulatorios",
+  "source": "https://www.databreaches.net/colorado-mental-health-services-provider-reveals-september-attack-impacted-hundreds-of-thousands-of-clients-and-employees/",
+  "summary": "AspenPointe,ÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â 'ÃÆÃ'ÃÂ¢Ã¢'Â¬ÃÂ 'ÃÆÃ'Ãâ 'ÃÆÃÂ¢ÃÂ¢'ÃÂ¬Ã'ÃÂ 'ÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â '''ÃÆÃ'Ãâ 'ÃÆÃ¢â¬Â Un proveedor de Colorado de servicios ambulatorios y hospitalarios para crisis, salud mental, abuso de sustancias y servicios de comportamiento sufrió una violación de datos en septiembre que involucró la exfiltración de cierta información, incluido nombre, fecha de nacimiento, número de Seguro Social, número de licencia de conducir y/o información de cuenta bancaria.",
+  "color": "#ef4444"
+}

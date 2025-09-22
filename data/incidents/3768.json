@@ -1,0 +1,13 @@
+{
+  "id": 3768,
+  "title": "Clínica de Salud Comunitaria Popular - Data leak - Undetermined",
+  "date": "2021-03-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Salud Comunitario del Pueblo revela",
+  "source": "nan",
+  "summary": "El Centro de Salud Comunitario del Pueblo revela que durante un período de marzo hubo acceso no autorizado al correo electrónico de un empleado.",
+  "color": "#a78bfa"
+}

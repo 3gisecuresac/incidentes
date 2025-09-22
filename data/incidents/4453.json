@@ -1,0 +1,13 @@
+{
+  "id": 4453,
+  "title": "Asociación Dental Americana (ADA) - Ransomware - Black Basta",
+  "date": "2022-04-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Black Basta",
+  "impact": "Cifrado por ransomware en Dental Americana ADA",
+  "source": "nan",
+  "summary": "La Asociación Dental Americana (ADA) se ve afectada por el nuevo ransomware Black Basta.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3606,
+  "title": "Vuelo estadounidense - Data leak - Undetermined",
+  "date": "2021-02-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en LendUS",
+  "source": "nan",
+  "summary": "LendUS sufre un ataque de phishing que compromete algunas cuentas de correo electrónico de empleados.",
+  "color": "#ef4444"
+}

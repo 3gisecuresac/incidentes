@@ -1,0 +1,13 @@
+{
+  "id": 5565,
+  "title": "Distrito Escolar Libre de Uniondale Union - Data leak - Medusa",
+  "date": "2023-04-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Medusa",
+  "impact": "Filtración de datos en Uniondale",
+  "source": "nan",
+  "summary": "El Distrito Escolar Libre de Uniondale (UUFSD) en Nueva York se agrega al sitio de filtraciones de Medusa con algunos archivos filtrados.",
+  "color": "#ef4444"
+}

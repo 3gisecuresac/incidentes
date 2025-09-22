@@ -1,0 +1,13 @@
+{
+  "id": 7633,
+  "title": "Vmedia - Data leak - Undetermined",
+  "date": "2019-09-25",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Vmedia",
+  "source": "nan",
+  "summary": "Vmedia revela que su foro ha sido comprometido y lo cierra temporalmente, instando a los usuarios a cambiar su contraseña.",
+  "color": "#3b82f6"
+}

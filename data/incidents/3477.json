@@ -1,0 +1,13 @@
+{
+  "id": 3477,
+  "title": "Grupo Wildan - Ransomware - WIZARD SPIDER",
+  "date": "2020-12-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Filtración de datos en Grupo Wildan",
+  "source": "nan",
+  "summary": "Grupo Wildan sufre un ataque de ransomware Conti, se filtran 136Gb de datos.",
+  "color": "#ef4444"
+}

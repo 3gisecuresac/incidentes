@@ -1,0 +1,13 @@
+{
+  "id": 6531,
+  "title": "MongoDB - Data leak - Undetermined",
+  "date": "2023-12-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en MongoDB",
+  "source": "nan",
+  "summary": "MongoDB advierte que sus sistemas corporativos fueron violados y que los datos de sus clientes quedaron expuestos en un ciberataque que fue detectado por la compañía a principios de esta semana.",
+  "color": "#ef4444"
+}

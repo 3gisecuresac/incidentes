@@ -1,0 +1,13 @@
+{
+  "id": 42,
+  "title": "Seguros la Occidental - Ransomware - ALPHVM",
+  "date": "2023-04-21",
+  "country": "Venezuela",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Seguros la Occidental una",
+  "source": "https://www.databreaches.net/bits-n-pieces-trozos-y-piezas-37/",
+  "summary": "Seguros la Occidental, una aseguradora venezolana que ofrece productos de seguros generales y de vida, se agrega al sitio de filtración de ransomware BlackCat con muestras que contienen 27 capturas de pantalla de imágenes de varios documentos de compañías de seguros que incluían tarjetas de identificación.",
+  "color": "#ef4444"
+}

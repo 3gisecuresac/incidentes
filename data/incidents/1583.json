@@ -1,0 +1,13 @@
+{
+  "id": 1583,
+  "title": "Western Union - Data leak - Undetermined",
+  "date": "2018-02-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Western Union para el",
+  "source": "https://www.databreaches.net/western-union-customer-data-stolen-company-blames-an-unnamed-storage-firm/",
+  "summary": "Western Union advierte que es posible que se haya accedido a la información de algunos clientes sin autorización como resultado de una intrusión informática contra un sistema de un proveedor externo anteriormente utilizado por Western Union para el almacenamiento seguro de datos.",
+  "color": "#ef4444"
+}

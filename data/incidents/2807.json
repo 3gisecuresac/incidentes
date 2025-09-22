@@ -1,0 +1,13 @@
+{
+  "id": 2807,
+  "title": "GoDaddy - Manipulación de mensajes - Undetermined",
+  "date": "2020-03-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en GoDaddy.com",
+  "source": "https://krebsonsecurity.com/2020/03/phish-of-godaddy-employee-jeopardized-escrow-com-among-others/",
+  "summary": "Un empleado de atención al cliente de GoDaddy.com, el mayor registrador de dominios del mundo, es atacado por un phishing selectivo. El estafador modifica registros clave de clientes, incluyendo el sitio de intermediación de transacciones escrow.com.",
+  "color": "#ef4444"
+}

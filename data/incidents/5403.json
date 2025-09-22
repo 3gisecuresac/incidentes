@@ -1,0 +1,13 @@
+{
+  "id": 5403,
+  "title": "Grupo de Urología de Wichita - Ransomware - Undetermined",
+  "date": "2023-03-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Wichita Urology Group",
+  "source": "nan",
+  "summary": "Wichita Urology Group notifica a 1,493 personas que personas no autorizadas obtuvieron acceso a su red y potencialmente vieron u obtuvieron archivos que contenían nombres, información de recetas, información de facturación e información de seguro médico.",
+  "color": "#a78bfa"
+}

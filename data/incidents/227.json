@@ -1,0 +1,13 @@
+{
+  "id": 227,
+  "title": "TheNaturalOnline.com - Data leak - Undetermined",
+  "date": "2014-08-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en TheNaturalOnline.com",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/vitamin-seller-website-attacked-payment-cards-and-other-info-compromised/",
+  "summary": "TheNaturalOnline.com está comprometido por un atacante desconocido, que obtiene acceso a nombres, direcciones, direcciones de correo electrónico, números de teléfono, contraseñas, tarjetas de crédito y débito, fechas de vencimiento y códigos CVV.",
+  "color": "#3b82f6"
+}

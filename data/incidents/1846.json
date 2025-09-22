@@ -1,0 +1,13 @@
+{
+  "id": 1846,
+  "title": "Puerto de San Diego - Ransomware - Undetermined",
+  "date": "2018-09-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en San Diego se ve afectado",
+  "source": "https://www.zdnet.com/article/port-of-san-diego-suffers-cyber-attack-second-port-in-a-week-after-barcelona/",
+  "summary": "El servicio al público en el Puerto de San Diego se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

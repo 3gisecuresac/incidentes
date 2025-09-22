@@ -1,0 +1,13 @@
+{
+  "id": 2229,
+  "title": "Laboratorio de Propulsión a Chorro (JPL) de la NASA - Data leak - Undetermined",
+  "date": "2019-06-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Raspberry Pi",
+  "source": "https://www.engadget.com/2019/06/20/nasa-jpl-cybersecurity-weaknesses/",
+  "summary": "Un informe de la NASA revela una violación de seguridad de abril de 2018, en la que una Raspberry Pi que no estaba autorizada a vincularse a la red JPL fue atacada por piratas informáticos.",
+  "color": "#a78bfa"
+}

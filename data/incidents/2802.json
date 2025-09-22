@@ -1,0 +1,13 @@
+{
+  "id": 2802,
+  "title": "Centro médico de Meadville - Ransomware - Undetermined",
+  "date": "2020-03-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en El Centro M",
+  "source": "https://www.databreaches.net/pa-meadville-medical-center-still-not-fully-recovered-from-malware-attack-in-march/",
+  "summary": "El Centro Médico Meadville sufre un ataque de malware.",
+  "color": "#a78bfa"
+}

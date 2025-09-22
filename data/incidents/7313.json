@@ -1,0 +1,13 @@
+{
+  "id": 7313,
+  "title": "Paraguay personal - DoS - Undetermined",
+  "date": "2022-10-28",
+  "country": "Paraguay",
+  "region": "Latinoamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Personal Paraguay",
+  "source": "nan",
+  "summary": "Personal Paraguay, empresa de telecomunicaciones paraguaya de propiedad privada, notifica haber sufrido una interrupción en su servicio debido a un ciberataque.",
+  "color": "#a78bfa"
+}

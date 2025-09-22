@@ -1,0 +1,13 @@
+{
+  "id": 5517,
+  "title": "T-Mobile - Data leak - Undetermined",
+  "date": "2023-03-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en T-Mobile",
+  "source": "nan",
+  "summary": "T-Mobile revela la segunda violación de datos de 2023 después de descubrir que los atacantes tuvieron acceso a la información personal de 836 clientes durante más de un mes, a partir de fines de febrero de 2023.",
+  "color": "#ef4444"
+}

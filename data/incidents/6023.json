@@ -1,0 +1,13 @@
+{
+  "id": 6023,
+  "title": "Centros de Salud Vecino - Data leak - cl0p",
+  "date": "2023-08-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Incidente de seguridad en Salud Vecino anuncia",
+  "source": "nan",
+  "summary": "Centros de Salud Vecino anuncia que se vio afectado por el reciente ciberataque MOVEit",
+  "color": "#a78bfa"
+}

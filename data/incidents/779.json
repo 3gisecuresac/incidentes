@@ -1,0 +1,13 @@
+{
+  "id": 779,
+  "title": "Banco de Dakota del Norte - Data leak - @TheFamilyMethod",
+  "date": "2016-03-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "@TheFamilyMethod",
+  "impact": "Filtración de datos en @TheFamilyMethod",
+  "source": "http://www.databreaches.net/hackers-claim-bank-of-north-dakota-hacked/",
+  "summary": "Miembros de @TheFamilyMethod afirman haber hackeado el Banco de Dakota del Norte y haber filtrado los registros de 124 transacciones.",
+  "color": "#ef4444"
+}

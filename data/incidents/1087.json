@@ -1,0 +1,13 @@
+{
+  "id": 1087,
+  "title": "Oficina de Marketing y Comunicación (OMC) de la Universidad de Santa Clara - Data leak - SCUWatch",
+  "date": "2016-10-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SCUWatch",
+  "impact": "Filtración de datos en Marketing",
+  "source": "https://www.databreaches.net/omc-targeted-in-latest-leak-involving-santa-clara-university/",
+  "summary": "Un hacker llamado SCUWatch filtra una gran cantidad de documentos internos de la Oficina de Marketing y Comunicaciones de la Universidad de Santa Clara.",
+  "color": "#ef4444"
+}

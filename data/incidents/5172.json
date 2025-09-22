@@ -1,0 +1,13 @@
+{
+  "id": 5172,
+  "title": "Grafana - DoS - Mirai",
+  "date": "2022-12-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Mirai",
+  "impact": "Interrupción por DDoS en KillNet",
+  "source": "nan",
+  "summary": "Mirai, un colectivo afiliado a KillNet, afirma haber realizado un ataque DDoS contra el servicio en la nube de una empresa tecnológica multinacional estadounidense.",
+  "color": "#f59e0b"
+}

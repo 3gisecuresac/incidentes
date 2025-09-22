@@ -1,0 +1,13 @@
+{
+  "id": 4755,
+  "title": "Servicios para personas mayores Minuteman (MSS) - Data leak - Undetermined",
+  "date": "2022-07-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Minuteman Senior Services MSS",
+  "source": "nan",
+  "summary": "Minuteman Senior Services (MSS) informa sobre una violación de correo electrónico que afectó a 4.000 personas.",
+  "color": "#a78bfa"
+}

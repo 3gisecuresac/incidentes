@@ -1,0 +1,13 @@
+{
+  "id": 5085,
+  "title": "Leidos - Data leak - Undetermined",
+  "date": "2022-11-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Diligent Corporation",
+  "source": "nan",
+  "summary": "Leidos presenta un aviso de violación de datos después de enterarse de que los datos confidenciales de los consumidores en posesión de la empresa estuvieron sujetos a acceso no autorizado después de que se explotara una vulnerabilidad en el software creado por Diligent Corporation.",
+  "color": "#ef4444"
+}

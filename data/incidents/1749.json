@@ -1,0 +1,13 @@
+{
+  "id": 1749,
+  "title": "Grupo MSK - Data leak - Undetermined",
+  "date": "2018-07-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en El Grupo MSK",
+  "source": "https://www.databreaches.net/msk-group-notifying-patients-of-data-security-incident/",
+  "summary": "El Grupo MSK notifica a los pacientes sobre un incidente de seguridad de datos que descubrieron el 7 de mayo, debido a un acceso no autorizado a ciertas partes de la red en momentos a lo largo de varios meses.",
+  "color": "#ef4444"
+}

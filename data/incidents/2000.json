@@ -1,0 +1,13 @@
+{
+  "id": 2000,
+  "title": "Helado de Graeter - Data leak - Undetermined",
+  "date": "2019-01-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Ice Cream",
+  "source": "https://www.databreaches.net/graeters-website-breach-could-compromise-12000-customers-credit-card-data/",
+  "summary": "Graeter's Ice Cream emite avisos a 12.000 clientes que realizaron compras en su sitio web el año pasado, luego de que se agregara un código no autorizado a la página de pago del sitio web.",
+  "color": "#a78bfa"
+}

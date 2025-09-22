@@ -1,0 +1,13 @@
+{
+  "id": 936,
+  "title": "Base de datos desconocida vinculada al gobierno de Luisiana - Data leak - National Security Agency",
+  "date": "2016-06-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "National Security Agency",
+  "impact": "Filtración de datos en Luisiana",
+  "source": "http://www.ibtimes.co.uk/hacker-puts-290000-driver-licence-records-sale-dark-web-stolen-government-computers-1564581",
+  "summary": "Un hacker bajo el seudónimo NSA pone a la venta en la dark web una base de datos que pretende contener más de un cuarto de millón de registros de licencias de conducir comprometidos desde bases de datos vinculadas al gobierno en Luisiana, Estados Unidos.",
+  "color": "#ef4444"
+}

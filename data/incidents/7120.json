@@ -1,0 +1,13 @@
+{
+  "id": 7120,
+  "title": "Centro de Asma y Alergia del Noroeste - Data leak - Undetermined",
+  "date": "2024-11-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Centro de Asma",
+  "source": "nan",
+  "summary": "Una persona no autorizada accedió a la cuenta de correo electrónico de un empleado el 12 de noviembre de 2024, comprometiendo datos confidenciales de pacientes del Centro de Asma y Alergia del Noroeste. La filtración se descubrió y contuvo el 13 de noviembre. Al menos 1000 pacientes fueron notificados el 2 de enero de 2025 y el incidente se reportó a la Oficina de Derechos Civiles del HHS. La investigación no encontró evidencia de exfiltración más allá de lo accesible a través del buzón comprometido.",
+  "color": "#ef4444"
+}

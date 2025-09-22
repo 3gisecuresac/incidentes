@@ -1,0 +1,13 @@
+{
+  "id": 7990,
+  "title": "Mercadocar Mercantil Ltda. - Ransomware - Vice Society",
+  "date": "2022-04-29",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Vice Society",
+  "impact": "Filtración de datos en Vice Society",
+  "source": "nan",
+  "summary": "Vice Society cifra la red y amenaza con filtrar datos en su portal web oscuro.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 127,
+  "title": "Motor de pruebas interactivo de Kansas - DoS - Undetermined",
+  "date": "2014-04-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en ksassessments.org",
+  "source": "http://www.esecurityplanet.com/network-security/kansas-state-assessments-hit-by-ddos-attacks.html",
+  "summary": "Un ataque DDoS derriba el Kansas Interactive Testing Engine (KITE, ksassessments.org), el nuevo sistema de pruebas estudiantiles en línea de Kansas.",
+  "color": "#f59e0b"
+}

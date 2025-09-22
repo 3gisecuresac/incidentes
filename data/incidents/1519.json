@@ -1,0 +1,13 @@
+{
+  "id": 1519,
+  "title": "Departamento de Salud Mental del Condado de Stanislaus - Ransomware - Undetermined",
+  "date": "2017-12-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Departamento de Salud Mental del condado de Stanislaus están en cuarentena",
+  "source": "https://www.databreaches.net/500-stanislaus-county-computers-from-mental-health-department-quarantined-after-ransomware-detected-on-network/",
+  "summary": "500 computadoras del Departamento de Salud Mental del condado de Stanislaus están en cuarentena luego de que se detectara ransomware en la red.",
+  "color": "#ef4444"
+}

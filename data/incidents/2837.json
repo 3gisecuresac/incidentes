@@ -1,0 +1,13 @@
+{
+  "id": 2837,
+  "title": "Uniswap - Data leak - Undetermined",
+  "date": "2020-04-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Uniswap",
+  "source": "https://www.zdnet.com/article/hackers-steal-25-million-worth-of-cryptocurrency-from-uniswap-and-lendf-me/",
+  "summary": "Los piratas informáticos intentan atacar el intercambio de criptomonedas Uniswap, pero el ataque no tiene éxito.",
+  "color": "#a78bfa"
+}

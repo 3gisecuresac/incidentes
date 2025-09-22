@@ -1,0 +1,13 @@
+{
+  "id": 2112,
+  "title": "AeroGrow Internacional - Data leak - Undetermined",
+  "date": "2019-04-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en AeroGrow",
+  "source": "https://techcrunch.com/2019/04/05/aerogarden-credit-card-breach/",
+  "summary": "AeroGrow informa en una carta a sus clientes que su sitio web estuvo infectado con malware de extracción de datos de tarjetas de crédito durante más de cuatro meses. Cualquier persona que haya comprado a través de su sitio web entre el 29 de octubre de 2018 y el 4 de marzo de 2019 podría haberse visto afectada.",
+  "color": "#ef4444"
+}

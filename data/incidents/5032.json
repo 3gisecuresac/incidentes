@@ -1,0 +1,13 @@
+{
+  "id": 5032,
+  "title": "Subcontratación convergente - Ransomware - Undetermined",
+  "date": "2022-10-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Convergent Outsourcing",
+  "source": "nan",
+  "summary": "Convergent Outsourcing informa sobre una violación de datos después de que la empresa sufriera un ataque de ransomware.",
+  "color": "#ef4444"
+}

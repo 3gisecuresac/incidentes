@@ -1,0 +1,13 @@
+{
+  "id": 6838,
+  "title": "Una sangre - Ransomware - Undetermined",
+  "date": "2024-07-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Estados Unidos",
+  "source": "nan",
+  "summary": "OneBlood, un gran centro de sangre sin fines de lucro que presta servicios a hospitales y pacientes en los Estados Unidos, está lidiando con una interrupción de sus sistemas informáticos causada por un ataque de ransomware.",
+  "color": "#ef4444"
+}

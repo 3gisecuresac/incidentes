@@ -1,0 +1,13 @@
+{
+  "id": 1869,
+  "title": "Ciudad de West Haven - Ransomware - Undetermined",
+  "date": "2018-10-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en West Haven paga $2",
+  "source": "https://www.scmagazine.com/home/security-news/west-haven-indiana-national-guard-muscatine-hit-with-ransomware-attacks/",
+  "summary": "La ciudad de West Haven paga $2,000 después de que 23 de sus servidores fueran encriptados debido a un ataque de ransomware.",
+  "color": "#ef4444"
+}

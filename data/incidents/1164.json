@@ -1,0 +1,13 @@
+{
+  "id": 1164,
+  "title": "FBI - Data leak - CyberZeist",
+  "date": "2017-01-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "CyberZeist",
+  "impact": "Filtración de datos en fbi.gov",
+  "source": "http://securityaffairs.co/wordpress/55042/data-breach/fbi-hacked.html",
+  "summary": "Aprovechando una vulnerabilidad de Plone CMS, CyberZeist afirma haber hackeado fbi.gov y filtrado los registros de 155 funcionarios del FBI en Pastebin. Plone niega que se haya explotado una vulnerabilidad de día cero para llevar a cabo el ataque.",
+  "color": "#ef4444"
+}

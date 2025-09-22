@@ -1,0 +1,13 @@
+{
+  "id": 3135,
+  "title": "Sendgrid - Malware Attack - Undetermined",
+  "date": "2020-08-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Malware Attack",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Sendgrid",
+  "source": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/",
+  "summary": "El proveedor de servicios de correo electrónico Sendgrid está lidiando con una cantidad inusualmente grande de cuentas de clientes cuyas contraseñas han sido descifradas, vendidas a spammers y utilizadas de forma indebida para enviar ataques de phishing y malware por correo electrónico.",
+  "color": "#ef4444"
+}

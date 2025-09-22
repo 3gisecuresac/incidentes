@@ -1,0 +1,13 @@
+{
+  "id": 8055,
+  "title": "Apex América - Ransomware - REvil",
+  "date": "2021-05-14",
+  "country": "Argentina",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Filtración de datos en Apex America",
+  "source": "nan",
+  "summary": "Apex America es atacado por la banda de ransomware Sodinokibi, que amenaza con liberar los datos si no se paga el rescate.",
+  "color": "#ef4444"
+}

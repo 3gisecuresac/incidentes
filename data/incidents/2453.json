@@ -1,0 +1,13 @@
+{
+  "id": 2453,
+  "title": "Atención médica regional de Kalispell - Data leak - Undetermined",
+  "date": "2019-10-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Kalispell Regional Healthcare",
+  "source": "https://hotforsecurity.bitdefender.com/blog/hospital-leaks-129k-patient-records-in-sophisticated-phishing-scam-21674.html",
+  "summary": "Kalispell Regional Healthcare notifica a casi 130.000 pacientes cuya información personal puede haber sido comprometida después de un ataque de phishing ocurrido en mayo de 2019.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7733,
+  "title": "Bombardero - Ciberataque - FIN11",
+  "date": "2021-02-23",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "FIN11",
+  "impact": "Filtración de datos en Accellion",
+  "source": "nan",
+  "summary": "El fabricante de aviones comerciales Bombardier es la última empresa que sufre una violación de datos por parte de la banda Clop después de que los atacantes explotaran la vulnerabilidad de día cero de Accellion para robar datos de la empresa.",
+  "color": "#ef4444"
+}

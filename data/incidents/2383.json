@@ -1,0 +1,13 @@
+{
+  "id": 2383,
+  "title": "Tasación central de Travis - Ransomware - Undetermined",
+  "date": "2019-09-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Tasación Central de Travis se ve afectado",
+  "source": "https://www.databreaches.net/hackers-hit-travis-central-appraisal-district-website/",
+  "summary": "El Distrito de Tasación Central de Travis se ve afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

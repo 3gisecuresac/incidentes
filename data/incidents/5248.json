@@ -1,0 +1,13 @@
+{
+  "id": 5248,
+  "title": "Atención médica de próxima generación - Ransomware - ALPHVM",
+  "date": "2023-01-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Cifrado por ransomware en NextGen Healthcare",
+  "source": "nan",
+  "summary": "El gigante de tecnología hospitalaria NextGen Healthcare dijo que está respondiendo a un ciberataque después de que el grupo de ransomware ALPHVM agregara a la compañía a su lista de víctimas.",
+  "color": "#ef4444"
+}

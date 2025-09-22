@@ -1,0 +1,13 @@
+{
+  "id": 3895,
+  "title": "Centro de Salud Familiar Costero - Ransomware - Xing Team",
+  "date": "2021-05-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Xing Team",
+  "impact": "Filtración de datos en El Coastal Family Health Center",
+  "source": "nan",
+  "summary": "El Coastal Family Health Center es el objetivo del ransomware Xing Team, que exfiltra unos 500 GB de datos, entre los que se incluye información personal de pacientes y registros médicos.",
+  "color": "#ef4444"
+}

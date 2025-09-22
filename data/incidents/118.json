@@ -1,0 +1,13 @@
+{
+  "id": 118,
+  "title": "Tienda rural de Shelburne - Data leak - Undetermined",
+  "date": "2014-03-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Shelburne Country Store",
+  "source": "http://www.esecurityplanet.com/hackers/shelburne-country-store-hacked.html",
+  "summary": "Shelburne Country Store notifica a un número no revelado de clientes en línea que la información de su tarjeta de crédito puede haber sido expuesta cuando el sistema de procesamiento de pagos de la tienda fue violado.",
+  "color": "#ef4444"
+}

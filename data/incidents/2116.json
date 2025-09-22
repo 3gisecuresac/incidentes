@@ -1,0 +1,13 @@
+{
+  "id": 2116,
+  "title": "Servicios de Metrocare - Data leak - Undetermined",
+  "date": "2019-04-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Metrocare Services",
+  "source": "https://www.databreaches.net/five-months-after-disclosing-a-patient-phi-breach-involving-employee-email-accounts-metrocare-discloses-a-second-identical-breach/",
+  "summary": "Metrocare Services notifica a 5.290 clientes sobre una violación luego de que un tercero no autorizado obtuviera acceso a las cuentas de correo electrónico de algunos empleados a partir de enero de 2019.",
+  "color": "#a78bfa"
+}

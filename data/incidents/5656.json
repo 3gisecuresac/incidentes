@@ -1,0 +1,13 @@
+{
+  "id": 5656,
+  "title": "Centro Médico de la Universidad de Richmond (RUMC) - Ransomware - Undetermined",
+  "date": "2023-05-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Richmond",
+  "source": "nan",
+  "summary": "El Centro Médico de la Universidad de Richmond (RUMC) es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1445,
+  "title": "El teléfono móvil personal de John Kelly - Data leak - Undetermined",
+  "date": "2017-10-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Estados Unidos",
+  "source": "https://www.politico.com/story/2017/10/05/john-kelly-cell-phone-compromised-243514",
+  "summary": "Los funcionarios de la Casa Blanca creen que el teléfono celular personal del jefe de gabinete John Kelly fue comprometido, posiblemente en diciembre, según tres funcionarios del gobierno de Estados Unidos.",
+  "color": "#3b82f6"
+}

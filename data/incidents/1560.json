@@ -1,0 +1,13 @@
+{
+  "id": 1560,
+  "title": "Ciudad de Batavia - Data leak - Undetermined",
+  "date": "2018-02-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Batavia informa",
+  "source": "http://kanecountyconnects.com/2018/02/alert-batavia-employees-w-2-forms-compromised-irs-warns-of-major-w-2-phishing/",
+  "summary": "La ciudad de Batavia informa que la información personal y financiera de sus empleados se vio comprometida mediante un ataque de phishing a través de formularios de impuestos W-2. La información incluye nombres, números de seguro social, direcciones e ingresos.",
+  "color": "#ef4444"
+}

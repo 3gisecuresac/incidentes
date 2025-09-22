@@ -1,0 +1,13 @@
+{
+  "id": 3718,
+  "title": "Snap-on - Ransomware - WIZARD SPIDER",
+  "date": "2021-03-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Filtración de datos en Snap-on",
+  "source": "nan",
+  "summary": "El fabricante estadounidense de herramientas automotrices Snap-on anuncia una violación de datos que expone los datos de sus asociados y franquiciados después de que la banda de ransomware Conti comenzara a filtrar los datos de la compañía en marzo.",
+  "color": "#ef4444"
+}

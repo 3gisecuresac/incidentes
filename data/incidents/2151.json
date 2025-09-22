@@ -1,0 +1,13 @@
+{
+  "id": 2151,
+  "title": "Distrito Escolar 322 de Sugar-Salem - Ransomware - Undetermined",
+  "date": "2019-04-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Sugar-Salem",
+  "source": "https://www.databreaches.net/id-ransomware-takes-down-servers-at-sugar-salem-school-district-322/",
+  "summary": "Un ataque de ransomware destruye servidores en el Distrito Escolar 322 de Sugar-Salem.",
+  "color": "#ef4444"
+}

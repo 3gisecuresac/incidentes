@@ -1,0 +1,13 @@
+{
+  "id": 1889,
+  "title": "Centro de Cirugía Regional del Suroeste de Washington - Data leak - Undetermined",
+  "date": "2018-11-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Cirugía Regional del Suroeste de Washington notifica a 2",
+  "source": "https://www.databreaches.net/southwest-washington-regional-surgery-center-notifies-2393-patients-after-phishing-attack-exposed-their-phi/",
+  "summary": "El Centro de Cirugía Regional del Suroeste de Washington notifica a 2,393 pacientes luego de que un ataque de phishing expusiera su PHI.",
+  "color": "#ef4444"
+}

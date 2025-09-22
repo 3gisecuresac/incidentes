@@ -1,0 +1,13 @@
+{
+  "id": 3771,
+  "title": "Hospital sueco - Data leak - Undetermined",
+  "date": "2021-03-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Swedish Hospital de Chicago sufrieran la violación de sus datos",
+  "source": "nan",
+  "summary": "El correo electrónico de un médico fue hackeado para engañar a sus colegas en un ataque de phishing que tuvo como resultado que 4.206 pacientes del Swedish Hospital de Chicago sufrieran la violación de sus datos.",
+  "color": "#ef4444"
+}

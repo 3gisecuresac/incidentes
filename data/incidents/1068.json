@@ -1,0 +1,13 @@
+{
+  "id": 1068,
+  "title": "i-dressup.com - Data leak - Undetermined",
+  "date": "2016-09-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en i-dressup.com",
+  "source": "http://arstechnica.com/security/2016/09/social-hangout-site-for-teens-leaks-millions-of-plaintext-passwords/",
+  "summary": "Un hacker desconocido descarga más de 2,2 millones de credenciales de cuentas almacenadas incorrectamente de i-dressup.com, un sitio web de reunión social para adolescentes.",
+  "color": "#3b82f6"
+}

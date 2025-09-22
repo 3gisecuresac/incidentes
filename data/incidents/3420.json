@@ -1,0 +1,13 @@
+{
+  "id": 3420,
+  "title": "Distrito de Saneamiento de Hampton Roads - Ransomware - Undetermined",
+  "date": "2020-11-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Saneamiento de Hampton Roads es víctima de un ataque de ransomware",
+  "source": "https://www.databreaches.net/ransomware-attack-on-hampton-roads-sanitation-district-knocks-out-billing-system/",
+  "summary": "El Distrito de Saneamiento de Hampton Roads es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

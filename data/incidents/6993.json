@@ -1,0 +1,13 @@
+{
+  "id": 6993,
+  "title": "Adán Griffin - Data leak - Undetermined",
+  "date": "2024-05-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en google.com",
+  "source": "nan",
+  "summary": "Adam Griffin, un inversor en criptomonedas, fue robado de casi 500.000 dólares en criptomonedas después de que un estafador lo llamara usando un número de teléfono real de Google para advertirle que su cuenta de Gmail estaba siendo pirateada, enviara alertas de seguridad por correo electrónico directamente desde google.com y, en última instancia, tomara el control de la cuenta al convencerlo de hacer clic en sí en un mensaje de Google en su dispositivo móvil.",
+  "color": "#a78bfa"
+}

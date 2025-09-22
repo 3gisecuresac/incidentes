@@ -1,0 +1,13 @@
+{
+  "id": 1848,
+  "title": "Facebook - Data leak - Undetermined",
+  "date": "2018-09-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Facebook",
+  "source": "https://www.cnet.com/news/facebook-breach-affected-50-million-people/",
+  "summary": "Facebook afirma que una brecha de seguridad afectó a 50 millones de usuarios de la red social. La vulnerabilidad se originó en la función Ver como, que permite a los usuarios ver cómo ven sus perfiles otros usuarios. Los atacantes explotaron el código asociado a esta función, lo que les permitió robar tokens de acceso que podrían usarse para acceder a las cuentas de otros usuarios.",
+  "color": "#a78bfa"
+}

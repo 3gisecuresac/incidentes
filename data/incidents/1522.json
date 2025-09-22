@@ -1,0 +1,13 @@
+{
+  "id": 1522,
+  "title": "EtherDelta - Manipulación de mensajes - Undetermined",
+  "date": "2017-12-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Manipulación de mensajes",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en ETH 266.789",
+  "source": "http://mashable.com/2017/12/21/etherdelta-hacked/",
+  "summary": "La popular plataforma de intercambio de criptomonedas EtherDelta fue hackeada, y muchos usuarios, sin saberlo, enviaron sus tokens al hacker en lugar de a la plataforma. Se robaron al menos 308 ETH (266.789 dólares), así como una gran cantidad de tokens con un valor potencial de cientos de miles de dólares.",
+  "color": "#3b82f6"
+}

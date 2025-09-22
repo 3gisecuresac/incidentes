@@ -1,0 +1,13 @@
+{
+  "id": 3006,
+  "title": "Escuela secundaria regional Somerset Berkley - Ransomware - Undetermined",
+  "date": "2020-07-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Somerset Berkley",
+  "source": "https://www.databreaches.net/ma-somerset-berkley-regional-high-school-a-victim-of-ransomware-attack/",
+  "summary": "La escuela secundaria regional Somerset Berkley fue víctima de un ataque de ransomware en julio.",
+  "color": "#ef4444"
+}

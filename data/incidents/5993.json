@@ -1,0 +1,13 @@
+{
+  "id": 5993,
+  "title": "Grupo de aplicaciones de transacciones - Ransomware - cl0p",
+  "date": "2023-07-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Cifrado por ransomware en Transactions Applications Group",
+  "source": "nan",
+  "summary": "Transactions Applications Group se suma a la lista de víctimas que el grupo de ransomware ruso Clop afirma haber comprometido a través de la vulnerabilidad MOVEit.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1479,
+  "title": "Condado de Montgomery, Illinois - DoS - Undetermined",
+  "date": "2017-11-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Gestión de Emergencias del Condado de Montgomery informó",
+  "source": "https://www.scmagazine.com/montgomery-county-ill-government-offices-taken-offline-by-malware/article/708468/",
+  "summary": "La Agencia de Gestión de Emergencias del Condado de Montgomery informó que gran parte del sistema informático del condado dejó de funcionar la semana pasada debido a lo que denomina un incidente de malware.",
+  "color": "#a78bfa"
+}

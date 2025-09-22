@@ -1,0 +1,13 @@
+{
+  "id": 2095,
+  "title": "Atención dental superior - Data leak - Undetermined",
+  "date": "2019-03-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Superior Dental Care",
+  "source": "https://www.databreaches.net/ohio-dental-insurance-carrier-disclosed-breach-involving-some-members-information/",
+  "summary": "Superior Dental Care anuncia que un incidente de phishing ocurrido en enero de 2019 puede haber resultado en acceso no autorizado a la información personal de algunos de sus miembros.",
+  "color": "#ef4444"
+}

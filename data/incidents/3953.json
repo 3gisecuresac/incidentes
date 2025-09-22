@@ -1,0 +1,13 @@
+{
+  "id": 3953,
+  "title": "Consultores de enfermedades infecciosas del metro - Data leak - Undetermined",
+  "date": "2021-06-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Metro Infectious Disease Consultanta",
+  "source": "nan",
+  "summary": "Metro Infectious Disease Consultanta notifica a más de 170.000 pacientes sobre acceso no autorizado a una cuenta de correo electrónico que contiene información del paciente.",
+  "color": "#a78bfa"
+}

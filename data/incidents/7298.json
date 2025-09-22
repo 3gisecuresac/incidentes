@@ -1,0 +1,13 @@
+{
+  "id": 7298,
+  "title": "AEAT (Agencia Tributaria Española) - Ransomware - Trinity",
+  "date": "2024-12-01",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Trinity",
+  "impact": "Filtración de datos en Trinity",
+  "source": "nan",
+  "summary": "El grupo de ransomware Trinity afirma haber robado 560 gigabytes de datos de la AEAT.",
+  "color": "#ef4444"
+}

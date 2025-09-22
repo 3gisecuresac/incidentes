@@ -1,0 +1,13 @@
+{
+  "id": 1481,
+  "title": "Uber - Data leak - Undetermined",
+  "date": "2017-11-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Uber",
+  "source": "https://www.bloomberg.com/news/articles/2017-11-21/uber-concealed-cyberattack-that-exposed-57-million-people-s-data",
+  "summary": "Bloomberg revela que hackers robaron los datos personales de 57 millones de clientes y conductores de Uber, una filtración masiva que la compañía ocultó durante más de un año, tras pagar 100.000 dólares a los atacantes.",
+  "color": "#ef4444"
+}

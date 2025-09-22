@@ -1,0 +1,13 @@
+{
+  "id": 2833,
+  "title": "PrimoHoagies - Data leak - Undetermined",
+  "date": "2020-04-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en PrimoHoagies",
+  "source": "https://www.infosecurity-magazine.com/news/primohoagies-sued-over-data-breach/",
+  "summary": "PrimoHoagies revela que los ciberatacantes irrumpieron en su plataforma de pago en línea y accedieron a la información de las tarjetas de pago de los clientes que realizaron compras en línea entre el 15 de julio de 2019 y el 18 de febrero de 2020.",
+  "color": "#a78bfa"
+}

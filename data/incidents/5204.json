@@ -1,0 +1,13 @@
+{
+  "id": 5204,
+  "title": "Monitoreo continuo de glucosa (CGM) - Ciberataque - Undetermined",
+  "date": "2022-12-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos",
+  "source": "nan",
+  "summary": "CGM presenta un aviso de violación de datos después de enterarse de que una parte no autorizada pudo acceder a información personal confidencial almacenada en el sistema informático de la empresa.",
+  "color": "#ef4444"
+}

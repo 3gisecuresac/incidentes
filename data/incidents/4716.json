@@ -1,0 +1,13 @@
+{
+  "id": 4716,
+  "title": "Boeing - DoS - Killnet",
+  "date": "2022-07-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Killnet",
+  "impact": "Interrupción por DDoS en EE",
+  "source": "nan",
+  "summary": "Killnet afirma haber realizado un ataque DDoS contra los servidores de una empresa aeroespacial de EE. UU. como parte de una campaña más amplia contra los países que apoyan a Ucrania.",
+  "color": "#f59e0b"
+}

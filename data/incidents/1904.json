@@ -1,0 +1,13 @@
+{
+  "id": 1904,
+  "title": "Hematología Oncológica de Nueva York - Data leak - Undetermined",
+  "date": "2018-11-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en New York Oncology Hematology",
+  "source": "https://www.databreaches.net/new-york-oncology-hematology-notifying-more-than-128400-employees-and-patients-after-phishing-attack/",
+  "summary": "New York Oncology Hematology notifica a casi 130.000 pacientes y empleados que fue víctima de un ataque de phishing ocurrido entre el 20 y el 27 de abril.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6574,
+  "title": "depósito de préstamos - Ransomware - Undetermined",
+  "date": "2024-01-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en TI",
+  "source": "nan",
+  "summary": "El prestamista hipotecario estadounidense loanDepot sufre un ataque de ransomware que hace que la empresa desconecte sus sistemas de TI, lo que impide los pagos en línea de préstamos.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4019,
+  "title": "Cumplimiento de las pruebas y la detección de drogas y alcohol - Ransomware - Pysa",
+  "date": "2021-08-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Pysa",
+  "impact": "Filtración de datos en PYSA",
+  "source": "nan",
+  "summary": "Aparecen archivos de entidades de drogas y alcohol en el sitio web de filtración de datos de PYSA.",
+  "color": "#ef4444"
+}

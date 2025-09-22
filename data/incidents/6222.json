@@ -1,0 +1,13 @@
+{
+  "id": 6222,
+  "title": "Molina Healthcare de Iowa - Data leak - Undetermined",
+  "date": "2023-09-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Molina Healthcare of Iowa",
+  "source": "nan",
+  "summary": "Molina Healthcare of Iowa revela haber descubierto un acceso no autorizado al correo electrónico de un empleado.",
+  "color": "#a78bfa"
+}

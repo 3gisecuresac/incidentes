@@ -1,0 +1,13 @@
+{
+  "id": 5145,
+  "title": "Teqtividad - Data leak - Lapsus$ gang",
+  "date": "2022-12-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Lapsus$ gang",
+  "impact": "Filtración de datos en Uber después de",
+  "source": "nan",
+  "summary": "Se filtra información del personal de Uber después de que el proveedor Teqtivity fuera atacado",
+  "color": "#ef4444"
+}

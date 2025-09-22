@@ -1,0 +1,13 @@
+{
+  "id": 859,
+  "title": "Casino Bitcoin Coinroll - Data leak - Undetermined",
+  "date": "2016-04-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en MongoDB",
+  "source": "http://news.softpedia.com/news/bitcoin-casino-stolen-user-funds-may-be-linked-to-unprotected-mongodb-database-503090.shtml",
+  "summary": "El Casino Bitcoin Coinroll admite que a varios usuarios les robaron los fondos de sus cuentas en línea. La filtración podría estar relacionada con una vulnerabilidad de MongoDB.",
+  "color": "#ef4444"
+}

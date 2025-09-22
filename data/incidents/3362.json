@@ -1,0 +1,13 @@
+{
+  "id": 3362,
+  "title": "Sistema de Salud St. Lawrence - Ransomware - WIZARD SPIDER",
+  "date": "2020-10-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Cifrado por ransomware en Salud St",
+  "source": "https://www.databreaches.net/update-st-lawrence-health-confirms-ransomware-attack/",
+  "summary": "El Sistema de Salud St. Lawrence ha sufrido un ataque de ransomware, descrito por el sistema como una variante nunca antes vista de Ryuk. Como resultado, los ordenadores de los hospitales Canton-Potsdam, Massena y Gouverneur han sido afectados.",
+  "color": "#ef4444"
+}

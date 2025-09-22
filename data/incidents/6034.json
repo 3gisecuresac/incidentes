@@ -1,0 +1,13 @@
+{
+  "id": 6034,
+  "title": "VNS Salud - Data leak - Undetermined",
+  "date": "2023-08-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Nueva York",
+  "source": "nan",
+  "summary": "VNS Health (VNS Health Home Care, VNS Health Hospice Care y VNS Health Personal Care en Nueva York) notifica a los pacientes que un tercero no autorizado obtuvo acceso a las cuentas de correo electrónico de algunos de sus empleados y potencialmente vio u obtuvo parte de su información médica protegida.",
+  "color": "#a78bfa"
+}

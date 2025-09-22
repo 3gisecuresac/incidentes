@@ -1,0 +1,13 @@
+{
+  "id": 349,
+  "title": "Universidad Estatal Metropolitana - Data leak - Undetermined",
+  "date": "2015-01-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Minnesota notifica a sus profesores",
+  "source": "https://blogs.mprnews.org/oncampus/2015/04/metro-state-data-breach-affected-160000-students/",
+  "summary": "La Universidad Estatal Metropolitana con sede en Minnesota notifica a sus profesores, personal y estudiantes que un atacante podría haber violado su servidor web para acceder a una base de datos que contenía su información personal. 22.000 usuarios están en riesgo.",
+  "color": "#ef4444"
+}

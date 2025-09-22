@@ -1,0 +1,13 @@
+{
+  "id": 5023,
+  "title": "West-tec inc. - Ransomware - Lorenz",
+  "date": "2022-10-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Lorenz",
+  "impact": "Filtración de datos en Wes-tec Inc",
+  "source": "nan",
+  "summary": "Lorenz cifró y filtró datos robados de Wes-tec Inc. a su sitio web oscuro.",
+  "color": "#ef4444"
+}

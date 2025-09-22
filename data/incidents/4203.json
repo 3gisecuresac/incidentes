@@ -1,0 +1,13 @@
+{
+  "id": 4203,
+  "title": "RR Donnelley - Ransomware - WIZARD SPIDER",
+  "date": "2021-12-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Cifrado por ransomware en RR Donnelley",
+  "source": "nan",
+  "summary": "RR Donnelley sufre el ataque del ransomware Conti.",
+  "color": "#ef4444"
+}

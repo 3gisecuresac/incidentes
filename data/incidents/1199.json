@@ -1,0 +1,13 @@
+{
+  "id": 1199,
+  "title": "Distrito Escolar de Odessa - Data leak - Undetermined",
+  "date": "2017-01-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Odessa es víctima de una estafa de phishing destinada a robar los formularios W-2 personales de los empleados",
+  "source": "https://www.databreaches.net/odessa-one-of-eight-school-districts-targeted-in-e-mail-phishing-scam/",
+  "summary": "El Distrito Escolar de Odessa es víctima de una estafa de phishing destinada a robar los formularios W-2 personales de los empleados.",
+  "color": "#ef4444"
+}

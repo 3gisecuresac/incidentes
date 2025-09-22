@@ -1,0 +1,13 @@
+{
+  "id": 1676,
+  "title": "Ferrocarril Europa América del Norte - Data leak - Undetermined",
+  "date": "2018-05-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Europa",
+  "source": "https://www.zdnet.com/article/rail-europe-had-a-three-month-long-credit-card-breach/",
+  "summary": "Rail Europe, un sitio web utilizado por estadounidenses para comprar billetes de tren en Europa, revela una filtración de datos de tarjetas de crédito y débito que duró tres meses. Los hackers implantaron malware de clonación de datos de tarjetas de crédito en su sitio web entre finales de noviembre de 2017 y mediados de febrero de 2018.",
+  "color": "#ef4444"
+}

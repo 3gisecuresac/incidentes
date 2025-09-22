@@ -1,0 +1,13 @@
+{
+  "id": 2537,
+  "title": "Industrias de Rehabilitación Penitenciaria y Empresas Diversificadas Inc. (PRIDE) - Ransomware - Undetermined",
+  "date": "2019-12-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Diversified Enterprises Inc PRIDE",
+  "source": "https://www.bleepingcomputer.com/news/security/ransomware-hits-florida-pride-on-saturday-systems-still-down/",
+  "summary": "Prison Rehabilitative Industries and Diversified Enterprises Inc (PRIDE) es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

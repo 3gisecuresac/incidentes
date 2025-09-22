@@ -1,0 +1,13 @@
+{
+  "id": 6987,
+  "title": "Salud PIH - Ransomware - Undetermined",
+  "date": "2024-12-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en PIH Health",
+  "source": "nan",
+  "summary": "Los actores de amenazas afirman haber robado 17 millones de registros de pacientes de PIH Health, un proveedor de atención médica regional del sur de California que todavía está luchando con cortes en los sistemas de TI y teléfono que han estado interrumpiendo la atención al paciente desde que la organización fue golpeada por un ataque de ransomware el 1 de diciembre.",
+  "color": "#ef4444"
+}

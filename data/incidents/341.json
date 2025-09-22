@@ -1,0 +1,13 @@
+{
+  "id": 341,
+  "title": "Condado de Stewart, Tennessee - Data leak - CyberCaliphate",
+  "date": "2015-01-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "CyberCaliphate",
+  "impact": "Sistema o cuenta comprometida en Twitter del Albuquerque Journal",
+  "source": "https://autos.yahoo.com/2015-01-06-alleged-isis-cyber-terrorists-infiltrate-delmarva-tv-station-wboc-twitter-account-21125587.html",
+  "summary": "CyberCaliphate, un grupo pro-EI, toma el control de las cuentas de Twitter del Albuquerque Journal y de WBOC, afiliada de CBS. Los atacantes también tomaron el control del sitio web de WBOC. Los hackers aprovecharon las intrusiones para publicar documentos confidenciales robados de servidores gubernamentales en el condado de Stewart, Tennessee.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2705,
+  "title": "Rutter's - Infección Dispositivos - Undetermined",
+  "date": "2020-02-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Rutter",
+  "source": "https://www.bleepingcomputer.com/news/security/us-store-chain-rutter-s-hit-by-credit-card-stealing-malware/",
+  "summary": "Rutter's revela que 71 establecimientos fueron infectados con un malware de punto de venta (POS) que fue utilizado por los atacantes para robar información de tarjetas de crédito de los clientes.",
+  "color": "#a78bfa"
+}

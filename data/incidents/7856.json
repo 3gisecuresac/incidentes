@@ -1,0 +1,13 @@
+{
+  "id": 7856,
+  "title": "Servicios de reubicación y mudanzas mundiales de SIRVA - Ransomware - LockBit 3.0",
+  "date": "2023-11-17",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en SIRVA Worldwide Relocation Moving Services",
+  "source": "nan",
+  "summary": "SIRVA Worldwide Relocation & Moving Services, contratista del gobierno canadiense, sufrió una vulneración de seguridad. El grupo de ransomware LockBit 3.0 se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

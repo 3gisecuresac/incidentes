@@ -1,0 +1,13 @@
+{
+  "id": 1055,
+  "title": "Sistema de Salud St. Francis - Data leak - Undetermined",
+  "date": "2016-09-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Dark Web por 24 BTC 14.500 USD 11.000 GBP 13.000 EUR",
+  "source": "https://www.databreaches.net/st-francis-health-system-hacked-thedarkoverlord/",
+  "summary": "El sistema de salud St. Francis es hackeado y los datos se venden en la Dark Web por 24 BTC (14.500 USD, 11.000 GBP, 13.000 EUR).",
+  "color": "#ef4444"
+}

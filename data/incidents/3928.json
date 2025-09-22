@@ -1,0 +1,13 @@
+{
+  "id": 3928,
+  "title": "Mudanzas y almacenamiento Arnoff - Ransomware - REvil",
+  "date": "2021-06-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Filtración de datos en Arnoff Moving",
+  "source": "nan",
+  "summary": "Arnoff Moving and Storage es el objetivo del ransomware REvil, los piratas informáticos afirman haber descargado todos los datos confidenciales de la red, incluidas las direcciones de los clientes y los números de tarjetas de crédito.",
+  "color": "#ef4444"
+}

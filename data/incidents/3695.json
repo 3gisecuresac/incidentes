@@ -1,0 +1,13 @@
+{
+  "id": 3695,
+  "title": "Servicios de nómina de Hawái LLC - Ransomware - Undetermined",
+  "date": "2021-02-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Hawaii Payroll Services",
+  "source": "nan",
+  "summary": "Hawaii Payroll Services sufre un ataque de ransomware que afecta a 4.500 personas.",
+  "color": "#ef4444"
+}

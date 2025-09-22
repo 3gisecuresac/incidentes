@@ -1,0 +1,13 @@
+{
+  "id": 6064,
+  "title": "Sistema de adquisiciones militares de EE. UU. y organización con sede en Taiwán - Ciberataque - Undetermined",
+  "date": "2023-08-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Lumen descubren una nueva campaña HiatusRAT",
+  "source": "nan",
+  "summary": "Investigadores de Lumen descubren una nueva campaña HiatusRAT que realiza operaciones de reconocimiento contra un sistema de adquisiciones militares de EE. UU. y tiene como objetivo organizaciones con sede en Taiwán.",
+  "color": "#a78bfa"
+}

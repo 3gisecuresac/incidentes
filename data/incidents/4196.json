@@ -1,0 +1,13 @@
+{
+  "id": 4196,
+  "title": "Swire Pacific Offshore - Ransomware - Evil Corp",
+  "date": "2021-11-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Evil Corp",
+  "impact": "Cifrado por ransomware",
+  "source": "nan",
+  "summary": "Un proveedor de servicios para la industria del petróleo y gas en alta mar es víctima de un ataque de ransomware; se compromete principalmente la información personal de los empleados.",
+  "color": "#ef4444"
+}

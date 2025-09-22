@@ -1,0 +1,13 @@
+{
+  "id": 309,
+  "title": "Alianza Nacional de Trabajadores del Hogar - Data leak - Undetermined",
+  "date": "2014-10-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Trabajadores Domésticos",
+  "source": "http://news.softpedia.com/news/National-Domestic-Workers-Alliance-Suffers-Email-System-Breach-462646.shtml",
+  "summary": "La Alianza Nacional de Trabajadores Domésticos (NDWA) anuncia que una intrusión no autorizada en su sistema de correo electrónico provocó la exposición de información personal identificable y detalles financieros de algunos de sus empleados.",
+  "color": "#3b82f6"
+}

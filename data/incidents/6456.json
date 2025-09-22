@@ -1,0 +1,13 @@
+{
+  "id": 6456,
+  "title": "Dinero Ingo - Ransomware - INC",
+  "date": "2023-11-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INC",
+  "impact": "Cifrado por ransomware en Ingo Money",
+  "source": "nan",
+  "summary": "La banda de ransomware INC se atribuye la responsabilidad de un ataque a Ingo Money, un proveedor de servicios de dinero instantáneo.",
+  "color": "#ef4444"
+}

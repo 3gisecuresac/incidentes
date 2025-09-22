@@ -1,0 +1,13 @@
+{
+  "id": 2944,
+  "title": "Asesores Threadstone LLP - Ransomware - MAZE",
+  "date": "2020-06-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "MAZE",
+  "impact": "Cifrado por ransomware en Threadstone Advisors LLP",
+  "source": "https://securityaffairs.co/wordpress/104718/cyber-crime/threadstone-advisors-maze-ransomware.html",
+  "summary": "La banda de ransomware Maze ataca a Threadstone Advisors LLP, una firma estadounidense de asesoría corporativa especializada en fusiones y adquisiciones.",
+  "color": "#ef4444"
+}

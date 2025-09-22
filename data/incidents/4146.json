@@ -1,0 +1,13 @@
+{
+  "id": 4146,
+  "title": "Corporación Escolar de Duneland - Ransomware - Undetermined",
+  "date": "2021-10-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Indiana es atacado",
+  "source": "nan",
+  "summary": "Distrito escolar de Indiana es atacado por ransomware y la información relacionada con los planes de salud de los empleados se ve comprometida.",
+  "color": "#ef4444"
+}

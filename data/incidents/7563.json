@@ -1,0 +1,13 @@
+{
+  "id": 7563,
+  "title": "Velocidad de la luz - Data leak - Undetermined",
+  "date": "2016-09-02",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en API y",
+  "source": "nan",
+  "summary": "El proveedor de puntos de venta Lightspeed es víctima de una vulneración de seguridad, con la posible exposición de contraseñas, datos de clientes y claves API, y notifica a los clientes mediante un correo electrónico indicando que la información estaba contenida en una base de datos comprometida.",
+  "color": "#ef4444"
+}

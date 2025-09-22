@@ -1,0 +1,13 @@
+{
+  "id": 3371,
+  "title": "Tecnología Micron Inc. - Data leak - United Microelectronics Corporation",
+  "date": "2020-10-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "United Microelectronics Corporation",
+  "impact": "Incidente de seguridad en Estados Unidos",
+  "source": "https://www.theregister.com/security/2020/10/23/doj_decides_60m_is_enough/",
+  "summary": "El fabricante de chips taiwanés United Microelectronics Corporation (UMC) se declaró culpable de robo de secretos comerciales en Estados Unidos y pagará una multa de 60 millones de dólares en un caso en el que fue acusado de ayudar a un fabricante de chips estatal chino a robar secretos de Micron Technology Inc en 2018.",
+  "color": "#a78bfa"
+}

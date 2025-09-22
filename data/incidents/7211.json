@@ -1,0 +1,13 @@
+{
+  "id": 7211,
+  "title": "Everis - Ransomware - Undetermined",
+  "date": "2019-11-04",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Everis",
+  "source": "nan",
+  "summary": "Un ataque de ransomware dirigido destruye la red de Everis, una importante subsidiaria de servicios de TI y consultoría de la empresa de comunicaciones globales con sede en Japón NTT.",
+  "color": "#ef4444"
+}

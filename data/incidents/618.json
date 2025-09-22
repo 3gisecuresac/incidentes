@@ -1,0 +1,13 @@
+{
+  "id": 618,
+  "title": "Hotel Hilton - Infección Dispositivos - Undetermined",
+  "date": "2015-09-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Estados Unidos",
+  "source": "http://krebsonsecurity.com/2015/09/banks-card-breach-at-hilton-hotel-properties/",
+  "summary": "Varias fuentes de la industria bancaria dicen haber rastreado un patrón de fraude con tarjetas de crédito que sugiere que los piratas informáticos han comprometido las cajas registradoras de puntos de venta en tiendas de regalos y restaurantes en una gran cantidad de hoteles Hilton y propiedades de franquicia en los Estados Unidos.",
+  "color": "#3b82f6"
+}

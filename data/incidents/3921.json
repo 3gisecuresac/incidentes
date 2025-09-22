@@ -1,0 +1,13 @@
+{
+  "id": 3921,
+  "title": "Clínica Quirúrgica Jefferson - Data leak - Undetermined",
+  "date": "2021-06-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Virginia notifica a 174",
+  "source": "nan",
+  "summary": "Centro quirúrgico de Virginia notifica a 174.000 personas sobre una violación de datos que involucra su información personal.",
+  "color": "#ef4444"
+}

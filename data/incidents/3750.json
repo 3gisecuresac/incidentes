@@ -1,0 +1,13 @@
+{
+  "id": 3750,
+  "title": "Seguridad pública del condado de Tri - Ransomware - Undetermined",
+  "date": "2021-03-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Tri County es víctima de un ataque de ransomware",
+  "source": "nan",
+  "summary": "La Seguridad Pública del Tri County es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

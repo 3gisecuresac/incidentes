@@ -1,0 +1,13 @@
+{
+  "id": 1372,
+  "title": "Gestión de hoteles internacionales de Trump - Data leak - Undetermined",
+  "date": "2017-07-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Sabre Corp",
+  "source": "https://uk.reuters.com/article/us-trumphotels-cyber-idUKKBN19X2G2",
+  "summary": "Trump International Hotels Management revela que la filtración de datos de Sabre Corp, ocurrida en mayo de 2017, comprometió los datos de pago con tarjeta en 14 de sus propiedades. La información comprometida incluía números de tarjetas de pago y códigos de seguridad de algunas reservas de la cadena hotelera procesadas a través del sistema central de reservas de Sabre.",
+  "color": "#ef4444"
+}

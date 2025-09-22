@@ -1,0 +1,13 @@
+{
+  "id": 2254,
+  "title": "Cooperativa de Crédito Federal de Filadelfia - Data leak - Undetermined",
+  "date": "2019-07-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Philadelphia Federal Credit Union",
+  "source": "https://www.databreaches.net/philadelphia-federal-credit-union-confirms-security-breach/",
+  "summary": "Philadelphia Federal Credit Union confirma una violación de seguridad que involucra a 400 titulares de tarjetas.",
+  "color": "#a78bfa"
+}

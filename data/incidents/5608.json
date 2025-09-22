@@ -1,0 +1,13 @@
+{
+  "id": 5608,
+  "title": "Software brillante - Data leak - Undetermined",
+  "date": "2023-04-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Siemens",
+  "source": "nan",
+  "summary": "La empresa de tecnología estadounidense y subsidiaria de Siemens, Brightly Software, notifica a sus clientes que su información personal y credenciales fueron robadas por atacantes que obtuvieron acceso a la base de datos de su plataforma en línea SchoolDude.",
+  "color": "#ef4444"
+}

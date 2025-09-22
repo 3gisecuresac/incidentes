@@ -1,0 +1,13 @@
+{
+  "id": 5177,
+  "title": "MNLINK - Ciberataque - Undetermined",
+  "date": "2022-12-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Rochester recibió la notificación de",
+  "source": "nan",
+  "summary": "La Biblioteca Pública de Rochester recibió la notificación de que uno de sus socios de servicios bibliotecarios, MNLINK, sufrió una filtración de datos. Mediante este ciberataque aleatorio, es posible que se hayan accedido a los nombres y direcciones de correo electrónico de 1709 usuarios de la biblioteca de Rochester.",
+  "color": "#ef4444"
+}

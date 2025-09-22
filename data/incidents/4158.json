@@ -1,0 +1,13 @@
+{
+  "id": 4158,
+  "title": "Centro Médico de la Universidad de Loyola - Data leak - Undetermined",
+  "date": "2021-10-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Universidad Loyola",
+  "source": "nan",
+  "summary": "El Centro Médico de la Universidad Loyola notifica a 16.934 pacientes que una persona no autorizada que obtuvo acceso a la cuenta de correo electrónico de un empleado pudo haber accedido a cierta información sanitaria protegida.",
+  "color": "#a78bfa"
+}

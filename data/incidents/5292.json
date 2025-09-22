@@ -1,0 +1,13 @@
+{
+  "id": 5292,
+  "title": "¡Weee! - Ransomware - IntelBroker",
+  "date": "2023-02-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "IntelBroker",
+  "impact": "Filtración de datos en Weee",
+  "source": "nan",
+  "summary": "El servicio de entrega de comida asiática e hispana Weee! sufre una filtración de datos que expone la información personal de 1,1 millones de clientes.",
+  "color": "#ef4444"
+}

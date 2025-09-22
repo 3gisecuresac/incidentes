@@ -1,0 +1,13 @@
+{
+  "id": 7397,
+  "title": "Volaris - Ransomware - cl0p",
+  "date": "2023-03-23",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Cifrado por ransomware en Volaris",
+  "source": "nan",
+  "summary": "La aerolínea mexicana Volaris aparece entre las últimas víctimas de la banda de ransomware Clop afectada por la actual ola de piratería informática GoAnywhere.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6545,
+  "title": "Departamento de Salud del Condado de Lake - Data leak - Undetermined",
+  "date": "2023-12-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Salud del Condado de Lake investiga un incidente de seguridad",
+  "source": "nan",
+  "summary": "El Departamento de Salud del Condado de Lake investiga un incidente de seguridad que involucra acceso no autorizado a la cuenta de correo electrónico de un empleado.",
+  "color": "#a78bfa"
+}

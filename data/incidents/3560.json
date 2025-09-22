@@ -1,0 +1,13 @@
+{
+  "id": 3560,
+  "title": "Economía del capital - Data leak - Undetermined",
+  "date": "2021-01-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Cyble descubren una filtración de más de 500",
+  "source": "nan",
+  "summary": "Investigadores de Cyble descubren una filtración de más de 500.000 registros de ejecutivos de nivel C de Capital Economics en un foro de habla rusa.",
+  "color": "#ef4444"
+}

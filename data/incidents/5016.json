@@ -1,0 +1,13 @@
+{
+  "id": 5016,
+  "title": "Keystone Health - Data leak - Undetermined",
+  "date": "2022-10-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Keystone Health",
+  "source": "nan",
+  "summary": "Keystone Health comienza a informar a los pacientes sobre una violación de datos que podría afectar la información personal de 235.000 pacientes.",
+  "color": "#ef4444"
+}

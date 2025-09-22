@@ -1,0 +1,13 @@
+{
+  "id": 1896,
+  "title": "Salud Primero, Inc. - Data leak - Undetermined",
+  "date": "2018-11-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Health First Inc",
+  "source": "https://www.databreaches.net/fl-health-first-inc-notified-42000-patients-after-phishing-incident/",
+  "summary": "Health First, Inc. notifica a 42.000 pacientes después de un incidente de phishing.",
+  "color": "#ef4444"
+}

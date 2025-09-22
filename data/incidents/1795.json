@@ -1,0 +1,13 @@
+{
+  "id": 1795,
+  "title": "Reddit - Data leak - Undetermined",
+  "date": "2018-08-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en SMS entre el 14",
+  "source": "https://www.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/",
+  "summary": "Reddit revela una vulneración de sus sistemas que comprometió datos de usuarios, incluyendo algunas direcciones de correo electrónico actuales y contraseñas con sal y hash de una copia de seguridad de la base de datos de 2007. El atacante accedió a varias cuentas de empleados mediante la interceptación de SMS entre el 14 y el 18 de junio.",
+  "color": "#ef4444"
+}

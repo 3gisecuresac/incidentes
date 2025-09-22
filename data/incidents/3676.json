@@ -1,0 +1,13 @@
+{
+  "id": 3676,
+  "title": "Atascadero State Hospital - Data leak - Undetermined",
+  "date": "2021-02-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Hospitales Estatales de California",
+  "source": "nan",
+  "summary": "El Departamento de Hospitales Estatales de California (DSH) anunció que un empleado accedió indebidamente a aproximadamente 1,415 nombres de pacientes y ex pacientes, y 617 nombres de empleados, resultados de pruebas de COVID-19 e información de salud necesaria para el seguimiento de COVID-19 en el Hospital Estatal de Atascadero.",
+  "color": "#a78bfa"
+}

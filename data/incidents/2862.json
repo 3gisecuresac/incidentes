@@ -1,0 +1,13 @@
+{
+  "id": 2862,
+  "title": "Instituto de Cirugía Plástica de Nashville, - Ransomware - MAZE",
+  "date": "2020-05-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "MAZE",
+  "impact": "Cifrado por ransomware en Cirugía Plástica de Nashville",
+  "source": "https://www.databreaches.net/nashville-plastic-surgery-center-hit-by-ransomware/",
+  "summary": "El Instituto de Cirugía Plástica de Nashville, dba Maxwell Aesthetics, se ve afectado por un ataque de ransomware Maze.",
+  "color": "#ef4444"
+}

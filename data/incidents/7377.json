@@ -1,0 +1,13 @@
+{
+  "id": 7377,
+  "title": "Pronsticos Deportivos - Ransomware - Avaddon",
+  "date": "2021-05-27",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Avaddon",
+  "impact": "Interrupción por DDoS en México después de",
+  "source": "nan",
+  "summary": "El equipo mexicano Pronósticos Deportivos sufre un ataque de ransomware Avaddon y bloquea el acceso a direcciones IP fuera de México después de que el grupo de ransomware amenazara con realizar ataques de denegación de servicio. El grupo también amenazó con publicar más documentos si las negociaciones no comenzaban en 10 días.",
+  "color": "#f59e0b"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6110,
+  "title": "El café se encuentra con el bagel - Ransomware - Undetermined",
+  "date": "2023-08-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Coffee Meets Bagel",
+  "source": "nan",
+  "summary": "La plataforma de citas Coffee Meets Bagel confirma que la interrupción de la semana pasada fue causada por piratas informáticos que violaron los sistemas de la empresa y eliminaron datos de la empresa.",
+  "color": "#ef4444"
+}

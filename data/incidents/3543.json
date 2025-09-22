@@ -1,0 +1,13 @@
+{
+  "id": 3543,
+  "title": "Universidad de Kentucky - Data leak - Undetermined",
+  "date": "2021-01-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Kentucky descubre una violación de datos en una de sus plataformas de exámenes",
+  "source": "nan",
+  "summary": "La Universidad de Kentucky descubre una violación de datos en una de sus plataformas de exámenes, la base de datos robada contenía información de 355.000 personas.",
+  "color": "#ef4444"
+}

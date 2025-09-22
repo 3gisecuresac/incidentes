@@ -1,0 +1,13 @@
+{
+  "id": 572,
+  "title": "Grupo American Airlines Inc. - Data leak - Undetermined",
+  "date": "2015-08-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Sabre habían ingresado a sus computadoras",
+  "source": "http://www.bloomberg.com/news/articles/2015-08-07/american-airlines-sabre-said-to-be-hit-in-hacks-backed-by-china",
+  "summary": "American Airlines Group Inc., la mayor aerolínea del mundo, anuncia que está en curso una investigación para verificar si los mismos atacantes que atacaron a Sabre habían ingresado a sus computadoras.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5436,
+  "title": "Agencia de la rama ejecutiva civil federal (FCEB) sin nombre - Data leak - Undetermined",
+  "date": "2023-03-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en ASP.NET",
+  "source": "nan",
+  "summary": "La CISA, el FBI y MS-ISAC revelan que el servidor web de Microsoft Internet Information Services (IIS) de una agencia federal estadounidense fue pirateado mediante la explotación de una vulnerabilidad crítica de deserialización de .NET en el componente Progress Telerik UI para ASP.NET AJAX.",
+  "color": "#a78bfa"
+}

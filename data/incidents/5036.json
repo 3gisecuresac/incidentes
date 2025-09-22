@@ -1,0 +1,13 @@
+{
+  "id": 5036,
+  "title": "Twilio - Data leak - Undetermined",
+  "date": "2022-10-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Twilio",
+  "source": "nan",
+  "summary": "La empresa de comunicaciones en la nube Twilio reveló una nueva violación de datos derivada de un incidente de seguridad de junio de 2022, en el que los mismos atacantes detrás del ataque de agosto accedieron a la información de algunos clientes.",
+  "color": "#ef4444"
+}

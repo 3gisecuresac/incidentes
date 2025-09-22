@@ -1,0 +1,13 @@
+{
+  "id": 4003,
+  "title": "Club Atlético BridgeMill - Ransomware - Babuk",
+  "date": "2021-07-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Babuk",
+  "impact": "Filtración de datos en GB de",
+  "source": "nan",
+  "summary": "Babuk v.2.0 publica un volcado de datos de 130 GB de información confidencial en la web oscura, incluidos los archivos completos de correos electrónicos.",
+  "color": "#ef4444"
+}

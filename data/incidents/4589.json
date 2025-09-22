@@ -1,0 +1,13 @@
+{
+  "id": 4589,
+  "title": "Corporación de piezas de armas Numrich - Data leak - Undetermined",
+  "date": "2022-06-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Numrich Gun Parts Corporation un",
+  "source": "nan",
+  "summary": "Numrich Gun Parts Corporation, un sitio de comercio electrónico, revela una violación de datos resultante de una infección con un skimmer de tarjetas en su sitio.",
+  "color": "#ef4444"
+}

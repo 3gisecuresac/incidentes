@@ -1,0 +1,13 @@
+{
+  "id": 4353,
+  "title": "Ortopedia de Indiana Central (CIO) - Data leak - Undetermined",
+  "date": "2022-03-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Central Indiana Orthopedics CIO",
+  "source": "nan",
+  "summary": "Central Indiana Orthopedics (CIO) revela un incidente de seguridad de datos que afectó a 83.705 personas",
+  "color": "#ef4444"
+}

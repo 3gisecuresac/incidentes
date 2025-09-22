@@ -1,0 +1,13 @@
+{
+  "id": 3413,
+  "title": "Arquidiócesis de San Luis - Ransomware - Undetermined",
+  "date": "2020-11-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en ArchSTL.org",
+  "source": "https://www.databreaches.net/archdiocese-of-st-louis-websites-down-after-ransomware-attack/",
+  "summary": "Los sitios web de la Arquidiócesis de San Luis se encuentran inactivos tras una campaña coordinada de ransomware. La Arquidiócesis fue informada del ataque el 16 de noviembre. Varios sitios web, como ArchSTL.org, StLouisReview.org y Cemeteries.ArchSTL.org, no funcionaban correctamente.",
+  "color": "#ef4444"
+}

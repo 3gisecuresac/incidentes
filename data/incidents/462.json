@@ -1,0 +1,13 @@
+{
+  "id": 462,
+  "title": "Asociación de Loterías Multiestatales - Ransomware - Eddie Raymond Tipton",
+  "date": "2015-04-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Eddie Raymond Tipton",
+  "impact": "Incidente de seguridad en Lotería Multiestatal",
+  "source": "http://www.bbc.com/news/technology-32301117",
+  "summary": "Eddie Raymond Tipton, ex jefe de seguridad de la Asociación de Lotería Multiestatal, está acusado de fraude después de supuestamente piratear con un rootkit la computadora que elige los números ganadores.",
+  "color": "#a78bfa"
+}

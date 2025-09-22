@@ -1,0 +1,13 @@
+{
+  "id": 2739,
+  "title": "Clearview IA - Data leak - Undetermined",
+  "date": "2020-02-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Clearview AI",
+  "source": "https://www.thedailybeast.com/clearview-ai-facial-recognition-company-that-works-with-law-enforcement-says-entire-client-list-was-stolen",
+  "summary": "Clearview AI revela a sus clientes que un intruso obtuvo acceso no autorizado a su lista de clientes, a la cantidad de cuentas de usuario que esos clientes habían configurado y a la cantidad de búsquedas que sus clientes realizaron.",
+  "color": "#a78bfa"
+}

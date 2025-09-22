@@ -1,0 +1,13 @@
+{
+  "id": 6109,
+  "title": "Ortopedia Premier de Brooklyn - Ransomware - ALPHVM",
+  "date": "2023-08-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en Brooklyn Premier Orthopedics a su",
+  "source": "nan",
+  "summary": "El ransomware ALPHV (BlackCat) agrega Brooklyn Premier Orthopedics a su sitio de filtraciones.",
+  "color": "#ef4444"
+}

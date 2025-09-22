@@ -1,0 +1,13 @@
+{
+  "id": 7263,
+  "title": "Generali España - Ciberataque - Undetermined",
+  "date": "2022-11-21",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Generali Espa a",
+  "source": "nan",
+  "summary": "Generali España confirma que un incidente de seguridad podría haber afectado a antiguos clientes.",
+  "color": "#a78bfa"
+}

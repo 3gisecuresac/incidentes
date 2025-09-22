@@ -1,0 +1,13 @@
+{
+  "id": 4050,
+  "title": "QRS - Ransomware - Snatch",
+  "date": "2021-08-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Snatch",
+  "impact": "Cifrado por ransomware",
+  "source": "nan",
+  "summary": "Una empresa de servicios de tecnología sanitaria se ve afectada por un ataque de ransomware tras verse comprometido un portal de pacientes; el incidente afecta a más de 6.000 personas.",
+  "color": "#ef4444"
+}

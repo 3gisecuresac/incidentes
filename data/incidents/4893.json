@@ -1,0 +1,13 @@
+{
+  "id": 4893,
+  "title": "Asociación de Rehabilitación de Nativos Americanos del Noroeste (NARA NW) - Data leak - Undetermined",
+  "date": "2022-09-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Rehabilitación de Nativos Americanos del Noroeste",
+  "source": "nan",
+  "summary": "La Asociación de Rehabilitación de Nativos Americanos del Noroeste (NARA NW) informa sobre una violación de las cuentas de correo electrónico de siete empleados.",
+  "color": "#a78bfa"
+}

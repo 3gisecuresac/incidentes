@@ -1,0 +1,13 @@
+{
+  "id": 7100,
+  "title": "Ciudad de Corvallis (Concejal Paul Schaffer) - Data leak - Undetermined",
+  "date": "2025-01-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Corvallis es pirateado",
+  "source": "nan",
+  "summary": "El correo electrónico de un concejal de la ciudad de Corvallis es pirateado por un estafador y utilizado para acceder a casi 3.500 direcciones de correo electrónico en un intento de robar la información personal de los destinatarios.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2473,
+  "title": "Centro Hospitalario de Brooklyn - Ransomware - Undetermined",
+  "date": "2019-11-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Brooklyn revela",
+  "source": "https://www.bleepingcomputer.com/news/security/brooklyn-hospital-loses-patient-data-in-ransomware-attack/",
+  "summary": "El Centro Hospitalario de Brooklyn revela que un ataque de ransomware ocurrido a finales de julio provocó la pérdida permanente de los datos de algunos pacientes.",
+  "color": "#ef4444"
+}

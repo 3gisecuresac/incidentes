@@ -1,0 +1,13 @@
+{
+  "id": 2202,
+  "title": "Centro médico de Ellwood City - Data leak - Undetermined",
+  "date": "2019-06-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Centro Médico Ellwood City investigan si algún registro de pacientes se vio comprometido después de un ciberataque",
+  "source": "https://www.databreaches.net/ellwood-city-medical-center-victim-of-cyber-attack-not-sure-if-patient-records-were-exposed/",
+  "summary": "Los funcionarios del Centro Médico Ellwood City investigan si algún registro de pacientes se vio comprometido después de un ciberataque.",
+  "color": "#3b82f6"
+}

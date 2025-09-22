@@ -1,0 +1,13 @@
+{
+  "id": 4561,
+  "title": "Verizon - Data leak - Undetermined",
+  "date": "2022-05-26",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Verizon",
+  "source": "nan",
+  "summary": "Un hacker obtiene una base de datos que incluye el nombre completo, la dirección de correo electrónico, los números de identificación corporativa y el número de teléfono de cientos de empleados de Verizon.",
+  "color": "#ef4444"
+}

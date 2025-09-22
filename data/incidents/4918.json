@@ -1,0 +1,13 @@
+{
+  "id": 4918,
+  "title": "Fabricante estadounidense de vehículos aéreos no tripulados - DoS - Phoenix",
+  "date": "2022-09-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Phoenix",
+  "impact": "Interrupción por DDoS en Rusia",
+  "source": "nan",
+  "summary": "El colectivo Phoenix, afiliado a Rusia, afirma haber llevado a cabo un ataque DDoS contra los recursos en línea de un fabricante estadounidense de vehículos aéreos no tripulados.",
+  "color": "#f59e0b"
+}

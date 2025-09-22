@@ -1,0 +1,13 @@
+{
+  "id": 1336,
+  "title": "Seleccionar Restaurante - Infección Dispositivos - Undetermined",
+  "date": "2017-06-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Ohio",
+  "source": "https://www.scmagazine.com/select-restaurant-chain-hit-with-pos-data-breach/article/668407/",
+  "summary": "La cadena de restaurantes Select, con sede en Ohio, informa que sufrió una vulneración de seguridad en el punto de venta, durante la cual se vulneró la información de las tarjetas de pago de sus clientes. La vulneración tuvo lugar entre el 36 de octubre de 2016 y el 3 de febrero de 2017 en 12 de sus restaurantes.",
+  "color": "#a78bfa"
+}

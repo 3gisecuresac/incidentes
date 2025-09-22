@@ -1,0 +1,13 @@
+{
+  "id": 4828,
+  "title": "Océano digital - Data leak - Undetermined",
+  "date": "2022-08-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en MailChimp expuso las direcciones de correo electrónico de algunos clientes",
+  "source": "nan",
+  "summary": "DigitalOcean advierte a sus clientes que la reciente violación de seguridad de MailChimp expuso las direcciones de correo electrónico de algunos clientes y que un pequeño número de ellos recibió restablecimientos de contraseña no autorizados.",
+  "color": "#a78bfa"
+}

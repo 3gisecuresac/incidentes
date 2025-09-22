@@ -1,0 +1,13 @@
+{
+  "id": 2155,
+  "title": "Aeropuerto Internacional Cleveland Hopkins - Ransomware - Undetermined",
+  "date": "2019-04-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Aeropuerto Internacional Cleveland Hopkins",
+  "source": "https://www.forbes.com/sites/leemathews/2019/04/28/ransomware-hits-yet-another-u-s-airport/#4d88a87e461c",
+  "summary": "El Aeropuerto Internacional Cleveland Hopkins revela haber sido afectado por un ataque de ransomware.",
+  "color": "#ef4444"
+}

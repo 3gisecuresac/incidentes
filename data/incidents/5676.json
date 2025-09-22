@@ -1,0 +1,13 @@
+{
+  "id": 5676,
+  "title": "Sistema de Salud Regional de Columbus (CRHS) - Ransomware - Daixin Team",
+  "date": "2023-05-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Daixin Team",
+  "impact": "Cifrado por ransomware en Salud Regional de Columbus",
+  "source": "nan",
+  "summary": "El Sistema de Salud Regional de Columbus (CRHS) es víctima de un ataque de ransomware Daixin.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 861,
+  "title": "mayline.com - Data leak - sn0n",
+  "date": "2016-04-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "sn0n",
+  "impact": "Cifrado por ransomware en mayline.com",
+  "source": "https://hacked-emails.com/leak/siph0n-4659",
+  "summary": "sn0n hackea mayline.com y descarga 2.803 registros con nombres de usuario y contraseñas cifradas.",
+  "color": "#ef4444"
+}

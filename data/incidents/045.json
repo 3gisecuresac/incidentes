@@ -1,0 +1,13 @@
+{
+  "id": 45,
+  "title": "Universidad Barry - Data leak - Undetermined",
+  "date": "2014-01-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Pie",
+  "source": "https://www.beckershospitalreview.com/healthcare-information-technology/barry-university-informs-patients-of-malware-caused-data-breach.html",
+  "summary": "La Universidad Barry notifica a los pacientes de su Instituto de Pie y Tobillo que sus registros médicos e información personal pueden haber sido pirateados por un malware detectado en mayo.",
+  "color": "#a78bfa"
+}

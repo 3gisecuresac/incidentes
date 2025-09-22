@@ -1,0 +1,13 @@
+{
+  "id": 7729,
+  "title": "Alquiler de coches y camiones con descuento - Ransomware - DarkSide",
+  "date": "2021-02-13",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "DarkSide",
+  "impact": "Filtración de datos en Canadian Discount Car",
+  "source": "nan",
+  "summary": "Canadian Discount Car and Truck Rentals es víctima de un ataque de ransomware DarkSide donde los piratas informáticos afirman haber robado 120 GB de datos.",
+  "color": "#ef4444"
+}

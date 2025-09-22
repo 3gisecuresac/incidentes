@@ -1,0 +1,13 @@
+{
+  "id": 2477,
+  "title": "PEXSuperstore.com - Data leak - Undetermined",
+  "date": "2019-11-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en PEXSuperstore.com",
+  "source": "https://threatpost.com/magecart-groups-attack-simultaneous-sites-in-card-theft-frenzy/149872/",
+  "summary": "Investigadores de PerimeterX revelan que PEXSuperstore.com es la última víctima de un ataque de Magecart (simultáneamente por parte de dos grupos criminales diferentes).",
+  "color": "#a78bfa"
+}

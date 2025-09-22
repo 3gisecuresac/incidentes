@@ -1,0 +1,13 @@
+{
+  "id": 7516,
+  "title": "Bell Canadá - Data leak - NullCrew",
+  "date": "2014-02-01",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "NullCrew",
+  "impact": "Filtración de datos en @NullCrew_FTS",
+  "source": "nan",
+  "summary": "El grupo de hackers NullCrew, también conocido como @NullCrew_FTS, afirma haber hackeado con éxito Bell Canada (bell.ca). Como resultado, se filtraron 40.000 credenciales.",
+  "color": "#ef4444"
+}

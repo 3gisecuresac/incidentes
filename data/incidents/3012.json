@@ -1,0 +1,13 @@
+{
+  "id": 3012,
+  "title": "Fuente profunda - Data leak - Sawfish",
+  "date": "2020-07-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Sawfish",
+  "impact": "Cuentas comprometidas por phishing en DeepSource",
+  "source": "https://www.bleepingcomputer.com/news/security/deepsource-resets-logins-after-employee-falls-for-sawfish-phishing/",
+  "summary": "DeepSource restablece los inicios de sesión de los usuarios después de que un empleado cae en la campaña de phishing Sawfish.",
+  "color": "#ef4444"
+}

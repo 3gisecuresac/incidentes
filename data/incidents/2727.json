@@ -1,0 +1,13 @@
+{
+  "id": 2727,
+  "title": "Distrito escolar de South Adams - Ransomware - Undetermined",
+  "date": "2020-02-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en South Adams es víctima de un ataque de ransomware",
+  "source": "https://www.databreaches.net/in-south-adams-schools-hit-with-ransomware-cyber-attack/",
+  "summary": "El distrito escolar de South Adams es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

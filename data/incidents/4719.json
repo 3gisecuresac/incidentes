@@ -1,0 +1,13 @@
+{
+  "id": 4719,
+  "title": "Fairfax - Crum y Forster - Ransomware - Ransom House",
+  "date": "2022-07-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Ransom House",
+  "impact": "Filtración de datos en RANSOM HOUSE",
+  "source": "nan",
+  "summary": "La banda criminal RANSOM HOUSE explota datos y cifra sistemas. Datos y exigencias de rescate se presentan en un sitio web filtrado en la dark web.",
+  "color": "#ef4444"
+}

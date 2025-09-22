@@ -1,0 +1,13 @@
+{
+  "id": 5491,
+  "title": "CommScope - Ransomware - Vice Society",
+  "date": "2023-03-27",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Vice Society",
+  "impact": "Filtración de datos en Vice Society",
+  "source": "nan",
+  "summary": "El proveedor de infraestructura de red CommScope confirma que sufrió un ataque de ransomware y está investigando denuncias de información robada filtrada en la red oscura por la banda de ransomware Vice Society.",
+  "color": "#ef4444"
+}

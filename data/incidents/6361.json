@@ -1,0 +1,13 @@
+{
+  "id": 6361,
+  "title": "Prensa asociada - DoS - Undetermined",
+  "date": "2023-11-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Associated Press",
+  "source": "nan",
+  "summary": "El sitio web de noticias Associated Press (apnews) es víctima de un ataque DDoS.",
+  "color": "#f59e0b"
+}

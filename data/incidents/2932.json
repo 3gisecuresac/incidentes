@@ -1,0 +1,13 @@
+{
+  "id": 2932,
+  "title": "Microsoft - Data leak - Undetermined",
+  "date": "2020-06-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Microsoft",
+  "source": "https://arstechnica.com/information-technology/2020/06/machine-learning-clusters-in-azure-hijacked-to-mine-cryptocurrency/",
+  "summary": "Microsoft revela que los atacantes recientemente secuestraron poderosos clústeres de aprendizaje automático dentro del servicio de computación en la nube Azure de Microsoft para minar criptomonedas a expensas de los clientes que los alquilaron.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6579,
+  "title": "Banco del Pacífico de Oregón - Ciberataque - Undetermined",
+  "date": "2024-01-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Oregon Pacific Bank",
+  "source": "nan",
+  "summary": "Oregon Pacific Bank presenta un aviso de violación de datos después de descubrir que información confidencial en posesión de la empresa estaba sujeta a acceso no autorizado.",
+  "color": "#ef4444"
+}

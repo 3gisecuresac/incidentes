@@ -1,0 +1,13 @@
+{
+  "id": 4161,
+  "title": "Distrito Escolar Unificado de la Península de Monterey - Data leak - Undetermined",
+  "date": "2021-11-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en California sufre una violación de datos",
+  "source": "nan",
+  "summary": "Distrito escolar de California sufre una violación de datos que compromete la información personal de empleados actuales y anteriores.",
+  "color": "#ef4444"
+}

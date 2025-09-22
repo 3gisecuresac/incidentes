@@ -1,0 +1,13 @@
+{
+  "id": 7536,
+  "title": "Centro del Plan de Seguro Parental de Quebec - Data leak - Anonymous",
+  "date": "2015-07-03",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Anonymous",
+  "impact": "Sistema o cuenta comprometida en Plan de Seguro Parental de Quebec",
+  "source": "nan",
+  "summary": "En nombre de #OpBillC51, Anonymous hackea el Centro del Plan de Seguro Parental de Quebec (http://www.rqap.gouv.qc.ca), el Ministerio de Trabajo, Empleo y Solidaridad Social (http://www.mess.gouv.qc.ca) y el sitio web de la Comisión Nacional de Revisión del seguro de empleo.",
+  "color": "#3b82f6"
+}

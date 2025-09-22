@@ -1,0 +1,13 @@
+{
+  "id": 6889,
+  "title": "Corporación Repligen - DoS - INC",
+  "date": "2024-07-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "INC",
+  "impact": "Cifrado por ransomware en Repligen Corporation",
+  "source": "nan",
+  "summary": "La empresa de bioprocesamiento Repligen Corporation sufre un ataque de ransomware INC.",
+  "color": "#ef4444"
+}

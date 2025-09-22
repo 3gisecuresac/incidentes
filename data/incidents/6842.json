@@ -1,0 +1,13 @@
+{
+  "id": 6842,
+  "title": "Hospital de Delhi - Ransomware - RADAR and DISPOSSESSOR’s (R&D)",
+  "date": "2024-07-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "RADAR and DISPOSSESSOR’s (R&D)",
+  "impact": "Filtración de datos en Delhi",
+  "source": "nan",
+  "summary": "El Hospital de Delhi (también conocido como Hospital Richard Parish) en Luisiana se agrega al sitio de filtración de ransomware RADAR y DISPOSSESSOR (“R&D”).",
+  "color": "#ef4444"
+}

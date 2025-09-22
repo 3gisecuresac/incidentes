@@ -1,0 +1,13 @@
+{
+  "id": 304,
+  "title": "Snapsaved.com - Data leak - Undetermined",
+  "date": "2014-10-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Snapsaved.com",
+  "source": "http://arstechnica.com/security/2014/10/developer-of-hacked-snapchat-web-app-says-snappening-claims-are-hoax/",
+  "summary": "Snapsaved.com, una aplicación de terceros que permite a los usuarios de Snapchat guardar imágenes y vídeos enviados a través del servicio en línea, es hackeada y como consecuencia se publican en línea 13 gigabytes de imágenes robadas.",
+  "color": "#3b82f6"
+}

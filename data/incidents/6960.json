@@ -1,0 +1,13 @@
+{
+  "id": 6960,
+  "title": "Sistema de control horario y asistencia para empleados de Massachusetts (SSTA) - Data leak - Undetermined",
+  "date": "2024-10-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Massachusetts",
+  "source": "nan",
+  "summary": "Massachusetts sufre un ciberataque que le obliga a cerrar su sistema de nóminas estatal.",
+  "color": "#a78bfa"
+}

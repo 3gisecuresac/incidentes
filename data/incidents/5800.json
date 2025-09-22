@@ -1,0 +1,13 @@
+{
+  "id": 5800,
+  "title": "Universidad Estatal Stephen F. Austin - Ciberataque - Undetermined",
+  "date": "2023-06-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en La Universidad Estatal Stephen F. Austin",
+  "source": "nan",
+  "summary": "La Universidad Estatal Stephen F. Austin sufre un ciberataque.",
+  "color": "#a78bfa"
+}

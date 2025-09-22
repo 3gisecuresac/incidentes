@@ -1,0 +1,13 @@
+{
+  "id": 3499,
+  "title": "Centros Médicos León - Ransomware - WIZARD SPIDER",
+  "date": "2020-12-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "WIZARD SPIDER",
+  "impact": "Cifrado por ransomware en El Centro M",
+  "source": "nan",
+  "summary": "El Centro Médico Leon ha sido atacado por la banda de ransomware Conti.",
+  "color": "#ef4444"
+}

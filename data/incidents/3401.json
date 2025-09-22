@@ -1,0 +1,13 @@
+{
+  "id": 3401,
+  "title": "Pájaro olfativo - Data leak - ShinyHunters",
+  "date": "2020-11-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ShinyHunters",
+  "impact": "Filtración de datos en ShinyHunters",
+  "source": "https://www.databreaches.net/more-drama-on-a-forum-and-a-slew-of-new-databases-dumped/",
+  "summary": "ShinyHunters ha puesto a la venta la base de datos ScentBird.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3184,
+  "title": "Sistemas de información de Artech - Ransomware - REvil",
+  "date": "2020-09-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "REvil",
+  "impact": "Filtración de datos en TI de EE",
+  "source": "https://www.databreaches.net/us-staffing-firm-artech-discloses-ransomware-attack-data-breach/",
+  "summary": "Artech Information Systems, una de las mayores empresas de personal de TI de EE. UU., ha revelado una violación de datos causada por un ataque de ransomware que afectó algunos de sus sistemas a principios de enero de 2020.",
+  "color": "#ef4444"
+}

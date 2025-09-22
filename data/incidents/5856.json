@@ -1,0 +1,13 @@
+{
+  "id": 5856,
+  "title": "Compañía de seguros de vida Fidelity & Guaranty (F&G) - Ransomware - cl0p",
+  "date": "2023-06-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Cifrado por ransomware en MOVEit Transfer",
+  "source": "nan",
+  "summary": "Fidelity & Guaranty Life Insurance Company confirma que la banda Clop Ransomware, explotando la vulnerabilidad en MOVEit Transfer, accedió a la información médica protegida de aproximadamente 873.000 personas.",
+  "color": "#ef4444"
+}

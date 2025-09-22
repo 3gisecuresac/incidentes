@@ -1,0 +1,13 @@
+{
+  "id": 6215,
+  "title": "Cooperativa de crédito Patelco - Data leak - cl0p",
+  "date": "2023-09-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en Patelco Credit Union afectada",
+  "source": "nan",
+  "summary": "Sovos Compliance presenta otro aviso de violación de datos en nombre de Patelco Credit Union afectada por una violación de datos en Sovos que involucra la aplicación de transferencia de archivos MOVEit.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7411,
+  "title": "Ministerio de Relaciones Exteriores de Guatemala - Data leak - VSOP",
+  "date": "2022-09-29",
+  "country": "Guatemala",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "VSOP",
+  "impact": "Filtración de datos en Ministerio de Relaciones Exteriores de Guatemala a su sitio de filtraciones",
+  "source": "nan",
+  "summary": "Actores de amenazas que se hacen llamar VSOP agregan al Ministerio de Relaciones Exteriores de Guatemala a su sitio de filtraciones.",
+  "color": "#ef4444"
+}

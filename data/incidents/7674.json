@@ -1,0 +1,13 @@
+{
+  "id": 7674,
+  "title": "Mutual agrícola Heartland - Data leak - Undetermined",
+  "date": "2020-07-02",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Heartland Farm Mutual",
+  "source": "nan",
+  "summary": "Un ataque de phishing en Heartland Farm Mutual, una empresa de seguros canadiense, podría haber expuesto los datos personales de los clientes, advierte la compañía.",
+  "color": "#ef4444"
+}

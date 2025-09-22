@@ -1,0 +1,13 @@
+{
+  "id": 3147,
+  "title": "Fundación Alianza del Parque Roswell - Data leak - Undetermined",
+  "date": "2020-09-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Blackbaud",
+  "source": "https://buffalonews.com/news/local/local-hospitals-disclose-data-breach-blamed-on-national-software-company/article_61c999de-ed1e-11ea-995b-0799a158eae0.html",
+  "summary": "La Fundación Roswell Park Alliance se ve afectada por la violación de datos de Blackbaud.",
+  "color": "#ef4444"
+}

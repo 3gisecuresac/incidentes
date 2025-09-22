@@ -1,0 +1,13 @@
+{
+  "id": 6435,
+  "title": "Centro Oncológico Fred Hutchinson - Ransomware - Hunters International",
+  "date": "2023-11-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Hunters International",
+  "impact": "Cifrado por ransomware en Centro de Cáncer Fred Hutchinson",
+  "source": "nan",
+  "summary": "La banda de ransomware Hunters International afirma estar detrás de un ciberataque al Centro de Cáncer Fred Hutchinson (Fred Hutch) que provocó que los pacientes recibieran amenazas de extorsión personalizadas.",
+  "color": "#ef4444"
+}

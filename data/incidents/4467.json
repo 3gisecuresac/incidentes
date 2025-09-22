@@ -1,0 +1,13 @@
+{
+  "id": 4467,
+  "title": "Tecnologías de circuitos flexibles - Ransomware - Black Basta",
+  "date": "2022-04-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Black Basta",
+  "impact": "Filtración de datos en Black Basta",
+  "source": "nan",
+  "summary": "Black Basta publica ejemplos de datos organizacionales sensibles en su página web oscura exigiendo pago bajo amenaza de publicación.",
+  "color": "#ef4444"
+}

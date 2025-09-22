@@ -1,0 +1,13 @@
+{
+  "id": 7511,
+  "title": "Ejército de Chile - Ransomware - Rhysida",
+  "date": "2023-05-29",
+  "country": "Chile",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Rhysida",
+  "impact": "Filtración de datos en Ejército de Chile",
+  "source": "nan",
+  "summary": "Los actores de amenazas detrás de una operación de ransomware recientemente descubierta conocida como Rhysida han filtrado en línea lo que afirman que son documentos robados de la red del Ejército de Chile.",
+  "color": "#ef4444"
+}

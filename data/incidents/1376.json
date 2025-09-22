@@ -1,0 +1,13 @@
+{
+  "id": 1376,
+  "title": "KQED - Ransomware - Undetermined",
+  "date": "2017-07-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en San Francisco",
+  "source": "http://www.sfchronicle.com/business/article/Ransomware-attack-puts-KQED-in-low-tech-mode-11295175.php",
+  "summary": "KQED, una estación de radio de San Francisco, todavía se está recuperando de un ataque de ransomware, casi un mes después.",
+  "color": "#ef4444"
+}

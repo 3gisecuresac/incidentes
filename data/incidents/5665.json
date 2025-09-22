@@ -1,0 +1,13 @@
+{
+  "id": 5665,
+  "title": "Servicios médicos de electroestimulación - Data leak - Undetermined",
+  "date": "2023-05-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Electrostim Medical Services EMSI",
+  "source": "nan",
+  "summary": "Electrostim Medical Services (EMSI) presenta un aviso de violación de datos después de descubrir que una parte no autorizada pudo acceder a su sistema informático.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 616,
+  "title": "8chan - DoS - Undetermined",
+  "date": "2015-09-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en DDoS contra los",
+  "source": "https://blog.malwarebytes.com/cybercrime/2015/09/imgur-abused-in-ddos-attack-against-4chan/",
+  "summary": "Imgur, el sitio web para compartir fotografías, es explotado en un ataque de denegación de servicio distribuido (DDoS) contra los populares foros de imágenes 4chan y 8chan.",
+  "color": "#f59e0b"
+}

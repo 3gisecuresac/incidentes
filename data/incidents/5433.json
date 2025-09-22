@@ -1,0 +1,13 @@
+{
+  "id": 5433,
+  "title": "Servicios de recetas postales de Kroger - Data leak - Undetermined",
+  "date": "2023-03-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Kroger Postal Prescription Services Kroger PPS",
+  "source": "nan",
+  "summary": "Kroger Postal Prescription Services (Kroger PPS) presenta un aviso de violación de datos después de enterarse de que la información confidencial del consumidor en posesión de la empresa estaba sujeta a acceso no autorizado.",
+  "color": "#ef4444"
+}

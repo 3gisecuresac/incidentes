@@ -1,0 +1,13 @@
+{
+  "id": 1381,
+  "title": "Veritaseum - Data leak - Undetermined",
+  "date": "2017-07-24",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Monedas",
+  "source": "https://www.hackread.com/veritaseum-hack-another-ethereum-ico-hacked-loses-84m/",
+  "summary": "Otro día, otra brecha relacionada con Ethereum. Esta vez, el objetivo es Veritaseum, cuya Oferta Inicial de Monedas (ICO) sufre una filtración de datos en la que se roban aproximadamente US$8,4 millones en Ethereum.",
+  "color": "#ef4444"
+}

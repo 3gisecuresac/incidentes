@@ -1,0 +1,13 @@
+{
+  "id": 7379,
+  "title": "Instituto Nacional Electoral (Instituto Nacional Electoral) - Data leak - Undetermined",
+  "date": "2021-07-14",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en México",
+  "source": "nan",
+  "summary": "En una aparente filtración de datos se filtra toda la base de datos de electores de México, más de 91 millones de registros.",
+  "color": "#ef4444"
+}

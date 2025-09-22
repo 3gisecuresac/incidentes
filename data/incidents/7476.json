@@ -1,0 +1,13 @@
+{
+  "id": 7476,
+  "title": "Schrader Camargo - Ransomware - LockBit 3.0",
+  "date": "2023-03-11",
+  "country": "Colombia",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "LockBit 3.0",
+  "impact": "Cifrado por ransomware en Schrader Camargo",
+  "source": "nan",
+  "summary": "Schrader Camargo aparece en el sitio de la banda de ransomware LockBit 3.0.",
+  "color": "#ef4444"
+}

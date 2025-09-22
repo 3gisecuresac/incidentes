@@ -1,0 +1,13 @@
+{
+  "id": 7427,
+  "title": "enamorarse - Data leak - Guacamaya",
+  "date": "2022-08-03",
+  "country": "Ecuador",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Guacamaya",
+  "impact": "Filtración de datos en ENAMI una",
+  "source": "nan",
+  "summary": "Un grupo hacktivista llamado Guacamaya publica más de 2 TB de datos de varias empresas, incluida ENAMI, una empresa minera estatal ecuatoriana.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7413,
+  "title": "Cementos Progreso - Ransomware - ALPHVM",
+  "date": "2023-04-21",
+  "country": "Guatemala",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "ALPHVM",
+  "impact": "Filtración de datos en BlackCat",
+  "source": "nan",
+  "summary": "Cementos Progreso se ha añadido al sitio de filtraciones de ransomware de BlackCat. Como prueba, ofrecen algunas muestras con documentos internos.",
+  "color": "#ef4444"
+}

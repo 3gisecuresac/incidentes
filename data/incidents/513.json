@@ -1,0 +1,13 @@
+{
+  "id": 513,
+  "title": "Ingeniería de información médica - Data leak - Undetermined",
+  "date": "2015-06-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Medical Information Engineering MIE una",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/medical-information-engineerings-network-breached-undisclosed-number-of-patients-compromised/",
+  "summary": "Medical Information Engineering (MIE), una empresa de software médico, notifica a sus clientes sobre un incidente de ciberseguridad que proporcionó acceso no autorizado a su red y a la información de salud personal de algunos pacientes.",
+  "color": "#a78bfa"
+}

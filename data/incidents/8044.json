@@ -1,0 +1,13 @@
+{
+  "id": 8044,
+  "title": "Ejército boliviano - Data leak - Hanom1960; Chilean Hackers; Hazzard",
+  "date": "2016-02-10",
+  "country": "Bolivia",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Hanom1960; Chilean Hackers; Hazzard",
+  "impact": "Filtración de datos en Ejército boliviano",
+  "source": "nan",
+  "summary": "Un grupo de hackers viola los servidores de correo electrónico oficiales del Ejército boliviano, descarga correos electrónicos y publica algunos de los datos en línea.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4394,
+  "title": "Especialistas en citometría, también conocidos como Laboratorios CSI - Data leak - Conti",
+  "date": "2022-03-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Conti",
+  "impact": "Incidente de seguridad en Cytometry Specialists",
+  "source": "nan",
+  "summary": "Cytometry Specialists, también conocido como CSI Laboratories, notifica a los pacientes sobre un ciberataque de febrero que interrumpió los sistemas de información del laboratorio de pruebas de cáncer.",
+  "color": "#a78bfa"
+}

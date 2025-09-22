@@ -1,0 +1,13 @@
+{
+  "id": 6004,
+  "title": "Navegadores de cuidado de Bluegrass - Data leak - Undetermined",
+  "date": "2023-07-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Bluegrass Care Navigators",
+  "source": "nan",
+  "summary": "Hospice of the Bluegrass, que opera como Bluegrass Care Navigators, descubre que un tercero no autorizado ha obtenido acceso a la cuenta de correo electrónico de uno de sus empleados.",
+  "color": "#a78bfa"
+}

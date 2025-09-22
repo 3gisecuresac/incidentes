@@ -1,0 +1,13 @@
+{
+  "id": 1454,
+  "title": "Politifact - Data leak - Undetermined",
+  "date": "2017-10-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Premio Pulitzer dedicado a verificar la precisión factual de las palabras de los políticos estadounidenses",
+  "source": "https://www.theregister.co.uk/2017/10/13/politifact_mining_cryptocurrency/",
+  "summary": "Politifact, el sitio web ganador del Premio Pulitzer dedicado a verificar la precisión factual de las palabras de los políticos estadounidenses, parece haber sido hackeado para que extraiga criptomonedas en secreto en los navegadores de los visitantes a través de CoinHive.",
+  "color": "#3b82f6"
+}

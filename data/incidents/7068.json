@@ -1,0 +1,13 @@
+{
+  "id": 7068,
+  "title": "DemandScience (anteriormente Pure Incubation) - Data leak - Undetermined",
+  "date": "2024-02-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en DemandScience",
+  "source": "nan",
+  "summary": "Se confirma que la información de contacto comercial de 122 millones de personas que circulaba desde febrero de 2024 fue robada de DemandScience, una plataforma de generación de demanda B2B.",
+  "color": "#a78bfa"
+}

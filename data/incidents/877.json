@@ -1,0 +1,13 @@
+{
+  "id": 877,
+  "title": "3.600 residentes de Nueva York - Data leak - United Cyber Caliphate",
+  "date": "2016-04-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "United Cyber Caliphate",
+  "impact": "Sistema o cuenta comprometida en Estado Islámico publica una lista negra de miles de residentes de Nueva York",
+  "source": "http://www.ibtimes.sg/isis-new-york-hit-list-hackers-post-details-3600-residents-online-1253",
+  "summary": "Un grupo de hackers vinculados al Estado Islámico publica una lista negra de miles de residentes de Nueva York, instando a los seguidores del grupo militante a atacarlos.",
+  "color": "#3b82f6"
+}

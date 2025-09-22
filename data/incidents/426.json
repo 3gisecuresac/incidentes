@@ -1,0 +1,13 @@
+{
+  "id": 426,
+  "title": "Ventaja Dental - Data leak - Undetermined",
+  "date": "2015-03-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Advantage Dental",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/more-than-150k-patients-impacted-in-advantage-dental-breach/",
+  "summary": "Advantage Dental notifica a más de 150.000 pacientes que una computadora fue infectada con malware y un intruso obtuvo acceso a una base de datos que contenía su información personal.",
+  "color": "#ef4444"
+}

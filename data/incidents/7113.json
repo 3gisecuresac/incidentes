@@ -1,0 +1,13 @@
+{
+  "id": 7113,
+  "title": "Asociación de Energía Eléctrica del Valle de Yazoo - Ransomware - Akira",
+  "date": "2025-01-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Akira",
+  "impact": "Cifrado por ransomware en Energía Eléctrica del Valle de Yazoo",
+  "source": "nan",
+  "summary": "La Asociación de Energía Eléctrica del Valle de Yazoo, una empresa eléctrica que presta servicios a varios condados de Mississippi, revela haber sufrido un ataque cibernético el verano pasado, en un incidente que expuso la información de más de 20.000 residentes. El grupo de ransomware Akira se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}

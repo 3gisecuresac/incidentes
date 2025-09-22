@@ -1,0 +1,13 @@
+{
+  "id": 2265,
+  "title": "Ricardo Rossell - Data leak - Undetermined",
+  "date": "2019-07-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Telegram",
+  "source": "https://www.scmagazine.com/home/security-news/rickygate-puerto-rican-governors-private-chat-group-messages-leaked-on-telegram/",
+  "summary": "Se filtran mensajes del grupo de chat privado del gobernador puertorriqueño Ricardo Rossell en Telegram.",
+  "color": "#ef4444"
+}

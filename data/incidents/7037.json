@@ -1,0 +1,13 @@
+{
+  "id": 7037,
+  "title": "Atención al paciente OnePoint - Ransomware - INC",
+  "date": "2024-08-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INC",
+  "impact": "Filtración de datos en OnePoint Patient Care OPPC",
+  "source": "nan",
+  "summary": "OnePoint Patient Care (OPPC) informa a sus clientes sobre una filtración de datos que afecta a su información personal. El grupo de ransomware Inc Ransom se atribuye el ataque. El impacto es mayor de lo que se creía inicialmente, con más de 1,7 millones de personas afectadas.",
+  "color": "#ef4444"
+}

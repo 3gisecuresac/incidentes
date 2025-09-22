@@ -1,0 +1,13 @@
+{
+  "id": 5180,
+  "title": "Empresas embotelladoras de Pepsi - Data leak - Undetermined",
+  "date": "2022-12-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI",
+  "source": "nan",
+  "summary": "Pepsi Bottling Ventures LLC sufrió una violación de datos causada por una intrusión en la red que resultó en la instalación de malware que roba información y la extracción de datos de sus sistemas de TI.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 500,
+  "title": "Sistema de salud Beacon - Data leak - Undetermined",
+  "date": "2015-05-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Beacon Health System",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/beacon-health-system-notifies-patients-of-possible-data-compromise/",
+  "summary": "Beacon Health System notifica a un número no revelado de pacientes que su información personal puede haber sido comprometida por personas no autorizadas que obtuvieron acceso a las cuentas de correo electrónico de los empleados.",
+  "color": "#3b82f6"
+}

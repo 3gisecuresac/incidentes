@@ -1,0 +1,13 @@
+{
+  "id": 4380,
+  "title": "HubSpot - Ciberataque - Undetermined",
+  "date": "2022-03-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en HubSpot",
+  "source": "nan",
+  "summary": "La empresa de gestión de relaciones con el cliente HubSpot confirma que ha sido blanco de piratas informáticos después de que varios servicios de criptomonedas comenzaron a informar a sus clientes sobre un incidente de ciberseguridad que involucraba a HubSpot.",
+  "color": "#a78bfa"
+}

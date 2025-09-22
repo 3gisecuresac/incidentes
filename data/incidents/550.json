@@ -1,0 +1,13 @@
+{
+  "id": 550,
+  "title": "ConócemeEnTuCiudad.com - Data leak - ElSurveillance",
+  "date": "2015-07-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "ElSurveillance",
+  "impact": "Filtración de datos en @ElSurveillance",
+  "source": "https://www.databreaches.net/meetmeinyourcity-user-email-addresses-and-passwords-dumped/",
+  "summary": "@ElSurveillance inicia su batalla personal contra sitios web que promocionan escorts, desfigurando MeetMeInYourCity.com y filtrando 2500 nombres de usuario y contraseñas de texto claro.",
+  "color": "#ef4444"
+}

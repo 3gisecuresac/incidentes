@@ -1,0 +1,13 @@
+{
+  "id": 3422,
+  "title": "Centro de Ortopedia Reconstructiva - Ransomware - INDRIK SPIDER",
+  "date": "2020-11-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "INDRIK SPIDER",
+  "impact": "Filtración de datos en El Centro Ortop",
+  "source": "https://www.databreaches.net/under-the-radar-more-attacks-on-healthcare-entities/",
+  "summary": "El Centro Ortopédico Reconstructivo ha sido atacado por la banda DoppelPaymer y lo ha agregado a su sitio de filtraciones.",
+  "color": "#ef4444"
+}

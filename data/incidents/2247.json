@@ -1,0 +1,13 @@
+{
+  "id": 2247,
+  "title": "Autoridad de Agua y Energía de las Islas Vírgenes de los Estados Unidos - Data leak - Undetermined",
+  "date": "2019-07-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Agua",
+  "source": "https://stthomassource.com/content/2019/07/01/is-the-virgin-islands-the-latest-municipality-hit-by-cyber-crime/",
+  "summary": "La Autoridad de Agua y Energía de las Islas Vírgenes de Estados Unidos es víctima de una estafa de compromiso de correo electrónico comercial, que costó $2,3 millones.",
+  "color": "#3b82f6"
+}

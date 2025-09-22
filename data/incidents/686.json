@@ -1,0 +1,13 @@
+{
+  "id": 686,
+  "title": "Bar Elefante - Infección Dispositivos - Undetermined",
+  "date": "2015-12-09",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Infección Dispositivos",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en PoS puede haber afectado la información de los clientes en 29 ubicaciones en California",
+  "source": "https://www.scmagazine.com/home/security-news/29-locations-affected-in-elephant-bar-pos-breach/",
+  "summary": "CM Ebar, LLC, propietario de los restaurantes Elephant Bar, anuncia que una violación de malware de PoS puede haber afectado la información de los clientes en 29 ubicaciones en California, Colorado, Arizona, Missouri, Nevada, Nuevo México y Florida.",
+  "color": "#a78bfa"
+}

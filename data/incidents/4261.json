@@ -1,0 +1,13 @@
+{
+  "id": 4261,
+  "title": "Iluminar la educación - Data leak - Undetermined",
+  "date": "2022-01-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Illuminate Education",
+  "source": "nan",
+  "summary": "Illuminate Education revela haber sufrido una violación de seguridad que resultó en la filtración de datos de 820.000 estudiantes.",
+  "color": "#ef4444"
+}

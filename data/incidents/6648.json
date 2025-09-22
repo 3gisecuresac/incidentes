@@ -1,0 +1,13 @@
+{
+  "id": 6648,
+  "title": "Panaderías Bimbo EE. UU. - Ransomware - Undetermined",
+  "date": "2024-02-22",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Bimbo Bakeries USA la",
+  "source": "nan",
+  "summary": "Bimbo Bakeries USA, la filial estadounidense del gigante de la panadería Grupo Bimbo, sufre un ataque de ransomware por parte del grupo de ransomware Medusa.",
+  "color": "#ef4444"
+}

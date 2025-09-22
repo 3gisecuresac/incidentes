@@ -1,0 +1,13 @@
+{
+  "id": 4731,
+  "title": "Wilson Tool International - Ransomware - Undetermined",
+  "date": "2022-07-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Wilson Tool International",
+  "source": "nan",
+  "summary": "Wilson Tool International informa sobre una violación de datos a causa de ransomware después de que la empresa descubriera que una parte no autorizada accedió y encriptó ciertos archivos en la red de la empresa.",
+  "color": "#ef4444"
+}

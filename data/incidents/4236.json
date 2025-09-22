@@ -1,0 +1,13 @@
+{
+  "id": 4236,
+  "title": "Comisión de los Estados Unidos para la Libertad Religiosa Internacional - Data leak - Undetermined",
+  "date": "2021-12-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en EE",
+  "source": "nan",
+  "summary": "Los investigadores descubren que un actor de amenazas ha obtenido acceso a la red interna de una agencia del gobierno de EE. UU.",
+  "color": "#a78bfa"
+}

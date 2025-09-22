@@ -1,0 +1,13 @@
+{
+  "id": 7130,
+  "title": "Radiólogos del Noroeste / Imágenes de Mount Baker - Ransomware - Undetermined",
+  "date": "2025-01-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Washington",
+  "source": "nan",
+  "summary": "Northwest Radiologists (Mount Baker Imaging) descubrió una intrusión en la red el 25 de enero de 2025. Alrededor del 20 de enero, se inició una actividad maliciosa que expuso los datos de los pacientes de sus sistemas. La filtración comprometió información personal identificable (PII/PHI), incluyendo nombres, datos de contacto, fechas de nacimiento, números de seguro social, números de licencia de conducir/identificación, información de tratamiento/diagnóstico, historial médico y detalles del seguro. Esto afectó a aproximadamente 348,118 residentes de Washington. No se confirmó ninguna reclamación por ransomware ni interrupción operativa.",
+  "color": "#ef4444"
+}

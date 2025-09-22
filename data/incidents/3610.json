@@ -1,0 +1,13 @@
+{
+  "id": 3610,
+  "title": "Centro de salud Squirrel Hill - DoS - Undetermined",
+  "date": "2021-02-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Squirrel Hill Health Center",
+  "source": "nan",
+  "summary": "Squirrel Hill Health Center no puede acceder a ciertos archivos debido a malware.",
+  "color": "#a78bfa"
+}

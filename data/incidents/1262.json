@@ -1,0 +1,13 @@
+{
+  "id": 1262,
+  "title": "Consejo Nacional de Comercio Exterior (NFTC) - Data leak - Undetermined",
+  "date": "2017-04-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Fidelis Cybersecurity",
+  "source": "http://www.ibtimes.co.uk/chinese-hackers-linked-espionage-campaign-board-directors-google-amazon-ibm-1615784",
+  "summary": "Fidelis Cybersecurity revela que antes de la cumbre comercial entre el presidente estadounidense Donald Trump y su homólogo chino, Xi Jinping, un grupo de piratas informáticos de un estado nacional realizó espionaje a varios actores clave de la industria y lobistas con vínculos a las conversaciones.",
+  "color": "#a78bfa"
+}

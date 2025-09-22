@@ -1,0 +1,13 @@
+{
+  "id": 3717,
+  "title": "Corporación Bose - Ransomware - Undetermined",
+  "date": "2021-03-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Bose Corporation Bose",
+  "source": "nan",
+  "summary": "Bose Corporation (Bose) revela una violación de datos luego de un ataque de ransomware que afectó los sistemas de la empresa a principios de marzo.",
+  "color": "#ef4444"
+}

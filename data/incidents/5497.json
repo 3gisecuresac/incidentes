@@ -1,0 +1,13 @@
+{
+  "id": 5497,
+  "title": "Cuidado majestuoso - Data leak - Undetermined",
+  "date": "2023-03-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Majestic Care",
+  "source": "nan",
+  "summary": "Majestic Care presenta un aviso de violación de datos después de enterarse de que los piratas informáticos lanzaron con éxito un ciberataque, lo que les dio acceso a información confidencial perteneciente a residentes y miembros del personal actuales y anteriores.",
+  "color": "#ef4444"
+}

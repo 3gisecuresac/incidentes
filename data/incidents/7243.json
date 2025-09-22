@@ -1,0 +1,13 @@
+{
+  "id": 7243,
+  "title": "Ermita Marista - Ransomware - Vice Society",
+  "date": "2022-04-17",
+  "country": "España",
+  "region": "Europa",
+  "type": "Ransomware",
+  "actor": "Vice Society",
+  "impact": "Filtración de datos en Vice Society",
+  "source": "nan",
+  "summary": "Vice Society cifra la red y amenaza con filtrar datos en su portal web oscuro.",
+  "color": "#ef4444"
+}

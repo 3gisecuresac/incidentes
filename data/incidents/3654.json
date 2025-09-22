@@ -1,0 +1,13 @@
+{
+  "id": 3654,
+  "title": "Laboratorios Underwriters - Ransomware - Undetermined",
+  "date": "2021-02-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Underwriters Laboratories",
+  "source": "nan",
+  "summary": "UL LLC, mejor conocida como Underwriters Laboratories, sufrió un ataque de ransomware que cifró sus servidores y provocó que apagaran los sistemas mientras se recuperaban.",
+  "color": "#ef4444"
+}

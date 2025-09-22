@@ -1,0 +1,13 @@
+{
+  "id": 218,
+  "title": "SIS - Data leak - Undetermined",
+  "date": "2014-08-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Seguridad Nacional",
+  "source": "http://www.washingtonpost.com/world/national-security/dhs-contractor-suffers-major-computer-breach-officials-say/2014/08/06/8ed131b4-1d89-11e4-ae54-0cfe1f974f8a_story.html",
+  "summary": "USIS, una importante contratista estadounidense que realiza verificaciones de antecedentes para el Departamento de Seguridad Nacional, sufre una vulneración informática que probablemente resultó en el robo de información personal de sus empleados. Se cree que la vulneración está relacionada con el ataque informático a la Oficina de Gestión de Personal.",
+  "color": "#a78bfa"
+}

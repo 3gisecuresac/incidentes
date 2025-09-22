@@ -1,0 +1,13 @@
+{
+  "id": 882,
+  "title": "Tecnologías Gryphon - Data leak - Undetermined",
+  "date": "2016-04-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Gryphon Technologies",
+  "source": "http://www.databreaches.net/federal-contractor-with-cybersecurity-ties-notifies-employees-after-w-2-info-acquired-by-targeted-phishing/",
+  "summary": "Gryphon Technologies se suma a la lista de empresas que son víctimas de estafas de phishing W-2.",
+  "color": "#ef4444"
+}

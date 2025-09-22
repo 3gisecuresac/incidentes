@@ -1,0 +1,13 @@
+{
+  "id": 24,
+  "title": "Seniat - Data leak - KelvinSecTeam",
+  "date": "2015-09-30",
+  "country": "Venezuela",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "KelvinSecTeam",
+  "impact": "Sistema o cuenta comprometida en seniat.gov.ve",
+  "source": "https://web.archive.org/web/20160326075439/http://pastebin.com/C17sguxM",
+  "summary": "KelvinSecTeam hackea seniat.gov.ve y deja 1.651 usuarios con contraseñas de texto claro.",
+  "color": "#3b82f6"
+}

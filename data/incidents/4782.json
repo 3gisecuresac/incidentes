@@ -1,0 +1,13 @@
+{
+  "id": 4782,
+  "title": "Salud Prioritaria - Data leak - Undetermined",
+  "date": "2022-08-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Warner Norcross Judd WNJ en",
+  "source": "nan",
+  "summary": "Priority Health emite un aviso sobre una filtración de datos de terceros que se originó en el bufete de abogados Warner Norcross & Judd (WNJ) en octubre de 2021, cuando WNJ descubrió actividad no autorizada en algunos de sus sistemas. El incidente afectó a aproximadamente 120.000 miembros.",
+  "color": "#ef4444"
+}

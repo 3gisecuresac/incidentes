@@ -1,0 +1,13 @@
+{
+  "id": 307,
+  "title": "Cyberswim.com - Data leak - Undetermined",
+  "date": "2014-10-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Cyberswim Inc",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/cyberswim-notifies-customers-that-payment-card-data-may-be-at-risk/",
+  "summary": "Cyberswim, Inc. notifica a un número no revelado de clientes que personas o entidades no autorizadas instalaron software malicioso en el servidor informático que aloja su sitio web y pueden haber comprometido su información personal, incluidos los datos de sus tarjetas de pago.",
+  "color": "#ef4444"
+}

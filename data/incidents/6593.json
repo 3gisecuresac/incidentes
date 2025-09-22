@@ -1,0 +1,13 @@
+{
+  "id": 6593,
+  "title": "Atención médica conmemorativa comunitaria - Data leak - Undetermined",
+  "date": "2024-01-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI de la empresa",
+  "source": "nan",
+  "summary": "Community Memorial Healthcare (CMH) presenta un aviso de violación de datos después de descubrir que una parte no autorizada había accedido a la red de TI de la empresa.",
+  "color": "#ef4444"
+}

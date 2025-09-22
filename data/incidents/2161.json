@@ -1,0 +1,13 @@
+{
+  "id": 2161,
+  "title": "Hogares bautistas estadounidenses del Medio Oeste - Ransomware - Undetermined",
+  "date": "2019-05-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en American Baptist Homes of the Midwest",
+  "source": "https://www.databreaches.net/mn-american-baptist-homes-of-the-midwest-notifies-patients-and-residents-of-ransomware-incident/",
+  "summary": "American Baptist Homes of the Midwest notifica a los pacientes y residentes sobre el incidente de ransomware ocurrido el 6 de mayo de 2019.",
+  "color": "#ef4444"
+}

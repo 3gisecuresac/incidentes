@@ -1,0 +1,13 @@
+{
+  "id": 762,
+  "title": "REMC del valle de Kankakee - Data leak - Undetermined",
+  "date": "2016-02-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Kankakee Valley REMC",
+  "source": "http://www.chicagotribune.com/suburbs/post-tribune/news/ct-ptb-remc-computer-breach-st-0217-20160216-story.html",
+  "summary": "Kankakee Valley REMC es víctima de una posible vulneración, debido al acceso a un dispositivo de almacenamiento en la red de la cooperativa desde una IP ajena.",
+  "color": "#a78bfa"
+}

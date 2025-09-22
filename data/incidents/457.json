@@ -1,0 +1,13 @@
+{
+  "id": 457,
+  "title": "Departamento de Estado de los Estados Unidos - Ciberespionaje - Undetermined",
+  "date": "2015-04-07",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberespionaje",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Departamento de Estado",
+  "source": "https://www.forbes.com/sites/thomasbrewster/2015/04/08/russians-hacked-white-house-cnn/?sh=3751acdf60cb",
+  "summary": "Agentes de amenazas, presuntamente rusos, han comprometido redes no clasificadas de la Casa Blanca utilizando el acceso desde redes comprometidas del Departamento de Estado. El ataque se descubrió por primera vez en octubre de 2014.",
+  "color": "#3b82f6"
+}

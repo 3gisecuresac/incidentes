@@ -1,0 +1,13 @@
+{
+  "id": 1567,
+  "title": "Ciudad de Keokuk - Data leak - Undetermined",
+  "date": "2018-02-04",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Keokuk afirma",
+  "source": "http://tspr.org/post/keokuk-data-breach-results-stolen-city-employee-information",
+  "summary": "La ciudad de Keokuk afirma que una filtración de datos resultó en la divulgación de información personal de empleados y ex empleados municipales, así como de líderes electos. Un tercero no autorizado logró obtener los formularios de impuestos W-2 de 2017 mediante un correo electrónico de phishing.",
+  "color": "#ef4444"
+}

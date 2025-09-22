@@ -1,0 +1,13 @@
+{
+  "id": 6203,
+  "title": "Ciudad de Fort Lauderdale - Data leak - Undetermined",
+  "date": "2023-09-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Policía de Fort Lauderdale investiga un incidente de fraude financiero",
+  "source": "nan",
+  "summary": "El Departamento de Policía de Fort Lauderdale investiga un incidente de fraude financiero que involucra a la Ciudad de Fort Lauderdale, que perdió $1.2 millones de dólares en una estafa de phishing.",
+  "color": "#ef4444"
+}

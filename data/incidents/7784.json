@@ -1,0 +1,13 @@
+{
+  "id": 7784,
+  "title": "Productos recreativos Bombardier (BRP) - Ransomware - Undetermined",
+  "date": "2022-08-09",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware",
+  "source": "nan",
+  "summary": "BRP revela un ataque de ransomware que obliga a la empresa a suspender las operaciones temporalmente.",
+  "color": "#ef4444"
+}

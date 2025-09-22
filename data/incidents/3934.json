@@ -1,0 +1,13 @@
+{
+  "id": 3934,
+  "title": "Volkswagen - Data leak - Undetermined",
+  "date": "2021-06-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Volkswagen y Audi",
+  "source": "nan",
+  "summary": "Volkswagen y Audi revelan una violación de datos en la que una empresa afiliada externa robó información de contacto de más de 3 millones de clientes.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4373,
+  "title": "Sectores de infraestructura crítica de EE. UU. - Ransomware - Avos Locker",
+  "date": "2022-03-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Avos Locker",
+  "impact": "Cifrado por ransomware en FBI",
+  "source": "nan",
+  "summary": "Un aviso conjunto del FBI, el Departamento del Tesoro de Estados Unidos y la Red de Control de Delitos Financieros (FinCEN) advierte que el ransomware AvosLocker se está utilizando en ataques dirigidos a múltiples sectores de infraestructura crítica de Estados Unidos.",
+  "color": "#ef4444"
+}

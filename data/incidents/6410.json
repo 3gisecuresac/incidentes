@@ -1,0 +1,13 @@
+{
+  "id": 6410,
+  "title": "Servicios de salud CarePro - Data leak - Undetermined",
+  "date": "2023-11-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en CarePro Health Services",
+  "source": "nan",
+  "summary": "CarePro Health Services presenta un aviso de violación de datos después de descubrir que una parte no autorizada pudo acceder a la red informática de la empresa.",
+  "color": "#ef4444"
+}

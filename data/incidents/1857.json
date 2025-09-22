@@ -1,0 +1,13 @@
+{
+  "id": 1857,
+  "title": "Ciudad de San Petersburgo - Data leak - Undetermined",
+  "date": "2018-10-05",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en San Petersburgo notifica una violación de datos del sistema de pago de autoservicio de terceros Click2Gov",
+  "source": "https://news.softpedia.com/news/city-of-st-petersburg-s-click2gov-payment-system-breached-523077.shtml",
+  "summary": "La ciudad de San Petersburgo notifica una violación de datos del sistema de pago de autoservicio de terceros Click2Gov que afectó a los usuarios que realizaron pagos entre el 11 de agosto de 2018 y el 25 de septiembre de 2018, utilizando sus tarjetas de crédito.",
+  "color": "#ef4444"
+}

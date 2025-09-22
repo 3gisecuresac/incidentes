@@ -1,0 +1,13 @@
+{
+  "id": 7448,
+  "title": "Servicio de salud pública de Costa Rica (también conocido como Caja Costarricense del Seguro Social o CCCS) - Ransomware - Hive",
+  "date": "2022-05-31",
+  "country": "Costa Rica",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Hive",
+  "impact": "Cifrado por ransomware en Costa Rica",
+  "source": "nan",
+  "summary": "El servicio de salud pública de Costa Rica (conocido como Caja Costarricense del Seguro Social o CCCS) se vio afectado por un ataque de ransomware Hive.",
+  "color": "#ef4444"
+}

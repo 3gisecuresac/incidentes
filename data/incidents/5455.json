@@ -1,0 +1,13 @@
+{
+  "id": 5455,
+  "title": "Centro de Endocrinología y Psiquiatría - Data leak - Undetermined",
+  "date": "2023-03-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Endocrinología",
+  "source": "nan",
+  "summary": "El Centro de Endocrinología y Psiquiatría de Texas ha enviado recientemente notificaciones a sus pacientes informándoles que parte de su información médica protegida ha sido eliminada de sus sistemas por un individuo no autorizado.",
+  "color": "#a78bfa"
+}

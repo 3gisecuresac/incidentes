@@ -1,0 +1,13 @@
+{
+  "id": 795,
+  "title": "Foro de Litecointalk - Data leak - Undetermined",
+  "date": "2016-03-10",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Litecointalk",
+  "source": "http://themerkle.com/litecointalk-breach-severe/",
+  "summary": "El foro Litecointalk ha sido hackeado y todos los usuarios se ven obligados a restablecer sus contraseñas.",
+  "color": "#3b82f6"
+}

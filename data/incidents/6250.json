@@ -1,0 +1,13 @@
+{
+  "id": 6250,
+  "title": "23andMe - Ciberataque - Golem",
+  "date": "2023-10-02",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Golem",
+  "impact": "Filtración de datos",
+  "source": "nan",
+  "summary": "23andMe confirma tener conocimiento de que datos de usuarios de su plataforma circulan en foros de hackers y atribuye la filtración a un ataque de robo de credenciales.",
+  "color": "#ef4444"
+}

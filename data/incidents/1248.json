@@ -1,0 +1,13 @@
+{
+  "id": 1248,
+  "title": "Demócratas del Senado de Pensilvania - Ransomware - Undetermined",
+  "date": "2017-03-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Senado de Pensilvania son víctimas de un ataque de ransomware",
+  "source": "http://www.nbcnews.com/news/us-news/senate-democrats-pennsylvania-are-being-held-cyber-hostage-n728901",
+  "summary": "Los demócratas del Senado de Pensilvania son víctimas de un ataque de ransomware que bloquea a los senadores y empleados del acceso a su red informática.",
+  "color": "#ef4444"
+}

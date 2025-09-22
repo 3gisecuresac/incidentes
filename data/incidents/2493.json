@@ -1,0 +1,13 @@
+{
+  "id": 2493,
+  "title": "Ciudad de San Angelo - Data leak - Undetermined",
+  "date": "2019-11-13",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en San Angelo investiga una violación de seguridad en el sistema de facturación de agua en línea de la ciudad después de",
+  "source": "https://www.databreaches.net/tx-city-of-san-angelo-investigating-click2gov-breach/",
+  "summary": "La ciudad de San Angelo investiga una violación de seguridad en el sistema de facturación de agua en línea de la ciudad después de que se teme que la información de la tarjeta de crédito del cliente pueda haber sido robada a raíz de la violación de City2Gov.",
+  "color": "#a78bfa"
+}

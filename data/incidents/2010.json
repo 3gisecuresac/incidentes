@@ -1,0 +1,13 @@
+{
+  "id": 2010,
+  "title": "Parque Palisades - Data leak - Undetermined",
+  "date": "2019-01-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Palisades Park son notificados de",
+  "source": "https://www.databreaches.net/palisades-park-officials-say-nearly-500000-is-missing-from-its-accounts-in-bank-breach/",
+  "summary": "Los funcionarios de Palisades Park son notificados de que casi medio millón de dólares han sido drenado de sus cuentas en Mariner's Bank.",
+  "color": "#a78bfa"
+}

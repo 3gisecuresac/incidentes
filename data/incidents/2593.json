@@ -1,0 +1,13 @@
+{
+  "id": 2593,
+  "title": "Colegio Comunitario Estatal de Wallace - DoS - Undetermined",
+  "date": "2020-01-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en El Wallace State Community College",
+  "source": "https://www.govtech.com/security/Cyberattack-Delays-Classes-at-Alabama-Community-College.html",
+  "summary": "El Wallace State Community College es víctima de un ciberataque.",
+  "color": "#a78bfa"
+}

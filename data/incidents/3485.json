@@ -1,0 +1,13 @@
+{
+  "id": 3485,
+  "title": "Administración Nacional de Telecomunicaciones e Información del Departamento de Comercio de los Estados Unidos - Data leak - SVR (COZYBEAR)",
+  "date": "2020-12-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "SVR (COZYBEAR)",
+  "impact": "Incidente de seguridad en Telecomunicaciones e Información del Departamento de Comercio de Estados Unidos ha sido violada",
+  "source": "nan",
+  "summary": "La Administración Nacional de Telecomunicaciones e Información del Departamento de Comercio de Estados Unidos ha sido violada por piratas informáticos de SolarWinds.",
+  "color": "#a78bfa"
+}

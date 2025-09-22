@@ -1,0 +1,13 @@
+{
+  "id": 5244,
+  "title": "Centro oncológico estadounidense no revelado - Ransomware - TimisoaraHackerTeam",
+  "date": "2023-01-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "TimisoaraHackerTeam",
+  "impact": "Cifrado por ransomware en Coordinación de Ciberseguridad del Sector Salud emite una alerta sobre un nuevo grupo de ransomware relativamente desconocido llamado TimisoaraHackerTeam",
+  "source": "nan",
+  "summary": "El Centro de Coordinación de Ciberseguridad del Sector Salud emite una alerta sobre un nuevo grupo de ransomware relativamente desconocido llamado TimisoaraHackerTeam que recientemente atacó un centro oncológico estadounidense no revelado.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3508,
+  "title": "Soluciones de gestión médica de Practice First - Ransomware - Undetermined",
+  "date": "2020-12-25",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware",
+  "source": "nan",
+  "summary": "Un proveedor de servicios de facturación y codificación para centros de salud es afectado por un ataque de ransomware y se roba información sanitaria protegida de más de 1,2 millones de personas.",
+  "color": "#ef4444"
+}

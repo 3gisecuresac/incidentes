@@ -1,0 +1,13 @@
+{
+  "id": 6322,
+  "title": "Portal de aplicación de la ley META - Data leak - Undetermined",
+  "date": "2023-10-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Portal Policial de Facebook e Instagram utilizado",
+  "source": "nan",
+  "summary": "Un actor de amenazas está vendiendo acceso al Portal Policial de Facebook e Instagram utilizado por las agencias policiales para solicitar datos relacionados con los usuarios bajo investigación.",
+  "color": "#ef4444"
+}

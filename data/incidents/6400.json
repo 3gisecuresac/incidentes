@@ -1,0 +1,13 @@
+{
+  "id": 6400,
+  "title": "Universidad Central de Carolina del Norte - Ransomware - Undetermined",
+  "date": "2023-11-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Carolina del Norte",
+  "source": "nan",
+  "summary": "La Universidad Central de Carolina del Norte (NCCU) experimenta algunas interrupciones después de sufrir un ataque cibernético.",
+  "color": "#a78bfa"
+}

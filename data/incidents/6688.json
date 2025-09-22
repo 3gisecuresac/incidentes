@@ -1,0 +1,13 @@
+{
+  "id": 6688,
+  "title": "Ciudad de Jacksonville Beach - Ransomware - LockBit",
+  "date": "2024-03-20",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "LockBit",
+  "impact": "Cifrado por ransomware en Jacksonville Beach se ve afectada",
+  "source": "nan",
+  "summary": "La ciudad de Jacksonville Beach se ve afectada por un ataque de ransomware LockBit.",
+  "color": "#ef4444"
+}

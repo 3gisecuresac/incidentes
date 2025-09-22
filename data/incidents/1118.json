@@ -1,0 +1,13 @@
+{
+  "id": 1118,
+  "title": "USOC (Comité Olímpico de los Estados Unidos) - Data leak - Undetermined",
+  "date": "2016-11-18",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Estados Unidos USOC",
+  "source": "https://www.databreaches.net/usoc-notifying-participants-in-100-days-out-event-of-vendor-breach/",
+  "summary": "El Comité Olímpico de los Estados Unidos (USOC) notifica a las personas que participaron en el evento 100-Days Out en abril de 2016 que su información personal ha sido adquirida por una persona no autorizada que obtuvo acceso a la cuenta de correo electrónico de un contratista que realizaba las autorizaciones de seguridad para el evento.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2218,
+  "title": "Universidad de Graceland - Data leak - Undetermined",
+  "date": "2019-06-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en La Universidad Graceland",
+  "source": "https://www.bleepingcomputer.com/news/security/three-us-universities-disclose-data-breaches-over-two-day-span/",
+  "summary": "La Universidad Graceland dice en un aviso de violación de datos que un usuario no autorizado obtuvo acceso a las cuentas de correo electrónico de los empleados actuales, el 29 de marzo de 2019, así como del 1 al 30 de abril y del 12 de abril al 1 de mayo de 2019, respectivamente.",
+  "color": "#ef4444"
+}

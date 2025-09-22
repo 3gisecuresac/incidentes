@@ -1,0 +1,13 @@
+{
+  "id": 5280,
+  "title": "Retina y vítreo de Texas - Data leak - Undetermined",
+  "date": "2023-02-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Retina Vitreous of Texas",
+  "source": "nan",
+  "summary": "Retina & Vitreous of Texas presenta un aviso de violación de datos después de enterarse de que información confidencial de pacientes que había sido confiada a la empresa fue accesible para terceros no autorizados luego de un incidente de ciberseguridad.",
+  "color": "#ef4444"
+}

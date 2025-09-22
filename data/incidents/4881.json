@@ -1,0 +1,13 @@
+{
+  "id": 4881,
+  "title": "Colegio Franklin. - Data leak - Undetermined",
+  "date": "2022-08-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Franklin College",
+  "source": "nan",
+  "summary": "6.000 personas se ven afectadas por un ataque de código malicioso que afecta a Franklin College.",
+  "color": "#a78bfa"
+}

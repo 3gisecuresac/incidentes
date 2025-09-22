@@ -1,0 +1,13 @@
+{
+  "id": 3854,
+  "title": "La Nación Mandan - Ransomware - Undetermined",
+  "date": "2021-04-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Mandan una",
+  "source": "nan",
+  "summary": "La Nación Mandan, una tribu afiliada, es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

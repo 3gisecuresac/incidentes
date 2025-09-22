@@ -1,0 +1,13 @@
+{
+  "id": 5788,
+  "title": "Matiz - Ransomware - cl0p",
+  "date": "2023-06-16",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "cl0p",
+  "impact": "Filtración de datos en MOVEit",
+  "source": "nan",
+  "summary": "La empresa de software Nuance se suma a la lista de víctimas de la filtración de datos resultante de la vulnerabilidad CVE-2023-34362 en MOVEit.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7943,
+  "title": "Tivit - Data leak - Undetermined",
+  "date": "2018-12-14",
+  "country": "Brasil",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en TI",
+  "source": "nan",
+  "summary": "Tivit, proveedor de servicios de TI y externalización de procesos de negocios con sede en Brasil, tiene datos de muchos de sus grandes clientes filtrados en Internet, después de que nueve miembros del personal sufrieran un ataque de phishing.",
+  "color": "#ef4444"
+}

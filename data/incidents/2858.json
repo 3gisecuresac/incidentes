@@ -1,0 +1,13 @@
+{
+  "id": 2858,
+  "title": "Red de operadores de Dakota - Ransomware - MAZE",
+  "date": "2020-05-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "MAZE",
+  "impact": "Cifrado por ransomware en Dakota Carrier Network un",
+  "source": "https://www.databreaches.net/dakota-carrier-network-hit-by-maze-ransomware/",
+  "summary": "Dakota Carrier Network, un consorcio de 14 empresas de banda ancha independientes, se ve afectado por el ransomware Maze.",
+  "color": "#ef4444"
+}

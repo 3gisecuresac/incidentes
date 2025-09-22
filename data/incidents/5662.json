@@ -1,0 +1,13 @@
+{
+  "id": 5662,
+  "title": "TRANServe - Data leak - Undetermined",
+  "date": "2023-05-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Departamento de Transporte de los Estados Unidos",
+  "source": "nan",
+  "summary": "La información personal de 237.000 empleados actuales y anteriores del gobierno federal queda expuesta en una filtración de datos en el sistema de beneficios de tránsito TRANServe del Departamento de Transporte de los Estados Unidos (USDOT).",
+  "color": "#ef4444"
+}

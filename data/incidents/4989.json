@@ -1,0 +1,13 @@
+{
+  "id": 4989,
+  "title": "Sequoia Uno - Data leak - Undetermined",
+  "date": "2022-10-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Sequoia One de la empresa",
+  "source": "nan",
+  "summary": "La empresa de gestión de recursos humanos, nóminas y beneficios Sequoia dijo en declaraciones a los clientes a principios de mes que detectó acceso no autorizado a un repositorio de almacenamiento en la nube que contenía una serie de datos personales y confidenciales relacionados con los clientes de Sequoia One de la empresa.",
+  "color": "#ef4444"
+}

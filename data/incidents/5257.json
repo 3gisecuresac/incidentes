@@ -1,0 +1,13 @@
+{
+  "id": 5257,
+  "title": "Redes A10 - Ransomware - Play",
+  "date": "2023-01-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Play",
+  "impact": "Filtración de datos en California",
+  "source": "nan",
+  "summary": "El fabricante de hardware de red con sede en California, A10 Networks, confirma que la banda de ransomware Play obtuvo acceso brevemente a su infraestructura de TI y comprometió datos.",
+  "color": "#ef4444"
+}

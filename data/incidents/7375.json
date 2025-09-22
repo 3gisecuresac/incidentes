@@ -1,0 +1,13 @@
+{
+  "id": 7375,
+  "title": "Titulares de tarjetas de crédito Santander con sede en México - Data leak - Undetermined",
+  "date": "2021-01-05",
+  "country": "Mexico",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Santander",
+  "source": "nan",
+  "summary": "El mismo actor de amenazas filtra los datos de varios titulares de tarjetas de crédito de Santander.",
+  "color": "#ef4444"
+}

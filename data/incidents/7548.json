@@ -1,0 +1,13 @@
+{
+  "id": 7548,
+  "title": "Correo silencioso - DoS - Undetermined",
+  "date": "2015-11-09",
+  "country": "Canada",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Hushmail",
+  "source": "nan",
+  "summary": "Hushmail experimenta dos interrupciones de servicio no programadas como resultado de ataques de denegación de servicio distribuido (DDoS).",
+  "color": "#f59e0b"
+}

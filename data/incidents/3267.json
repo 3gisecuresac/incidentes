@@ -1,0 +1,13 @@
+{
+  "id": 3267,
+  "title": "Abejas de las nubes - Data leak - Undetermined",
+  "date": "2020-09-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en CodeShip de CloudBees",
+  "source": "https://www.itnews.com.au/news/devops-solutions-provider-cloudbees-discloses-data-breach-554150",
+  "summary": "Se recomienda a los usuarios de CodeShip de CloudBees que roten inmediatamente todas las claves y otros secretos en sus pipelines después de que el proveedor de soluciones DevOps descubra una violación de datos de larga duración.",
+  "color": "#ef4444"
+}

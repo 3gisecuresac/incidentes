@@ -1,0 +1,13 @@
+{
+  "id": 5087,
+  "title": "Tratamiento y recursos de Stanley Street - Ciberataque - Undetermined",
+  "date": "2022-11-11",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ciberataque",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Stanley Street Treatment",
+  "source": "nan",
+  "summary": "Stanley Street Treatment and Resources (SSTAR) informa sobre una violación de datos después de enterarse de que una parte no autorizada accedió al sistema informático de la organización y eliminó información confidencial del paciente.",
+  "color": "#ef4444"
+}

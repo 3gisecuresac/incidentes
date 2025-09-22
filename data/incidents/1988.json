@@ -1,0 +1,13 @@
+{
+  "id": 1988,
+  "title": "Salud mental comunitaria del condado de Kent - Data leak - Undetermined",
+  "date": "2019-01-08",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Salud Mental Comunitaria del Condado de Kent notifica a 2",
+  "source": "https://www.databreaches.net/mi-kent-county-community-mental-health-authority-notifies-2284-patients-after-phishing-attack/",
+  "summary": "La Autoridad de Salud Mental Comunitaria del Condado de Kent notifica a 2.284 pacientes tras un ataque de phishing",
+  "color": "#ef4444"
+}

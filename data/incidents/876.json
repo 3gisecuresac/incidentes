@@ -1,0 +1,13 @@
+{
+  "id": 876,
+  "title": "Colegio Comunitario Solano - Data leak - Undetermined",
+  "date": "2016-04-28",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Solano Community College",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/1206-solano-community-college-employees-victimized-in-w-2-data-breach/",
+  "summary": "Solano Community College es víctima de un ataque de phishing que compromete la información W-2 de aproximadamente 1.200 empleados.",
+  "color": "#ef4444"
+}

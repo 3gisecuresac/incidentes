@@ -1,0 +1,13 @@
+{
+  "id": 778,
+  "title": "Mate1.com - Data leak - Undetermined",
+  "date": "2016-02-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Mate1.com",
+  "source": "https://www.vice.com/en_us/article/aekvbk/hacker-claims-to-have-sold-27m-dating-site-passwords-mate1-com-hell-forum",
+  "summary": "Un hacker del foro de la dark web Hell afirma haber vendido las direcciones de correo electrónico y las contraseñas de texto simple de más de 27 millones de usuarios del sitio de citas Mate1.com.",
+  "color": "#3b82f6"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 4857,
+  "title": "Distrito Escolar K-12 de Illinois - Data leak - Undetermined",
+  "date": "2022-08-23",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Illinois",
+  "source": "nan",
+  "summary": "Un actor de amenazas filtra 750 registros de un distrito escolar K-12 de Illinois.",
+  "color": "#ef4444"
+}

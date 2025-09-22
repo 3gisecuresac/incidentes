@@ -1,0 +1,13 @@
+{
+  "id": 4630,
+  "title": "El Allison Inn & Spa - Ransomware - Undetermined",
+  "date": "2022-06-15",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en El Allison Inn Spa",
+  "source": "nan",
+  "summary": "El Allison Inn & Spa es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}

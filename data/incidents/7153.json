@@ -1,0 +1,13 @@
+{
+  "id": 7153,
+  "title": "Cirugía oral y facial del oeste de Texas - Data leak - INC",
+  "date": "2025-05-29",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "INC",
+  "impact": "Filtración de datos en HHS-OCR el 2 de agosto",
+  "source": "nan",
+  "summary": "West Texas Oral Facial Surgery sufrió un ciberataque el 29 de mayo de 2025, cuando INC RANSOM obtuvo acceso no autorizado a sus sistemas. Se extrajeron archivos de pacientes, incluyendo nombres, datos de imágenes y motivos de tratamiento, pero no se reportó ningún cifrado de los sistemas. Los números de seguro social, la información financiera y el sistema de historiales médicos electrónicos no se vieron afectados. La filtración afectó a más de 11,000 personas y se reportó al HHS-OCR el 2 de agosto y al Fiscal General de Texas el 4 de agosto.",
+  "color": "#ef4444"
+}

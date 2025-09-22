@@ -1,0 +1,13 @@
+{
+  "id": 7092,
+  "title": "ESTILIZADO - Ransomware - Everest",
+  "date": "2025-01-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Ransomware",
+  "actor": "Everest",
+  "impact": "Filtración de datos en TPV para",
+  "source": "nan",
+  "summary": "La popular marca de cannabis STIIIZY revela una filtración de datos después de que cibercriminales atacaran su punto de venta (TPV) para robar información de clientes, incluyendo identificaciones gubernamentales e información de compra. El grupo de ransomware Everest se atribuye la responsabilidad del ataque.",
+  "color": "#ef4444"
+}
