@@ -1,4 +1,5 @@
 {
+  "bundle": "incidents.bundle.json",
   "files": [
     "incidents/001.json",
     "incidents/002.json",
@@ -21,6 +22,7 @@
     "incidents/019.json",
     "incidents/020.json",
     "incidents/021.json",
-    "incidents/022.json"]
+    "incidents/022.json"
+  ]
 }
 
