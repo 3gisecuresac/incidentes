@@ -79,3 +79,36 @@ tbody td{padding:12px;border-top:1px solid var(--border);vertical-align:top}
 :root.light .icon-btn img {
   filter: invert(0);
 }
+
+
+
+/* === Mejora de layout para 'Por tipo' === */
+
+/* En escritorio, la fila .stats será una grilla de 12 columnas */
+@media (min-width: 920px){
+  .stats{
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+  /* Total (izquierda) = 3/12, Por tipo (centro) = 6/12, Por región (derecha) = 3/12 */
+  .stats .card.stat:nth-child(1){ grid-column: span 3; }
+  .stats .card.stat:nth-child(2){ grid-column: span 6; } /* <-- más ancho */
+  .stats .card.stat:nth-child(3){ grid-column: span 3; }
+}
+
+/* Reparte los chips en columnas automáticas (más horizontal) */
+#statByType.chips{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); /* ajusta 160–220px a gusto */
+  gap: 10px 12px;
+  align-items: start;
+  /* Si algún chip te queda a dos líneas y no quieres, descomenta: */
+  /* white-space: nowrap; */
+}
+
+/* (Opcional) Aplica también a 'Por región' si quieres el mismo estilo */
+#statByRegion.chips{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 10px 12px;
+  align-items: start;
+}
