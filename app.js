@@ -1,141 +1,256 @@
-/* app.js (root-paths + fallbacks) — pinta aunque tu HTML no tenga los IDs
-   Espera:
-   /index.html
-   /app.js
-   /manifest.json
-   /incidents.bundle.json
-   /incidents/001.json, ...
-*/
-const state = {
-  data: [], filtered: [], query: "", region: "all",
-  page: 1, pageSize: 20, view: "table", sort: { key: "date", dir: "desc" },
+const state={
+  region:'Todos', view:'table', q:'', data:[],
+  page:1, pageSize:10,
+  sortKey:'date', sortDir:'desc',
+  typeFilter:null,
+  theme:'dark'
 };
-function ensureEl(id, tag="div", parent=document.body){ let el=document.getElementById(id); if(!el){ el=document.createElement(tag); el.id=id; parent.appendChild(el);} return el; }
-function debounce(fn, ms=150){ let t; return (...a)=>{ clearTimeout(t); t=setTimeout(()=>fn(...a), ms); }; }
-function formatDate(d){ if(!d) return ""; const dt=(d instanceof Date)?d:new Date(d); return isNaN(dt)? "": dt.toISOString().slice(0,10); }
-function toText(v){ if(v==null) return ""; if(typeof v==="string") return v; try{return JSON.stringify(v)}catch{return String(v)} }
-function normalize(list){ const arr=Array.isArray(list)?list:[list]; return arr.map((x,i)=>{ const o={...x};
-  o.id=o.id??o.ID??o.codigo??`row_${i+1}`;
-  o.title=o.title??o.titulo??o.asunto??o.name??"(Sin título)";
-  o.region=o.region??o["región"]??o.zona??o.departamento??"N/A";
-  o.status=o.status??o.estado??"N/A";
-  o.severity=o.severity??o.severidad??o.gravedad??"N/A";
-  const dt=o.date??o.fecha??o.fechahora??o.created_at??o.createdAt; o.date=dt?new Date(dt):null;
-  o.description=o.description??o.descripcion??o.detalle??""; return o; }); }
-async function fetchWithConcurrency(urls, limit=12){ const results=new Array(urls.length); let i=0;
-  async function worker(){ while(i<urls.length){ const idx=i++, u=urls[idx]; try{ const r=await fetch(u,{cache:"no-store"}); if(!r.ok) throw new Error("HTTP "+r.status); results[idx]=await r.json(); }catch(e){ console.warn("Fetch fail",u,e); results[idx]=null; } } }
-  await Promise.all(Array.from({length:Math.min(limit,urls.length||1)}, worker)); return results.filter(Boolean).flat(); }
+
+const SORTERS={
+  date:(a,b)=> a.date<b.date?1:-1,
+  title:(a,b)=> a.title.localeCompare(b.title),
+  country:(a,b)=> a.country.localeCompare(b.country),
+  region:(a,b)=> a.region.localeCompare(b.region),
+  type:(a,b)=> a.type.localeCompare(b.type),
+  actor:(a,b)=> a.actor.localeCompare(b.actor),
+  impact:(a,b)=> (a.impact||'').localeCompare(b.impact||'')
+};
+
 async function loadData(){
   initTheme();
-  // Fallbacks de contenedores (si faltan en el HTML)
-  const regionsBox = ensureEl("regionButtons");
-  const resultsBox = ensureEl("results");
-  const pagBox = ensureEl("pagination");
-  ensureEl("totalCount", "span", document.body);
-  ensureEl("btnTable", "button", document.body).textContent ||= "Vista Tabla";
-  ensureEl("btnCards", "button", document.body).textContent ||= "Vista Tarjetas";
-  ensureEl("searchInput", "input", document.body).placeholder ||= "Buscar por título, tipo, país...";
-  ensureEl("themeToggle", "button", document.body).textContent ||= "🌓";
-
-  if (window.matchMedia && window.matchMedia("(max-width: 640px)").matches) {
-    state.view = "cards";
-    document.getElementById("btnTable")?.classList.remove("active");
-    document.getElementById("btnCards")?.classList.add("active");
+  if(window.matchMedia && window.matchMedia('(max-width: 640px)').matches){
+    state.view='cards';
+    document.getElementById('btnTable').classList.remove('active');
+    document.getElementById('btnCards').classList.add('active');
   }
-  try {
-    const res = await fetch("./manifest.json", { cache: "no-store" });
-    const manifest = await res.json();
-    let loaded = false;
-    if (manifest.bundle) {
-      try {
-        const r = await fetch("./" + manifest.bundle, { cache: "no-store" });
-        if (r.ok) { state.data = normalize(await r.json()); loaded = true; }
-        else { console.warn("Bundle no disponible:", r.status); }
-      } catch (e) { console.warn("Error leyendo bundle, fallback a files:", e); }
+  try{
+    const res=await fetch('./data/manifest.json',{cache:'no-store'});
+    const manifest=await res.json();
+    const files=Array.isArray(manifest.files)?manifest.files:[];
+    const loaded=[];
+    for(const f of files){
+      try{
+        const r=await fetch('./data/'+f,{cache:'no-store'});
+        if(!r.ok) throw new Error('HTTP '+r.status);
+        const j=await r.json();
+        loaded.push(j);
+      }catch(e){ console.warn('No se pudo cargar',f,e); }
     }
-    if (!loaded) {
-      const files = Array.isArray(manifest.files) ? manifest.files : [];
-      state.data = files.length ? normalize(await fetchWithConcurrency(files.map(f=>"./"+f), 12)) : [];
-    }
-  } catch (e) { console.error("Error leyendo datos", e); state.data = []; }
+    state.data=normalize(loaded);
+  }catch(e){
+    console.error('Error leyendo manifest.json',e);
+    state.data=[];
+  }
+  buildRegionButtons();
+  render();
+}
 
-  buildRegionFilters(); applyFilters(); render();
-  // Exponer para debug rápido en consola
-  window.__INC = { state, setQuery, setRegion, setView };
+function normalize(items){
+  const out=items.map((i,idx)=>({
+    id:i.id||idx+1,title:i.title||'Incidente sin título',date:i.date||'1970-01-01',
+    country:i.country||'Mundo',region:i.region||'Mundo',type:i.type||'Otro',actor:i.actor||'Desconocido',
+    impact:i.impact||'',source:i.source||'#',summary:i.summary||'',color:i.color||null,logo:i.logo||null
+  }));
+  return sortData(out);
 }
-function applyFilters(){
-  const q=state.query.trim().toLowerCase(), reg=state.region; let arr=state.data;
-  if(reg && reg!=="all"){ arr=arr.filter(r=>String(r.region).toLowerCase()===String(reg).toLowerCase()); }
-  if(q){ arr=arr.filter(r=>[r.id,r.title,r.description,r.region,r.status,r.severity,formatDate(r.date)].map(toText).join(" ").toLowerCase().includes(q)); }
-  const {key,dir}=state.sort, mul=dir==="desc"?-1:1;
-  arr=arr.slice().sort((a,b)=> key==="date" ? ((a.date?+a.date:0)-(b.date?+b.date:0))*mul
-    : (toText(a[key]).toLowerCase()<toText(b[key]).toLowerCase()? -1*mul : toText(a[key]).toLowerCase()>toText(b[key]).toLowerCase()? 1*mul : 0));
-  state.filtered=arr; const maxPage=Math.max(1, Math.ceil(arr.length/state.pageSize)); if(state.page>maxPage) state.page=maxPage; updateCounters();
+
+function sortData(arr){
+  const cmp=SORTERS[state.sortKey] || SORTERS.date;
+  const sorted=[...arr].sort(cmp);
+  if(state.sortDir==='asc') sorted.reverse();
+  return sorted;
 }
-function setQuery(q){ state.query=q; state.page=1; applyFilters(); render(); }
-function setRegion(r){ state.region=r; state.page=1; applyFilters(); render(); }
-function setView(v){ if(state.view===v) return; state.view=v;
-  document.getElementById("btnTable")?.classList.toggle("active", v==="table");
-  document.getElementById("btnCards")?.classList.toggle("active", v==="cards"); render(); }
-function setPage(p){ const maxPage=Math.max(1, Math.ceil(state.filtered.length/state.pageSize)); state.page=Math.min(Math.max(1,p),maxPage); render(); }
-function setSort(key){ state.sort.key===key ? state.sort.dir=(state.sort.dir==="asc"?"desc":"asc") : (state.sort.key=key, state.sort.dir="asc"); applyFilters(); render(); }
+
+function setRegion(r){ state.region=r; state.page=1; document.querySelectorAll('.seg-btn').forEach(b=>b.classList.toggle('active',b.textContent===r)); render(); }
+function setView(view){ state.view=view; document.getElementById('btnTable').classList.toggle('active',view==='table'); document.getElementById('btnCards').classList.toggle('active',view==='cards'); render(); }
+function setQuery(q){ state.q=q; state.page=1; render(); }
+function setPage(p){ state.page=p; render(); }
+function setPageSize(sz){ state.pageSize=Number(sz)||10; state.page=1; render(); }
+function setTypeFilter(t){ state.typeFilter = (state.typeFilter===t? null : t); state.page=1; render(); }
+
+function formatDate(iso){ try{ const d=new Date(iso+'T00:00:00'); return d.toLocaleDateString('es-PE',{year:'numeric',month:'short',day:'2-digit'});}catch{ return iso; } }
+
+function filtered(){
+  let arr=state.data;
+  arr = arr.filter(i=> state.region==='Todos' ? true : i.region===state.region);
+  arr = arr.filter(i=> state.typeFilter ? i.type===state.typeFilter : true);
+  arr = arr.filter(i=>{ if(!state.q.trim()) return true; const s=[i.title,i.type,i.country,i.region,i.summary||'',i.impact||'',i.actor||''].join(' ').toLowerCase(); return s.includes(state.q.toLowerCase()); });
+  arr = sortData(arr);
+  return arr;
+}
+
+function computeStats(items){ const total=items.length, byType={}, byRegion={}; for(const it of items){ byType[it.type]=(byType[it.type]||0)+1; byRegion[it.region]=(byRegion[it.region]||0)+1; } return {total,byType,byRegion}; }
+function applyBadgeColor(el,color){ if(!color) return; el.style.background=color+'1A'; el.style.borderColor=color; el.style.color='inherit'; }
+
 function render(){
-  const container=document.getElementById("results"); if(!container) return; container.innerHTML="";
-  const start=(state.page-1)*state.pageSize, end=start+state.pageSize, rows=state.filtered.slice(start,end);
-  container.appendChild(state.view==="table"?renderTable(rows):renderCards(rows));
-  renderPagination();
+  const all=filtered();
+  const stats=computeStats(all);
+  const totalPages=Math.max(1, Math.ceil(all.length / state.pageSize));
+  if(state.page>totalPages) state.page=totalPages;
+  const start=(state.page-1)*state.pageSize;
+  const items=all.slice(start, start+state.pageSize);
+
+  document.getElementById('statTotal').textContent=stats.total;
+  const byType=document.getElementById('statByType'); byType.innerHTML='';
+  const currentType=state.typeFilter;
+  Object.entries(stats.byType).sort((a,b)=>b[1]-a[1]).forEach(([k,v])=>{
+    const span=document.createElement('span');
+    span.className='chip'+(currentType===k?' active':'');
+    span.textContent=`${k}: ${v}`;
+    span.addEventListener('click',()=> setTypeFilter(k));
+    byType.appendChild(span);
+  });
+  if(Object.keys(stats.byType).length===0){ const s=document.createElement('span'); s.className='chip'; s.textContent='Sin datos'; byType.appendChild(s); }
+
+  const byRegion=document.getElementById('statByRegion'); byRegion.innerHTML='';
+  Object.entries(stats.byRegion).sort((a,b)=>b[1]-a[1]).forEach(([k,v])=>{
+    const span=document.createElement('span');
+    span.className='chip';
+    span.textContent=`${k}: ${v}`;
+    byRegion.appendChild(span);
+  });
+  if(Object.keys(stats.byRegion).length===0){ const s=document.createElement('span'); s.className='chip'; s.textContent='Sin datos'; byRegion.appendChild(s); }
+
+  const container=document.getElementById('listContainer'); container.innerHTML='';
+  if(state.view==='table'){
+    const wrap=document.createElement('div'); wrap.className='table-wrap';
+    const table=document.createElement('table');
+    const thead=document.createElement('thead');
+    thead.appendChild(headerRow());
+    const tbody=document.createElement('tbody');
+    if(items.length===0){
+      const tr=document.createElement('tr'); const td=document.createElement('td'); td.colSpan=8; td.textContent='No hay incidentes con el filtro actual.'; td.style.color='var(--muted)'; td.style.textAlign='center'; td.style.padding='24px'; tr.appendChild(td); tbody.appendChild(tr);
+    }else{
+      for(const i of items){
+        const tr=document.createElement('tr');
+        tr.innerHTML = `
+          <td>${formatDate(i.date)}</td>
+          <td><div style="font-weight:600;display:flex;align-items:center;gap:8px;">${i.logo?`<img src="${i.logo}" alt="" style="width:18px;height:18px;border-radius:4px;">`:''}${i.title}</div><div class="muted" style="font-size:12px;">${i.summary||''}</div></td>
+          <td>${i.country}</td>
+          <td>${i.region}</td>
+          <td><span class="badge" ${i.color?`data-color="${i.color}"`:''}>${i.type}</span></td>
+          <td>${i.actor}</td>
+          <td>${i.impact||''}</td>
+          <td><a class="link" href="${i.source}" target="_blank" rel="noreferrer">Ver fuente</a></td>`;
+        tbody.appendChild(tr);
+      }
+    }
+    table.appendChild(thead); table.appendChild(tbody); wrap.appendChild(table); container.appendChild(wrap);
+    container.querySelectorAll('.badge[data-color]').forEach(el=>applyBadgeColor(el,el.getAttribute('data-color')));
+  }else{
+    const grid=document.createElement('div'); grid.className='grid';
+    if(items.length===0){ const card=document.createElement('div'); card.className='card card-incident'; card.innerHTML='<p class="muted" style="text-align:center;">No hay incidentes con el filtro actual.</p>'; grid.appendChild(card); }
+    else{
+      for(const i of items){
+        const card=document.createElement('article'); card.className='card card-incident';
+        card.innerHTML = `
+          <h3 style="display:flex;align-items:center;gap:8px;">${i.logo?`<img src="${i.logo}" alt="" style="width:18px;height:18px;border-radius:4px;">`:''}${i.title}</h3>
+          <div class="meta">${formatDate(i.date)} • ${i.country} • ${i.region} • <span class="badge" ${i.color?`data-color="${i.color}"`:''}>${i.type}</span></div>
+          <p>${i.summary||''}</p>
+          <div><strong>Actor:</strong> ${i.actor}</div>
+          <div><strong>Impacto:</strong> ${i.impact||''}</div>
+          <div style="margin-top:8px;"><a class="link" href="${i.source}" target="_blank" rel="noreferrer">Ver fuente</a></div>`;
+        grid.appendChild(card);
+      }
+    }
+    container.appendChild(grid);
+    container.querySelectorAll('.badge[data-color]').forEach(el=>applyBadgeColor(el,el.getAttribute('data-color')));
+  }
+
+  renderPager(all.length);
 }
-function renderTable(rows){
-  const table=document.createElement("table"); table.className="incidents-table";
-  const thead=document.createElement("thead"), hdr=document.createElement("tr");
-  [{key:"id",label:"ID"},{key:"title",label:"Título"},{key:"region",label:"Región"},{key:"status",label:"Estado"},{key:"severity",label:"Severidad"},{key:"date",label:"Fecha"}].forEach(col=>{
-    const th=document.createElement("th"); th.textContent=col.label; th.style.cursor="pointer"; th.onclick=()=>setSort(col.key);
-    if(state.sort.key===col.key){ th.textContent=col.label+(state.sort.dir==="asc"?" ▲":" ▼"); } hdr.appendChild(th);
-  }); thead.appendChild(hdr); table.appendChild(thead);
-  const tbody=document.createElement("tbody");
-  rows.forEach(r=>{ const tr=document.createElement("tr"); tr.innerHTML=`
-      <td>${toText(r.id)}</td><td>${toText(r.title)}</td><td>${toText(r.region)}</td>
-      <td>${toText(r.status)}</td><td>${toText(r.severity)}</td><td>${formatDate(r.date)}</td>`; tbody.appendChild(tr); });
-  table.appendChild(tbody); return table;
+
+function headerRow(){
+  const tr=document.createElement('tr');
+  const cols=[
+    ['date','Fecha'],['title','Título'],['country','País'],['region','Región'],
+    ['type','Tipo'],['actor','Actor'],['impact','Impacto'],['source','Fuente']
+  ];
+  for(const [key,label] of cols){
+    const th=document.createElement('th');
+    th.textContent=label;
+    if(key!=='source'){
+      th.addEventListener('click',()=> onSort(key));
+      const caret=document.createElement('span');
+      caret.className='sort-caret';
+      caret.textContent = sortCaretFor(key);
+      th.appendChild(caret);
+    }
+    tr.appendChild(th);
+  }
+  return tr;
 }
-function renderCards(rows){
-  const wrap=document.createElement("div"); wrap.className="cards-wrap";
-  rows.forEach(r=>{ const card=document.createElement("article"); card.className="card"; card.innerHTML=`
-      <header class="card-header"><h3>${toText(r.title)}</h3>
-        <div class="badges"><span class="badge region">${toText(r.region)}</span>
-        <span class="badge status">${toText(r.status)}</span>
-        <span class="badge severity">${toText(r.severity)}</span>
-        <span class="badge date">${formatDate(r.date)}</span></div></header>
-      <div class="card-body"><p>${toText(r.description)}</p></div>
-      <footer class="card-footer"><small>ID: ${toText(r.id)}</small></footer>`; wrap.appendChild(card); });
-  return wrap;
+function onSort(key){
+  if(state.sortKey===key){
+    state.sortDir = (state.sortDir==='asc'?'desc':'asc');
+  }else{
+    state.sortKey=key;
+    state.sortDir = (key==='date'?'desc':'asc');
+  }
+  render();
 }
-function renderPagination(){
-  const el=document.getElementById("pagination"); if(!el) return; el.innerHTML="";
-  const total=state.filtered.length, maxPage=Math.max(1, Math.ceil(total/state.pageSize)), p=state.page;
-  const mk=(txt,to,dis=false)=>{const b=document.createElement("button"); b.textContent=txt; b.disabled=dis; b.onclick=()=>setPage(to); return b;};
-  el.appendChild(mk("« Primero",1,p===1)); el.appendChild(mk("‹ Anterior",p-1,p===1));
-  const info=document.createElement("span"); info.className="page-info"; const a=(p-1)*state.pageSize+1, b=Math.min(p*state.pageSize,total);
-  info.textContent = total ? `${a}–${b} de ${total}` : "0 resultados"; el.appendChild(info);
-  el.appendChild(mk("Siguiente ›",p+1,p>=maxPage)); el.appendChild(mk("Último »",maxPage,p>=maxPage));
-  const sel=document.createElement("select"); [10,20,25,50,100].forEach(n=>{const o=document.createElement("option"); o.value=String(n); o.textContent=`${n}/página`; if(n===state.pageSize) o.selected=true; sel.appendChild(o);});
-  sel.onchange=(e)=>{ state.pageSize=parseInt(e.target.value,10); state.page=1; render(); }; el.appendChild(sel);
+function sortCaretFor(key){
+  if(state.sortKey!==key) return '↕';
+  return state.sortDir==='asc' ? '↑' : '↓';
 }
-function updateCounters(){ const el=document.getElementById("totalCount"); if(el) el.textContent=String(state.filtered.length); }
-function buildRegionFilters(){
-  const box=document.getElementById("regionButtons"); if(!box) return; box.innerHTML="";
-  const set=new Set(state.data.map(r=>String(r.region||"N/A"))); const regions=["all",...Array.from(set).sort((a,b)=>a.localeCompare(b))];
-  regions.forEach(r=>{ const btn=document.createElement("button"); btn.className="region-btn"; btn.dataset.value=r; btn.textContent=r==="all"?"Todas":r; btn.classList.toggle("active", state.region===r);
-    btn.onclick=()=>{ document.querySelectorAll("#regionButtons .region-btn").forEach(b=>b.classList.remove("active")); btn.classList.add("active"); setRegion(r); };
-    box.appendChild(btn); });
+
+function renderPager(totalItems){
+  const totalPages=Math.max(1, Math.ceil(totalItems / state.pageSize));
+  const pager = document.getElementById('pagerContainer');
+  pager.innerHTML='';
+  const wrap=document.createElement('div'); wrap.className='pager';
+  const left=document.createElement('div'); left.className='pager-left';
+  const label=document.createElement('label'); label.textContent='Por página:';
+  const select=document.createElement('select'); select.className='page-size';
+  [5,10,20,50].forEach(n=>{ const opt=document.createElement('option'); opt.value=n; opt.textContent=n; if(n===state.pageSize) opt.selected=true; select.appendChild(opt); });
+  select.addEventListener('change', e=> setPageSize(e.target.value));
+  left.appendChild(label); left.appendChild(select);
+  const right=document.createElement('div'); right.className='pager-right';
+  const prev=document.createElement('button'); prev.className='page-btn'; prev.textContent='‹ Anterior'; prev.disabled=state.page<=1; prev.addEventListener('click',()=> setPage(state.page-1));
+  right.appendChild(prev);
+  const windowSize=5;
+  let startPage=Math.max(1, state.page - Math.floor(windowSize/2));
+  let endPage=Math.min(totalPages, startPage + windowSize - 1);
+  if(endPage - startPage + 1 < windowSize){ startPage=Math.max(1, endPage - windowSize + 1); }
+  for(let p=startPage; p<=endPage; p++){
+    const b=document.createElement('button'); b.className='page-btn'+(p===state.page?' active':''); b.textContent=p; b.addEventListener('click',()=> setPage(p)); right.appendChild(b);
+  }
+  const next=document.createElement('button'); next.className='page-btn'; next.textContent='Siguiente ›'; next.disabled=state.page>=totalPages; next.addEventListener('click',()=> setPage(state.page+1));
+  right.appendChild(next);
+  wrap.appendChild(left); wrap.appendChild(right);
+  pager.appendChild(wrap);
 }
-function initTheme(){ try{ applyTheme(localStorage.getItem("theme")||"auto"); }catch{} }
-function toggleTheme(){ const cur=document.documentElement.dataset.theme||"auto"; const next=cur==="light"?"dark":(cur==="dark"?"auto":"light"); applyTheme(next); try{localStorage.setItem("theme",next);}catch{} }
-function applyTheme(mode){ document.documentElement.dataset.theme=mode; const btn=document.getElementById("themeToggle"); if(btn) btn.textContent=mode==="dark"?"🌙":(mode==="light"?"☀️":"🌓"); }
-document.addEventListener("DOMContentLoaded", ()=>{ 
-  document.getElementById("btnTable")?.addEventListener("click", ()=>setView("table"));
-  document.getElementById("btnCards")?.addEventListener("click", ()=>setView("cards"));
-  document.getElementById("searchInput")?.addEventListener("input", debounce(e=>setQuery(e.target.value),150));
-  document.getElementById("themeToggle")?.addEventListener("click", toggleTheme);
+
+// Regions
+function buildRegionButtons(){
+  const parent=document.getElementById('regionButtons'); parent.innerHTML='';
+  const regions=Array.from(new Set(state.data.map(i=>i.region))).sort();
+  const all=['Todos',...regions];
+  all.forEach(r=>{ const btn=document.createElement('button'); btn.className='seg-btn'+(r===state.region?' active':''); btn.textContent=r; btn.addEventListener('click',()=>setRegion(r)); parent.appendChild(btn); });
+}
+
+// Theme
+function initTheme(){
+  const saved=localStorage.getItem('theme');
+  state.theme = saved || 'dark';
+  applyTheme();
+}
+function toggleTheme(){
+  state.theme = (state.theme==='dark'?'light':'dark');
+  localStorage.setItem('theme', state.theme);
+  applyTheme();
+}
+function applyTheme(){
+  const root=document.documentElement;
+  if(state.theme==='light'){ root.classList.add('light'); document.getElementById('themeIcon').src='./assets/sun.svg'; }
+  else{ root.classList.remove('light'); document.getElementById('themeIcon').src='./assets/moon.svg'; }
+}
+
+// Listeners
+document.addEventListener('DOMContentLoaded',()=>{
+  document.getElementById('btnTable').addEventListener('click',()=>setView('table'));
+  document.getElementById('btnCards').addEventListener('click',()=>setView('cards'));
+  document.getElementById('searchInput').addEventListener('input',(e)=>setQuery(e.target.value));
+  document.getElementById('themeToggle').addEventListener('click', toggleTheme);
   loadData();
 });
