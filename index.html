@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Incidentes de Seguridad – Perú & Mundo</title>
+  <meta name="description" content="Listado público y filtrable de incidentes de seguridad en el Perú y en el mundo." />
+  <link rel="stylesheet" href="./styles.css" />
+<link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="https://3gisecure.com.pe" target="_blank" rel="noreferrer" class="brand" title="Ir a 3Gi Secure">
+        <img src="./assets/logo.svg" alt="3Gi Secure" class="logo" />
+        <h1>Incidentes de Seguridad – Perú &amp; Mundo</h1>
+      </a>
+      <nav class="header-actions">
+        <button id="themeToggle" class="icon-btn" title="Cambiar tema (día/noche)">
+          <img id="themeIcon" src="./assets/moon.svg" alt="Tema" width="22" height="22" />
+        </button>
+        <div class="view-switch">
+          <button id="btnTable" class="btn btn-ghost active">Vista Tabla</button>
+          <button id="btnCards" class="btn btn-ghost">Vista Tarjetas</button>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="filters">
+      <div class="segmented" id="regionButtons"></div>
+      <div class="search">
+        <input id="searchInput" type="search" placeholder="Buscar por título, tipo, país, actor..." aria-label="Buscar" />
+      </div>
+    </section>
+
+    <section class="stats">
+      <div class="card stat">
+        <div class="stat-label">Total incidentes</div>
+        <div id="statTotal" class="stat-value">0</div>
+      </div>
+      <div class="card stat">
+        <div class="stat-label">Por tipo <small class="muted">(clic para filtrar)</small></div>
+        <div id="statByType" class="chips clickable"></div>
+      </div>
+      <div class="card stat">
+        <div class="stat-label">Por región</div>
+        <div id="statByRegion" class="chips"></div>
+      </div>
+    </section>
+
+    <section id="listContainer" class="list-container"></section>
+    <section id="pagerContainer" class="pager container--narrow"></section>
+
+    <section class="note">
+      <p>* Añade incidentes como JSON individuales en <code>data/incidents/</code> y agrégalos a <code>data/manifest.json</code>.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Contribución de <a href="https://3gisecure.com.pe" target="_blank" rel="noreferrer">3Gi Secure</a> para la comunidad</p>
+    </div>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
