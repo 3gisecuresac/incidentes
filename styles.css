@@ -90,9 +90,9 @@ tbody td{padding:12px;border-top:1px solid var(--border);vertical-align:top}
     grid-template-columns: repeat(12, minmax(0, 1fr));
   }
   /* Total (izquierda) = 3/12, Por tipo (centro) = 6/12, Por región (derecha) = 3/12 */
-  .stats .card.stat:nth-child(1){ grid-column: span 3; }
-  .stats .card.stat:nth-child(2){ grid-column: span 6; } /* <-- más ancho */
-  .stats .card.stat:nth-child(3){ grid-column: span 3; }
+  .stats .card.stat:nth-child(1){ grid-column: span 2; }
+  .stats .card.stat:nth-child(2){ grid-column: span 8; } /* <-- más ancho */
+  .stats .card.stat:nth-child(3){ grid-column: span 2; }
 }
 
 /* Reparte los chips en columnas automáticas (más horizontal) */
