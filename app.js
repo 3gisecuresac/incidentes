@@ -48,7 +48,7 @@ async function loadData(){
   const manifest = await res.json();
 
   // Carga el bundle indicado en el manifest (1 sola petición)
-  const r = await fetch('./data/' + manifest.bundle, { cache: 'no-store' });
+  const r = await fetch('./' + manifest.bundle, { cache: 'no-store' });
   if (!r.ok) throw new Error('HTTP ' + r.status);
 
   const list = await r.json();      // <- aquí viene tu arreglo de incidentes
