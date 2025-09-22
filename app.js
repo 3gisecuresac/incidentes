@@ -23,7 +23,7 @@ async function loadData(){
     document.getElementById('btnTable').classList.remove('active');
     document.getElementById('btnCards').classList.add('active');
   }
-  try{
+ /* try{
     const res=await fetch('./data/manifest.json',{cache:'no-store'});
     const manifest=await res.json();
     const files=Array.isArray(manifest.files)?manifest.files:[];
@@ -40,7 +40,26 @@ async function loadData(){
   }catch(e){
     console.error('Error leyendo manifest.json',e);
     state.data=[];
-  }
+  }*/
+
+  try {
+  // Lee el manifest (en la RAÍZ)
+  const res = await fetch('./data/manifest.json',{cache:'no-store'});
+  const manifest = await res.json();
+
+  // Carga el bundle indicado en el manifest (1 sola petición)
+  const r = await fetch('./data/' + manifest.bundle, { cache: 'no-store' });
+  if (!r.ok) throw new Error('HTTP ' + r.status);
+
+  const list = await r.json();      // <- aquí viene tu arreglo de incidentes
+  state.data = normalize(list);     // <- lo dejas tal cual
+
+} catch (e) {
+  console.error('Error cargando bundle', e);
+  state.data = [];
+}
+
+  
   buildRegionButtons();
   render();
 }
