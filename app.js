@@ -1,6 +1,6 @@
 const state={
   region:'Todos', view:'table', q:'', data:[],
-  page:1, pageSize:10,
+  page:1, pageSize:50,
   sortKey:'date', sortDir:'desc',
   typeFilter:null,
   theme:'dark'
@@ -84,7 +84,7 @@ function setRegion(r){ state.region=r; state.page=1; document.querySelectorAll('
 function setView(view){ state.view=view; document.getElementById('btnTable').classList.toggle('active',view==='table'); document.getElementById('btnCards').classList.toggle('active',view==='cards'); render(); }
 function setQuery(q){ state.q=q; state.page=1; render(); }
 function setPage(p){ state.page=p; render(); }
-function setPageSize(sz){ state.pageSize=Number(sz)||10; state.page=1; render(); }
+function setPageSize(sz){ state.pageSize=Number(sz)||50; state.page=1; render(); }
 function setTypeFilter(t){ state.typeFilter = (state.typeFilter===t? null : t); state.page=1; render(); }
 
 function formatDate(iso){ try{ const d=new Date(iso+'T00:00:00'); return d.toLocaleDateString('es-PE',{year:'numeric',month:'short',day:'2-digit'});}catch{ return iso; } }
@@ -221,7 +221,7 @@ function renderPager(totalItems){
   const left=document.createElement('div'); left.className='pager-left';
   const label=document.createElement('label'); label.textContent='Por página:';
   const select=document.createElement('select'); select.className='page-size';
-  [5,10,20,50].forEach(n=>{ const opt=document.createElement('option'); opt.value=n; opt.textContent=n; if(n===state.pageSize) opt.selected=true; select.appendChild(opt); });
+  [5,10,50,100].forEach(n=>{ const opt=document.createElement('option'); opt.value=n; opt.textContent=n; if(n===state.pageSize) opt.selected=true; select.appendChild(opt); });
   select.addEventListener('change', e=> setPageSize(e.target.value));
   left.appendChild(label); left.appendChild(select);
   const right=document.createElement('div'); right.className='pager-right';
