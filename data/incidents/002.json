@@ -1,0 +1,13 @@
+{
+    "id": 2,
+    "title": "SCC - Perú Leak clients - 2025",
+    "date": "2025-08-07",
+    "country": "Perú",
+    "region": "Perú",
+    "type": "Leak",
+    "actor": "ABZeroCool",
+    "impact": "Presunta fuga superior a 20 mil registros de documentos de clientes, con posible exposición de datos sensibles.",
+    "source": "https://www.linkedin.com/posts/3g-isecure_dataleak-peraeq-databreach-activity-7359293188513140737-hkxN/",
+    "summary": "Servicios Call Center (SCC) enfrenta una supuesta filtración que habría expuesto: nombre completo, DNI, correos, teléfonos, direcciones, nombres de padres, geolocalización, historial de ventas y operadores móviles.",
+    "color": "#a78bfa"
+  }

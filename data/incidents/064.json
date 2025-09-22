@@ -1,0 +1,13 @@
+{
+  "id": 64,
+  "title": "Agencia Regional de Comunicación de Seguridad Pública del Noreste del Condado de King (NORCOM) - Data leak - Undetermined",
+  "date": "2014-01-14",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Comunicación de Seguridad Pública Regional del Noreste del Condado de King",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/server-storing-6000-emergency-medical-response-calls-breached/",
+  "summary": "La Agencia de Comunicación de Seguridad Pública Regional del Noreste del Condado de King (NORCOM), una empresa que brinda servicios de comunicación de emergencia al público, a las agencias de bomberos y de policía, admite que sufrió una violación de servidor a fines de diciembre. 6.000 registros se vieron afectados.",
+  "color": "#a78bfa"
+}

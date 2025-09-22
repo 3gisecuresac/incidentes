@@ -1,0 +1,13 @@
+{
+  "id": 89,
+  "title": "Televisión AVS - Data leak - DeleteSec",
+  "date": "2014-02-12",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "DeleteSec",
+  "impact": "Filtración de datos en avstv.com",
+  "source": "http://www.cyberwarnews.info/2014/02/12/avs-tv-hacked-40000-accounts-leaked-by-deletesec/",
+  "summary": "DeleteSec hackea AVS TV (avstv.com) y filtra alrededor de 40.000 credenciales de cuentas de usuarios registrados.",
+  "color": "#ef4444"
+}

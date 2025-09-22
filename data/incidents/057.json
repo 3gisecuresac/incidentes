@@ -1,0 +1,13 @@
+{
+  "id": 57,
+  "title": "Mundo de Warcraft - Data leak - Undetermined",
+  "date": "2014-01-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en World of Warcraft se ven afectados",
+  "source": "http://arstechnica.com/security/2014/01/world-of-warcraft-users-hit-by-account-hijacking-malware-attack/",
+  "summary": "Los jugadores de World of Warcraft se ven afectados por un troyano malicioso que secuestra cuentas. El malware infecta los sistemas haciéndose pasar por un instalador de Curse, un complemento legítimo.",
+  "color": "#a78bfa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 76,
+  "title": "Experian - Data leak - Undetermined",
+  "date": "2014-01-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Experian",
+  "source": "http://www.databreaches.net/cmon-ftc-when-will-you-do-something/",
+  "summary": "Experian notifica que entre el 30 y el 31 de enero se produjo un acceso no autorizado a los informes crediticios de los consumidores en la base de datos de Experian, que habría involucrado el nombre y la dirección, así como uno o más de los siguientes datos: fecha de nacimiento, números de Seguro Social, información de la cuenta y cualquier información que pueda encontrarse en un informe crediticio.",
+  "color": "#ef4444"
+}

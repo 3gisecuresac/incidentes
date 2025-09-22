@@ -1,0 +1,13 @@
+{
+  "id": 46,
+  "title": "Asistencia de registros LLC - Data leak - Undetermined",
+  "date": "2014-01-01",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Seguro Social de los residentes",
+  "source": "https://privacyrights.org/data-breaches/record-assist-llc",
+  "summary": "Record Assist LLC notifica sobre un acceso no autorizado que posiblemente comprometa los nombres, direcciones, números de tarjetas de crédito y números de Seguro Social de los residentes.",
+  "color": "#3b82f6"
+}

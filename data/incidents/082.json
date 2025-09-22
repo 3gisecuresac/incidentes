@@ -1,0 +1,13 @@
+{
+  "id": 82,
+  "title": "Monitor de marcas - DoS - Syrian Electronic Army",
+  "date": "2014-02-06",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Syrian Electronic Army",
+  "impact": "Sistema o cuenta comprometida en Yahoo Amazon Facebook y Google",
+  "source": "http://hackread.com/syrian-electronic-army-claims-to-hack-facebook/",
+  "summary": "Un intento fallido que vale la pena mencionar: el Ejército Electrónico Sirio intenta hackear varios sitios web de alto perfil, incluidos Yahoo, Amazon, Facebook y Google, hackeando el proveedor de servicios de gestión de dominios MarkMonitor.",
+  "color": "#3b82f6"
+}

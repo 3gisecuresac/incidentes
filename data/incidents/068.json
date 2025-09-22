@@ -1,0 +1,13 @@
+{
+  "id": 68,
+  "title": "Departamento de Policía de Fullerton - DoS - Anonymous",
+  "date": "2014-01-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Anonymous",
+  "impact": "Incidente de seguridad en Fullerton contra el arresto de manifestantes",
+  "source": "http://hackread.com/anonymous-takes-down-fullerton-police-website-against-arrest/",
+  "summary": "Anonymous elimina el sitio web oficial del departamento de policía de Fullerton contra el arresto de manifestantes y la absolución de los agentes de policía que golpearon hasta la muerte a la persona sin hogar Kelly Thomas en 2011.",
+  "color": "#a78bfa"
+}

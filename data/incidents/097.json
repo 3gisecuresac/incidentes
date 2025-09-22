@@ -1,0 +1,13 @@
+{
+  "id": 97,
+  "title": "Universidad de Maryland, College Park - Data leak - Undetermined",
+  "date": "2014-02-19",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Filtración de datos en Maryland anuncia",
+  "source": "https://www.wusa9.com/article/news/local/maryland/300000-university-of-maryland-records-hacked/286603535",
+  "summary": "La Universidad de Maryland anuncia que se ha violado una base de datos que contiene 309.079 registros de profesores, personal, estudiantes y personal afiliado de los campus de College Park y Shady Grove.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+    "id": 7,
+    "title": "ICPNA – Leak Perú 2025",
+    "date": "2025-08-18",
+    "country": "Perú",
+    "region": "Perú",
+    "type": "Leak",
+    "actor": "SadClow",
+    "impact": "Presunta filtración de una base de datos con más de 100,000 registros de estudiantes del ICPNA.",
+    "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-databreach-protecciaejndedatos-activity-7363234872330444800-QadA/",
+    "summary": "Una base de datos atribuida al ICPNA (Instituto Cultural Peruano Norteamericano) con más de 100,000 registros de estudiantes fue publicada en un foro clandestino. Los supuestos datos incluyen correos, documentos, nombres completos y contraseñas en texto plano.",
+    "color": "#a78bfa"
+  }

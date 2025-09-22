@@ -1,0 +1,13 @@
+{
+  "id": 69,
+  "title": "Departamento de Seguridad Nacional - Data leak - Undetermined",
+  "date": "2014-01-21",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en Departamento de Seguridad Nacional de Estados Unidos expone documentos privados",
+  "source": "http://krebsonsecurity.com/2014/01/dhs-alerts-contractors-to-bank-data-theft/",
+  "summary": "Una violación de seguridad en un portal web del Departamento de Seguridad Nacional de Estados Unidos expone documentos privados y cierta información financiera perteneciente a al menos 114 contratistas.",
+  "color": "#a78bfa"
+}

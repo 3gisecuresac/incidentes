@@ -1,0 +1,13 @@
+{
+  "id": 55,
+  "title": "Vapor - DoS - Undetermined",
+  "date": "2014-01-03",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "DoS",
+  "actor": "Undetermined",
+  "impact": "Interrupción por DDoS en Battle.net",
+  "source": "http://arstechnica.com/gaming/2014/01/multiple-gaming-platforms-hit-with-apparent-ddos-attacks/",
+  "summary": "Los servidores de Steam, Origin, Battle.net, League of Legends y varias otras plataformas de juegos se encuentran temporalmente inactivos debido a aparentes ataques DDoS que parecen estar relacionados con un ataque swatting contra un individuo conocido por transmitir juegos.",
+  "color": "#f59e0b"
+}

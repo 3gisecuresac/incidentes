@@ -1,0 +1,13 @@
+{
+  "id": 77,
+  "title": "Productos industriales del estado - Data leak - Undetermined",
+  "date": "2014-01-30",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Incidente de seguridad en State Industrial Products",
+  "source": "https://www.scmagazine.com/home/opinions/blogs/the-data-breach-blog/fbi-alerts-ohio-company-of-breach-involving-social-security-numbers/",
+  "summary": "El FBI advierte a State Industrial Products que la información personal, incluidos los números de Seguro Social, de entre 500 y 1.000 empleados actuales y anteriores puede estar en riesgo después de que una parte no autorizada obtuvo acceso a la información.",
+  "color": "#a78bfa"
+}

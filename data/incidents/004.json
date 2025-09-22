@@ -1,0 +1,13 @@
+ {
+    "id": 4,
+    "title": "UNAC – Perú Alerta credenciales administrativas del sistema en venta",
+    "date": "2025-08-11",
+    "country": "Perú",
+    "region": "Perú",
+    "type": "Alerta",
+    "actor": "NarodArmiya",
+    "impact": "Supuestas credenciales administrativas de UNAC ofrecidas a la venta en foro clandestino.",
+    "source": "https://www.linkedin.com/posts/3g-isecure_unac-peraeq-databreach-activity-7360713193528205312-ef_g/",
+    "summary": "La Universidad Nacional del Callao (UNAC) sufrió una aparente fuga de credenciales administrativas de su sistema universitario, lo que implicaría riesgos de intrusión, manipulación de información académica y compromiso de datos de estudiantes y personal.",
+    "color": "#a78bfa"
+  }

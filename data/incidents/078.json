@@ -1,0 +1,13 @@
+{
+  "id": 78,
+  "title": "Dartmouth-Hitchcock - Data leak - Undetermined",
+  "date": "2014-01-31",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Cuentas comprometidas por phishing en Dartmouth-Hitchcock",
+  "source": "http://www.databreaches.net/dartmouth-hitchcock-notifies-employees-that-direct-deposit-account-info-compromised-by-breach/",
+  "summary": "Dartmouth-Hitchcock notifica a algunos empleados que sus nombres y la información de sus cuentas bancarias de depósito directo se vieron comprometidos después de que algunos empleados cayeron en un intento de phishing.",
+  "color": "#ef4444"
+}

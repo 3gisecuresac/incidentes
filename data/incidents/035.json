@@ -1,0 +1,13 @@
+{
+  "id": 35,
+  "title": "Unexca - Data leak - Bl@ckt0r",
+  "date": "2021-11-01",
+  "country": "Venezuela",
+  "region": "Latinoamerica",
+  "type": "Data leak",
+  "actor": "Bl@ckt0r",
+  "impact": "Filtración de datos en @ckt0r",
+  "source": "http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion/",
+  "summary": "Bl@ckt0r publica datos en el lugar de la filtración.",
+  "color": "#ef4444"
+}

@@ -1,0 +1,13 @@
+{
+    "id": 18,
+    "title": "Universidad Tecnológica del Perú (UTP) – DataLeak 2025",
+    "date": "2025-09-11",
+    "country": "Perú",
+    "region": "Perú",
+    "type": "Leak",
+    "actor": "Privilege",
+    "impact": "Presunta exposición de 2,430 cuentas con correos, contraseñas cifradas, nombres y apellidos de estudiantes, personal administrativo y administradores de sistema.",
+    "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-peraeq-utp-activity-7372019865445965824-fRjL/",
+    "summary": "Según la filtración, los atacantes obtuvieron acceso a una PC infectada, exponiendo cotizaciones, documentos de pagos, información de clientes y datos de colaboradores.",
+    "color": "#a78bfa"
+  }

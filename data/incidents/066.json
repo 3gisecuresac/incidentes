@@ -1,0 +1,13 @@
+{
+  "id": 66,
+  "title": "Colegio de Médicos y Cirujanos - Data leak - Undetermined",
+  "date": "2014-01-17",
+  "country": "USA",
+  "region": "Norteamerica",
+  "type": "Data leak",
+  "actor": "Undetermined",
+  "impact": "Sistema o cuenta comprometida en Puerto Rico se vio comprometida en un reciente ataque informático",
+  "source": "http://www.databreaches.net/identity-info-of-every-licensed-physician-in-puerto-rico-acquired-in-hack/",
+  "summary": "AP revela que la información personal de todos los médicos con licencia en Puerto Rico se vio comprometida en un reciente ataque informático. Hasta 10,000 usuarios podrían haber sido afectados.",
+  "color": "#3b82f6"
+}

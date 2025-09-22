@@ -1,0 +1,13 @@
+{
+  "id": 43,
+  "title": "Ministerio de Transporte y Obras Públicas de Uruguay (MTOP) - Ransomware - Undetermined",
+  "date": "2022-10-17",
+  "country": "Uruguay",
+  "region": "Latinoamerica",
+  "type": "Ransomware",
+  "actor": "Undetermined",
+  "impact": "Cifrado por ransomware en Transporte",
+  "source": "https://www.databreaches.net/bits-n-pieces-trozos-y-piezas-18/",
+  "summary": "El Ministerio de Transporte y Obras Públicas de Uruguay (MTOP) es víctima de un ataque de ransomware.",
+  "color": "#ef4444"
+}
