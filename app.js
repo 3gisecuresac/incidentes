@@ -150,11 +150,7 @@ function render(){
           <td><span class="badge" ${i.color?`data-color="${i.color}"`:''}>${i.type}</span></td>
           <td>${i.actor}</td>
           <td>${i.impact||''}</td>
-          <td>${
-  i.source && i.source !== '#'
-    ? '<a class="link" href="${i.source}" target="_blank" rel="noreferrer">Ver Fuente</a>'
-    : ''
-}</td>
+  <td><a class="link" href="${i.source}" target="_blank" rel="noreferrer">Ver fuente</a></td>`;
         tbody.appendChild(tr);
       }
     }
