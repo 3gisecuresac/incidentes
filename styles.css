@@ -113,10 +113,17 @@ tbody td{padding:12px;border-top:1px solid var(--border);vertical-align:top}
 
 /* (Opcional) Aplica también a 'Por región' si quieres el mismo estilo */
 #statByRegion.chips{
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+ display: flex !important;     /* fuerza flex y anula el grid anterior */
+  flex-wrap: wrap;
   gap: 10px 12px;
-  align-items: start;
+  align-items: flex-start;
+  /* por si quedó alguna propiedad de grid en caché: */
+  grid-template-columns: unset;
+}
+/* Cada chip no debe estirarse; usa su propio ancho */
+#statByRegion.chips > *{
+  flex: 0 0 auto;               /* no crecer / no ocupar igual que otros */
+  white-space: nowrap;          /* evita partir el texto en dos líneas */
 }
 
 
