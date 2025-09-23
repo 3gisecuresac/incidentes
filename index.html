@@ -62,9 +62,7 @@
     <section id="listContainer" class="list-container"></section>
     <section id="pagerContainer" class="pager container--narrow"></section>
 
-    <section class="note">
-      <p>* Añade incidentes como JSON individuales en <code>data/incidents/</code> y agrégalos a <code>data/manifest.json</code>.</p>
-    </section>
+    
   </main>
 
   <footer class="site-footer">
@@ -74,5 +72,21 @@
   </footer>
 
   <script src="./app.js"></script>
+  <div id="cookie-banner" style="position: fixed; bottom: 0; left: 0; right: 0; background: #111827; color: white; padding: 15px; text-align: center; font-size: 14px; z-index: 1000;">
+  Este sitio utiliza cookies para mejorar la experiencia y analizar el tráfico. 
+  <a href="privacidad.html" style="color: #38bdf8; text-decoration: underline;">Política de Privacidad</a>.
+  <button onclick="acceptCookies()" style="margin-left: 10px; padding: 6px 12px; background: #38bdf8; color: #111; border: none; border-radius: 6px; cursor: pointer;">Aceptar</button>
+</div>
+
+<script>
+  function acceptCookies() {
+    document.getElementById('cookie-banner').style.display = 'none';
+    localStorage.setItem('cookiesAccepted', 'true');
+  }
+  if (localStorage.getItem('cookiesAccepted')) {
+    document.getElementById('cookie-banner').style.display = 'none';
+  }
+</script>
+
 </body>
 </html>
