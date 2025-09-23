@@ -97,7 +97,7 @@ tbody td{padding:12px;border-top:1px solid var(--border);vertical-align:top}
 
 /* Reparte los chips en columnas automáticas (más horizontal) */
 #statByType.chips{
-  display: grid;
+  display: flex;
   grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); /* ajusta 160–220px a gusto */
   gap: 10px 12px;
   align-items: start;
@@ -112,3 +112,20 @@ tbody td{padding:12px;border-top:1px solid var(--border);vertical-align:top}
   gap: 10px 12px;
   align-items: start;
 }
+
+/* Por tipo: chips con ancho según contenido (no columnas iguales) */
+#statByType.chips{
+  display: flex !important;     /* fuerza flex y anula el grid anterior */
+  flex-wrap: wrap;
+  gap: 10px 12px;
+  align-items: flex-start;
+  /* por si quedó alguna propiedad de grid en caché: */
+  grid-template-columns: unset;
+}
+
+/* Cada chip no debe estirarse; usa su propio ancho */
+#statByType.chips > *{
+  flex: 0 0 auto;               /* no crecer / no ocupar igual que otros */
+  white-space: nowrap;          /* evita partir el texto en dos líneas */
+}
+
