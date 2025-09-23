@@ -152,7 +152,7 @@ function render(){
           <td>${i.impact||''}</td>
           <td>${
   i.source && i.source !== '#'
-    ? `<a class="link" href="${i.source}" target="_blank" rel="noreferrer">Ver Fuente</a>`
+    ? '<a class="link" href="${i.source}" target="_blank" rel="noreferrer">Ver Fuente</a>'
     : ''
 }</td>
         tbody.appendChild(tr);
