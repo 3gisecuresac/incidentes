@@ -105818,5 +105818,83 @@
     "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-dataleak-peru-activity-7386815909819994112-RFA7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGEEBaABBGnz75nCJtf0q7vpua_BL2CC6Ms",
     "summary": "El colectivo hacktivista NulledPeru ha publicado en su canal de Telegram un archivo que contiene información sensible de la Universidad César Vallejo (UCV), una de las instituciones educativas más grandes del país.",
     "color": "#ef4444"
+  },
+  {
+    "id": 8128,
+    "title": "Alerta de Seguridad – Vitalmex presuntamente afectada por ransomware INC (México, 2025)",
+    "date": "2025-11-03",
+    "country": "Mexico",
+    "region": "Latinoamerica",
+    "type": "Ransomware",
+    "actor": "INC Ransomware",
+    "impact": "Potencial exposición de datos clínicos, técnicos o corporativos. Riesgo de interrupción operativa en servicios críticos de salud. Impacto reputacional y posibles repercusiones legales derivadas del incidente.",
+    "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-ransomware-mexico-activity-7391517100911054848-H4zf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQFGlsBiG3Wfip7nTUFzQCT8XTRL3JpXew",
+    "summary": "Foro oficial de INC Ransom en la dark web\nEl grupo de extorsión INC Ransom ha reivindicado públicamente la intrusión, anunciando la inclusión de Vitalmex en su lista de víctimas. Hasta el momento, no se han publicado muestras de datos, aunque el grupo suele operar bajo un modelo de doble extorsión: robo y cifrado de información sensible.",
+    "color": "#ef4444"
+  },
+  {
+    "id": 8129,
+    "title": "Alerta de Seguridad – Filtración masiva de datos en Enví­a Colombia (Colvanes SAS)",
+    "date": "2025-11-04",
+    "country": "Colombia",
+    "region": "Latinoamerica",
+    "type": "Data leak",
+    "actor": "Onion Garbage",
+    "impact": "Muestra publicada: 99,999 registros de clientes y empresas\nLos datos comprometidos incluirían nombres, direcciones, teléfonos, números de cédula (remitente y destinatario), códigos de cuenta, valores declarados y descripciones de contenido de envío, lo que representa un riesgo significativo para la privacidad, seguridad comercial y reputación corporativa.",
+    "source": "https://www.linkedin.com/feed/update/urn:li:activity:7391515898374721536",
+    "summary": "99,999 registros de clientes y empresas\nLos datos comprometidos incluirían nombres, direcciones, teléfonos, números de cédula (remitente y destinatario), códigos de cuenta, valores declarados y descripciones de contenido de envío, lo que representa un riesgo significativo para la privacidad, seguridad comercial y reputación corporativa.",
+    "color": "#ef4444"
+  },
+  {
+    "id": 8130,
+    "title": "Alerta Crítica – Redirección maliciosa en el enlace oficial de la Municipalidad Distrital de Alca (MDA)",
+    "date": "2025-10-30",
+    "country": "Peru",
+    "region": "Peru",
+    "type": "Infeccion",
+    "actor": "Desconocido",
+    "impact": "Riesgo de exposición a contenido fraudulento o código malicioso para los usuarios que acceden al portal.",
+    "source": "https://www.linkedin.com/posts/3g-isecure_ciberseguridad-gobiernodigital-peraeq-activity-7389707985284952065-H4BJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQFGlsBiG3Wfip7nTUFzQCT8XTRL3JpXew",
+    "summary": "Se ha detectado una anomalia en el enlace oficial de la Municipalidad Distrital de Alca (www.gob.pe/munialca) alojado en la Plataforma del Estado Peruano (gob.pe).\n El incidente consiste en una redirección maliciosa que deriva al usuario desde el portal gubernamental hacia un sitio externo, y posteriormente hacia una URL catalogada como peligrosa.",
+    "color": "#ef4444"
+  },
+  {
+    "id": 8131,
+    "title": "Alerta de Seguridad – Sitio web de la Municipalidad de Cieneguilla (Perú) sufre defacement",
+    "date": "2025-10-29",
+    "country": "Peru",
+    "region": "Peru",
+    "type": "Defacement",
+    "actor": "C4t",
+    "impact": "Defacement (alteración visual del sitio web) afecta la disponibilidad y credibilidad institucional.",
+    "source": "https://www.linkedin.com/feed/update/urn:li:activity:7389144334324953088",
+    "summary": "En las últimas horas se detectó la desfiguración del portal web oficial de la Municipalidad de Cieneguilla (municieneguilla.gob.pe), atribuida a un actor identificado como “c4t”, quien alteró la portada del sitio e insertó un mensaje ajeno a la entidad.",
+    "color": "#ef4444"
+  },
+  {
+    "id": 8132,
+    "title": "Alerta de Seguridad – Filtración de datos en el Hospital Militar Central “Luis Arias Schreiber” (Ejército del Perú)",
+    "date": "2025-10-28",
+    "country": "Peru",
+    "region": "Peru",
+    "type": "Data leak",
+    "actor": "Kazu",
+    "impact": "22,972 de Datos expuestos: DNI, nombres completos, correos, teléfonos, números de historia clínica y administrativos, además de citas médicas.",
+    "source": "https://www.linkedin.com/feed/update/urn:li:activity:7388974960779882496",
+    "summary": "Se ha reportado en un foro clandestino una filtración de información perteneciente al Hospital Militar Central “Luis Arias Schreiber” (HMC) del Ejército del Perú, una de las principales instituciones médicas que atiende al personal militar activo, retirado y a sus familias.",
+    "color": "#ef4444"
+  },
+  {
+    "id": 8133,
+    "title": "Alerta de Seguridad – Secretaría de Salud del Estado de Chiapas (México) víctima de filtración de datos",
+    "date": "2025-10-28",
+    "country": "Mexico",
+    "region": "Latinoamerica",
+    "type": "Data leak",
+    "actor": "Kazu",
+    "impact": "La Secretaría de Salud del Estado de Chiapas sufrió un hackeo que derivó en la filtración de más de 70 mil documentos alojados en su portal oficial, según reportes del colectivo Sonora Cibersegura, especializado en educación y prevención de ciberdelitos.",
+    "source": "https://www.linkedin.com/feed/update/urn:li:activity:7388973686172798977",
+    "summary": "La muestra publicada incluye registros de empleados de la institución, confirmando la veracidad de la intrusión.\nLos datos expuestos contienen información personal, laboral y financiera altamente sensible: nombre, RFC, CURP, correo electrónico, dirección, puesto, número de empleado, credenciales institucionales, información bancaria y tipo sanguíneo.\nLa filtración fue atribuida a un actor identificado como “Kazu”, activo en foros de compraventa de bases de datos.",
+    "color": "#ef4444"
   }
 ]
